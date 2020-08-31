@@ -1,0 +1,122 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MA Agarwal,RP Singh,TM Dilshan,1,Not out
+0.2,TM Dilshan,RP Singh,MA Agarwal,0,Not out
+0.3,TM Dilshan,RP Singh,MA Agarwal,0,Not out
+0.4,TM Dilshan,RP Singh,MA Agarwal,1,Not out
+0.5,MA Agarwal,RP Singh,TM Dilshan,0,Not out
+0.6,MA Agarwal,RP Singh,TM Dilshan,0,Not out
+0.7,MA Agarwal,RP Singh,TM Dilshan,0,Not out
+1.1,TM Dilshan,S Sreesanth,MA Agarwal,0,Not out
+1.2,TM Dilshan,S Sreesanth,MA Agarwal,0,caught
+1.3,V Kohli,S Sreesanth,MA Agarwal,0,Not out
+1.4,V Kohli,S Sreesanth,MA Agarwal,0,Not out
+1.5,V Kohli,S Sreesanth,MA Agarwal,4,Not out
+1.6,V Kohli,S Sreesanth,MA Agarwal,0,Not out
+2.1,MA Agarwal,RP Singh,V Kohli,4,Not out
+2.2,MA Agarwal,RP Singh,V Kohli,0,Not out
+2.3,MA Agarwal,RP Singh,V Kohli,1,Not out
+2.4,V Kohli,RP Singh,MA Agarwal,1,Not out
+2.5,MA Agarwal,RP Singh,V Kohli,0,Not out
+2.6,MA Agarwal,RP Singh,V Kohli,1,Not out
+2.7,V Kohli,RP Singh,MA Agarwal,0,Not out
+2.8,V Kohli,RP Singh,MA Agarwal,2,Not out
+3.1,MA Agarwal,S Sreesanth,V Kohli,1,Not out
+3.2,V Kohli,S Sreesanth,MA Agarwal,1,Not out
+3.3,MA Agarwal,S Sreesanth,V Kohli,0,Not out
+3.4,MA Agarwal,S Sreesanth,V Kohli,1,Not out
+3.5,V Kohli,S Sreesanth,MA Agarwal,0,Not out
+3.6,V Kohli,S Sreesanth,MA Agarwal,4,Not out
+3.7,V Kohli,S Sreesanth,MA Agarwal,1,Not out
+4.1,V Kohli,RA Jadeja,MA Agarwal,4,Not out
+4.2,V Kohli,RA Jadeja,MA Agarwal,0,Not out
+4.3,V Kohli,RA Jadeja,MA Agarwal,1,Not out
+4.4,MA Agarwal,RA Jadeja,V Kohli,1,Not out
+4.5,V Kohli,RA Jadeja,MA Agarwal,1,Not out
+4.6,MA Agarwal,RA Jadeja,V Kohli,6,Not out
+5.1,V Kohli,R Vinay Kumar,MA Agarwal,0,Not out
+5.2,V Kohli,R Vinay Kumar,MA Agarwal,4,Not out
+5.3,V Kohli,R Vinay Kumar,MA Agarwal,0,lbw
+5.4,AB de Villiers,R Vinay Kumar,MA Agarwal,0,Not out
+5.5,AB de Villiers,R Vinay Kumar,MA Agarwal,0,Not out
+5.6,AB de Villiers,R Vinay Kumar,MA Agarwal,0,Not out
+6.1,MA Agarwal,M Muralitharan,AB de Villiers,6,Not out
+6.2,MA Agarwal,M Muralitharan,AB de Villiers,2,Not out
+6.3,MA Agarwal,M Muralitharan,AB de Villiers,1,Not out
+6.4,AB de Villiers,M Muralitharan,MA Agarwal,2,Not out
+6.5,AB de Villiers,M Muralitharan,MA Agarwal,0,Not out
+6.6,AB de Villiers,M Muralitharan,MA Agarwal,0,Not out
+7.1,MA Agarwal,R Vinay Kumar,AB de Villiers,0,Not out
+7.2,MA Agarwal,R Vinay Kumar,AB de Villiers,4,Not out
+7.3,MA Agarwal,R Vinay Kumar,AB de Villiers,1,Not out
+7.4,AB de Villiers,R Vinay Kumar,MA Agarwal,1,Not out
+7.5,MA Agarwal,R Vinay Kumar,AB de Villiers,0,Not out
+7.6,MA Agarwal,R Vinay Kumar,AB de Villiers,0,Not out
+8.1,AB de Villiers,S Sreesanth,MA Agarwal,1,Not out
+8.2,MA Agarwal,S Sreesanth,AB de Villiers,1,Not out
+8.3,AB de Villiers,S Sreesanth,MA Agarwal,1,Not out
+8.4,MA Agarwal,S Sreesanth,AB de Villiers,1,Not out
+8.5,AB de Villiers,S Sreesanth,MA Agarwal,1,Not out
+8.6,MA Agarwal,S Sreesanth,AB de Villiers,1,Not out
+8.7,AB de Villiers,S Sreesanth,MA Agarwal,6,Not out
+8.8,AB de Villiers,S Sreesanth,MA Agarwal,1,Not out
+9.1,AB de Villiers,RA Jadeja,MA Agarwal,0,Not out
+9.2,AB de Villiers,RA Jadeja,MA Agarwal,0,Not out
+9.3,AB de Villiers,RA Jadeja,MA Agarwal,4,Not out
+9.4,AB de Villiers,RA Jadeja,MA Agarwal,1,Not out
+9.5,MA Agarwal,RA Jadeja,AB de Villiers,0,Not out
+9.6,MA Agarwal,RA Jadeja,AB de Villiers,0,caught
+10.1,AB de Villiers,M Muralitharan,SS Tiwary,0,Not out
+10.2,AB de Villiers,M Muralitharan,SS Tiwary,0,Not out
+10.3,AB de Villiers,M Muralitharan,SS Tiwary,0,Not out
+10.4,AB de Villiers,M Muralitharan,SS Tiwary,1,Not out
+10.5,SS Tiwary,M Muralitharan,AB de Villiers,0,Not out
+10.6,SS Tiwary,M Muralitharan,AB de Villiers,0,Not out
+11.1,AB de Villiers,RA Jadeja,SS Tiwary,0,Not out
+11.2,AB de Villiers,RA Jadeja,SS Tiwary,1,Not out
+11.3,SS Tiwary,RA Jadeja,AB de Villiers,0,Not out
+11.4,SS Tiwary,RA Jadeja,AB de Villiers,1,Not out
+11.5,AB de Villiers,RA Jadeja,SS Tiwary,0,Not out
+11.6,AB de Villiers,RA Jadeja,SS Tiwary,1,Not out
+11.7,SS Tiwary,RA Jadeja,AB de Villiers,1,Not out
+12.1,SS Tiwary,M Muralitharan,AB de Villiers,1,Not out
+12.2,AB de Villiers,M Muralitharan,SS Tiwary,6,Not out
+12.3,AB de Villiers,M Muralitharan,SS Tiwary,1,Not out
+12.4,SS Tiwary,M Muralitharan,AB de Villiers,0,Not out
+12.5,SS Tiwary,M Muralitharan,AB de Villiers,0,Not out
+12.6,SS Tiwary,M Muralitharan,AB de Villiers,1,Not out
+13.1,SS Tiwary,R Vinay Kumar,AB de Villiers,1,Not out
+13.2,AB de Villiers,R Vinay Kumar,SS Tiwary,0,Not out
+13.3,AB de Villiers,R Vinay Kumar,SS Tiwary,0,Not out
+13.4,AB de Villiers,R Vinay Kumar,SS Tiwary,1,Not out
+13.5,SS Tiwary,R Vinay Kumar,AB de Villiers,0,Not out
+13.6,SS Tiwary,R Vinay Kumar,AB de Villiers,1,Not out
+14.1,SS Tiwary,RP Singh,AB de Villiers,4,Not out
+14.2,SS Tiwary,RP Singh,AB de Villiers,0,Not out
+14.3,SS Tiwary,RP Singh,AB de Villiers,4,Not out
+14.4,SS Tiwary,RP Singh,AB de Villiers,2,Not out
+14.5,SS Tiwary,RP Singh,AB de Villiers,2,Not out
+14.6,SS Tiwary,RP Singh,AB de Villiers,1,Not out
+14.7,AB de Villiers,RP Singh,SS Tiwary,1,Not out
+15.1,AB de Villiers,RA Jadeja,SS Tiwary,0,Not out
+15.2,AB de Villiers,RA Jadeja,SS Tiwary,1,Not out
+15.3,SS Tiwary,RA Jadeja,AB de Villiers,1,Not out
+15.4,AB de Villiers,RA Jadeja,SS Tiwary,1,Not out
+15.5,SS Tiwary,RA Jadeja,AB de Villiers,1,Not out
+15.6,AB de Villiers,RA Jadeja,SS Tiwary,1,Not out
+16.1,AB de Villiers,M Muralitharan,SS Tiwary,1,Not out
+16.2,SS Tiwary,M Muralitharan,AB de Villiers,1,Not out
+16.3,AB de Villiers,M Muralitharan,SS Tiwary,0,Not out
+16.4,AB de Villiers,M Muralitharan,SS Tiwary,1,Not out
+16.5,SS Tiwary,M Muralitharan,AB de Villiers,2,Not out
+16.6,SS Tiwary,M Muralitharan,AB de Villiers,1,Not out
+17.1,SS Tiwary,RV Gomez,AB de Villiers,1,Not out
+17.2,AB de Villiers,RV Gomez,SS Tiwary,6,Not out
+17.3,AB de Villiers,RV Gomez,SS Tiwary,1,Not out
+17.4,SS Tiwary,RV Gomez,AB de Villiers,0,caught
+17.5,AB de Villiers,RV Gomez,AUK Pathan,6,Not out
+17.6,AB de Villiers,RV Gomez,AUK Pathan,6,Not out
+18.1,AUK Pathan,R Vinay Kumar,AB de Villiers,4,Not out
+18.2,AUK Pathan,R Vinay Kumar,AB de Villiers,0,Not out
+18.3,AUK Pathan,R Vinay Kumar,AB de Villiers,0,Not out
+18.4,AUK Pathan,R Vinay Kumar,AB de Villiers,4,Not out
+18.5,AUK Pathan,R Vinay Kumar,AB de Villiers,4,Not out

@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DA Warner,UT Yadav,S Dhawan,0,Not out
+0.2,DA Warner,UT Yadav,S Dhawan,0,Not out
+0.3,DA Warner,UT Yadav,S Dhawan,4,Not out
+0.4,DA Warner,UT Yadav,S Dhawan,0,bowled
+0.5,NV Ojha,UT Yadav,S Dhawan,0,Not out
+0.6,NV Ojha,UT Yadav,S Dhawan,0,Not out
+0.7,NV Ojha,UT Yadav,S Dhawan,0,Not out
+0.8,NV Ojha,UT Yadav,S Dhawan,0,bowled
+1.1,S Dhawan,AD Russell,MC Henriques,4,Not out
+1.2,S Dhawan,AD Russell,MC Henriques,1,Not out
+1.3,MC Henriques,AD Russell,S Dhawan,0,Not out
+1.4,MC Henriques,AD Russell,S Dhawan,4,Not out
+1.5,MC Henriques,AD Russell,S Dhawan,0,Not out
+1.6,MC Henriques,AD Russell,S Dhawan,0,Not out
+2.1,S Dhawan,UT Yadav,MC Henriques,4,Not out
+2.2,S Dhawan,UT Yadav,MC Henriques,0,Not out
+2.3,S Dhawan,UT Yadav,MC Henriques,0,Not out
+2.4,S Dhawan,UT Yadav,MC Henriques,0,Not out
+2.5,S Dhawan,UT Yadav,MC Henriques,4,Not out
+2.6,S Dhawan,UT Yadav,MC Henriques,0,Not out
+3.1,MC Henriques,J Botha,S Dhawan,1,Not out
+3.2,S Dhawan,J Botha,MC Henriques,0,Not out
+3.3,S Dhawan,J Botha,MC Henriques,0,Not out
+3.4,S Dhawan,J Botha,MC Henriques,0,Not out
+3.5,S Dhawan,J Botha,MC Henriques,1,Not out
+3.6,MC Henriques,J Botha,S Dhawan,1,Not out
+4.1,MC Henriques,GB Hogg,S Dhawan,1,Not out
+4.2,S Dhawan,GB Hogg,MC Henriques,1,Not out
+4.3,MC Henriques,GB Hogg,S Dhawan,1,Not out
+4.4,S Dhawan,GB Hogg,MC Henriques,0,Not out
+4.5,S Dhawan,GB Hogg,MC Henriques,0,caught
+4.6,EJG Morgan,GB Hogg,MC Henriques,0,Not out
+5.1,MC Henriques,J Botha,EJG Morgan,1,Not out
+5.2,EJG Morgan,J Botha,MC Henriques,0,Not out
+5.3,EJG Morgan,J Botha,MC Henriques,0,Not out
+5.4,EJG Morgan,J Botha,MC Henriques,1,Not out
+5.5,MC Henriques,J Botha,EJG Morgan,1,Not out
+5.6,EJG Morgan,J Botha,MC Henriques,1,Not out
+6.1,EJG Morgan,YK Pathan,MC Henriques,1,Not out
+6.2,MC Henriques,YK Pathan,EJG Morgan,6,Not out
+6.3,MC Henriques,YK Pathan,EJG Morgan,2,Not out
+6.4,MC Henriques,YK Pathan,EJG Morgan,6,Not out
+6.5,MC Henriques,YK Pathan,EJG Morgan,4,Not out
+6.6,MC Henriques,YK Pathan,EJG Morgan,0,Not out
+7.1,EJG Morgan,PP Chawla,MC Henriques,0,Not out
+7.2,EJG Morgan,PP Chawla,MC Henriques,0,Not out
+7.3,EJG Morgan,PP Chawla,MC Henriques,1,Not out
+7.4,MC Henriques,PP Chawla,EJG Morgan,0,Not out
+7.5,MC Henriques,PP Chawla,EJG Morgan,1,Not out
+7.6,EJG Morgan,PP Chawla,MC Henriques,1,Not out
+8.1,EJG Morgan,RN ten Doeschate,MC Henriques,0,run out
+8.2,MC Henriques,RN ten Doeschate,GH Vihari,1,Not out
+8.3,GH Vihari,RN ten Doeschate,MC Henriques,0,Not out
+8.4,GH Vihari,RN ten Doeschate,MC Henriques,0,Not out
+8.5,GH Vihari,RN ten Doeschate,MC Henriques,1,Not out
+8.6,MC Henriques,RN ten Doeschate,GH Vihari,0,Not out
+8.7,MC Henriques,RN ten Doeschate,GH Vihari,1,Not out
+9.1,MC Henriques,PP Chawla,GH Vihari,1,Not out
+9.2,GH Vihari,PP Chawla,MC Henriques,0,Not out
+9.3,GH Vihari,PP Chawla,MC Henriques,1,Not out
+9.4,MC Henriques,PP Chawla,GH Vihari,1,Not out
+9.5,GH Vihari,PP Chawla,MC Henriques,0,Not out
+9.6,GH Vihari,PP Chawla,MC Henriques,1,Not out
+10.1,GH Vihari,GB Hogg,MC Henriques,0,Not out
+10.2,GH Vihari,GB Hogg,MC Henriques,1,Not out
+10.3,MC Henriques,GB Hogg,GH Vihari,0,Not out
+10.4,MC Henriques,GB Hogg,GH Vihari,1,Not out
+10.5,GH Vihari,GB Hogg,MC Henriques,0,Not out
+10.6,GH Vihari,GB Hogg,MC Henriques,1,Not out
+11.1,GH Vihari,PP Chawla,MC Henriques,1,Not out
+11.2,MC Henriques,PP Chawla,GH Vihari,0,Not out
+11.3,MC Henriques,PP Chawla,GH Vihari,1,Not out
+11.4,GH Vihari,PP Chawla,MC Henriques,0,stumped
+11.5,Bipul Sharma,PP Chawla,MC Henriques,0,Not out
+11.6,Bipul Sharma,PP Chawla,MC Henriques,1,run out
+12.1,MC Henriques,UT Yadav,KV Sharma,1,Not out
+12.2,KV Sharma,UT Yadav,MC Henriques,1,Not out
+12.3,MC Henriques,UT Yadav,KV Sharma,1,Not out
+12.4,KV Sharma,UT Yadav,MC Henriques,1,Not out
+12.5,MC Henriques,UT Yadav,KV Sharma,1,Not out
+12.6,KV Sharma,UT Yadav,MC Henriques,1,Not out
+13.1,KV Sharma,PP Chawla,MC Henriques,1,Not out
+13.2,MC Henriques,PP Chawla,KV Sharma,1,Not out
+13.3,KV Sharma,PP Chawla,MC Henriques,1,Not out
+13.4,MC Henriques,PP Chawla,KV Sharma,1,Not out
+13.5,KV Sharma,PP Chawla,MC Henriques,1,Not out
+13.6,MC Henriques,PP Chawla,KV Sharma,1,Not out
+14.1,MC Henriques,GB Hogg,KV Sharma,0,caught
+14.2,KV Sharma,GB Hogg,P Kumar,1,Not out
+14.3,P Kumar,GB Hogg,KV Sharma,0,Not out
+14.4,P Kumar,GB Hogg,KV Sharma,1,Not out
+14.5,KV Sharma,GB Hogg,P Kumar,1,Not out
+14.6,P Kumar,GB Hogg,KV Sharma,4,Not out
+15.1,KV Sharma,J Botha,P Kumar,0,Not out
+15.2,KV Sharma,J Botha,P Kumar,1,Not out
+15.3,P Kumar,J Botha,KV Sharma,1,Not out
+15.4,KV Sharma,J Botha,P Kumar,0,Not out
+15.5,KV Sharma,J Botha,P Kumar,1,Not out
+15.6,P Kumar,J Botha,KV Sharma,1,Not out
+16.1,P Kumar,GB Hogg,KV Sharma,1,Not out
+16.2,KV Sharma,GB Hogg,P Kumar,1,Not out
+16.3,P Kumar,GB Hogg,KV Sharma,1,Not out
+16.4,KV Sharma,GB Hogg,P Kumar,0,Not out
+16.5,KV Sharma,GB Hogg,P Kumar,1,Not out
+16.6,P Kumar,GB Hogg,KV Sharma,0,Not out
+17.1,KV Sharma,J Botha,P Kumar,6,Not out
+17.2,KV Sharma,J Botha,P Kumar,6,Not out
+17.3,KV Sharma,J Botha,P Kumar,6,Not out
+17.4,KV Sharma,J Botha,P Kumar,2,Not out
+17.5,KV Sharma,J Botha,P Kumar,0,Not out
+17.6,KV Sharma,J Botha,P Kumar,0,caught
+17.7,P Kumar,J Botha,B Kumar,0,Not out
+18.1,B Kumar,UT Yadav,P Kumar,4,Not out
+18.2,B Kumar,UT Yadav,P Kumar,6,Not out
+18.3,B Kumar,UT Yadav,P Kumar,1,Not out
+18.4,P Kumar,UT Yadav,B Kumar,0,Not out
+18.5,P Kumar,UT Yadav,B Kumar,2,Not out
+18.6,P Kumar,UT Yadav,B Kumar,1,Not out
+19.1,P Kumar,AD Russell,B Kumar,0,Not out
+19.2,P Kumar,AD Russell,B Kumar,0,Not out
+19.3,P Kumar,AD Russell,B Kumar,0,Not out
+19.4,P Kumar,AD Russell,B Kumar,0,caught
+19.5,DW Steyn,AD Russell,B Kumar,1,Not out
+19.6,B Kumar,AD Russell,DW Steyn,0,Not out

@@ -1,0 +1,121 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,Mandeep Singh,Z Khan,SE Marsh,0,Not out
+0.2,SE Marsh,Z Khan,Mandeep Singh,0,Not out
+0.3,Mandeep Singh,Z Khan,SE Marsh,0,Not out
+0.4,Mandeep Singh,Z Khan,SE Marsh,4,Not out
+0.5,Mandeep Singh,Z Khan,SE Marsh,0,Not out
+0.6,Mandeep Singh,Z Khan,SE Marsh,0,Not out
+0.7,Mandeep Singh,Z Khan,SE Marsh,4,Not out
+1.1,SE Marsh,R Vinay Kumar,Mandeep Singh,1,Not out
+1.2,Mandeep Singh,R Vinay Kumar,SE Marsh,1,Not out
+1.3,SE Marsh,R Vinay Kumar,Mandeep Singh,4,Not out
+1.4,SE Marsh,R Vinay Kumar,Mandeep Singh,0,Not out
+1.5,SE Marsh,R Vinay Kumar,Mandeep Singh,0,Not out
+1.6,SE Marsh,R Vinay Kumar,Mandeep Singh,0,Not out
+2.1,Mandeep Singh,Z Khan,SE Marsh,4,Not out
+2.2,Mandeep Singh,Z Khan,SE Marsh,0,Not out
+2.3,Mandeep Singh,Z Khan,SE Marsh,0,Not out
+2.4,Mandeep Singh,Z Khan,SE Marsh,6,Not out
+2.5,Mandeep Singh,Z Khan,SE Marsh,0,Not out
+2.6,Mandeep Singh,Z Khan,SE Marsh,0,Not out
+3.1,SE Marsh,R Vinay Kumar,Mandeep Singh,1,Not out
+3.2,Mandeep Singh,R Vinay Kumar,SE Marsh,0,Not out
+3.3,Mandeep Singh,R Vinay Kumar,SE Marsh,4,Not out
+3.4,Mandeep Singh,R Vinay Kumar,SE Marsh,1,Not out
+3.5,SE Marsh,R Vinay Kumar,Mandeep Singh,1,Not out
+3.6,Mandeep Singh,R Vinay Kumar,SE Marsh,1,Not out
+4.1,Mandeep Singh,AB McDonald,SE Marsh,1,Not out
+4.2,SE Marsh,AB McDonald,Mandeep Singh,1,Not out
+4.3,Mandeep Singh,AB McDonald,SE Marsh,1,Not out
+4.4,SE Marsh,AB McDonald,Mandeep Singh,0,bowled
+4.5,N Saini,AB McDonald,Mandeep Singh,2,Not out
+4.6,N Saini,AB McDonald,Mandeep Singh,4,Not out
+5.1,Mandeep Singh,R Vinay Kumar,N Saini,0,Not out
+5.2,Mandeep Singh,R Vinay Kumar,N Saini,4,Not out
+5.3,Mandeep Singh,R Vinay Kumar,N Saini,2,Not out
+5.4,Mandeep Singh,R Vinay Kumar,N Saini,2,Not out
+5.5,Mandeep Singh,R Vinay Kumar,N Saini,1,Not out
+5.6,N Saini,R Vinay Kumar,Mandeep Singh,0,Not out
+6.1,Mandeep Singh,AB McDonald,N Saini,1,Not out
+6.2,N Saini,AB McDonald,Mandeep Singh,1,Not out
+6.3,Mandeep Singh,AB McDonald,N Saini,4,Not out
+6.4,Mandeep Singh,AB McDonald,N Saini,1,Not out
+6.5,N Saini,AB McDonald,Mandeep Singh,1,Not out
+6.6,Mandeep Singh,AB McDonald,N Saini,0,Not out
+7.1,N Saini,DL Vettori,Mandeep Singh,1,Not out
+7.2,Mandeep Singh,DL Vettori,N Saini,0,Not out
+7.3,Mandeep Singh,DL Vettori,N Saini,1,Not out
+7.4,N Saini,DL Vettori,Mandeep Singh,2,Not out
+7.5,N Saini,DL Vettori,Mandeep Singh,4,Not out
+7.6,N Saini,DL Vettori,Mandeep Singh,1,Not out
+8.1,N Saini,KP Appanna,Mandeep Singh,2,Not out
+8.2,N Saini,KP Appanna,Mandeep Singh,0,Not out
+8.3,N Saini,KP Appanna,Mandeep Singh,0,Not out
+8.4,N Saini,KP Appanna,Mandeep Singh,1,Not out
+8.5,Mandeep Singh,KP Appanna,N Saini,0,lbw
+8.6,DJ Hussey,KP Appanna,N Saini,0,Not out
+9.1,N Saini,DL Vettori,DJ Hussey,2,Not out
+9.2,N Saini,DL Vettori,DJ Hussey,2,Not out
+9.3,N Saini,DL Vettori,DJ Hussey,1,Not out
+9.4,DJ Hussey,DL Vettori,N Saini,0,Not out
+9.5,DJ Hussey,DL Vettori,N Saini,1,Not out
+9.6,N Saini,DL Vettori,DJ Hussey,1,Not out
+10.1,N Saini,KP Appanna,DJ Hussey,1,Not out
+10.2,DJ Hussey,KP Appanna,N Saini,1,Not out
+10.3,N Saini,KP Appanna,DJ Hussey,2,Not out
+10.4,N Saini,KP Appanna,DJ Hussey,4,Not out
+10.5,N Saini,KP Appanna,DJ Hussey,1,Not out
+10.6,DJ Hussey,KP Appanna,N Saini,1,Not out
+11.1,DJ Hussey,DL Vettori,N Saini,4,Not out
+11.2,DJ Hussey,DL Vettori,N Saini,0,Not out
+11.3,DJ Hussey,DL Vettori,N Saini,1,Not out
+11.4,N Saini,DL Vettori,DJ Hussey,2,Not out
+11.5,N Saini,DL Vettori,DJ Hussey,1,Not out
+11.6,DJ Hussey,DL Vettori,N Saini,0,Not out
+12.1,N Saini,KP Appanna,DJ Hussey,1,Not out
+12.2,DJ Hussey,KP Appanna,N Saini,4,Not out
+12.3,DJ Hussey,KP Appanna,N Saini,6,Not out
+12.4,DJ Hussey,KP Appanna,N Saini,6,Not out
+12.5,DJ Hussey,KP Appanna,N Saini,0,Not out
+12.6,DJ Hussey,KP Appanna,N Saini,0,Not out
+13.1,N Saini,AB McDonald,DJ Hussey,4,Not out
+13.2,N Saini,AB McDonald,DJ Hussey,0,Not out
+13.3,N Saini,AB McDonald,DJ Hussey,0,Not out
+13.4,N Saini,AB McDonald,DJ Hussey,1,Not out
+13.5,DJ Hussey,AB McDonald,N Saini,1,Not out
+13.6,N Saini,AB McDonald,DJ Hussey,1,Not out
+14.1,N Saini,Z Khan,DJ Hussey,1,Not out
+14.2,DJ Hussey,Z Khan,N Saini,1,Not out
+14.3,N Saini,Z Khan,DJ Hussey,1,Not out
+14.4,DJ Hussey,Z Khan,N Saini,2,Not out
+14.5,DJ Hussey,Z Khan,N Saini,0,Not out
+14.6,N Saini,Z Khan,DJ Hussey,4,Not out
+15.1,DJ Hussey,AUK Pathan,N Saini,6,Not out
+15.2,DJ Hussey,AUK Pathan,N Saini,0,Not out
+15.3,DJ Hussey,AUK Pathan,N Saini,1,Not out
+15.4,N Saini,AUK Pathan,DJ Hussey,0,Not out
+15.5,N Saini,AUK Pathan,DJ Hussey,1,Not out
+15.6,DJ Hussey,AUK Pathan,N Saini,6,Not out
+16.1,N Saini,AB McDonald,DJ Hussey,0,Not out
+16.2,N Saini,AB McDonald,DJ Hussey,0,caught
+16.3,DJ Hussey,AB McDonald,Azhar Mahmood,0,Not out
+16.4,DJ Hussey,AB McDonald,Azhar Mahmood,1,Not out
+16.5,Azhar Mahmood,AB McDonald,DJ Hussey,0,Not out
+16.6,Azhar Mahmood,AB McDonald,DJ Hussey,0,Not out
+17.1,DJ Hussey,DL Vettori,Azhar Mahmood,1,Not out
+17.2,Azhar Mahmood,DL Vettori,DJ Hussey,1,Not out
+17.3,DJ Hussey,DL Vettori,Azhar Mahmood,1,Not out
+17.4,Azhar Mahmood,DL Vettori,DJ Hussey,1,run out
+17.5,AM Nayar,DL Vettori,DJ Hussey,1,Not out
+17.6,DJ Hussey,DL Vettori,AM Nayar,0,Not out
+18.1,AM Nayar,Z Khan,DJ Hussey,0,Not out
+18.2,AM Nayar,Z Khan,DJ Hussey,1,Not out
+18.3,DJ Hussey,Z Khan,AM Nayar,0,Not out
+18.4,DJ Hussey,Z Khan,AM Nayar,1,run out
+18.5,P Dogra,Z Khan,AM Nayar,0,run out
+18.6,PP Chawla,Z Khan,P Dogra,0,Not out
+19.1,P Dogra,R Vinay Kumar,PP Chawla,0,Not out
+19.2,P Dogra,R Vinay Kumar,PP Chawla,0,Not out
+19.3,P Dogra,R Vinay Kumar,PP Chawla,2,Not out
+19.4,P Dogra,R Vinay Kumar,PP Chawla,1,Not out
+19.5,PP Chawla,R Vinay Kumar,P Dogra,6,Not out

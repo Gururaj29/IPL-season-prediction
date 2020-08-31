@@ -1,0 +1,115 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,RV Uthappa,I Sharma,AJ Finch,0,Not out
+0.2,RV Uthappa,I Sharma,AJ Finch,0,Not out
+0.3,RV Uthappa,I Sharma,AJ Finch,4,Not out
+0.4,RV Uthappa,I Sharma,AJ Finch,2,Not out
+0.5,RV Uthappa,I Sharma,AJ Finch,1,Not out
+0.6,AJ Finch,I Sharma,RV Uthappa,0,Not out
+1.1,RV Uthappa,DW Steyn,AJ Finch,4,Not out
+1.2,RV Uthappa,DW Steyn,AJ Finch,0,Not out
+1.3,RV Uthappa,DW Steyn,AJ Finch,4,Not out
+1.4,RV Uthappa,DW Steyn,AJ Finch,3,Not out
+1.5,AJ Finch,DW Steyn,RV Uthappa,1,Not out
+1.6,RV Uthappa,DW Steyn,AJ Finch,0,Not out
+2.1,AJ Finch,I Sharma,RV Uthappa,0,Not out
+2.2,AJ Finch,I Sharma,RV Uthappa,0,Not out
+2.3,AJ Finch,I Sharma,RV Uthappa,4,Not out
+2.4,AJ Finch,I Sharma,RV Uthappa,1,Not out
+2.5,RV Uthappa,I Sharma,AJ Finch,4,Not out
+2.6,RV Uthappa,I Sharma,AJ Finch,0,Not out
+3.1,AJ Finch,DW Steyn,RV Uthappa,4,Not out
+3.2,AJ Finch,DW Steyn,RV Uthappa,0,Not out
+3.3,AJ Finch,DW Steyn,RV Uthappa,0,Not out
+3.4,AJ Finch,DW Steyn,RV Uthappa,4,Not out
+3.5,AJ Finch,DW Steyn,RV Uthappa,0,Not out
+3.6,AJ Finch,DW Steyn,RV Uthappa,2,Not out
+4.1,RV Uthappa,NLTC Perera,AJ Finch,0,Not out
+4.2,RV Uthappa,NLTC Perera,AJ Finch,0,caught
+4.3,AJ Finch,NLTC Perera,TL Suman,0,caught
+4.4,SPD Smith,NLTC Perera,TL Suman,0,Not out
+4.5,SPD Smith,NLTC Perera,TL Suman,0,Not out
+4.6,SPD Smith,NLTC Perera,TL Suman,1,Not out
+5.1,SPD Smith,I Sharma,TL Suman,1,Not out
+5.2,TL Suman,I Sharma,SPD Smith,0,Not out
+5.3,TL Suman,I Sharma,SPD Smith,0,Not out
+5.4,TL Suman,I Sharma,SPD Smith,0,Not out
+5.5,TL Suman,I Sharma,SPD Smith,1,Not out
+5.6,SPD Smith,I Sharma,TL Suman,0,Not out
+6.1,TL Suman,NLTC Perera,SPD Smith,2,Not out
+6.2,TL Suman,NLTC Perera,SPD Smith,0,Not out
+6.3,TL Suman,NLTC Perera,SPD Smith,1,Not out
+6.4,SPD Smith,NLTC Perera,TL Suman,1,Not out
+6.5,TL Suman,NLTC Perera,SPD Smith,4,Not out
+6.6,TL Suman,NLTC Perera,SPD Smith,0,Not out
+7.1,SPD Smith,A Mishra,TL Suman,1,Not out
+7.2,TL Suman,A Mishra,SPD Smith,1,Not out
+7.3,SPD Smith,A Mishra,TL Suman,1,Not out
+7.4,TL Suman,A Mishra,SPD Smith,1,Not out
+7.5,SPD Smith,A Mishra,TL Suman,1,Not out
+7.6,TL Suman,A Mishra,SPD Smith,1,Not out
+8.1,TL Suman,KV Sharma,SPD Smith,1,Not out
+8.2,SPD Smith,KV Sharma,TL Suman,1,Not out
+8.3,TL Suman,KV Sharma,SPD Smith,0,lbw
+8.4,AD Mathews,KV Sharma,SPD Smith,0,Not out
+8.5,AD Mathews,KV Sharma,SPD Smith,1,Not out
+8.6,SPD Smith,KV Sharma,AD Mathews,1,Not out
+9.1,SPD Smith,DW Steyn,AD Mathews,1,Not out
+9.2,AD Mathews,DW Steyn,SPD Smith,0,Not out
+9.3,AD Mathews,DW Steyn,SPD Smith,1,Not out
+9.4,SPD Smith,DW Steyn,AD Mathews,2,Not out
+9.5,SPD Smith,DW Steyn,AD Mathews,2,Not out
+9.6,SPD Smith,DW Steyn,AD Mathews,0,Not out
+10.1,AD Mathews,NLTC Perera,SPD Smith,2,Not out
+10.2,AD Mathews,NLTC Perera,SPD Smith,2,Not out
+10.3,AD Mathews,NLTC Perera,SPD Smith,1,Not out
+10.4,SPD Smith,NLTC Perera,AD Mathews,0,Not out
+10.5,SPD Smith,NLTC Perera,AD Mathews,0,Not out
+10.6,SPD Smith,NLTC Perera,AD Mathews,1,Not out
+11.1,SPD Smith,KV Sharma,AD Mathews,1,Not out
+11.2,AD Mathews,KV Sharma,SPD Smith,1,Not out
+11.3,SPD Smith,KV Sharma,AD Mathews,0,Not out
+11.4,SPD Smith,KV Sharma,AD Mathews,0,Not out
+11.5,SPD Smith,KV Sharma,AD Mathews,0,Not out
+11.6,SPD Smith,KV Sharma,AD Mathews,0,Not out
+12.1,AD Mathews,I Sharma,SPD Smith,1,Not out
+12.2,SPD Smith,I Sharma,AD Mathews,2,Not out
+12.3,SPD Smith,I Sharma,AD Mathews,0,caught
+12.4,AD Mathews,I Sharma,MR Marsh,0,Not out
+12.5,AD Mathews,I Sharma,MR Marsh,1,Not out
+12.6,MR Marsh,I Sharma,AD Mathews,0,Not out
+13.1,AD Mathews,A Mishra,MR Marsh,0,Not out
+13.2,AD Mathews,A Mishra,MR Marsh,1,Not out
+13.3,MR Marsh,A Mishra,AD Mathews,1,Not out
+13.4,AD Mathews,A Mishra,MR Marsh,1,Not out
+13.5,MR Marsh,A Mishra,AD Mathews,0,Not out
+13.6,MR Marsh,A Mishra,AD Mathews,0,Not out
+14.1,AD Mathews,KV Sharma,MR Marsh,1,Not out
+14.2,MR Marsh,KV Sharma,AD Mathews,1,Not out
+14.3,AD Mathews,KV Sharma,MR Marsh,0,Not out
+14.4,AD Mathews,KV Sharma,MR Marsh,0,Not out
+14.5,AD Mathews,KV Sharma,MR Marsh,4,Not out
+14.6,AD Mathews,KV Sharma,MR Marsh,1,Not out
+15.1,AD Mathews,A Mishra,MR Marsh,0,Not out
+15.2,AD Mathews,A Mishra,MR Marsh,1,Not out
+15.3,MR Marsh,A Mishra,AD Mathews,0,Not out
+15.4,MR Marsh,A Mishra,AD Mathews,6,Not out
+15.5,MR Marsh,A Mishra,AD Mathews,0,Not out
+15.6,MR Marsh,A Mishra,AD Mathews,1,Not out
+16.1,MR Marsh,DW Steyn,AD Mathews,4,Not out
+16.2,MR Marsh,DW Steyn,AD Mathews,1,Not out
+16.3,AD Mathews,DW Steyn,MR Marsh,0,Not out
+16.4,AD Mathews,DW Steyn,MR Marsh,1,Not out
+16.5,MR Marsh,DW Steyn,AD Mathews,0,Not out
+16.6,MR Marsh,DW Steyn,AD Mathews,0,caught
+17.1,AM Nayar,NLTC Perera,AD Mathews,0,Not out
+17.2,AM Nayar,NLTC Perera,AD Mathews,0,caught
+17.3,MK Pandey,NLTC Perera,AD Mathews,0,Not out
+17.4,MK Pandey,NLTC Perera,AD Mathews,4,Not out
+17.5,MK Pandey,NLTC Perera,AD Mathews,0,Not out
+17.6,MK Pandey,NLTC Perera,AD Mathews,1,Not out
+18.1,MK Pandey,A Mishra,AD Mathews,1,Not out
+18.2,AD Mathews,A Mishra,MK Pandey,0,caught
+18.3,MK Pandey,A Mishra,B Kumar,1,Not out
+18.4,B Kumar,A Mishra,MK Pandey,0,lbw
+18.5,R Sharma,A Mishra,MK Pandey,0,bowled
+18.6,AB Dinda,A Mishra,MK Pandey,0,bowled

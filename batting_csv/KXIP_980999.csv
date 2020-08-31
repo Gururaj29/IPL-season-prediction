@@ -1,0 +1,90 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,M Vijay,STR Binny,HM Amla,4,Not out
+0.2,M Vijay,STR Binny,HM Amla,4,Not out
+0.3,M Vijay,STR Binny,HM Amla,1,Not out
+0.4,HM Amla,STR Binny,M Vijay,0,Not out
+0.5,HM Amla,STR Binny,M Vijay,1,Not out
+0.6,M Vijay,STR Binny,HM Amla,1,Not out
+1.1,M Vijay,S Aravind,HM Amla,0,Not out
+1.2,M Vijay,S Aravind,HM Amla,6,Not out
+1.3,M Vijay,S Aravind,HM Amla,0,Not out
+1.4,M Vijay,S Aravind,HM Amla,0,bowled
+1.5,WP Saha,S Aravind,HM Amla,1,Not out
+1.6,HM Amla,S Aravind,WP Saha,1,Not out
+2.1,HM Amla,CJ Jordan,WP Saha,1,Not out
+2.2,WP Saha,CJ Jordan,HM Amla,2,Not out
+2.3,WP Saha,CJ Jordan,HM Amla,0,Not out
+2.4,WP Saha,CJ Jordan,HM Amla,4,Not out
+2.5,WP Saha,CJ Jordan,HM Amla,4,Not out
+2.6,WP Saha,CJ Jordan,HM Amla,1,Not out
+3.1,WP Saha,YS Chahal,HM Amla,4,Not out
+3.2,WP Saha,YS Chahal,HM Amla,4,Not out
+3.3,WP Saha,YS Chahal,HM Amla,4,Not out
+3.4,WP Saha,YS Chahal,HM Amla,0,lbw
+3.5,DA Miller,YS Chahal,HM Amla,0,Not out
+3.6,DA Miller,YS Chahal,HM Amla,1,Not out
+4.1,DA Miller,S Aravind,HM Amla,0,Not out
+4.2,DA Miller,S Aravind,HM Amla,0,Not out
+4.3,DA Miller,S Aravind,HM Amla,0,Not out
+4.4,DA Miller,S Aravind,HM Amla,1,Not out
+4.5,HM Amla,S Aravind,DA Miller,6,Not out
+4.6,HM Amla,S Aravind,DA Miller,0,caught
+4.7,DA Miller,S Aravind,Gurkeerat Singh,1,Not out
+4.8,Gurkeerat Singh,S Aravind,DA Miller,0,Not out
+5.1,DA Miller,SR Watson,Gurkeerat Singh,0,caught
+5.2,AR Patel,SR Watson,Gurkeerat Singh,0,Not out
+5.3,AR Patel,SR Watson,Gurkeerat Singh,0,Not out
+5.4,AR Patel,SR Watson,Gurkeerat Singh,1,Not out
+5.5,Gurkeerat Singh,SR Watson,AR Patel,0,Not out
+5.6,Gurkeerat Singh,SR Watson,AR Patel,1,Not out
+5.7,AR Patel,SR Watson,Gurkeerat Singh,0,Not out
+5.8,AR Patel,SR Watson,Gurkeerat Singh,1,Not out
+6.1,AR Patel,VR Aaron,Gurkeerat Singh,6,Not out
+6.2,AR Patel,VR Aaron,Gurkeerat Singh,0,Not out
+6.3,AR Patel,VR Aaron,Gurkeerat Singh,4,Not out
+6.4,AR Patel,VR Aaron,Gurkeerat Singh,1,Not out
+6.5,Gurkeerat Singh,VR Aaron,AR Patel,4,Not out
+6.6,Gurkeerat Singh,VR Aaron,AR Patel,1,Not out
+6.7,AR Patel,VR Aaron,Gurkeerat Singh,0,Not out
+7.1,Gurkeerat Singh,SR Watson,AR Patel,1,Not out
+7.2,AR Patel,SR Watson,Gurkeerat Singh,0,Not out
+7.3,AR Patel,SR Watson,Gurkeerat Singh,0,caught
+7.4,Gurkeerat Singh,SR Watson,F Behardien,0,Not out
+7.5,Gurkeerat Singh,SR Watson,F Behardien,0,Not out
+7.6,Gurkeerat Singh,SR Watson,F Behardien,1,Not out
+8.1,Gurkeerat Singh,YS Chahal,F Behardien,1,Not out
+8.2,F Behardien,YS Chahal,Gurkeerat Singh,0,caught
+8.3,Gurkeerat Singh,YS Chahal,KJ Abbott,0,Not out
+8.4,Gurkeerat Singh,YS Chahal,KJ Abbott,1,Not out
+8.5,KJ Abbott,YS Chahal,Gurkeerat Singh,0,caught
+8.6,Gurkeerat Singh,YS Chahal,MM Sharma,4,Not out
+9.1,MM Sharma,CH Gayle,Gurkeerat Singh,1,Not out
+9.2,Gurkeerat Singh,CH Gayle,MM Sharma,1,Not out
+9.3,MM Sharma,CH Gayle,Gurkeerat Singh,1,Not out
+9.4,Gurkeerat Singh,CH Gayle,MM Sharma,1,Not out
+9.5,MM Sharma,CH Gayle,Gurkeerat Singh,0,Not out
+9.6,Gurkeerat Singh,CH Gayle,MM Sharma,1,Not out
+10.1,Gurkeerat Singh,YS Chahal,MM Sharma,1,Not out
+10.2,MM Sharma,YS Chahal,Gurkeerat Singh,0,Not out
+10.3,MM Sharma,YS Chahal,Gurkeerat Singh,4,Not out
+10.4,MM Sharma,YS Chahal,Gurkeerat Singh,1,Not out
+10.5,Gurkeerat Singh,YS Chahal,MM Sharma,0,caught
+10.6,KC Cariappa,YS Chahal,MM Sharma,0,Not out
+11.1,MM Sharma,CH Gayle,KC Cariappa,1,Not out
+11.2,KC Cariappa,CH Gayle,MM Sharma,1,Not out
+11.3,MM Sharma,CH Gayle,KC Cariappa,4,Not out
+11.4,MM Sharma,CH Gayle,KC Cariappa,1,Not out
+11.5,KC Cariappa,CH Gayle,MM Sharma,1,Not out
+11.6,MM Sharma,CH Gayle,KC Cariappa,1,Not out
+12.1,MM Sharma,Sachin Baby,KC Cariappa,0,Not out
+12.2,MM Sharma,Sachin Baby,KC Cariappa,0,run out
+12.3,KC Cariappa,Sachin Baby,Sandeep Sharma,1,Not out
+12.4,Sandeep Sharma,Sachin Baby,KC Cariappa,1,Not out
+12.5,KC Cariappa,Sachin Baby,Sandeep Sharma,1,Not out
+12.6,Sandeep Sharma,Sachin Baby,KC Cariappa,1,Not out
+13.1,Sandeep Sharma,CH Gayle,KC Cariappa,1,Not out
+13.2,KC Cariappa,CH Gayle,Sandeep Sharma,6,Not out
+13.3,KC Cariappa,CH Gayle,Sandeep Sharma,1,Not out
+13.4,Sandeep Sharma,CH Gayle,KC Cariappa,1,Not out
+13.5,KC Cariappa,CH Gayle,Sandeep Sharma,1,Not out
+13.6,Sandeep Sharma,CH Gayle,KC Cariappa,1,Not out

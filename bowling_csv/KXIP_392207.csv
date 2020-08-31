@@ -1,0 +1,124 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,BB McCullum,RR Powar,CH Gayle,2,Not out
+0.2,BB McCullum,RR Powar,CH Gayle,0,Not out
+0.3,BB McCullum,RR Powar,CH Gayle,0,Not out
+0.4,BB McCullum,RR Powar,CH Gayle,0,Not out
+0.5,BB McCullum,RR Powar,CH Gayle,0,Not out
+0.6,BB McCullum,RR Powar,CH Gayle,1,Not out
+0.7,CH Gayle,RR Powar,BB McCullum,1,Not out
+1.1,CH Gayle,IK Pathan,BB McCullum,0,Not out
+1.2,CH Gayle,IK Pathan,BB McCullum,0,Not out
+1.3,CH Gayle,IK Pathan,BB McCullum,0,Not out
+1.4,CH Gayle,IK Pathan,BB McCullum,0,Not out
+1.5,CH Gayle,IK Pathan,BB McCullum,0,Not out
+1.6,CH Gayle,IK Pathan,BB McCullum,2,Not out
+2.1,BB McCullum,YA Abdulla,CH Gayle,1,Not out
+2.2,CH Gayle,YA Abdulla,BB McCullum,0,Not out
+2.3,CH Gayle,YA Abdulla,BB McCullum,0,Not out
+2.4,CH Gayle,YA Abdulla,BB McCullum,0,Not out
+2.5,CH Gayle,YA Abdulla,BB McCullum,1,Not out
+2.6,BB McCullum,YA Abdulla,CH Gayle,0,Not out
+3.1,CH Gayle,IK Pathan,BB McCullum,4,Not out
+3.2,CH Gayle,IK Pathan,BB McCullum,1,Not out
+3.3,BB McCullum,IK Pathan,CH Gayle,0,Not out
+3.4,BB McCullum,IK Pathan,CH Gayle,0,Not out
+3.5,BB McCullum,IK Pathan,CH Gayle,0,Not out
+3.6,BB McCullum,IK Pathan,CH Gayle,0,Not out
+3.7,BB McCullum,IK Pathan,CH Gayle,0,Not out
+4.1,CH Gayle,YA Abdulla,BB McCullum,4,Not out
+4.2,CH Gayle,YA Abdulla,BB McCullum,4,Not out
+4.3,CH Gayle,YA Abdulla,BB McCullum,0,Not out
+4.4,CH Gayle,YA Abdulla,BB McCullum,0,caught
+4.5,BJ Hodge,YA Abdulla,BB McCullum,0,Not out
+4.6,BJ Hodge,YA Abdulla,BB McCullum,0,Not out
+5.1,BB McCullum,VS Malik,BJ Hodge,0,Not out
+5.2,BB McCullum,VS Malik,BJ Hodge,1,Not out
+5.3,BJ Hodge,VS Malik,BB McCullum,2,Not out
+5.4,BJ Hodge,VS Malik,BB McCullum,0,Not out
+5.5,BJ Hodge,VS Malik,BB McCullum,0,Not out
+5.6,BJ Hodge,VS Malik,BB McCullum,2,Not out
+6.1,BB McCullum,PP Chawla,BJ Hodge,0,Not out
+6.2,BB McCullum,PP Chawla,BJ Hodge,0,Not out
+6.3,BB McCullum,PP Chawla,BJ Hodge,0,Not out
+6.4,BB McCullum,PP Chawla,BJ Hodge,1,Not out
+6.5,BJ Hodge,PP Chawla,BB McCullum,1,Not out
+6.6,BB McCullum,PP Chawla,BJ Hodge,0,Not out
+7.1,BJ Hodge,VS Malik,BB McCullum,0,Not out
+7.2,BJ Hodge,VS Malik,BB McCullum,4,Not out
+7.3,BJ Hodge,VS Malik,BB McCullum,0,Not out
+7.4,BJ Hodge,VS Malik,BB McCullum,1,Not out
+7.5,BB McCullum,VS Malik,BJ Hodge,0,Not out
+7.6,BB McCullum,VS Malik,BJ Hodge,1,Not out
+8.1,BB McCullum,PP Chawla,BJ Hodge,0,Not out
+8.2,BB McCullum,PP Chawla,BJ Hodge,1,Not out
+8.3,BJ Hodge,PP Chawla,BB McCullum,1,Not out
+8.4,BB McCullum,PP Chawla,BJ Hodge,1,Not out
+8.5,BJ Hodge,PP Chawla,BB McCullum,4,Not out
+8.6,BJ Hodge,PP Chawla,BB McCullum,0,Not out
+9.1,BB McCullum,Yuvraj Singh,BJ Hodge,4,Not out
+9.2,BB McCullum,Yuvraj Singh,BJ Hodge,0,Not out
+9.3,BB McCullum,Yuvraj Singh,BJ Hodge,2,Not out
+9.4,BB McCullum,Yuvraj Singh,BJ Hodge,1,Not out
+9.5,BJ Hodge,Yuvraj Singh,BB McCullum,1,Not out
+9.6,BB McCullum,Yuvraj Singh,BJ Hodge,1,Not out
+10.1,BB McCullum,PP Chawla,BJ Hodge,2,Not out
+10.2,BB McCullum,PP Chawla,BJ Hodge,0,Not out
+10.3,BB McCullum,PP Chawla,BJ Hodge,0,caught
+10.4,BJ Hodge,PP Chawla,SC Ganguly,0,Not out
+10.5,BJ Hodge,PP Chawla,SC Ganguly,4,Not out
+10.6,BJ Hodge,PP Chawla,SC Ganguly,0,Not out
+11.1,SC Ganguly,Yuvraj Singh,BJ Hodge,1,Not out
+11.2,BJ Hodge,Yuvraj Singh,SC Ganguly,1,Not out
+11.3,SC Ganguly,Yuvraj Singh,BJ Hodge,3,Not out
+11.4,BJ Hodge,Yuvraj Singh,SC Ganguly,0,Not out
+11.5,BJ Hodge,Yuvraj Singh,SC Ganguly,4,Not out
+11.6,BJ Hodge,Yuvraj Singh,SC Ganguly,4,Not out
+12.1,SC Ganguly,VS Malik,BJ Hodge,0,Not out
+12.2,SC Ganguly,VS Malik,BJ Hodge,1,Not out
+12.3,BJ Hodge,VS Malik,SC Ganguly,1,Not out
+12.4,SC Ganguly,VS Malik,BJ Hodge,1,Not out
+12.5,BJ Hodge,VS Malik,SC Ganguly,0,Not out
+12.6,BJ Hodge,VS Malik,SC Ganguly,1,Not out
+13.1,BJ Hodge,RR Powar,SC Ganguly,1,Not out
+13.2,SC Ganguly,RR Powar,BJ Hodge,0,Not out
+13.3,SC Ganguly,RR Powar,BJ Hodge,1,Not out
+13.4,BJ Hodge,RR Powar,SC Ganguly,1,Not out
+13.5,SC Ganguly,RR Powar,BJ Hodge,0,Not out
+13.6,SC Ganguly,RR Powar,BJ Hodge,0,Not out
+14.1,BJ Hodge,YA Abdulla,SC Ganguly,1,Not out
+14.2,SC Ganguly,YA Abdulla,BJ Hodge,1,Not out
+14.3,BJ Hodge,YA Abdulla,SC Ganguly,1,Not out
+14.4,SC Ganguly,YA Abdulla,BJ Hodge,4,Not out
+14.5,SC Ganguly,YA Abdulla,BJ Hodge,1,Not out
+14.6,BJ Hodge,YA Abdulla,SC Ganguly,6,Not out
+15.1,SC Ganguly,PP Chawla,BJ Hodge,1,Not out
+15.2,BJ Hodge,PP Chawla,SC Ganguly,1,Not out
+15.3,SC Ganguly,PP Chawla,BJ Hodge,6,Not out
+15.4,SC Ganguly,PP Chawla,BJ Hodge,0,Not out
+15.5,BJ Hodge,PP Chawla,SC Ganguly,0,Not out
+15.6,SC Ganguly,PP Chawla,BJ Hodge,2,Not out
+15.7,SC Ganguly,PP Chawla,BJ Hodge,0,caught
+16.1,BJ Hodge,VS Malik,MN van Wyk,1,Not out
+16.2,MN van Wyk,VS Malik,BJ Hodge,2,Not out
+16.3,MN van Wyk,VS Malik,BJ Hodge,0,Not out
+16.4,MN van Wyk,VS Malik,BJ Hodge,0,Not out
+16.5,MN van Wyk,VS Malik,BJ Hodge,4,Not out
+16.6,MN van Wyk,VS Malik,BJ Hodge,1,Not out
+17.1,MN van Wyk,IK Pathan,BJ Hodge,1,Not out
+17.2,BJ Hodge,IK Pathan,MN van Wyk,1,Not out
+17.3,MN van Wyk,IK Pathan,BJ Hodge,1,Not out
+17.4,BJ Hodge,IK Pathan,MN van Wyk,1,Not out
+17.5,MN van Wyk,IK Pathan,BJ Hodge,0,Not out
+17.6,BJ Hodge,IK Pathan,MN van Wyk,4,Not out
+18.1,MN van Wyk,YA Abdulla,BJ Hodge,2,Not out
+18.2,MN van Wyk,YA Abdulla,BJ Hodge,0,Not out
+18.3,BJ Hodge,YA Abdulla,MN van Wyk,1,Not out
+18.4,MN van Wyk,YA Abdulla,BJ Hodge,1,Not out
+18.5,BJ Hodge,YA Abdulla,MN van Wyk,4,Not out
+18.6,BJ Hodge,YA Abdulla,MN van Wyk,1,Not out
+19.1,BJ Hodge,IK Pathan,MN van Wyk,2,Not out
+19.2,BJ Hodge,IK Pathan,MN van Wyk,4,Not out
+19.3,BJ Hodge,IK Pathan,MN van Wyk,4,Not out
+19.4,BJ Hodge,IK Pathan,MN van Wyk,4,Not out
+19.5,BJ Hodge,IK Pathan,MN van Wyk,1,Not out
+19.6,MN van Wyk,IK Pathan,BJ Hodge,6,Not out

@@ -1,0 +1,124 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,S Sohal,MM Patel,S Dhawan,1,Not out
+0.2,S Dhawan,MM Patel,S Sohal,0,Not out
+0.3,S Dhawan,MM Patel,S Sohal,4,Not out
+0.4,S Dhawan,MM Patel,S Sohal,0,Not out
+0.5,S Dhawan,MM Patel,S Sohal,0,Not out
+0.6,S Dhawan,MM Patel,S Sohal,0,Not out
+1.1,S Sohal,Harbhajan Singh,S Dhawan,3,Not out
+1.2,S Dhawan,Harbhajan Singh,S Sohal,1,Not out
+1.3,S Sohal,Harbhajan Singh,S Dhawan,1,Not out
+1.4,S Dhawan,Harbhajan Singh,S Sohal,4,Not out
+1.5,S Dhawan,Harbhajan Singh,S Sohal,0,run out
+1.6,KC Sangakkara,Harbhajan Singh,S Dhawan,1,Not out
+2.1,KC Sangakkara,MM Patel,S Dhawan,1,Not out
+2.2,S Dhawan,MM Patel,KC Sangakkara,4,Not out
+2.3,S Dhawan,MM Patel,KC Sangakkara,4,Not out
+2.4,S Dhawan,MM Patel,KC Sangakkara,0,Not out
+2.5,S Dhawan,MM Patel,KC Sangakkara,1,Not out
+2.6,KC Sangakkara,MM Patel,S Dhawan,0,Not out
+3.1,S Dhawan,Harbhajan Singh,KC Sangakkara,0,Not out
+3.2,S Dhawan,Harbhajan Singh,KC Sangakkara,0,Not out
+3.3,S Dhawan,Harbhajan Singh,KC Sangakkara,4,Not out
+3.4,S Dhawan,Harbhajan Singh,KC Sangakkara,0,Not out
+3.5,S Dhawan,Harbhajan Singh,KC Sangakkara,1,Not out
+3.6,KC Sangakkara,Harbhajan Singh,S Dhawan,1,Not out
+4.1,KC Sangakkara,AN Ahmed,S Dhawan,4,Not out
+4.2,KC Sangakkara,AN Ahmed,S Dhawan,0,Not out
+4.3,KC Sangakkara,AN Ahmed,S Dhawan,2,Not out
+4.4,KC Sangakkara,AN Ahmed,S Dhawan,1,Not out
+4.5,S Dhawan,AN Ahmed,KC Sangakkara,0,Not out
+4.6,S Dhawan,AN Ahmed,KC Sangakkara,1,Not out
+5.1,S Dhawan,SL Malinga,KC Sangakkara,1,Not out
+5.2,KC Sangakkara,SL Malinga,S Dhawan,1,Not out
+5.3,S Dhawan,SL Malinga,KC Sangakkara,0,Not out
+5.4,S Dhawan,SL Malinga,KC Sangakkara,0,bowled
+5.5,CL White,SL Malinga,KC Sangakkara,0,Not out
+5.6,CL White,SL Malinga,KC Sangakkara,0,Not out
+6.1,KC Sangakkara,AN Ahmed,CL White,1,Not out
+6.2,CL White,AN Ahmed,KC Sangakkara,0,Not out
+6.3,CL White,AN Ahmed,KC Sangakkara,0,Not out
+6.4,CL White,AN Ahmed,KC Sangakkara,0,Not out
+6.5,CL White,AN Ahmed,KC Sangakkara,1,Not out
+6.6,KC Sangakkara,AN Ahmed,CL White,1,Not out
+7.1,KC Sangakkara,KA Pollard,CL White,0,Not out
+7.2,KC Sangakkara,KA Pollard,CL White,4,Not out
+7.3,KC Sangakkara,KA Pollard,CL White,1,Not out
+7.4,CL White,KA Pollard,KC Sangakkara,0,run out
+7.5,KC Sangakkara,KA Pollard,B Chipli,1,Not out
+7.6,B Chipli,KA Pollard,KC Sangakkara,0,Not out
+7.7,B Chipli,KA Pollard,KC Sangakkara,0,Not out
+7.8,B Chipli,KA Pollard,KC Sangakkara,1,Not out
+8.1,B Chipli,R Sathish,KC Sangakkara,0,Not out
+8.2,B Chipli,R Sathish,KC Sangakkara,1,Not out
+8.3,KC Sangakkara,R Sathish,B Chipli,2,Not out
+8.4,KC Sangakkara,R Sathish,B Chipli,1,Not out
+8.5,B Chipli,R Sathish,KC Sangakkara,4,Not out
+8.6,B Chipli,R Sathish,KC Sangakkara,0,Not out
+9.1,KC Sangakkara,KA Pollard,B Chipli,4,Not out
+9.2,KC Sangakkara,KA Pollard,B Chipli,1,Not out
+9.3,B Chipli,KA Pollard,KC Sangakkara,0,Not out
+9.4,B Chipli,KA Pollard,KC Sangakkara,0,caught
+9.5,DT Christian,KA Pollard,KC Sangakkara,1,Not out
+9.6,KC Sangakkara,KA Pollard,DT Christian,1,Not out
+10.1,KC Sangakkara,R Sathish,DT Christian,1,Not out
+10.2,DT Christian,R Sathish,KC Sangakkara,1,Not out
+10.3,KC Sangakkara,R Sathish,DT Christian,1,Not out
+10.4,DT Christian,R Sathish,KC Sangakkara,0,Not out
+10.5,DT Christian,R Sathish,KC Sangakkara,1,Not out
+10.6,KC Sangakkara,R Sathish,DT Christian,0,Not out
+11.1,DT Christian,Harbhajan Singh,KC Sangakkara,1,Not out
+11.2,KC Sangakkara,Harbhajan Singh,DT Christian,1,Not out
+11.3,DT Christian,Harbhajan Singh,KC Sangakkara,1,Not out
+11.4,KC Sangakkara,Harbhajan Singh,DT Christian,0,Not out
+11.5,KC Sangakkara,Harbhajan Singh,DT Christian,1,Not out
+11.6,DT Christian,Harbhajan Singh,KC Sangakkara,1,Not out
+12.1,DT Christian,AN Ahmed,KC Sangakkara,0,Not out
+12.2,DT Christian,AN Ahmed,KC Sangakkara,0,Not out
+12.3,DT Christian,AN Ahmed,KC Sangakkara,6,Not out
+12.4,DT Christian,AN Ahmed,KC Sangakkara,2,Not out
+12.5,DT Christian,AN Ahmed,KC Sangakkara,1,Not out
+12.6,KC Sangakkara,AN Ahmed,DT Christian,1,Not out
+13.1,KC Sangakkara,SL Malinga,DT Christian,1,Not out
+13.2,DT Christian,SL Malinga,KC Sangakkara,1,Not out
+13.3,KC Sangakkara,SL Malinga,DT Christian,0,bowled
+13.4,DB Ravi Teja,SL Malinga,DT Christian,0,Not out
+13.5,DB Ravi Teja,SL Malinga,DT Christian,1,Not out
+13.6,DT Christian,SL Malinga,DB Ravi Teja,1,Not out
+14.1,DT Christian,MM Patel,DB Ravi Teja,0,Not out
+14.2,DT Christian,MM Patel,DB Ravi Teja,4,Not out
+14.3,DT Christian,MM Patel,DB Ravi Teja,0,Not out
+14.4,DT Christian,MM Patel,DB Ravi Teja,0,stumped
+14.5,A Mishra,MM Patel,DB Ravi Teja,1,Not out
+14.6,DB Ravi Teja,MM Patel,A Mishra,0,Not out
+15.1,A Mishra,SL Malinga,DB Ravi Teja,0,Not out
+15.2,A Mishra,SL Malinga,DB Ravi Teja,1,Not out
+15.3,DB Ravi Teja,SL Malinga,A Mishra,0,caught and bowled
+15.4,DW Steyn,SL Malinga,A Mishra,0,Not out
+15.5,DW Steyn,SL Malinga,A Mishra,0,Not out
+15.6,DW Steyn,SL Malinga,A Mishra,0,Not out
+16.1,A Mishra,MM Patel,DW Steyn,4,Not out
+16.2,A Mishra,MM Patel,DW Steyn,4,Not out
+16.3,A Mishra,MM Patel,DW Steyn,1,Not out
+16.4,DW Steyn,MM Patel,A Mishra,1,Not out
+16.5,A Mishra,MM Patel,DW Steyn,4,Not out
+16.6,A Mishra,MM Patel,DW Steyn,1,Not out
+17.1,A Mishra,SL Malinga,DW Steyn,0,Not out
+17.2,DW Steyn,SL Malinga,A Mishra,0,Not out
+17.3,DW Steyn,SL Malinga,A Mishra,1,Not out
+17.4,A Mishra,SL Malinga,DW Steyn,0,Not out
+17.5,A Mishra,SL Malinga,DW Steyn,1,Not out
+17.6,DW Steyn,SL Malinga,A Mishra,0,Not out
+18.1,A Mishra,AN Ahmed,DW Steyn,1,Not out
+18.2,DW Steyn,AN Ahmed,A Mishra,0,Not out
+18.3,DW Steyn,AN Ahmed,A Mishra,1,Not out
+18.4,A Mishra,AN Ahmed,DW Steyn,1,Not out
+18.5,DW Steyn,AN Ahmed,A Mishra,1,Not out
+18.6,A Mishra,AN Ahmed,DW Steyn,0,run out
+18.7,A Mishra,AN Ahmed,I Sharma,1,Not out
+19.1,A Mishra,Harbhajan Singh,I Sharma,1,Not out
+19.2,I Sharma,Harbhajan Singh,A Mishra,0,Not out
+19.3,I Sharma,Harbhajan Singh,A Mishra,1,Not out
+19.4,A Mishra,Harbhajan Singh,I Sharma,0,Not out
+19.5,A Mishra,Harbhajan Singh,I Sharma,0,Not out
+19.6,A Mishra,Harbhajan Singh,I Sharma,4,Not out

@@ -1,0 +1,66 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,RV Uthappa,MA Starc,G Gambhir,0,Not out
+0.2,RV Uthappa,MA Starc,G Gambhir,0,Not out
+0.3,RV Uthappa,MA Starc,G Gambhir,0,Not out
+0.4,RV Uthappa,MA Starc,G Gambhir,1,Not out
+0.5,G Gambhir,MA Starc,RV Uthappa,0,Not out
+0.6,G Gambhir,MA Starc,RV Uthappa,4,Not out
+0.7,G Gambhir,MA Starc,RV Uthappa,1,Not out
+0.8,RV Uthappa,MA Starc,G Gambhir,0,Not out
+1.1,G Gambhir,VR Aaron,RV Uthappa,1,Not out
+1.2,RV Uthappa,VR Aaron,G Gambhir,2,Not out
+1.3,RV Uthappa,VR Aaron,G Gambhir,0,Not out
+1.4,RV Uthappa,VR Aaron,G Gambhir,4,Not out
+1.5,RV Uthappa,VR Aaron,G Gambhir,4,Not out
+1.6,RV Uthappa,VR Aaron,G Gambhir,1,Not out
+2.1,RV Uthappa,HV Patel,G Gambhir,0,Not out
+2.2,G Gambhir,HV Patel,RV Uthappa,0,Not out
+2.3,G Gambhir,HV Patel,RV Uthappa,1,Not out
+2.4,RV Uthappa,HV Patel,G Gambhir,0,Not out
+2.5,RV Uthappa,HV Patel,G Gambhir,0,Not out
+2.6,RV Uthappa,HV Patel,G Gambhir,0,Not out
+2.7,RV Uthappa,HV Patel,G Gambhir,4,Not out
+3.1,G Gambhir,D Wiese,RV Uthappa,1,Not out
+3.2,RV Uthappa,D Wiese,G Gambhir,1,Not out
+3.3,G Gambhir,D Wiese,RV Uthappa,4,Not out
+3.4,G Gambhir,D Wiese,RV Uthappa,0,Not out
+3.5,G Gambhir,D Wiese,RV Uthappa,0,caught
+3.6,AD Russell,D Wiese,RV Uthappa,1,Not out
+4.1,AD Russell,YS Chahal,RV Uthappa,1,Not out
+4.2,RV Uthappa,YS Chahal,AD Russell,2,Not out
+4.3,RV Uthappa,YS Chahal,AD Russell,1,Not out
+4.4,AD Russell,YS Chahal,RV Uthappa,1,Not out
+4.5,RV Uthappa,YS Chahal,AD Russell,1,Not out
+4.6,AD Russell,YS Chahal,RV Uthappa,4,Not out
+5.1,RV Uthappa,VR Aaron,AD Russell,1,Not out
+5.2,AD Russell,VR Aaron,RV Uthappa,6,Not out
+5.3,AD Russell,VR Aaron,RV Uthappa,0,Not out
+5.4,AD Russell,VR Aaron,RV Uthappa,0,Not out
+5.5,AD Russell,VR Aaron,RV Uthappa,4,Not out
+5.6,AD Russell,VR Aaron,RV Uthappa,6,Not out
+6.1,RV Uthappa,YS Chahal,AD Russell,1,Not out
+6.2,AD Russell,YS Chahal,RV Uthappa,4,Not out
+6.3,AD Russell,YS Chahal,RV Uthappa,4,Not out
+6.4,AD Russell,YS Chahal,RV Uthappa,1,Not out
+6.5,RV Uthappa,YS Chahal,AD Russell,0,caught
+6.6,AD Russell,YS Chahal,RN ten Doeschate,2,Not out
+7.1,RN ten Doeschate,D Wiese,AD Russell,1,Not out
+7.2,AD Russell,D Wiese,RN ten Doeschate,4,Not out
+7.3,AD Russell,D Wiese,RN ten Doeschate,1,Not out
+7.4,RN ten Doeschate,D Wiese,AD Russell,1,Not out
+7.5,AD Russell,D Wiese,RN ten Doeschate,0,Not out
+7.6,AD Russell,D Wiese,RN ten Doeschate,6,Not out
+8.1,RN ten Doeschate,HV Patel,AD Russell,6,Not out
+8.2,RN ten Doeschate,HV Patel,AD Russell,0,Not out
+8.3,RN ten Doeschate,HV Patel,AD Russell,4,Not out
+8.4,RN ten Doeschate,HV Patel,AD Russell,0,run out
+8.5,YK Pathan,HV Patel,RN ten Doeschate,0,Not out
+8.6,YK Pathan,HV Patel,RN ten Doeschate,6,Not out
+9.1,RN ten Doeschate,MA Starc,YK Pathan,0,caught
+9.2,YK Pathan,MA Starc,SA Yadav,1,Not out
+9.3,SA Yadav,MA Starc,YK Pathan,0,Not out
+9.4,YK Pathan,MA Starc,SA Yadav,2,Not out
+9.5,YK Pathan,MA Starc,SA Yadav,1,Not out
+9.6,SA Yadav,MA Starc,YK Pathan,0,Not out
+9.7,YK Pathan,MA Starc,SA Yadav,0,Not out
+9.8,YK Pathan,MA Starc,SA Yadav,1,Not out

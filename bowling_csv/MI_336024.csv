@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AC Gilchrist,A Nehra,Shahid Afridi,0,Not out
+0.2,AC Gilchrist,A Nehra,Shahid Afridi,0,Not out
+0.3,AC Gilchrist,A Nehra,Shahid Afridi,0,Not out
+0.4,AC Gilchrist,A Nehra,Shahid Afridi,4,Not out
+0.5,AC Gilchrist,A Nehra,Shahid Afridi,0,Not out
+0.6,AC Gilchrist,A Nehra,Shahid Afridi,1,Not out
+1.1,AC Gilchrist,DJ Bravo,Shahid Afridi,0,Not out
+1.2,AC Gilchrist,DJ Bravo,Shahid Afridi,1,Not out
+1.3,Shahid Afridi,DJ Bravo,AC Gilchrist,0,caught
+1.4,AC Gilchrist,DJ Bravo,RG Sharma,0,Not out
+1.5,AC Gilchrist,DJ Bravo,RG Sharma,1,Not out
+1.6,RG Sharma,DJ Bravo,AC Gilchrist,4,Not out
+1.7,RG Sharma,DJ Bravo,AC Gilchrist,0,Not out
+2.1,AC Gilchrist,A Nehra,RG Sharma,0,Not out
+2.2,AC Gilchrist,A Nehra,RG Sharma,1,Not out
+2.3,RG Sharma,A Nehra,AC Gilchrist,0,Not out
+2.4,RG Sharma,A Nehra,AC Gilchrist,1,Not out
+2.5,AC Gilchrist,A Nehra,RG Sharma,0,Not out
+2.6,AC Gilchrist,A Nehra,RG Sharma,4,Not out
+3.1,RG Sharma,DJ Bravo,AC Gilchrist,0,Not out
+3.2,RG Sharma,DJ Bravo,AC Gilchrist,0,Not out
+3.3,RG Sharma,DJ Bravo,AC Gilchrist,1,Not out
+3.4,AC Gilchrist,DJ Bravo,RG Sharma,1,Not out
+3.5,RG Sharma,DJ Bravo,AC Gilchrist,0,Not out
+3.6,RG Sharma,DJ Bravo,AC Gilchrist,0,Not out
+4.1,AC Gilchrist,CRD Fernando,RG Sharma,0,Not out
+4.2,AC Gilchrist,CRD Fernando,RG Sharma,0,caught
+4.3,RG Sharma,CRD Fernando,LPC Silva,0,lbw
+4.4,Y Venugopal Rao,CRD Fernando,LPC Silva,0,Not out
+4.5,Y Venugopal Rao,CRD Fernando,LPC Silva,0,Not out
+4.6,Y Venugopal Rao,CRD Fernando,LPC Silva,1,Not out
+4.7,LPC Silva,CRD Fernando,Y Venugopal Rao,1,Not out
+5.1,LPC Silva,RR Raje,Y Venugopal Rao,0,Not out
+5.2,LPC Silva,RR Raje,Y Venugopal Rao,0,Not out
+5.3,LPC Silva,RR Raje,Y Venugopal Rao,4,Not out
+5.4,LPC Silva,RR Raje,Y Venugopal Rao,0,Not out
+5.5,LPC Silva,RR Raje,Y Venugopal Rao,0,Not out
+5.6,LPC Silva,RR Raje,Y Venugopal Rao,0,Not out
+5.7,LPC Silva,RR Raje,Y Venugopal Rao,4,Not out
+6.1,Y Venugopal Rao,CRD Fernando,LPC Silva,1,Not out
+6.2,LPC Silva,CRD Fernando,Y Venugopal Rao,4,Not out
+6.3,LPC Silva,CRD Fernando,Y Venugopal Rao,1,Not out
+6.4,Y Venugopal Rao,CRD Fernando,LPC Silva,2,Not out
+6.5,Y Venugopal Rao,CRD Fernando,LPC Silva,2,Not out
+6.6,Y Venugopal Rao,CRD Fernando,LPC Silva,0,Not out
+7.1,LPC Silva,AM Nayar,Y Venugopal Rao,0,Not out
+7.2,Y Venugopal Rao,AM Nayar,LPC Silva,1,Not out
+7.3,LPC Silva,AM Nayar,Y Venugopal Rao,1,Not out
+7.4,Y Venugopal Rao,AM Nayar,LPC Silva,2,Not out
+7.5,Y Venugopal Rao,AM Nayar,LPC Silva,0,Not out
+7.6,Y Venugopal Rao,AM Nayar,LPC Silva,1,Not out
+8.1,Y Venugopal Rao,DJ Thornely,LPC Silva,0,Not out
+8.2,Y Venugopal Rao,DJ Thornely,LPC Silva,4,Not out
+8.3,Y Venugopal Rao,DJ Thornely,LPC Silva,1,Not out
+8.4,LPC Silva,DJ Thornely,Y Venugopal Rao,1,Not out
+8.5,Y Venugopal Rao,DJ Thornely,LPC Silva,1,Not out
+8.6,LPC Silva,DJ Thornely,Y Venugopal Rao,1,Not out
+9.1,LPC Silva,AM Nayar,Y Venugopal Rao,0,caught
+9.2,DB Ravi Teja,AM Nayar,Y Venugopal Rao,0,Not out
+9.3,DB Ravi Teja,AM Nayar,Y Venugopal Rao,1,Not out
+9.4,Y Venugopal Rao,AM Nayar,DB Ravi Teja,1,Not out
+9.5,DB Ravi Teja,AM Nayar,Y Venugopal Rao,0,Not out
+9.6,DB Ravi Teja,AM Nayar,Y Venugopal Rao,1,Not out
+10.1,DB Ravi Teja,ST Jayasuriya,Y Venugopal Rao,0,Not out
+10.2,DB Ravi Teja,ST Jayasuriya,Y Venugopal Rao,0,Not out
+10.3,DB Ravi Teja,ST Jayasuriya,Y Venugopal Rao,1,Not out
+10.4,Y Venugopal Rao,ST Jayasuriya,DB Ravi Teja,1,Not out
+10.5,DB Ravi Teja,ST Jayasuriya,Y Venugopal Rao,0,Not out
+10.6,DB Ravi Teja,ST Jayasuriya,Y Venugopal Rao,1,Not out
+11.1,DB Ravi Teja,AM Nayar,Y Venugopal Rao,0,Not out
+11.2,DB Ravi Teja,AM Nayar,Y Venugopal Rao,0,Not out
+11.3,DB Ravi Teja,AM Nayar,Y Venugopal Rao,0,Not out
+11.4,DB Ravi Teja,AM Nayar,Y Venugopal Rao,4,Not out
+11.5,DB Ravi Teja,AM Nayar,Y Venugopal Rao,6,Not out
+11.6,DB Ravi Teja,AM Nayar,Y Venugopal Rao,0,Not out
+12.1,Y Venugopal Rao,ST Jayasuriya,DB Ravi Teja,4,Not out
+12.2,Y Venugopal Rao,ST Jayasuriya,DB Ravi Teja,0,Not out
+12.3,Y Venugopal Rao,ST Jayasuriya,DB Ravi Teja,4,Not out
+12.4,Y Venugopal Rao,ST Jayasuriya,DB Ravi Teja,0,Not out
+12.5,Y Venugopal Rao,ST Jayasuriya,DB Ravi Teja,1,Not out
+12.6,DB Ravi Teja,ST Jayasuriya,Y Venugopal Rao,1,Not out
+13.1,DB Ravi Teja,RR Raje,Y Venugopal Rao,1,Not out
+13.2,Y Venugopal Rao,RR Raje,DB Ravi Teja,2,Not out
+13.3,Y Venugopal Rao,RR Raje,DB Ravi Teja,1,Not out
+13.4,DB Ravi Teja,RR Raje,Y Venugopal Rao,1,Not out
+13.5,Y Venugopal Rao,RR Raje,DB Ravi Teja,4,Not out
+13.6,Y Venugopal Rao,RR Raje,DB Ravi Teja,1,Not out
+14.1,Y Venugopal Rao,A Nehra,DB Ravi Teja,6,Not out
+14.2,Y Venugopal Rao,A Nehra,DB Ravi Teja,1,Not out
+14.3,DB Ravi Teja,A Nehra,Y Venugopal Rao,1,Not out
+14.4,Y Venugopal Rao,A Nehra,DB Ravi Teja,0,Not out
+14.5,Y Venugopal Rao,A Nehra,DB Ravi Teja,6,Not out
+14.6,Y Venugopal Rao,A Nehra,DB Ravi Teja,0,Not out
+15.1,DB Ravi Teja,DJ Bravo,Y Venugopal Rao,1,Not out
+15.2,Y Venugopal Rao,DJ Bravo,DB Ravi Teja,1,Not out
+15.3,DB Ravi Teja,DJ Bravo,Y Venugopal Rao,1,Not out
+15.4,Y Venugopal Rao,DJ Bravo,DB Ravi Teja,1,Not out
+15.5,DB Ravi Teja,DJ Bravo,Y Venugopal Rao,0,Not out
+15.6,DB Ravi Teja,DJ Bravo,Y Venugopal Rao,4,Not out
+16.1,Y Venugopal Rao,CRD Fernando,DB Ravi Teja,0,Not out
+16.2,Y Venugopal Rao,CRD Fernando,DB Ravi Teja,0,Not out
+16.3,DB Ravi Teja,CRD Fernando,Y Venugopal Rao,6,Not out
+16.4,DB Ravi Teja,CRD Fernando,Y Venugopal Rao,1,Not out
+16.5,Y Venugopal Rao,CRD Fernando,DB Ravi Teja,6,Not out
+16.6,Y Venugopal Rao,CRD Fernando,DB Ravi Teja,0,Not out
+16.7,Y Venugopal Rao,CRD Fernando,DB Ravi Teja,1,Not out
+17.1,Y Venugopal Rao,DJ Bravo,DB Ravi Teja,0,caught
+17.2,DB Ravi Teja,DJ Bravo,DNT Zoysa,6,Not out
+17.3,DB Ravi Teja,DJ Bravo,DNT Zoysa,0,bowled
+17.4,H Das,DJ Bravo,DNT Zoysa,0,Not out
+17.5,H Das,DJ Bravo,DNT Zoysa,0,Not out
+17.6,H Das,DJ Bravo,DNT Zoysa,1,Not out
+18.1,H Das,CRD Fernando,DNT Zoysa,1,Not out
+18.2,DNT Zoysa,CRD Fernando,H Das,2,Not out
+18.3,DNT Zoysa,CRD Fernando,H Das,4,Not out
+18.4,DNT Zoysa,CRD Fernando,H Das,1,Not out
+18.5,H Das,CRD Fernando,DNT Zoysa,0,run out
+18.6,DNT Zoysa,CRD Fernando,RP Singh,2,Not out
+19.1,RP Singh,A Nehra,DNT Zoysa,1,Not out
+19.2,DNT Zoysa,A Nehra,RP Singh,0,Not out
+19.3,RP Singh,A Nehra,DNT Zoysa,1,Not out
+19.4,DNT Zoysa,A Nehra,RP Singh,0,Not out
+19.5,RP Singh,A Nehra,DNT Zoysa,1,Not out
+19.6,DNT Zoysa,A Nehra,RP Singh,1,Not out

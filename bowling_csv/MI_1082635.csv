@@ -1,0 +1,84 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,SV Samson,MJ McClenaghan,KK Nair,0,caught
+0.2,KK Nair,MJ McClenaghan,SS Iyer,1,Not out
+0.3,SS Iyer,MJ McClenaghan,KK Nair,1,Not out
+0.4,KK Nair,MJ McClenaghan,SS Iyer,1,Not out
+0.5,SS Iyer,MJ McClenaghan,KK Nair,0,Not out
+0.6,SS Iyer,MJ McClenaghan,KK Nair,1,Not out
+1.1,SS Iyer,SL Malinga,KK Nair,1,Not out
+1.2,KK Nair,SL Malinga,SS Iyer,0,Not out
+1.3,KK Nair,SL Malinga,SS Iyer,0,Not out
+1.4,SS Iyer,SL Malinga,KK Nair,0,Not out
+1.5,SS Iyer,SL Malinga,KK Nair,0,caught
+1.6,RR Pant,SL Malinga,KK Nair,0,Not out
+2.1,KK Nair,MJ McClenaghan,RR Pant,0,Not out
+2.2,KK Nair,MJ McClenaghan,RR Pant,0,Not out
+2.3,KK Nair,MJ McClenaghan,RR Pant,4,Not out
+2.4,KK Nair,MJ McClenaghan,RR Pant,4,Not out
+2.5,KK Nair,MJ McClenaghan,RR Pant,0,Not out
+2.6,KK Nair,MJ McClenaghan,RR Pant,6,Not out
+3.1,RR Pant,JJ Bumrah,KK Nair,0,Not out
+3.2,RR Pant,JJ Bumrah,KK Nair,0,caught
+3.3,KK Nair,JJ Bumrah,CJ Anderson,0,Not out
+3.4,KK Nair,JJ Bumrah,CJ Anderson,1,Not out
+3.5,CJ Anderson,JJ Bumrah,KK Nair,1,Not out
+3.6,KK Nair,JJ Bumrah,CJ Anderson,4,Not out
+4.1,CJ Anderson,Harbhajan Singh,KK Nair,4,Not out
+4.2,CJ Anderson,Harbhajan Singh,KK Nair,1,Not out
+4.3,KK Nair,Harbhajan Singh,CJ Anderson,0,Not out
+4.4,KK Nair,Harbhajan Singh,CJ Anderson,0,caught
+4.5,MN Samuels,Harbhajan Singh,CJ Anderson,0,Not out
+4.6,MN Samuels,Harbhajan Singh,CJ Anderson,0,Not out
+5.1,CJ Anderson,SL Malinga,MN Samuels,0,Not out
+5.2,CJ Anderson,SL Malinga,MN Samuels,4,Not out
+5.3,CJ Anderson,SL Malinga,MN Samuels,0,Not out
+5.4,CJ Anderson,SL Malinga,MN Samuels,0,Not out
+5.5,CJ Anderson,SL Malinga,MN Samuels,0,caught
+5.6,PJ Cummins,SL Malinga,MN Samuels,0,Not out
+6.1,MN Samuels,Harbhajan Singh,PJ Cummins,0,Not out
+6.2,MN Samuels,Harbhajan Singh,PJ Cummins,1,Not out
+6.3,PJ Cummins,Harbhajan Singh,MN Samuels,0,Not out
+6.4,PJ Cummins,Harbhajan Singh,MN Samuels,0,Not out
+6.5,PJ Cummins,Harbhajan Singh,MN Samuels,0,Not out
+6.6,PJ Cummins,Harbhajan Singh,MN Samuels,1,Not out
+7.1,PJ Cummins,KV Sharma,MN Samuels,2,Not out
+7.2,PJ Cummins,KV Sharma,MN Samuels,0,Not out
+7.3,PJ Cummins,KV Sharma,MN Samuels,1,Not out
+7.4,MN Samuels,KV Sharma,PJ Cummins,0,caught
+7.5,K Rabada,KV Sharma,PJ Cummins,0,Not out
+7.6,K Rabada,KV Sharma,PJ Cummins,0,Not out
+8.1,PJ Cummins,Harbhajan Singh,K Rabada,6,Not out
+8.2,PJ Cummins,Harbhajan Singh,K Rabada,0,caught
+8.3,A Mishra,Harbhajan Singh,K Rabada,0,Not out
+8.4,A Mishra,Harbhajan Singh,K Rabada,1,Not out
+8.5,K Rabada,Harbhajan Singh,A Mishra,0,Not out
+8.6,K Rabada,Harbhajan Singh,A Mishra,0,Not out
+9.1,A Mishra,KV Sharma,K Rabada,0,Not out
+9.2,A Mishra,KV Sharma,K Rabada,0,Not out
+9.3,A Mishra,KV Sharma,K Rabada,0,Not out
+9.4,K Rabada,KV Sharma,A Mishra,0,caught
+9.5,Mohammed Shami,KV Sharma,A Mishra,1,Not out
+9.6,A Mishra,KV Sharma,Mohammed Shami,1,Not out
+10.1,A Mishra,Harbhajan Singh,Mohammed Shami,1,Not out
+10.2,Mohammed Shami,Harbhajan Singh,A Mishra,0,Not out
+10.3,Mohammed Shami,Harbhajan Singh,A Mishra,6,Not out
+10.4,Mohammed Shami,Harbhajan Singh,A Mishra,0,caught
+10.5,A Mishra,Harbhajan Singh,Z Khan,1,Not out
+10.6,Z Khan,Harbhajan Singh,A Mishra,0,Not out
+11.1,A Mishra,KV Sharma,Z Khan,0,Not out
+11.2,A Mishra,KV Sharma,Z Khan,2,Not out
+11.3,A Mishra,KV Sharma,Z Khan,1,Not out
+11.4,Z Khan,KV Sharma,A Mishra,1,Not out
+11.5,A Mishra,KV Sharma,Z Khan,0,Not out
+11.6,A Mishra,KV Sharma,Z Khan,0,Not out
+11.7,A Mishra,KV Sharma,Z Khan,1,Not out
+12.1,A Mishra,HH Pandya,Z Khan,1,Not out
+12.2,Z Khan,HH Pandya,A Mishra,0,Not out
+12.3,Z Khan,HH Pandya,A Mishra,0,Not out
+12.4,Z Khan,HH Pandya,A Mishra,0,Not out
+12.5,Z Khan,HH Pandya,A Mishra,0,Not out
+12.6,Z Khan,HH Pandya,A Mishra,1,Not out
+13.1,Z Khan,KV Sharma,A Mishra,0,Not out
+13.2,Z Khan,KV Sharma,A Mishra,0,Not out
+13.3,Z Khan,KV Sharma,A Mishra,0,Not out
+13.4,Z Khan,KV Sharma,A Mishra,0,caught

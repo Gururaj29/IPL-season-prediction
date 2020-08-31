@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,V Sehwag,MM Sharma,UBT Chand,0,Not out
+0.2,V Sehwag,MM Sharma,UBT Chand,0,caught
+0.3,J Botha,MM Sharma,UBT Chand,0,Not out
+0.4,J Botha,MM Sharma,UBT Chand,1,Not out
+0.5,UBT Chand,MM Sharma,J Botha,0,Not out
+0.6,UBT Chand,MM Sharma,J Botha,0,Not out
+0.7,UBT Chand,MM Sharma,J Botha,4,Not out
+1.1,J Botha,JO Holder,UBT Chand,0,Not out
+1.2,J Botha,JO Holder,UBT Chand,0,Not out
+1.3,J Botha,JO Holder,UBT Chand,0,Not out
+1.4,J Botha,JO Holder,UBT Chand,2,Not out
+1.5,J Botha,JO Holder,UBT Chand,0,Not out
+1.6,J Botha,JO Holder,UBT Chand,4,Not out
+2.1,UBT Chand,MM Sharma,J Botha,4,Not out
+2.2,UBT Chand,MM Sharma,J Botha,0,Not out
+2.3,UBT Chand,MM Sharma,J Botha,0,Not out
+2.4,UBT Chand,MM Sharma,J Botha,1,Not out
+2.5,J Botha,MM Sharma,UBT Chand,0,Not out
+2.6,J Botha,MM Sharma,UBT Chand,0,Not out
+3.1,UBT Chand,JO Holder,J Botha,0,Not out
+3.2,UBT Chand,JO Holder,J Botha,1,Not out
+3.3,J Botha,JO Holder,UBT Chand,0,Not out
+3.4,J Botha,JO Holder,UBT Chand,6,Not out
+3.5,J Botha,JO Holder,UBT Chand,0,Not out
+3.6,J Botha,JO Holder,UBT Chand,4,Not out
+4.1,UBT Chand,MM Sharma,J Botha,6,Not out
+4.2,UBT Chand,MM Sharma,J Botha,0,Not out
+4.3,UBT Chand,MM Sharma,J Botha,0,Not out
+4.4,UBT Chand,MM Sharma,J Botha,0,caught
+4.5,DA Warner,MM Sharma,J Botha,0,Not out
+4.6,DA Warner,MM Sharma,J Botha,0,Not out
+5.1,J Botha,JO Holder,DA Warner,4,Not out
+5.2,J Botha,JO Holder,DA Warner,1,Not out
+5.3,DA Warner,JO Holder,J Botha,4,Not out
+5.4,DA Warner,JO Holder,J Botha,1,Not out
+5.5,J Botha,JO Holder,DA Warner,1,Not out
+5.6,DA Warner,JO Holder,J Botha,4,Not out
+6.1,J Botha,R Ashwin,DA Warner,0,Not out
+6.2,J Botha,R Ashwin,DA Warner,0,Not out
+6.3,J Botha,R Ashwin,DA Warner,0,caught
+6.4,DA Warner,R Ashwin,KM Jadhav,0,Not out
+6.5,DA Warner,R Ashwin,KM Jadhav,0,Not out
+6.6,DA Warner,R Ashwin,KM Jadhav,1,Not out
+6.7,KM Jadhav,R Ashwin,DA Warner,0,Not out
+7.1,DA Warner,JA Morkel,KM Jadhav,1,Not out
+7.2,KM Jadhav,JA Morkel,DA Warner,1,Not out
+7.3,DA Warner,JA Morkel,KM Jadhav,1,Not out
+7.4,KM Jadhav,JA Morkel,DA Warner,1,Not out
+7.5,DA Warner,JA Morkel,KM Jadhav,1,Not out
+7.6,KM Jadhav,JA Morkel,DA Warner,0,caught
+8.1,DA Warner,R Ashwin,BJ Rohrer,1,Not out
+8.2,BJ Rohrer,R Ashwin,DA Warner,1,Not out
+8.3,DA Warner,R Ashwin,BJ Rohrer,0,Not out
+8.4,DA Warner,R Ashwin,BJ Rohrer,0,Not out
+8.5,DA Warner,R Ashwin,BJ Rohrer,1,Not out
+8.6,BJ Rohrer,R Ashwin,DA Warner,1,Not out
+9.1,BJ Rohrer,JA Morkel,DA Warner,2,Not out
+9.2,BJ Rohrer,JA Morkel,DA Warner,0,Not out
+9.3,BJ Rohrer,JA Morkel,DA Warner,0,Not out
+9.4,BJ Rohrer,JA Morkel,DA Warner,0,caught
+9.5,RE van der Merwe,JA Morkel,DA Warner,0,Not out
+9.6,RE van der Merwe,JA Morkel,DA Warner,2,Not out
+9.7,RE van der Merwe,JA Morkel,DA Warner,0,Not out
+10.1,DA Warner,DJ Bravo,RE van der Merwe,0,Not out
+10.2,DA Warner,DJ Bravo,RE van der Merwe,1,Not out
+10.3,RE van der Merwe,DJ Bravo,DA Warner,0,Not out
+10.4,RE van der Merwe,DJ Bravo,DA Warner,1,Not out
+10.5,DA Warner,DJ Bravo,RE van der Merwe,0,Not out
+10.6,DA Warner,DJ Bravo,RE van der Merwe,2,Not out
+11.1,RE van der Merwe,JA Morkel,DA Warner,0,Not out
+11.2,RE van der Merwe,JA Morkel,DA Warner,1,Not out
+11.3,DA Warner,JA Morkel,RE van der Merwe,6,Not out
+11.4,DA Warner,JA Morkel,RE van der Merwe,1,Not out
+11.5,RE van der Merwe,JA Morkel,DA Warner,1,Not out
+11.6,DA Warner,JA Morkel,RE van der Merwe,1,Not out
+12.1,DA Warner,R Ashwin,RE van der Merwe,1,Not out
+12.2,RE van der Merwe,R Ashwin,DA Warner,1,Not out
+12.3,DA Warner,R Ashwin,RE van der Merwe,1,Not out
+12.4,RE van der Merwe,R Ashwin,DA Warner,2,Not out
+12.5,RE van der Merwe,R Ashwin,DA Warner,1,Not out
+12.6,DA Warner,R Ashwin,RE van der Merwe,1,Not out
+13.1,DA Warner,JO Holder,RE van der Merwe,2,Not out
+13.2,DA Warner,JO Holder,RE van der Merwe,0,Not out
+13.3,DA Warner,JO Holder,RE van der Merwe,1,Not out
+13.4,RE van der Merwe,JO Holder,DA Warner,0,Not out
+13.5,RE van der Merwe,JO Holder,DA Warner,0,Not out
+13.6,RE van der Merwe,JO Holder,DA Warner,4,Not out
+14.1,DA Warner,R Ashwin,RE van der Merwe,2,Not out
+14.2,DA Warner,R Ashwin,RE van der Merwe,1,Not out
+14.3,RE van der Merwe,R Ashwin,DA Warner,1,Not out
+14.4,DA Warner,R Ashwin,RE van der Merwe,1,Not out
+14.5,RE van der Merwe,R Ashwin,DA Warner,0,caught
+14.6,DA Warner,R Ashwin,IK Pathan,1,Not out
+15.1,DA Warner,DJ Bravo,IK Pathan,1,Not out
+15.2,IK Pathan,DJ Bravo,DA Warner,1,Not out
+15.3,DA Warner,DJ Bravo,IK Pathan,2,Not out
+15.4,DA Warner,DJ Bravo,IK Pathan,1,Not out
+15.5,IK Pathan,DJ Bravo,DA Warner,1,Not out
+15.6,DA Warner,DJ Bravo,IK Pathan,1,Not out
+16.1,DA Warner,JA Morkel,IK Pathan,2,Not out
+16.2,DA Warner,JA Morkel,IK Pathan,0,Not out
+16.3,IK Pathan,JA Morkel,DA Warner,1,Not out
+16.4,DA Warner,JA Morkel,IK Pathan,0,caught
+16.5,UT Yadav,JA Morkel,IK Pathan,0,Not out
+16.6,UT Yadav,JA Morkel,IK Pathan,6,Not out
+16.7,UT Yadav,JA Morkel,IK Pathan,1,Not out
+17.1,UT Yadav,DJ Bravo,IK Pathan,1,Not out
+17.2,IK Pathan,DJ Bravo,UT Yadav,1,Not out
+17.3,UT Yadav,DJ Bravo,IK Pathan,1,Not out
+17.4,IK Pathan,DJ Bravo,UT Yadav,0,bowled
+17.5,A Nehra,DJ Bravo,UT Yadav,0,caught
+17.6,S Kaul,DJ Bravo,UT Yadav,0,Not out
+18.1,UT Yadav,MM Sharma,S Kaul,1,Not out
+18.2,S Kaul,MM Sharma,UT Yadav,0,Not out
+18.3,S Kaul,MM Sharma,UT Yadav,1,Not out
+18.4,UT Yadav,MM Sharma,S Kaul,1,Not out
+18.5,S Kaul,MM Sharma,UT Yadav,0,Not out
+18.6,S Kaul,MM Sharma,UT Yadav,2,Not out
+19.1,UT Yadav,DJ Bravo,S Kaul,0,Not out
+19.2,UT Yadav,DJ Bravo,S Kaul,1,Not out
+19.3,S Kaul,DJ Bravo,UT Yadav,0,Not out
+19.4,S Kaul,DJ Bravo,UT Yadav,0,Not out
+19.5,S Kaul,DJ Bravo,UT Yadav,2,Not out
+19.6,S Kaul,DJ Bravo,UT Yadav,2,Not out

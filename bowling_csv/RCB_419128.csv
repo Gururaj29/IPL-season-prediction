@@ -1,0 +1,128 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DA Warner,P Kumar,V Sehwag,2,Not out
+0.2,DA Warner,P Kumar,V Sehwag,2,Not out
+0.3,DA Warner,P Kumar,V Sehwag,2,Not out
+0.4,DA Warner,P Kumar,V Sehwag,0,Not out
+0.5,DA Warner,P Kumar,V Sehwag,6,Not out
+0.6,DA Warner,P Kumar,V Sehwag,1,Not out
+1.1,DA Warner,DW Steyn,V Sehwag,4,Not out
+1.2,DA Warner,DW Steyn,V Sehwag,1,Not out
+1.3,V Sehwag,DW Steyn,DA Warner,0,Not out
+1.4,V Sehwag,DW Steyn,DA Warner,4,Not out
+1.5,V Sehwag,DW Steyn,DA Warner,1,Not out
+1.6,DA Warner,DW Steyn,V Sehwag,6,Not out
+2.1,V Sehwag,P Kumar,DA Warner,1,Not out
+2.2,DA Warner,P Kumar,V Sehwag,0,Not out
+2.3,DA Warner,P Kumar,V Sehwag,4,Not out
+2.4,DA Warner,P Kumar,V Sehwag,1,Not out
+2.5,V Sehwag,P Kumar,DA Warner,0,Not out
+2.6,V Sehwag,P Kumar,DA Warner,4,Not out
+3.1,DA Warner,DW Steyn,V Sehwag,0,Not out
+3.2,DA Warner,DW Steyn,V Sehwag,4,Not out
+3.3,DA Warner,DW Steyn,V Sehwag,0,caught
+3.4,V Sehwag,DW Steyn,AB de Villiers,0,Not out
+3.5,V Sehwag,DW Steyn,AB de Villiers,1,Not out
+3.6,AB de Villiers,DW Steyn,V Sehwag,3,Not out
+3.7,V Sehwag,DW Steyn,AB de Villiers,0,Not out
+4.1,AB de Villiers,JH Kallis,V Sehwag,2,Not out
+4.2,AB de Villiers,JH Kallis,V Sehwag,2,Not out
+4.3,AB de Villiers,JH Kallis,V Sehwag,4,Not out
+4.4,AB de Villiers,JH Kallis,V Sehwag,0,Not out
+4.5,AB de Villiers,JH Kallis,V Sehwag,1,Not out
+4.6,V Sehwag,JH Kallis,AB de Villiers,1,Not out
+5.1,V Sehwag,R Vinay Kumar,AB de Villiers,0,caught
+5.2,AB de Villiers,R Vinay Kumar,KD Karthik,0,Not out
+5.3,AB de Villiers,R Vinay Kumar,KD Karthik,0,Not out
+5.4,AB de Villiers,R Vinay Kumar,KD Karthik,4,Not out
+5.5,AB de Villiers,R Vinay Kumar,KD Karthik,1,Not out
+5.6,KD Karthik,R Vinay Kumar,AB de Villiers,1,Not out
+6.1,KD Karthik,A Kumble,AB de Villiers,1,Not out
+6.2,AB de Villiers,A Kumble,KD Karthik,2,Not out
+6.3,AB de Villiers,A Kumble,KD Karthik,2,Not out
+6.4,AB de Villiers,A Kumble,KD Karthik,1,Not out
+6.5,KD Karthik,A Kumble,AB de Villiers,1,Not out
+6.6,AB de Villiers,A Kumble,KD Karthik,4,Not out
+7.1,KD Karthik,R Vinay Kumar,AB de Villiers,1,Not out
+7.2,AB de Villiers,R Vinay Kumar,KD Karthik,1,Not out
+7.3,KD Karthik,R Vinay Kumar,AB de Villiers,0,Not out
+7.4,KD Karthik,R Vinay Kumar,AB de Villiers,0,Not out
+7.5,KD Karthik,R Vinay Kumar,AB de Villiers,1,Not out
+7.6,AB de Villiers,R Vinay Kumar,KD Karthik,1,Not out
+8.1,AB de Villiers,A Kumble,KD Karthik,1,Not out
+8.2,KD Karthik,A Kumble,AB de Villiers,1,Not out
+8.3,AB de Villiers,A Kumble,KD Karthik,1,Not out
+8.4,KD Karthik,A Kumble,AB de Villiers,1,Not out
+8.5,AB de Villiers,A Kumble,KD Karthik,1,Not out
+8.6,KD Karthik,A Kumble,AB de Villiers,4,Not out
+9.1,AB de Villiers,R Vinay Kumar,KD Karthik,1,Not out
+9.2,KD Karthik,R Vinay Kumar,AB de Villiers,0,Not out
+9.3,KD Karthik,R Vinay Kumar,AB de Villiers,0,Not out
+9.4,KD Karthik,R Vinay Kumar,AB de Villiers,1,Not out
+9.5,AB de Villiers,R Vinay Kumar,KD Karthik,1,Not out
+9.6,KD Karthik,R Vinay Kumar,AB de Villiers,1,Not out
+9.7,AB de Villiers,R Vinay Kumar,KD Karthik,2,Not out
+10.1,KD Karthik,JH Kallis,AB de Villiers,1,Not out
+10.2,AB de Villiers,JH Kallis,KD Karthik,1,Not out
+10.3,KD Karthik,JH Kallis,AB de Villiers,1,Not out
+10.4,AB de Villiers,JH Kallis,KD Karthik,0,Not out
+10.5,AB de Villiers,JH Kallis,KD Karthik,1,Not out
+10.6,KD Karthik,JH Kallis,AB de Villiers,1,Not out
+11.1,KD Karthik,DW Steyn,AB de Villiers,0,Not out
+11.2,KD Karthik,DW Steyn,AB de Villiers,0,Not out
+11.3,KD Karthik,DW Steyn,AB de Villiers,1,Not out
+11.4,AB de Villiers,DW Steyn,KD Karthik,0,run out
+11.5,AB de Villiers,DW Steyn,KM Jadhav,1,Not out
+11.6,KM Jadhav,DW Steyn,AB de Villiers,1,Not out
+12.1,KM Jadhav,JH Kallis,AB de Villiers,0,Not out
+12.2,KM Jadhav,JH Kallis,AB de Villiers,0,Not out
+12.3,KM Jadhav,JH Kallis,AB de Villiers,1,Not out
+12.4,AB de Villiers,JH Kallis,KM Jadhav,1,Not out
+12.5,KM Jadhav,JH Kallis,AB de Villiers,4,Not out
+12.6,KM Jadhav,JH Kallis,AB de Villiers,1,Not out
+12.7,AB de Villiers,JH Kallis,KM Jadhav,1,Not out
+13.1,AB de Villiers,A Kumble,KM Jadhav,1,Not out
+13.2,KM Jadhav,A Kumble,AB de Villiers,1,Not out
+13.3,AB de Villiers,A Kumble,KM Jadhav,1,Not out
+13.4,KM Jadhav,A Kumble,AB de Villiers,0,Not out
+13.5,KM Jadhav,A Kumble,AB de Villiers,0,Not out
+13.6,KM Jadhav,A Kumble,AB de Villiers,1,Not out
+14.1,KM Jadhav,JH Kallis,AB de Villiers,4,Not out
+14.2,KM Jadhav,JH Kallis,AB de Villiers,1,Not out
+14.3,AB de Villiers,JH Kallis,KM Jadhav,1,Not out
+14.4,KM Jadhav,JH Kallis,AB de Villiers,6,Not out
+14.5,KM Jadhav,JH Kallis,AB de Villiers,0,Not out
+14.6,KM Jadhav,JH Kallis,AB de Villiers,0,Not out
+15.1,AB de Villiers,A Kumble,KM Jadhav,1,Not out
+15.2,KM Jadhav,A Kumble,AB de Villiers,1,Not out
+15.3,AB de Villiers,A Kumble,KM Jadhav,0,Not out
+15.4,AB de Villiers,A Kumble,KM Jadhav,1,Not out
+15.5,KM Jadhav,A Kumble,AB de Villiers,2,Not out
+15.6,KM Jadhav,A Kumble,AB de Villiers,1,Not out
+16.1,KM Jadhav,P Kumar,AB de Villiers,0,run out
+16.2,AB McDonald,P Kumar,KM Jadhav,0,Not out
+16.3,AB McDonald,P Kumar,KM Jadhav,0,Not out
+16.4,AB McDonald,P Kumar,KM Jadhav,0,Not out
+16.5,AB McDonald,P Kumar,KM Jadhav,0,Not out
+16.6,AB McDonald,P Kumar,KM Jadhav,0,Not out
+16.7,KM Jadhav,P Kumar,AB McDonald,0,Not out
+16.8,KM Jadhav,P Kumar,AB McDonald,2,Not out
+17.1,AB McDonald,DW Steyn,KM Jadhav,4,Not out
+17.2,AB McDonald,DW Steyn,KM Jadhav,3,Not out
+17.3,KM Jadhav,DW Steyn,AB McDonald,4,Not out
+17.4,KM Jadhav,DW Steyn,AB McDonald,0,Not out
+17.5,KM Jadhav,DW Steyn,AB McDonald,0,Not out
+17.6,KM Jadhav,DW Steyn,AB McDonald,1,Not out
+17.7,AB McDonald,DW Steyn,KM Jadhav,1,Not out
+18.1,AB McDonald,P Kumar,KM Jadhav,0,Not out
+18.2,AB McDonald,P Kumar,KM Jadhav,2,Not out
+18.3,AB McDonald,P Kumar,KM Jadhav,6,Not out
+18.4,AB McDonald,P Kumar,KM Jadhav,1,Not out
+18.5,KM Jadhav,P Kumar,AB McDonald,4,Not out
+18.6,KM Jadhav,P Kumar,AB McDonald,2,Not out
+18.7,KM Jadhav,P Kumar,AB McDonald,2,Not out
+19.1,AB McDonald,R Vinay Kumar,KM Jadhav,1,Not out
+19.2,KM Jadhav,R Vinay Kumar,AB McDonald,0,Not out
+19.3,KM Jadhav,R Vinay Kumar,AB McDonald,4,Not out
+19.4,KM Jadhav,R Vinay Kumar,AB McDonald,6,Not out
+19.5,KM Jadhav,R Vinay Kumar,AB McDonald,1,Not out
+19.6,AB McDonald,R Vinay Kumar,KM Jadhav,0,Not out

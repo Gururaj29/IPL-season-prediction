@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,V Kohli,P Kumar,SR Watson,0,Not out
+0.2,V Kohli,P Kumar,SR Watson,1,Not out
+0.3,SR Watson,P Kumar,V Kohli,0,Not out
+0.4,SR Watson,P Kumar,V Kohli,0,Not out
+0.5,SR Watson,P Kumar,V Kohli,1,Not out
+0.6,V Kohli,P Kumar,SR Watson,0,Not out
+1.1,SR Watson,DS Kulkarni,V Kohli,4,Not out
+1.2,SR Watson,DS Kulkarni,V Kohli,1,Not out
+1.3,V Kohli,DS Kulkarni,SR Watson,1,Not out
+1.4,SR Watson,DS Kulkarni,V Kohli,0,caught
+1.5,V Kohli,DS Kulkarni,AB de Villiers,1,Not out
+1.6,AB de Villiers,DS Kulkarni,V Kohli,0,Not out
+2.1,V Kohli,P Kumar,AB de Villiers,0,Not out
+2.2,V Kohli,P Kumar,AB de Villiers,1,Not out
+2.3,AB de Villiers,P Kumar,V Kohli,1,Not out
+2.4,V Kohli,P Kumar,AB de Villiers,0,Not out
+2.5,V Kohli,P Kumar,AB de Villiers,4,Not out
+2.6,V Kohli,P Kumar,AB de Villiers,4,Not out
+3.1,AB de Villiers,DS Kulkarni,V Kohli,1,Not out
+3.2,V Kohli,DS Kulkarni,AB de Villiers,0,Not out
+3.3,V Kohli,DS Kulkarni,AB de Villiers,1,Not out
+3.4,AB de Villiers,DS Kulkarni,V Kohli,4,Not out
+3.5,AB de Villiers,DS Kulkarni,V Kohli,1,Not out
+3.6,V Kohli,DS Kulkarni,AB de Villiers,1,Not out
+4.1,V Kohli,PV Tambe,AB de Villiers,4,Not out
+4.2,V Kohli,PV Tambe,AB de Villiers,4,Not out
+4.3,V Kohli,PV Tambe,AB de Villiers,1,Not out
+4.4,AB de Villiers,PV Tambe,V Kohli,1,Not out
+4.5,V Kohli,PV Tambe,AB de Villiers,0,Not out
+4.6,V Kohli,PV Tambe,AB de Villiers,1,Not out
+5.1,V Kohli,SB Jakati,AB de Villiers,4,Not out
+5.2,V Kohli,SB Jakati,AB de Villiers,1,Not out
+5.3,AB de Villiers,SB Jakati,V Kohli,1,Not out
+5.4,V Kohli,SB Jakati,AB de Villiers,1,Not out
+5.5,AB de Villiers,SB Jakati,V Kohli,4,Not out
+5.6,AB de Villiers,SB Jakati,V Kohli,1,Not out
+6.1,AB de Villiers,RA Jadeja,V Kohli,1,Not out
+6.2,V Kohli,RA Jadeja,AB de Villiers,1,Not out
+6.3,AB de Villiers,RA Jadeja,V Kohli,0,Not out
+6.4,AB de Villiers,RA Jadeja,V Kohli,1,Not out
+6.5,V Kohli,RA Jadeja,AB de Villiers,1,Not out
+6.6,AB de Villiers,RA Jadeja,V Kohli,1,Not out
+7.1,AB de Villiers,PV Tambe,V Kohli,2,Not out
+7.2,AB de Villiers,PV Tambe,V Kohli,1,Not out
+7.3,V Kohli,PV Tambe,AB de Villiers,1,Not out
+7.4,AB de Villiers,PV Tambe,V Kohli,0,caught
+7.5,KL Rahul,PV Tambe,V Kohli,0,Not out
+7.6,KL Rahul,PV Tambe,V Kohli,1,Not out
+8.1,KL Rahul,RA Jadeja,V Kohli,1,Not out
+8.2,V Kohli,RA Jadeja,KL Rahul,1,Not out
+8.3,KL Rahul,RA Jadeja,V Kohli,0,Not out
+8.4,KL Rahul,RA Jadeja,V Kohli,4,Not out
+8.5,KL Rahul,RA Jadeja,V Kohli,1,Not out
+8.6,V Kohli,RA Jadeja,KL Rahul,1,Not out
+9.1,V Kohli,PV Tambe,KL Rahul,0,Not out
+9.2,V Kohli,PV Tambe,KL Rahul,1,Not out
+9.3,KL Rahul,PV Tambe,V Kohli,1,Not out
+9.4,V Kohli,PV Tambe,KL Rahul,4,Not out
+9.5,V Kohli,PV Tambe,KL Rahul,1,Not out
+9.6,KL Rahul,PV Tambe,V Kohli,1,Not out
+10.1,KL Rahul,RA Jadeja,V Kohli,0,Not out
+10.2,KL Rahul,RA Jadeja,V Kohli,0,Not out
+10.3,V Kohli,RA Jadeja,KL Rahul,2,Not out
+10.4,V Kohli,RA Jadeja,KL Rahul,0,Not out
+10.5,V Kohli,RA Jadeja,KL Rahul,1,Not out
+10.6,KL Rahul,RA Jadeja,V Kohli,1,Not out
+11.1,KL Rahul,SB Jakati,V Kohli,0,Not out
+11.2,KL Rahul,SB Jakati,V Kohli,0,Not out
+11.3,KL Rahul,SB Jakati,V Kohli,1,Not out
+11.4,V Kohli,SB Jakati,KL Rahul,1,Not out
+11.5,KL Rahul,SB Jakati,V Kohli,1,Not out
+11.6,V Kohli,SB Jakati,KL Rahul,1,Not out
+12.1,V Kohli,DJ Bravo,KL Rahul,1,Not out
+12.2,KL Rahul,DJ Bravo,V Kohli,4,Not out
+12.3,KL Rahul,DJ Bravo,V Kohli,0,Not out
+12.4,KL Rahul,DJ Bravo,V Kohli,1,Not out
+12.5,V Kohli,DJ Bravo,KL Rahul,0,Not out
+12.6,V Kohli,DJ Bravo,KL Rahul,1,Not out
+13.1,V Kohli,SB Jakati,KL Rahul,1,Not out
+13.2,KL Rahul,SB Jakati,V Kohli,6,Not out
+13.3,KL Rahul,SB Jakati,V Kohli,1,Not out
+13.4,V Kohli,SB Jakati,KL Rahul,2,Not out
+13.5,V Kohli,SB Jakati,KL Rahul,1,Not out
+13.6,KL Rahul,SB Jakati,V Kohli,1,Not out
+14.1,KL Rahul,DJ Bravo,V Kohli,0,Not out
+14.2,KL Rahul,DJ Bravo,V Kohli,0,Not out
+14.3,KL Rahul,DJ Bravo,V Kohli,1,Not out
+14.4,V Kohli,DJ Bravo,KL Rahul,2,Not out
+14.5,V Kohli,DJ Bravo,KL Rahul,4,Not out
+14.6,V Kohli,DJ Bravo,KL Rahul,2,Not out
+14.7,V Kohli,DJ Bravo,KL Rahul,1,Not out
+15.1,V Kohli,DS Kulkarni,KL Rahul,1,Not out
+15.2,KL Rahul,DS Kulkarni,V Kohli,0,Not out
+15.3,KL Rahul,DS Kulkarni,V Kohli,0,Not out
+15.4,KL Rahul,DS Kulkarni,V Kohli,0,Not out
+15.5,KL Rahul,DS Kulkarni,V Kohli,6,Not out
+15.6,KL Rahul,DS Kulkarni,V Kohli,6,Not out
+16.1,V Kohli,P Kumar,KL Rahul,4,Not out
+16.2,V Kohli,P Kumar,KL Rahul,2,Not out
+16.3,V Kohli,P Kumar,KL Rahul,1,Not out
+16.4,KL Rahul,P Kumar,V Kohli,4,Not out
+16.5,KL Rahul,P Kumar,V Kohli,4,Not out
+16.6,KL Rahul,P Kumar,V Kohli,1,Not out
+17.1,KL Rahul,DJ Bravo,V Kohli,1,Not out
+17.2,V Kohli,DJ Bravo,KL Rahul,0,Not out
+17.3,V Kohli,DJ Bravo,KL Rahul,3,Not out
+17.4,KL Rahul,DJ Bravo,V Kohli,1,Not out
+17.5,V Kohli,DJ Bravo,KL Rahul,2,Not out
+17.6,V Kohli,DJ Bravo,KL Rahul,1,Not out
+18.1,V Kohli,DS Kulkarni,KL Rahul,1,Not out
+18.2,KL Rahul,DS Kulkarni,V Kohli,1,Not out
+18.3,V Kohli,DS Kulkarni,KL Rahul,2,Not out
+18.4,V Kohli,DS Kulkarni,KL Rahul,2,Not out
+18.5,V Kohli,DS Kulkarni,KL Rahul,4,Not out
+18.6,V Kohli,DS Kulkarni,KL Rahul,1,Not out
+19.1,V Kohli,DJ Bravo,KL Rahul,1,Not out
+19.2,KL Rahul,DJ Bravo,V Kohli,1,Not out
+19.3,V Kohli,DJ Bravo,KL Rahul,0,Not out
+19.4,V Kohli,DJ Bravo,KL Rahul,6,Not out
+19.5,V Kohli,DJ Bravo,KL Rahul,0,Not out
+19.6,V Kohli,DJ Bravo,KL Rahul,4,Not out
+19.7,V Kohli,DJ Bravo,KL Rahul,4,Not out

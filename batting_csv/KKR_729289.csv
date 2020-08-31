@@ -1,0 +1,130 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,JH Kallis,Mohammed Shami,G Gambhir,0,Not out
+0.2,JH Kallis,Mohammed Shami,G Gambhir,0,caught
+0.3,MK Pandey,Mohammed Shami,G Gambhir,0,Not out
+0.4,MK Pandey,Mohammed Shami,G Gambhir,0,Not out
+0.5,MK Pandey,Mohammed Shami,G Gambhir,2,Not out
+0.6,MK Pandey,Mohammed Shami,G Gambhir,0,Not out
+0.7,G Gambhir,Mohammed Shami,MK Pandey,0,Not out
+0.8,G Gambhir,Mohammed Shami,MK Pandey,0,Not out
+0.9,G Gambhir,Mohammed Shami,MK Pandey,0,Not out
+1.1,MK Pandey,NM Coulter-Nile,G Gambhir,0,Not out
+1.2,MK Pandey,NM Coulter-Nile,G Gambhir,1,Not out
+1.3,G Gambhir,NM Coulter-Nile,MK Pandey,0,Not out
+1.4,G Gambhir,NM Coulter-Nile,MK Pandey,0,caught
+1.5,RV Uthappa,NM Coulter-Nile,MK Pandey,0,Not out
+1.6,RV Uthappa,NM Coulter-Nile,MK Pandey,0,Not out
+2.1,MK Pandey,Mohammed Shami,RV Uthappa,0,Not out
+2.2,MK Pandey,Mohammed Shami,RV Uthappa,0,Not out
+2.3,MK Pandey,Mohammed Shami,RV Uthappa,0,Not out
+2.4,MK Pandey,Mohammed Shami,RV Uthappa,0,Not out
+2.5,MK Pandey,Mohammed Shami,RV Uthappa,0,Not out
+2.6,MK Pandey,Mohammed Shami,RV Uthappa,2,Not out
+2.7,MK Pandey,Mohammed Shami,RV Uthappa,1,Not out
+2.8,RV Uthappa,Mohammed Shami,MK Pandey,0,Not out
+3.1,MK Pandey,NM Coulter-Nile,RV Uthappa,0,Not out
+3.2,MK Pandey,NM Coulter-Nile,RV Uthappa,0,Not out
+3.3,MK Pandey,NM Coulter-Nile,RV Uthappa,0,Not out
+3.4,MK Pandey,NM Coulter-Nile,RV Uthappa,0,Not out
+3.5,MK Pandey,NM Coulter-Nile,RV Uthappa,1,Not out
+3.6,RV Uthappa,NM Coulter-Nile,MK Pandey,1,Not out
+4.1,RV Uthappa,Mohammed Shami,MK Pandey,1,Not out
+4.2,MK Pandey,Mohammed Shami,RV Uthappa,1,Not out
+4.3,RV Uthappa,Mohammed Shami,MK Pandey,1,Not out
+4.4,MK Pandey,Mohammed Shami,RV Uthappa,4,Not out
+4.5,MK Pandey,Mohammed Shami,RV Uthappa,2,Not out
+4.6,MK Pandey,Mohammed Shami,RV Uthappa,0,Not out
+5.1,RV Uthappa,JD Unadkat,MK Pandey,1,Not out
+5.2,MK Pandey,JD Unadkat,RV Uthappa,1,Not out
+5.3,RV Uthappa,JD Unadkat,MK Pandey,1,Not out
+5.4,MK Pandey,JD Unadkat,RV Uthappa,0,Not out
+5.5,MK Pandey,JD Unadkat,RV Uthappa,0,Not out
+5.6,MK Pandey,JD Unadkat,RV Uthappa,1,Not out
+6.1,MK Pandey,JDS Neesham,RV Uthappa,0,Not out
+6.2,MK Pandey,JDS Neesham,RV Uthappa,4,Not out
+6.3,MK Pandey,JDS Neesham,RV Uthappa,0,Not out
+6.4,MK Pandey,JDS Neesham,RV Uthappa,1,Not out
+6.5,RV Uthappa,JDS Neesham,MK Pandey,1,Not out
+6.6,MK Pandey,JDS Neesham,RV Uthappa,4,Not out
+6.7,MK Pandey,JDS Neesham,RV Uthappa,0,Not out
+6.8,MK Pandey,JDS Neesham,RV Uthappa,1,Not out
+7.1,MK Pandey,JD Unadkat,RV Uthappa,1,Not out
+7.2,RV Uthappa,JD Unadkat,MK Pandey,1,Not out
+7.3,MK Pandey,JD Unadkat,RV Uthappa,1,Not out
+7.4,RV Uthappa,JD Unadkat,MK Pandey,1,Not out
+7.5,MK Pandey,JD Unadkat,RV Uthappa,1,Not out
+7.6,RV Uthappa,JD Unadkat,MK Pandey,1,Not out
+8.1,RV Uthappa,S Nadeem,MK Pandey,2,Not out
+8.2,RV Uthappa,S Nadeem,MK Pandey,1,Not out
+8.3,MK Pandey,S Nadeem,RV Uthappa,1,Not out
+8.4,RV Uthappa,S Nadeem,MK Pandey,1,Not out
+8.5,MK Pandey,S Nadeem,RV Uthappa,1,Not out
+8.6,RV Uthappa,S Nadeem,MK Pandey,0,Not out
+9.1,MK Pandey,JD Unadkat,RV Uthappa,2,Not out
+9.2,MK Pandey,JD Unadkat,RV Uthappa,1,Not out
+9.3,RV Uthappa,JD Unadkat,MK Pandey,0,Not out
+9.4,RV Uthappa,JD Unadkat,MK Pandey,1,Not out
+9.5,MK Pandey,JD Unadkat,RV Uthappa,2,Not out
+9.6,MK Pandey,JD Unadkat,RV Uthappa,1,Not out
+10.1,MK Pandey,S Nadeem,RV Uthappa,2,Not out
+10.2,MK Pandey,S Nadeem,RV Uthappa,1,Not out
+10.3,RV Uthappa,S Nadeem,MK Pandey,1,Not out
+10.4,MK Pandey,S Nadeem,RV Uthappa,4,Not out
+10.5,MK Pandey,S Nadeem,RV Uthappa,4,Not out
+10.6,MK Pandey,S Nadeem,RV Uthappa,0,bowled
+11.1,RV Uthappa,JP Duminy,Shakib Al Hasan,0,Not out
+11.2,RV Uthappa,JP Duminy,Shakib Al Hasan,1,Not out
+11.3,Shakib Al Hasan,JP Duminy,RV Uthappa,1,Not out
+11.4,RV Uthappa,JP Duminy,Shakib Al Hasan,4,Not out
+11.5,RV Uthappa,JP Duminy,Shakib Al Hasan,1,Not out
+11.6,Shakib Al Hasan,JP Duminy,RV Uthappa,0,Not out
+12.1,RV Uthappa,S Nadeem,Shakib Al Hasan,4,Not out
+12.2,RV Uthappa,S Nadeem,Shakib Al Hasan,0,Not out
+12.3,RV Uthappa,S Nadeem,Shakib Al Hasan,1,Not out
+12.4,Shakib Al Hasan,S Nadeem,RV Uthappa,6,Not out
+12.5,Shakib Al Hasan,S Nadeem,RV Uthappa,0,Not out
+12.6,Shakib Al Hasan,S Nadeem,RV Uthappa,0,Not out
+13.1,RV Uthappa,JP Duminy,Shakib Al Hasan,0,Not out
+13.2,RV Uthappa,JP Duminy,Shakib Al Hasan,1,Not out
+13.3,Shakib Al Hasan,JP Duminy,RV Uthappa,1,Not out
+13.4,RV Uthappa,JP Duminy,Shakib Al Hasan,1,Not out
+13.5,Shakib Al Hasan,JP Duminy,RV Uthappa,2,Not out
+13.6,Shakib Al Hasan,JP Duminy,RV Uthappa,1,Not out
+14.1,Shakib Al Hasan,JDS Neesham,RV Uthappa,1,Not out
+14.2,RV Uthappa,JDS Neesham,Shakib Al Hasan,6,Not out
+14.3,RV Uthappa,JDS Neesham,Shakib Al Hasan,4,Not out
+14.4,RV Uthappa,JDS Neesham,Shakib Al Hasan,1,Not out
+14.5,Shakib Al Hasan,JDS Neesham,RV Uthappa,1,Not out
+14.6,RV Uthappa,JDS Neesham,Shakib Al Hasan,0,Not out
+15.1,Shakib Al Hasan,JP Duminy,RV Uthappa,1,Not out
+15.2,RV Uthappa,JP Duminy,Shakib Al Hasan,4,Not out
+15.3,RV Uthappa,JP Duminy,Shakib Al Hasan,4,Not out
+15.4,RV Uthappa,JP Duminy,Shakib Al Hasan,1,Not out
+15.5,Shakib Al Hasan,JP Duminy,RV Uthappa,1,Not out
+15.6,RV Uthappa,JP Duminy,Shakib Al Hasan,1,Not out
+16.1,RV Uthappa,JD Unadkat,Shakib Al Hasan,1,Not out
+16.2,Shakib Al Hasan,JD Unadkat,RV Uthappa,1,Not out
+16.3,RV Uthappa,JD Unadkat,Shakib Al Hasan,4,Not out
+16.4,RV Uthappa,JD Unadkat,Shakib Al Hasan,1,Not out
+16.5,Shakib Al Hasan,JD Unadkat,RV Uthappa,1,Not out
+16.6,RV Uthappa,JD Unadkat,Shakib Al Hasan,0,caught
+17.1,YK Pathan,NM Coulter-Nile,Shakib Al Hasan,4,Not out
+17.2,YK Pathan,NM Coulter-Nile,Shakib Al Hasan,1,Not out
+17.3,Shakib Al Hasan,NM Coulter-Nile,YK Pathan,1,Not out
+17.4,YK Pathan,NM Coulter-Nile,Shakib Al Hasan,1,Not out
+17.5,Shakib Al Hasan,NM Coulter-Nile,YK Pathan,4,Not out
+17.6,Shakib Al Hasan,NM Coulter-Nile,YK Pathan,1,Not out
+18.1,Shakib Al Hasan,Mohammed Shami,YK Pathan,4,Not out
+18.2,Shakib Al Hasan,Mohammed Shami,YK Pathan,1,Not out
+18.3,YK Pathan,Mohammed Shami,Shakib Al Hasan,2,Not out
+18.4,YK Pathan,Mohammed Shami,Shakib Al Hasan,1,Not out
+18.5,Shakib Al Hasan,Mohammed Shami,YK Pathan,1,Not out
+18.6,YK Pathan,Mohammed Shami,Shakib Al Hasan,1,Not out
+19.1,YK Pathan,NM Coulter-Nile,Shakib Al Hasan,0,Not out
+19.2,YK Pathan,NM Coulter-Nile,Shakib Al Hasan,1,Not out
+19.3,Shakib Al Hasan,NM Coulter-Nile,YK Pathan,0,Not out
+19.4,Shakib Al Hasan,NM Coulter-Nile,YK Pathan,1,Not out
+19.5,YK Pathan,NM Coulter-Nile,Shakib Al Hasan,0,bowled
+19.6,SA Yadav,NM Coulter-Nile,Shakib Al Hasan,0,Not out
+19.7,SA Yadav,NM Coulter-Nile,Shakib Al Hasan,4,Not out
+19.8,SA Yadav,NM Coulter-Nile,Shakib Al Hasan,4,Not out

@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,JH Kallis,P Kumar,G Gambhir,1,Not out
+0.2,G Gambhir,P Kumar,JH Kallis,0,Not out
+0.3,G Gambhir,P Kumar,JH Kallis,0,Not out
+0.4,G Gambhir,P Kumar,JH Kallis,1,Not out
+0.5,JH Kallis,P Kumar,G Gambhir,0,Not out
+0.6,JH Kallis,P Kumar,G Gambhir,0,Not out
+1.1,G Gambhir,BA Bhatt,JH Kallis,4,Not out
+1.2,G Gambhir,BA Bhatt,JH Kallis,4,Not out
+1.3,G Gambhir,BA Bhatt,JH Kallis,2,Not out
+1.4,G Gambhir,BA Bhatt,JH Kallis,1,Not out
+1.5,JH Kallis,BA Bhatt,G Gambhir,0,Not out
+1.6,JH Kallis,BA Bhatt,G Gambhir,0,caught
+2.1,G Gambhir,P Kumar,MS Bisla,4,Not out
+2.2,G Gambhir,P Kumar,MS Bisla,0,Not out
+2.3,G Gambhir,P Kumar,MS Bisla,4,Not out
+2.4,G Gambhir,P Kumar,MS Bisla,1,Not out
+2.5,MS Bisla,P Kumar,G Gambhir,0,Not out
+2.6,MS Bisla,P Kumar,G Gambhir,0,Not out
+3.1,G Gambhir,AD Mascarenhas,MS Bisla,1,Not out
+3.2,MS Bisla,AD Mascarenhas,G Gambhir,6,Not out
+3.3,MS Bisla,AD Mascarenhas,G Gambhir,1,Not out
+3.4,G Gambhir,AD Mascarenhas,MS Bisla,0,caught and bowled
+3.5,MK Tiwary,AD Mascarenhas,MS Bisla,1,Not out
+3.6,MS Bisla,AD Mascarenhas,MK Tiwary,2,Not out
+4.1,MK Tiwary,P Kumar,MS Bisla,1,Not out
+4.2,MS Bisla,P Kumar,MK Tiwary,1,Not out
+4.3,MK Tiwary,P Kumar,MS Bisla,1,Not out
+4.4,MS Bisla,P Kumar,MK Tiwary,0,Not out
+4.5,MS Bisla,P Kumar,MK Tiwary,0,Not out
+4.6,MS Bisla,P Kumar,MK Tiwary,2,Not out
+4.7,MS Bisla,P Kumar,MK Tiwary,0,Not out
+4.8,MS Bisla,P Kumar,MK Tiwary,0,Not out
+5.1,MS Bisla,AD Mascarenhas,MK Tiwary,4,Not out
+5.2,MS Bisla,AD Mascarenhas,MK Tiwary,2,Not out
+5.3,MS Bisla,AD Mascarenhas,MK Tiwary,1,Not out
+5.4,MK Tiwary,AD Mascarenhas,MS Bisla,0,Not out
+5.5,MK Tiwary,AD Mascarenhas,MS Bisla,0,Not out
+5.6,MK Tiwary,AD Mascarenhas,MS Bisla,0,Not out
+6.1,MS Bisla,BA Bhatt,MK Tiwary,1,Not out
+6.2,MK Tiwary,BA Bhatt,MS Bisla,2,Not out
+6.3,MK Tiwary,BA Bhatt,MS Bisla,1,Not out
+6.4,MS Bisla,BA Bhatt,MK Tiwary,1,Not out
+6.5,MK Tiwary,BA Bhatt,MS Bisla,0,Not out
+6.6,MK Tiwary,BA Bhatt,MS Bisla,1,Not out
+7.1,MK Tiwary,Harmeet Singh,MS Bisla,1,Not out
+7.2,MS Bisla,Harmeet Singh,MK Tiwary,1,Not out
+7.3,MK Tiwary,Harmeet Singh,MS Bisla,4,Not out
+7.4,MK Tiwary,Harmeet Singh,MS Bisla,0,Not out
+7.5,MK Tiwary,Harmeet Singh,MS Bisla,0,Not out
+7.6,MK Tiwary,Harmeet Singh,MS Bisla,1,Not out
+8.1,MK Tiwary,PP Chawla,MS Bisla,1,Not out
+8.2,MS Bisla,PP Chawla,MK Tiwary,1,Not out
+8.3,MK Tiwary,PP Chawla,MS Bisla,1,Not out
+8.4,MS Bisla,PP Chawla,MK Tiwary,0,Not out
+8.5,MS Bisla,PP Chawla,MK Tiwary,1,Not out
+8.6,MK Tiwary,PP Chawla,MS Bisla,1,Not out
+9.1,MS Bisla,Harmeet Singh,MK Tiwary,1,Not out
+9.2,MK Tiwary,Harmeet Singh,MS Bisla,1,Not out
+9.3,MS Bisla,Harmeet Singh,MK Tiwary,0,Not out
+9.4,MK Tiwary,Harmeet Singh,MS Bisla,0,Not out
+9.5,MK Tiwary,Harmeet Singh,MS Bisla,0,Not out
+9.6,MK Tiwary,Harmeet Singh,MS Bisla,1,Not out
+10.1,MK Tiwary,PP Chawla,MS Bisla,0,Not out
+10.2,MK Tiwary,PP Chawla,MS Bisla,1,Not out
+10.3,MS Bisla,PP Chawla,MK Tiwary,0,Not out
+10.4,MS Bisla,PP Chawla,MK Tiwary,1,Not out
+10.5,MK Tiwary,PP Chawla,MS Bisla,1,Not out
+10.6,MS Bisla,PP Chawla,MK Tiwary,0,Not out
+11.1,MK Tiwary,BA Bhatt,MS Bisla,0,Not out
+11.2,MK Tiwary,BA Bhatt,MS Bisla,0,lbw
+11.3,Shakib Al Hasan,BA Bhatt,MS Bisla,0,Not out
+11.4,Shakib Al Hasan,BA Bhatt,MS Bisla,0,Not out
+11.5,Shakib Al Hasan,BA Bhatt,MS Bisla,1,Not out
+11.6,MS Bisla,BA Bhatt,Shakib Al Hasan,1,Not out
+12.1,MS Bisla,PP Chawla,Shakib Al Hasan,0,bowled
+12.2,YK Pathan,PP Chawla,Shakib Al Hasan,0,Not out
+12.3,YK Pathan,PP Chawla,Shakib Al Hasan,0,Not out
+12.4,YK Pathan,PP Chawla,Shakib Al Hasan,0,bowled
+12.5,DB Das,PP Chawla,Shakib Al Hasan,1,Not out
+12.6,Shakib Al Hasan,PP Chawla,DB Das,0,Not out
+13.1,DB Das,AD Mascarenhas,Shakib Al Hasan,0,Not out
+13.2,DB Das,AD Mascarenhas,Shakib Al Hasan,1,Not out
+13.3,Shakib Al Hasan,AD Mascarenhas,DB Das,1,Not out
+13.4,DB Das,AD Mascarenhas,Shakib Al Hasan,1,Not out
+13.5,Shakib Al Hasan,AD Mascarenhas,DB Das,1,Not out
+13.6,DB Das,AD Mascarenhas,Shakib Al Hasan,1,Not out
+14.1,DB Das,PP Chawla,Shakib Al Hasan,1,Not out
+14.2,Shakib Al Hasan,PP Chawla,DB Das,1,Not out
+14.3,DB Das,PP Chawla,Shakib Al Hasan,1,Not out
+14.4,Shakib Al Hasan,PP Chawla,DB Das,0,caught and bowled
+14.5,DB Das,PP Chawla,RN ten Doeschate,0,Not out
+14.6,DB Das,PP Chawla,RN ten Doeschate,6,Not out
+15.1,RN ten Doeschate,BA Bhatt,DB Das,0,Not out
+15.2,RN ten Doeschate,BA Bhatt,DB Das,1,Not out
+15.3,DB Das,BA Bhatt,RN ten Doeschate,1,Not out
+15.4,RN ten Doeschate,BA Bhatt,DB Das,1,Not out
+15.5,DB Das,BA Bhatt,RN ten Doeschate,1,Not out
+15.6,RN ten Doeschate,BA Bhatt,DB Das,1,Not out
+16.1,RN ten Doeschate,Harmeet Singh,DB Das,1,Not out
+16.2,DB Das,Harmeet Singh,RN ten Doeschate,1,Not out
+16.3,RN ten Doeschate,Harmeet Singh,DB Das,1,Not out
+16.4,DB Das,Harmeet Singh,RN ten Doeschate,4,Not out
+16.5,DB Das,Harmeet Singh,RN ten Doeschate,4,Not out
+16.6,DB Das,Harmeet Singh,RN ten Doeschate,1,Not out
+17.1,DB Das,AD Mascarenhas,RN ten Doeschate,2,Not out
+17.2,DB Das,AD Mascarenhas,RN ten Doeschate,4,Not out
+17.3,DB Das,AD Mascarenhas,RN ten Doeschate,0,Not out
+17.4,DB Das,AD Mascarenhas,RN ten Doeschate,1,Not out
+17.5,RN ten Doeschate,AD Mascarenhas,DB Das,0,Not out
+17.6,RN ten Doeschate,AD Mascarenhas,DB Das,4,Not out
+18.1,DB Das,P Kumar,RN ten Doeschate,1,Not out
+18.2,RN ten Doeschate,P Kumar,DB Das,1,Not out
+18.3,DB Das,P Kumar,RN ten Doeschate,1,Not out
+18.4,RN ten Doeschate,P Kumar,DB Das,0,Not out
+18.5,RN ten Doeschate,P Kumar,DB Das,0,Not out
+18.6,RN ten Doeschate,P Kumar,DB Das,1,Not out
+19.1,RN ten Doeschate,Harmeet Singh,DB Das,0,Not out
+19.2,DB Das,Harmeet Singh,RN ten Doeschate,1,Not out
+19.3,RN ten Doeschate,Harmeet Singh,DB Das,0,bowled
+19.4,R Bhatia,Harmeet Singh,DB Das,2,Not out
+19.5,R Bhatia,Harmeet Singh,DB Das,1,Not out
+19.6,DB Das,Harmeet Singh,R Bhatia,1,Not out

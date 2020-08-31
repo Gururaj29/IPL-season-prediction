@@ -1,0 +1,115 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,TM Dilshan,A Chandila,CH Gayle,0,Not out
+0.2,TM Dilshan,A Chandila,CH Gayle,1,Not out
+0.3,CH Gayle,A Chandila,TM Dilshan,0,Not out
+0.4,CH Gayle,A Chandila,TM Dilshan,2,Not out
+0.5,CH Gayle,A Chandila,TM Dilshan,0,Not out
+0.6,CH Gayle,A Chandila,TM Dilshan,1,Not out
+1.1,CH Gayle,S Sreesanth,TM Dilshan,1,Not out
+1.2,TM Dilshan,S Sreesanth,CH Gayle,0,Not out
+1.3,TM Dilshan,S Sreesanth,CH Gayle,0,Not out
+1.4,TM Dilshan,S Sreesanth,CH Gayle,0,Not out
+1.5,TM Dilshan,S Sreesanth,CH Gayle,4,Not out
+1.6,TM Dilshan,S Sreesanth,CH Gayle,4,Not out
+2.1,CH Gayle,SW Tait,TM Dilshan,0,Not out
+2.2,CH Gayle,SW Tait,TM Dilshan,4,Not out
+2.3,CH Gayle,SW Tait,TM Dilshan,0,Not out
+2.4,CH Gayle,SW Tait,TM Dilshan,0,Not out
+2.5,CH Gayle,SW Tait,TM Dilshan,0,Not out
+2.6,CH Gayle,SW Tait,TM Dilshan,1,Not out
+2.7,TM Dilshan,SW Tait,CH Gayle,1,Not out
+2.8,CH Gayle,SW Tait,TM Dilshan,0,Not out
+3.1,TM Dilshan,JP Faulkner,CH Gayle,0,Not out
+3.2,TM Dilshan,JP Faulkner,CH Gayle,0,Not out
+3.3,TM Dilshan,JP Faulkner,CH Gayle,4,Not out
+3.4,TM Dilshan,JP Faulkner,CH Gayle,1,Not out
+3.5,CH Gayle,JP Faulkner,TM Dilshan,1,Not out
+3.6,TM Dilshan,JP Faulkner,CH Gayle,4,Not out
+4.1,CH Gayle,SW Tait,TM Dilshan,1,Not out
+4.2,TM Dilshan,SW Tait,CH Gayle,0,Not out
+4.3,TM Dilshan,SW Tait,CH Gayle,4,Not out
+4.4,TM Dilshan,SW Tait,CH Gayle,1,Not out
+4.5,CH Gayle,SW Tait,TM Dilshan,0,Not out
+4.6,CH Gayle,SW Tait,TM Dilshan,0,Not out
+4.7,CH Gayle,SW Tait,TM Dilshan,4,Not out
+5.1,TM Dilshan,JP Faulkner,CH Gayle,0,Not out
+5.2,TM Dilshan,JP Faulkner,CH Gayle,0,Not out
+5.3,TM Dilshan,JP Faulkner,CH Gayle,1,Not out
+5.4,CH Gayle,JP Faulkner,TM Dilshan,1,Not out
+5.5,TM Dilshan,JP Faulkner,CH Gayle,0,Not out
+5.6,TM Dilshan,JP Faulkner,CH Gayle,0,Not out
+6.1,CH Gayle,SR Watson,TM Dilshan,4,Not out
+6.2,CH Gayle,SR Watson,TM Dilshan,0,Not out
+6.3,CH Gayle,SR Watson,TM Dilshan,1,Not out
+6.4,TM Dilshan,SR Watson,CH Gayle,0,caught
+6.5,V Kohli,SR Watson,CH Gayle,0,Not out
+6.6,V Kohli,SR Watson,CH Gayle,0,Not out
+7.1,CH Gayle,JP Faulkner,V Kohli,1,Not out
+7.2,V Kohli,JP Faulkner,CH Gayle,0,Not out
+7.3,V Kohli,JP Faulkner,CH Gayle,1,Not out
+7.4,CH Gayle,JP Faulkner,V Kohli,1,Not out
+7.5,V Kohli,JP Faulkner,CH Gayle,0,bowled
+7.6,AB de Villiers,JP Faulkner,CH Gayle,0,Not out
+7.7,AB de Villiers,JP Faulkner,CH Gayle,1,Not out
+8.1,AB de Villiers,SR Watson,CH Gayle,0,Not out
+8.2,AB de Villiers,SR Watson,CH Gayle,0,Not out
+8.3,AB de Villiers,SR Watson,CH Gayle,2,Not out
+8.4,AB de Villiers,SR Watson,CH Gayle,0,Not out
+8.5,AB de Villiers,SR Watson,CH Gayle,4,Not out
+8.6,AB de Villiers,SR Watson,CH Gayle,0,caught
+9.1,CH Gayle,SK Trivedi,SS Tiwary,0,Not out
+9.2,CH Gayle,SK Trivedi,SS Tiwary,0,Not out
+9.3,CH Gayle,SK Trivedi,SS Tiwary,1,Not out
+9.4,SS Tiwary,SK Trivedi,CH Gayle,0,Not out
+9.5,SS Tiwary,SK Trivedi,CH Gayle,0,Not out
+9.6,SS Tiwary,SK Trivedi,CH Gayle,0,Not out
+9.7,SS Tiwary,SK Trivedi,CH Gayle,0,Not out
+9.8,SS Tiwary,SK Trivedi,CH Gayle,0,Not out
+10.1,CH Gayle,SW Tait,SS Tiwary,0,Not out
+10.2,CH Gayle,SW Tait,SS Tiwary,0,Not out
+10.3,CH Gayle,SW Tait,SS Tiwary,1,Not out
+10.4,SS Tiwary,SW Tait,CH Gayle,0,Not out
+10.5,SS Tiwary,SW Tait,CH Gayle,0,Not out
+10.6,SS Tiwary,SW Tait,CH Gayle,1,Not out
+10.7,CH Gayle,SW Tait,SS Tiwary,4,Not out
+11.1,SS Tiwary,SK Trivedi,CH Gayle,1,Not out
+11.2,CH Gayle,SK Trivedi,SS Tiwary,0,Not out
+11.3,SS Tiwary,SK Trivedi,CH Gayle,1,Not out
+11.4,CH Gayle,SK Trivedi,SS Tiwary,1,Not out
+11.5,SS Tiwary,SK Trivedi,CH Gayle,0,Not out
+11.6,SS Tiwary,SK Trivedi,CH Gayle,0,Not out
+12.1,CH Gayle,A Chandila,SS Tiwary,0,Not out
+12.2,CH Gayle,A Chandila,SS Tiwary,1,Not out
+12.3,SS Tiwary,A Chandila,CH Gayle,1,Not out
+12.4,CH Gayle,A Chandila,SS Tiwary,0,Not out
+12.5,CH Gayle,A Chandila,SS Tiwary,0,Not out
+12.6,CH Gayle,A Chandila,SS Tiwary,1,Not out
+13.1,CH Gayle,SK Trivedi,SS Tiwary,2,Not out
+13.2,CH Gayle,SK Trivedi,SS Tiwary,1,Not out
+13.3,SS Tiwary,SK Trivedi,CH Gayle,1,Not out
+13.4,CH Gayle,SK Trivedi,SS Tiwary,0,Not out
+13.5,CH Gayle,SK Trivedi,SS Tiwary,0,Not out
+13.6,CH Gayle,SK Trivedi,SS Tiwary,1,Not out
+14.1,CH Gayle,A Chandila,SS Tiwary,1,Not out
+14.2,SS Tiwary,A Chandila,CH Gayle,0,Not out
+14.3,SS Tiwary,A Chandila,CH Gayle,0,Not out
+14.4,SS Tiwary,A Chandila,CH Gayle,0,Not out
+14.5,SS Tiwary,A Chandila,CH Gayle,6,Not out
+14.6,SS Tiwary,A Chandila,CH Gayle,1,Not out
+15.1,SS Tiwary,JP Faulkner,CH Gayle,1,Not out
+15.2,CH Gayle,JP Faulkner,SS Tiwary,1,Not out
+15.3,SS Tiwary,JP Faulkner,CH Gayle,1,Not out
+15.4,CH Gayle,JP Faulkner,SS Tiwary,1,Not out
+15.5,SS Tiwary,JP Faulkner,CH Gayle,0,Not out
+15.6,SS Tiwary,JP Faulkner,CH Gayle,0,Not out
+16.1,CH Gayle,A Chandila,SS Tiwary,1,Not out
+16.2,SS Tiwary,A Chandila,CH Gayle,0,Not out
+16.3,SS Tiwary,A Chandila,CH Gayle,1,Not out
+16.4,CH Gayle,A Chandila,SS Tiwary,2,Not out
+16.5,CH Gayle,A Chandila,SS Tiwary,1,Not out
+16.6,SS Tiwary,A Chandila,CH Gayle,1,Not out
+17.1,SS Tiwary,SK Trivedi,CH Gayle,4,Not out
+17.2,SS Tiwary,SK Trivedi,CH Gayle,0,Not out
+17.3,SS Tiwary,SK Trivedi,CH Gayle,4,Not out
+17.4,SS Tiwary,SK Trivedi,CH Gayle,1,Not out
+17.5,CH Gayle,SK Trivedi,SS Tiwary,6,Not out

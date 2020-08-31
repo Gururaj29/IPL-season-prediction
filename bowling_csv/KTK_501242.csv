@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,JH Kallis,RP Singh,EJG Morgan,0,Not out
+0.2,JH Kallis,RP Singh,EJG Morgan,1,Not out
+0.3,EJG Morgan,RP Singh,JH Kallis,0,Not out
+0.4,EJG Morgan,RP Singh,JH Kallis,4,Not out
+0.5,EJG Morgan,RP Singh,JH Kallis,0,Not out
+0.6,EJG Morgan,RP Singh,JH Kallis,4,Not out
+1.1,JH Kallis,S Sreesanth,EJG Morgan,0,Not out
+1.2,JH Kallis,S Sreesanth,EJG Morgan,0,Not out
+1.3,JH Kallis,S Sreesanth,EJG Morgan,4,Not out
+1.4,JH Kallis,S Sreesanth,EJG Morgan,0,Not out
+1.5,JH Kallis,S Sreesanth,EJG Morgan,1,Not out
+1.6,EJG Morgan,S Sreesanth,JH Kallis,0,Not out
+1.7,EJG Morgan,S Sreesanth,JH Kallis,0,Not out
+2.1,JH Kallis,RP Singh,EJG Morgan,0,Not out
+2.2,JH Kallis,RP Singh,EJG Morgan,4,Not out
+2.3,JH Kallis,RP Singh,EJG Morgan,4,Not out
+2.4,JH Kallis,RP Singh,EJG Morgan,1,Not out
+2.5,EJG Morgan,RP Singh,JH Kallis,0,Not out
+2.6,EJG Morgan,RP Singh,JH Kallis,4,Not out
+3.1,JH Kallis,S Sreesanth,EJG Morgan,0,Not out
+3.2,JH Kallis,S Sreesanth,EJG Morgan,0,Not out
+3.3,JH Kallis,S Sreesanth,EJG Morgan,1,Not out
+3.4,EJG Morgan,S Sreesanth,JH Kallis,1,Not out
+3.5,JH Kallis,S Sreesanth,EJG Morgan,2,Not out
+3.6,JH Kallis,S Sreesanth,EJG Morgan,1,Not out
+4.1,JH Kallis,R Vinay Kumar,EJG Morgan,2,Not out
+4.2,JH Kallis,R Vinay Kumar,EJG Morgan,1,Not out
+4.3,EJG Morgan,R Vinay Kumar,JH Kallis,0,Not out
+4.4,JH Kallis,R Vinay Kumar,EJG Morgan,1,Not out
+4.5,EJG Morgan,R Vinay Kumar,JH Kallis,1,Not out
+4.6,JH Kallis,R Vinay Kumar,EJG Morgan,1,Not out
+5.1,JH Kallis,P Parameswaran,EJG Morgan,1,Not out
+5.2,EJG Morgan,P Parameswaran,JH Kallis,0,Not out
+5.3,EJG Morgan,P Parameswaran,JH Kallis,0,Not out
+5.4,EJG Morgan,P Parameswaran,JH Kallis,0,Not out
+5.5,EJG Morgan,P Parameswaran,JH Kallis,1,Not out
+5.6,JH Kallis,P Parameswaran,EJG Morgan,1,Not out
+6.1,JH Kallis,R Vinay Kumar,EJG Morgan,1,Not out
+6.2,EJG Morgan,R Vinay Kumar,JH Kallis,0,Not out
+6.3,EJG Morgan,R Vinay Kumar,JH Kallis,0,Not out
+6.4,EJG Morgan,R Vinay Kumar,JH Kallis,1,Not out
+6.5,JH Kallis,R Vinay Kumar,EJG Morgan,4,Not out
+6.6,JH Kallis,R Vinay Kumar,EJG Morgan,1,Not out
+7.1,JH Kallis,P Parameswaran,EJG Morgan,0,Not out
+7.2,JH Kallis,P Parameswaran,EJG Morgan,0,Not out
+7.3,JH Kallis,P Parameswaran,EJG Morgan,0,Not out
+7.4,JH Kallis,P Parameswaran,EJG Morgan,2,Not out
+7.5,JH Kallis,P Parameswaran,EJG Morgan,2,Not out
+7.6,JH Kallis,P Parameswaran,EJG Morgan,1,Not out
+8.1,JH Kallis,RV Gomez,EJG Morgan,1,Not out
+8.2,EJG Morgan,RV Gomez,JH Kallis,4,Not out
+8.3,EJG Morgan,RV Gomez,JH Kallis,1,Not out
+8.4,JH Kallis,RV Gomez,EJG Morgan,0,Not out
+8.5,JH Kallis,RV Gomez,EJG Morgan,0,Not out
+8.6,JH Kallis,RV Gomez,EJG Morgan,1,Not out
+9.1,JH Kallis,RA Jadeja,EJG Morgan,4,Not out
+9.2,JH Kallis,RA Jadeja,EJG Morgan,1,Not out
+9.3,EJG Morgan,RA Jadeja,JH Kallis,1,Not out
+9.4,JH Kallis,RA Jadeja,EJG Morgan,0,Not out
+9.5,JH Kallis,RA Jadeja,EJG Morgan,0,Not out
+9.6,JH Kallis,RA Jadeja,EJG Morgan,1,Not out
+10.1,JH Kallis,RV Gomez,EJG Morgan,0,Not out
+10.2,JH Kallis,RV Gomez,EJG Morgan,0,bowled
+10.3,G Gambhir,RV Gomez,EJG Morgan,0,caught
+10.4,MK Tiwary,RV Gomez,EJG Morgan,0,Not out
+10.5,MK Tiwary,RV Gomez,EJG Morgan,0,Not out
+10.6,MK Tiwary,RV Gomez,EJG Morgan,0,Not out
+11.1,EJG Morgan,RP Singh,MK Tiwary,0,Not out
+11.2,EJG Morgan,RP Singh,MK Tiwary,4,Not out
+11.3,EJG Morgan,RP Singh,MK Tiwary,0,Not out
+11.4,EJG Morgan,RP Singh,MK Tiwary,6,Not out
+11.5,EJG Morgan,RP Singh,MK Tiwary,2,Not out
+11.6,EJG Morgan,RP Singh,MK Tiwary,2,Not out
+11.7,EJG Morgan,RP Singh,MK Tiwary,0,Not out
+12.1,MK Tiwary,RV Gomez,EJG Morgan,0,Not out
+12.2,MK Tiwary,RV Gomez,EJG Morgan,0,Not out
+12.3,MK Tiwary,RV Gomez,EJG Morgan,1,Not out
+12.4,EJG Morgan,RV Gomez,MK Tiwary,0,Not out
+12.5,EJG Morgan,RV Gomez,MK Tiwary,2,Not out
+12.6,EJG Morgan,RV Gomez,MK Tiwary,1,Not out
+13.1,EJG Morgan,R Vinay Kumar,MK Tiwary,4,Not out
+13.2,EJG Morgan,R Vinay Kumar,MK Tiwary,0,Not out
+13.3,EJG Morgan,R Vinay Kumar,MK Tiwary,0,Not out
+13.4,EJG Morgan,R Vinay Kumar,MK Tiwary,4,Not out
+13.5,EJG Morgan,R Vinay Kumar,MK Tiwary,1,Not out
+13.6,MK Tiwary,R Vinay Kumar,EJG Morgan,0,caught
+14.1,YK Pathan,RV Gomez,EJG Morgan,1,Not out
+14.2,EJG Morgan,RV Gomez,YK Pathan,0,Not out
+14.3,EJG Morgan,RV Gomez,YK Pathan,1,Not out
+14.4,YK Pathan,RV Gomez,EJG Morgan,0,Not out
+14.5,YK Pathan,RV Gomez,EJG Morgan,1,Not out
+14.6,EJG Morgan,RV Gomez,YK Pathan,0,Not out
+15.1,YK Pathan,P Parameswaran,EJG Morgan,2,Not out
+15.2,YK Pathan,P Parameswaran,EJG Morgan,1,Not out
+15.3,EJG Morgan,P Parameswaran,YK Pathan,1,Not out
+15.4,YK Pathan,P Parameswaran,EJG Morgan,0,Not out
+15.5,YK Pathan,P Parameswaran,EJG Morgan,1,Not out
+15.6,EJG Morgan,P Parameswaran,YK Pathan,1,Not out
+16.1,EJG Morgan,S Sreesanth,YK Pathan,0,Not out
+16.2,EJG Morgan,S Sreesanth,YK Pathan,6,Not out
+16.3,EJG Morgan,S Sreesanth,YK Pathan,4,Not out
+16.4,EJG Morgan,S Sreesanth,YK Pathan,1,Not out
+16.5,YK Pathan,S Sreesanth,EJG Morgan,1,Not out
+16.6,EJG Morgan,S Sreesanth,YK Pathan,1,Not out
+17.1,EJG Morgan,P Parameswaran,YK Pathan,1,Not out
+17.2,YK Pathan,P Parameswaran,EJG Morgan,1,Not out
+17.3,EJG Morgan,P Parameswaran,YK Pathan,0,Not out
+17.4,EJG Morgan,P Parameswaran,YK Pathan,0,Not out
+17.5,EJG Morgan,P Parameswaran,YK Pathan,1,Not out
+17.6,YK Pathan,P Parameswaran,EJG Morgan,4,Not out
+18.1,EJG Morgan,R Vinay Kumar,YK Pathan,1,Not out
+18.2,YK Pathan,R Vinay Kumar,EJG Morgan,4,Not out
+18.3,YK Pathan,R Vinay Kumar,EJG Morgan,1,Not out
+18.4,EJG Morgan,R Vinay Kumar,YK Pathan,0,run out
+18.5,YK Pathan,R Vinay Kumar,MV Boucher,0,caught
+18.6,B Lee,R Vinay Kumar,MV Boucher,0,Not out
+19.1,MV Boucher,RP Singh,B Lee,2,Not out
+19.2,MV Boucher,RP Singh,B Lee,2,Not out
+19.3,MV Boucher,RP Singh,B Lee,1,Not out
+19.4,B Lee,RP Singh,MV Boucher,1,run out
+19.5,R Bhatia,RP Singh,MV Boucher,1,Not out
+19.6,MV Boucher,RP Singh,R Bhatia,0,bowled

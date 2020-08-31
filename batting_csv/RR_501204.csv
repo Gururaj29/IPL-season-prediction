@@ -1,0 +1,115 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AG Paunikar,AB Dinda,R Dravid,1,Not out
+0.2,R Dravid,AB Dinda,AG Paunikar,0,Not out
+0.3,R Dravid,AB Dinda,AG Paunikar,4,Not out
+0.4,R Dravid,AB Dinda,AG Paunikar,0,Not out
+0.5,R Dravid,AB Dinda,AG Paunikar,0,Not out
+0.6,R Dravid,AB Dinda,AG Paunikar,1,Not out
+0.7,AG Paunikar,AB Dinda,R Dravid,0,Not out
+0.8,AG Paunikar,AB Dinda,R Dravid,0,Not out
+1.1,R Dravid,M Morkel,AG Paunikar,0,Not out
+1.2,R Dravid,M Morkel,AG Paunikar,0,Not out
+1.3,R Dravid,M Morkel,AG Paunikar,1,Not out
+1.4,AG Paunikar,M Morkel,R Dravid,0,Not out
+1.5,AG Paunikar,M Morkel,R Dravid,0,Not out
+1.6,AG Paunikar,M Morkel,R Dravid,0,Not out
+2.1,R Dravid,AB Dinda,AG Paunikar,0,Not out
+2.2,R Dravid,AB Dinda,AG Paunikar,4,Not out
+2.3,R Dravid,AB Dinda,AG Paunikar,0,Not out
+2.4,R Dravid,AB Dinda,AG Paunikar,1,Not out
+2.5,AG Paunikar,AB Dinda,R Dravid,4,Not out
+2.6,AG Paunikar,AB Dinda,R Dravid,0,bowled
+3.1,R Dravid,IK Pathan,J Botha,0,Not out
+3.2,R Dravid,IK Pathan,J Botha,0,Not out
+3.3,R Dravid,IK Pathan,J Botha,0,Not out
+3.4,R Dravid,IK Pathan,J Botha,6,Not out
+3.5,R Dravid,IK Pathan,J Botha,4,Not out
+3.6,R Dravid,IK Pathan,J Botha,4,Not out
+3.7,R Dravid,IK Pathan,J Botha,0,Not out
+4.1,J Botha,M Morkel,R Dravid,0,Not out
+4.2,J Botha,M Morkel,R Dravid,0,Not out
+4.3,J Botha,M Morkel,R Dravid,0,Not out
+4.4,J Botha,M Morkel,R Dravid,0,Not out
+4.5,J Botha,M Morkel,R Dravid,1,Not out
+4.6,R Dravid,M Morkel,J Botha,1,Not out
+5.1,R Dravid,RE van der Merwe,J Botha,4,Not out
+5.2,R Dravid,RE van der Merwe,J Botha,1,Not out
+5.3,J Botha,RE van der Merwe,R Dravid,4,Not out
+5.4,J Botha,RE van der Merwe,R Dravid,1,Not out
+5.5,R Dravid,RE van der Merwe,J Botha,0,Not out
+5.6,R Dravid,RE van der Merwe,J Botha,4,Not out
+6.1,J Botha,S Nadeem,R Dravid,1,Not out
+6.2,R Dravid,S Nadeem,J Botha,0,Not out
+6.3,R Dravid,S Nadeem,J Botha,0,Not out
+6.4,R Dravid,S Nadeem,J Botha,0,Not out
+6.5,R Dravid,S Nadeem,J Botha,0,Not out
+6.6,R Dravid,S Nadeem,J Botha,1,Not out
+7.1,R Dravid,RE van der Merwe,J Botha,2,Not out
+7.2,R Dravid,RE van der Merwe,J Botha,0,Not out
+7.3,R Dravid,RE van der Merwe,J Botha,0,caught
+7.4,AL Menaria,RE van der Merwe,J Botha,0,Not out
+7.5,AL Menaria,RE van der Merwe,J Botha,1,Not out
+7.6,J Botha,RE van der Merwe,AL Menaria,4,Not out
+8.1,AL Menaria,S Nadeem,J Botha,1,Not out
+8.2,J Botha,S Nadeem,AL Menaria,1,Not out
+8.3,AL Menaria,S Nadeem,J Botha,0,Not out
+8.4,AL Menaria,S Nadeem,J Botha,6,Not out
+8.5,AL Menaria,S Nadeem,J Botha,0,Not out
+8.6,AL Menaria,S Nadeem,J Botha,0,Not out
+9.1,J Botha,RE van der Merwe,AL Menaria,1,Not out
+9.2,AL Menaria,RE van der Merwe,J Botha,6,Not out
+9.3,AL Menaria,RE van der Merwe,J Botha,1,Not out
+9.4,J Botha,RE van der Merwe,AL Menaria,2,Not out
+9.5,J Botha,RE van der Merwe,AL Menaria,1,Not out
+9.6,AL Menaria,RE van der Merwe,J Botha,1,Not out
+10.1,AL Menaria,IK Pathan,J Botha,0,Not out
+10.2,AL Menaria,IK Pathan,J Botha,6,Not out
+10.3,AL Menaria,IK Pathan,J Botha,0,Not out
+10.4,AL Menaria,IK Pathan,J Botha,0,Not out
+10.5,AL Menaria,IK Pathan,J Botha,0,caught
+10.6,AM Rahane,IK Pathan,J Botha,0,Not out
+11.1,J Botha,AB Dinda,AM Rahane,1,Not out
+11.2,AM Rahane,AB Dinda,J Botha,0,Not out
+11.3,AM Rahane,AB Dinda,J Botha,0,Not out
+11.4,AM Rahane,AB Dinda,J Botha,0,Not out
+11.5,AM Rahane,AB Dinda,J Botha,1,Not out
+11.6,J Botha,AB Dinda,AM Rahane,4,Not out
+12.1,AM Rahane,IK Pathan,J Botha,6,Not out
+12.2,AM Rahane,IK Pathan,J Botha,1,Not out
+12.3,J Botha,IK Pathan,AM Rahane,1,Not out
+12.4,AM Rahane,IK Pathan,J Botha,1,Not out
+12.5,J Botha,IK Pathan,AM Rahane,1,Not out
+12.6,AM Rahane,IK Pathan,J Botha,1,Not out
+13.1,AM Rahane,RE van der Merwe,J Botha,1,Not out
+13.2,J Botha,RE van der Merwe,AM Rahane,1,Not out
+13.3,AM Rahane,RE van der Merwe,J Botha,4,Not out
+13.4,AM Rahane,RE van der Merwe,J Botha,1,Not out
+13.5,J Botha,RE van der Merwe,AM Rahane,1,Not out
+13.6,AM Rahane,RE van der Merwe,J Botha,0,Not out
+14.1,J Botha,S Nadeem,AM Rahane,1,Not out
+14.2,AM Rahane,S Nadeem,J Botha,0,Not out
+14.3,AM Rahane,S Nadeem,J Botha,1,Not out
+14.4,J Botha,S Nadeem,AM Rahane,0,Not out
+14.5,AM Rahane,S Nadeem,J Botha,1,Not out
+14.6,J Botha,S Nadeem,AM Rahane,0,Not out
+15.1,AM Rahane,M Morkel,J Botha,0,bowled
+15.2,LRPL Taylor,M Morkel,J Botha,0,Not out
+15.3,LRPL Taylor,M Morkel,J Botha,1,Not out
+15.4,J Botha,M Morkel,LRPL Taylor,0,Not out
+15.5,J Botha,M Morkel,LRPL Taylor,1,Not out
+15.6,LRPL Taylor,M Morkel,J Botha,1,Not out
+16.1,LRPL Taylor,S Nadeem,J Botha,2,Not out
+16.2,LRPL Taylor,S Nadeem,J Botha,1,Not out
+16.3,J Botha,S Nadeem,LRPL Taylor,4,Not out
+16.4,J Botha,S Nadeem,LRPL Taylor,2,Not out
+16.5,J Botha,S Nadeem,LRPL Taylor,1,Not out
+16.6,LRPL Taylor,S Nadeem,J Botha,2,Not out
+17.1,J Botha,M Morkel,LRPL Taylor,1,Not out
+17.2,LRPL Taylor,M Morkel,J Botha,0,Not out
+17.3,LRPL Taylor,M Morkel,J Botha,1,Not out
+17.4,J Botha,M Morkel,LRPL Taylor,2,Not out
+17.5,J Botha,M Morkel,LRPL Taylor,0,Not out
+17.6,J Botha,M Morkel,LRPL Taylor,1,Not out
+18.1,J Botha,AB Dinda,LRPL Taylor,1,Not out
+18.2,LRPL Taylor,AB Dinda,J Botha,4,Not out
+18.3,LRPL Taylor,AB Dinda,J Botha,6,Not out

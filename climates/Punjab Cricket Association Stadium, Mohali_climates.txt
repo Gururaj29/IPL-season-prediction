@@ -1,0 +1,31 @@
+Tue 5/1 		35°/22° 	0 mm 	0 CM 	Mostly cloudy 	37°/21°
+Wed 5/2 	36°/21° 	0 mm 	0 CM 	A blend of sun and clouds 	37°/21°
+Thu 5/3	 	36°/22° 	2 mm 	0 CM 	A thunderstorm in the area 	37°/22°
+Fri 5/4 		36°/23° 	0 mm 	0 CM 	Mostly sunny 	38°/22°
+Sat 5/5 		37°/24° 	0 mm 	0 CM 	Mostly sunny 	38°/22°
+Sun 5/6 		37°/24° 	0 mm 	0 CM 	Mostly sunny 	38°/22°
+Mon 5/7 	37°/23° 	1 mm 	0 CM 	A p.m. t-storm in spots 	38°/22°
+Tue 5/8 		37°/22° 	0 mm 	0 CM 	Times of clouds and sun 	38°/22°
+Wed 5/9 	37°/22° 	0 mm 	0 CM 	Mostly sunny 	38°/23°
+Thu 5/10 	38°/23° 	0 mm 	0 CM 	Sunny 	38°/23°
+Fri 5/11 		37°/23° 	0 mm 	0 CM 	Sunshine 	38°/23°
+Sat 5/12 	38°/24° 	0 mm 	0 CM 	Sunshine 	38°/23°
+Sun 5/13 	39°/24° 	0 mm 	0 CM 	Sunshine 	38°/23°
+Mon 5/14 	39°/25° 	0 mm 	0 CM 	Mostly sunny and very warm 	38°/23°
+Tue 5/15 	40°/25° 	0 mm 	0 CM 	Sunny and very warm 	38°/23°
+Wed 5/16 	39°/23° 	0 mm 	0 CM 	Partly sunny and very warm 	38°/24°
+Thu 5/17 	40°/24° 	0 mm 	0 CM 	Mostly sunny and very warm 	39°/24°
+Fri 5/18 		41°/25° 	0 mm 	0 CM 	Sunny and very warm 	39°/24°
+Sat 5/19 	40°/26° 	0 mm 	0 CM 	Mostly sunny and very warm 	39°/24°
+Sun 5/20 	40°/27° 	0 mm 	0 CM 	Mostly sunny and very warm 	39°/24°
+Mon 5/21 	40°/27° 	0 mm 	0 CM 	Very warm with sunshine 	39°/24°
+Tue 5/22 	41°/27° 	0 mm 	0 CM 	Very warm with sunshine 	39°/24°
+Wed 5/23 	41°/28° 	0 mm 	0 CM 	Very warm with sunshine 	39°/24°
+Thu 5/24 	42°/29° 	0 mm 	0 CM 	Sunshine and very warm 	39°/24°
+Fri 5/25 		41°/28° 	0 mm 	0 CM 	Very warm with clouds and sun 	39°/25°
+Sat 5/26 	41°/27° 	0 mm 	0 CM 	Mostly cloudy and very warm 	39°/25°
+Sun 5/27 	41°/27° 	0 mm 	0 CM 	Partly sunny and very warm 	39°/25°
+Mon 5/28 	40°/28° 	5 mm 	0 CM 	A thunderstorm in the area 	39°/25°
+Tue 5/29 	39°/25° 	0 mm 	0 CM 	Partly sunny 	39°/25°
+Wed 5/30 	38°/24° 	19 mm 	0 CM 	Mostly cloudy, a little rain 	39°/25°
+Thu 5/31 	36°/24° 	28 mm 	0 CM 	A shower and t-storm around 	39°/25°

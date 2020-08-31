@@ -1,0 +1,104 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AC Gilchrist,IK Pathan,Mandeep Singh,4,Not out
+0.2,AC Gilchrist,IK Pathan,Mandeep Singh,2,Not out
+0.3,AC Gilchrist,IK Pathan,Mandeep Singh,0,caught
+0.4,Mandeep Singh,IK Pathan,LA Pomersbach,0,Not out
+0.5,Mandeep Singh,IK Pathan,LA Pomersbach,0,Not out
+0.6,Mandeep Singh,IK Pathan,LA Pomersbach,1,Not out
+1.1,Mandeep Singh,A Nehra,LA Pomersbach,4,Not out
+1.2,Mandeep Singh,A Nehra,LA Pomersbach,4,Not out
+1.3,Mandeep Singh,A Nehra,LA Pomersbach,4,Not out
+1.4,Mandeep Singh,A Nehra,LA Pomersbach,0,Not out
+1.5,Mandeep Singh,A Nehra,LA Pomersbach,1,Not out
+1.6,LA Pomersbach,A Nehra,Mandeep Singh,1,Not out
+2.1,LA Pomersbach,IK Pathan,Mandeep Singh,1,Not out
+2.2,Mandeep Singh,IK Pathan,LA Pomersbach,4,Not out
+2.3,Mandeep Singh,IK Pathan,LA Pomersbach,4,Not out
+2.4,Mandeep Singh,IK Pathan,LA Pomersbach,0,Not out
+2.5,LA Pomersbach,IK Pathan,Mandeep Singh,4,Not out
+2.6,LA Pomersbach,IK Pathan,Mandeep Singh,4,Not out
+2.7,LA Pomersbach,IK Pathan,Mandeep Singh,0,Not out
+3.1,Mandeep Singh,J Botha,LA Pomersbach,0,Not out
+3.2,Mandeep Singh,J Botha,LA Pomersbach,0,Not out
+3.3,Mandeep Singh,J Botha,LA Pomersbach,1,Not out
+3.4,LA Pomersbach,J Botha,Mandeep Singh,0,Not out
+3.5,LA Pomersbach,J Botha,Mandeep Singh,2,Not out
+3.6,LA Pomersbach,J Botha,Mandeep Singh,2,Not out
+4.1,Mandeep Singh,RE van der Merwe,LA Pomersbach,0,Not out
+4.2,Mandeep Singh,RE van der Merwe,LA Pomersbach,1,Not out
+4.3,LA Pomersbach,RE van der Merwe,Mandeep Singh,4,Not out
+4.4,LA Pomersbach,RE van der Merwe,Mandeep Singh,0,bowled
+4.5,DA Miller,RE van der Merwe,Mandeep Singh,0,run out
+4.6,DA Miller,RE van der Merwe,M Vohra,1,Not out
+5.1,DA Miller,UT Yadav,M Vohra,0,Not out
+5.2,DA Miller,UT Yadav,M Vohra,0,Not out
+5.3,DA Miller,UT Yadav,M Vohra,0,Not out
+5.4,DA Miller,UT Yadav,M Vohra,4,Not out
+5.5,DA Miller,UT Yadav,M Vohra,0,Not out
+5.6,DA Miller,UT Yadav,M Vohra,1,Not out
+6.1,DA Miller,RE van der Merwe,M Vohra,0,Not out
+6.2,DA Miller,RE van der Merwe,M Vohra,1,Not out
+6.3,M Vohra,RE van der Merwe,DA Miller,0,Not out
+6.4,M Vohra,RE van der Merwe,DA Miller,0,Not out
+6.5,M Vohra,RE van der Merwe,DA Miller,1,Not out
+6.6,DA Miller,RE van der Merwe,M Vohra,1,Not out
+7.1,DA Miller,J Botha,M Vohra,1,Not out
+7.2,M Vohra,J Botha,DA Miller,0,Not out
+7.3,M Vohra,J Botha,DA Miller,0,Not out
+7.4,M Vohra,J Botha,DA Miller,1,Not out
+7.5,DA Miller,J Botha,M Vohra,0,Not out
+7.6,DA Miller,J Botha,M Vohra,1,Not out
+8.1,DA Miller,AB Agarkar,M Vohra,1,Not out
+8.2,M Vohra,AB Agarkar,DA Miller,0,Not out
+8.3,M Vohra,AB Agarkar,DA Miller,1,Not out
+8.4,DA Miller,AB Agarkar,M Vohra,0,Not out
+8.5,DA Miller,AB Agarkar,M Vohra,1,Not out
+8.6,M Vohra,AB Agarkar,DA Miller,1,Not out
+9.1,M Vohra,J Botha,DA Miller,4,Not out
+9.2,M Vohra,J Botha,DA Miller,0,caught and bowled
+9.3,DJ Hussey,J Botha,DA Miller,1,Not out
+9.4,DA Miller,J Botha,DJ Hussey,1,Not out
+9.5,DJ Hussey,J Botha,DA Miller,1,Not out
+9.6,DA Miller,J Botha,DJ Hussey,0,Not out
+10.1,DJ Hussey,RE van der Merwe,DA Miller,1,Not out
+10.2,DA Miller,RE van der Merwe,DJ Hussey,1,Not out
+10.3,DJ Hussey,RE van der Merwe,DA Miller,0,Not out
+10.4,DJ Hussey,RE van der Merwe,DA Miller,4,Not out
+10.5,DJ Hussey,RE van der Merwe,DA Miller,1,Not out
+10.6,DA Miller,RE van der Merwe,DJ Hussey,1,Not out
+11.1,DA Miller,J Botha,DJ Hussey,2,Not out
+11.2,DA Miller,J Botha,DJ Hussey,4,Not out
+11.3,DA Miller,J Botha,DJ Hussey,1,Not out
+11.4,DJ Hussey,J Botha,DA Miller,0,Not out
+11.5,DJ Hussey,J Botha,DA Miller,1,Not out
+11.6,DA Miller,J Botha,DJ Hussey,0,Not out
+12.1,DJ Hussey,UT Yadav,DA Miller,1,Not out
+12.2,DA Miller,UT Yadav,DJ Hussey,0,Not out
+12.3,DA Miller,UT Yadav,DJ Hussey,0,Not out
+12.4,DA Miller,UT Yadav,DJ Hussey,1,Not out
+12.5,DJ Hussey,UT Yadav,DA Miller,0,Not out
+12.6,DJ Hussey,UT Yadav,DA Miller,2,Not out
+13.1,DA Miller,A Nehra,DJ Hussey,0,Not out
+13.2,DA Miller,A Nehra,DJ Hussey,0,Not out
+13.3,DA Miller,A Nehra,DJ Hussey,1,Not out
+13.4,DJ Hussey,A Nehra,DA Miller,1,Not out
+13.5,DA Miller,A Nehra,DJ Hussey,1,Not out
+13.6,DJ Hussey,A Nehra,DA Miller,1,Not out
+14.1,DJ Hussey,RE van der Merwe,DA Miller,0,Not out
+14.2,DJ Hussey,RE van der Merwe,DA Miller,0,Not out
+14.3,DJ Hussey,RE van der Merwe,DA Miller,0,Not out
+14.4,DJ Hussey,RE van der Merwe,DA Miller,0,Not out
+14.5,DJ Hussey,RE van der Merwe,DA Miller,0,Not out
+14.6,DJ Hussey,RE van der Merwe,DA Miller,0,Not out
+15.1,DA Miller,A Nehra,DJ Hussey,0,Not out
+15.2,DA Miller,A Nehra,DJ Hussey,2,Not out
+15.3,DA Miller,A Nehra,DJ Hussey,1,Not out
+15.4,DJ Hussey,A Nehra,DA Miller,6,Not out
+15.5,DJ Hussey,A Nehra,DA Miller,0,caught
+15.6,DA Miller,A Nehra,PP Chawla,1,Not out
+16.1,DA Miller,UT Yadav,PP Chawla,4,Not out
+16.2,DA Miller,UT Yadav,PP Chawla,0,Not out
+16.3,DA Miller,UT Yadav,PP Chawla,1,Not out
+16.4,PP Chawla,UT Yadav,DA Miller,0,Not out
+16.5,PP Chawla,UT Yadav,DA Miller,4,Not out
+16.6,PP Chawla,UT Yadav,DA Miller,1,Not out

@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,J Arunkumar,S Sreesanth,V Kohli,1,Not out
+0.2,V Kohli,S Sreesanth,J Arunkumar,0,Not out
+0.3,V Kohli,S Sreesanth,J Arunkumar,0,Not out
+0.4,V Kohli,S Sreesanth,J Arunkumar,2,Not out
+0.5,V Kohli,S Sreesanth,J Arunkumar,0,Not out
+0.6,V Kohli,S Sreesanth,J Arunkumar,0,Not out
+1.1,J Arunkumar,IK Pathan,V Kohli,0,Not out
+1.2,V Kohli,IK Pathan,J Arunkumar,0,Not out
+1.3,V Kohli,IK Pathan,J Arunkumar,0,Not out
+1.4,V Kohli,IK Pathan,J Arunkumar,0,Not out
+1.5,V Kohli,IK Pathan,J Arunkumar,0,Not out
+1.6,V Kohli,IK Pathan,J Arunkumar,0,Not out
+2.1,J Arunkumar,S Sreesanth,V Kohli,0,caught
+2.2,Misbah-ul-Haq,S Sreesanth,V Kohli,1,Not out
+2.3,V Kohli,S Sreesanth,Misbah-ul-Haq,0,Not out
+2.4,V Kohli,S Sreesanth,Misbah-ul-Haq,1,Not out
+2.5,Misbah-ul-Haq,S Sreesanth,V Kohli,4,Not out
+2.6,Misbah-ul-Haq,S Sreesanth,V Kohli,4,Not out
+3.1,V Kohli,IK Pathan,Misbah-ul-Haq,4,Not out
+3.2,V Kohli,IK Pathan,Misbah-ul-Haq,4,Not out
+3.3,V Kohli,IK Pathan,Misbah-ul-Haq,0,Not out
+3.4,V Kohli,IK Pathan,Misbah-ul-Haq,0,Not out
+3.5,V Kohli,IK Pathan,Misbah-ul-Haq,1,Not out
+3.6,Misbah-ul-Haq,IK Pathan,V Kohli,1,Not out
+4.1,Misbah-ul-Haq,S Sreesanth,V Kohli,6,Not out
+4.2,Misbah-ul-Haq,S Sreesanth,V Kohli,1,Not out
+4.3,V Kohli,S Sreesanth,Misbah-ul-Haq,0,Not out
+4.4,V Kohli,S Sreesanth,Misbah-ul-Haq,1,Not out
+4.5,Misbah-ul-Haq,S Sreesanth,V Kohli,4,Not out
+4.6,Misbah-ul-Haq,S Sreesanth,V Kohli,0,hit wicket
+5.1,V Kohli,PP Chawla,CL White,0,Not out
+5.2,V Kohli,PP Chawla,CL White,4,Not out
+5.3,V Kohli,PP Chawla,CL White,4,Not out
+5.4,V Kohli,PP Chawla,CL White,0,bowled
+5.5,R Dravid,PP Chawla,CL White,1,Not out
+5.6,CL White,PP Chawla,R Dravid,0,Not out
+5.7,CL White,PP Chawla,R Dravid,0,Not out
+6.1,R Dravid,VRV Singh,CL White,0,Not out
+6.2,R Dravid,VRV Singh,CL White,0,Not out
+6.3,R Dravid,VRV Singh,CL White,1,Not out
+6.4,CL White,VRV Singh,R Dravid,1,Not out
+6.5,R Dravid,VRV Singh,CL White,0,Not out
+6.6,R Dravid,VRV Singh,CL White,1,Not out
+7.1,R Dravid,PP Chawla,CL White,1,Not out
+7.2,CL White,PP Chawla,R Dravid,1,Not out
+7.3,R Dravid,PP Chawla,CL White,1,Not out
+7.4,CL White,PP Chawla,R Dravid,1,Not out
+7.5,R Dravid,PP Chawla,CL White,1,Not out
+7.6,CL White,PP Chawla,R Dravid,1,Not out
+8.1,CL White,VRV Singh,R Dravid,2,Not out
+8.2,CL White,VRV Singh,R Dravid,1,Not out
+8.3,R Dravid,VRV Singh,CL White,1,Not out
+8.4,CL White,VRV Singh,R Dravid,0,Not out
+8.5,CL White,VRV Singh,R Dravid,0,Not out
+8.6,CL White,VRV Singh,R Dravid,1,Not out
+9.1,CL White,Yuvraj Singh,R Dravid,0,Not out
+9.2,CL White,Yuvraj Singh,R Dravid,1,Not out
+9.3,R Dravid,Yuvraj Singh,CL White,2,Not out
+9.4,R Dravid,Yuvraj Singh,CL White,0,Not out
+9.5,R Dravid,Yuvraj Singh,CL White,4,Not out
+9.6,R Dravid,Yuvraj Singh,CL White,1,Not out
+9.7,CL White,Yuvraj Singh,R Dravid,1,Not out
+10.1,CL White,PP Chawla,R Dravid,0,caught and bowled
+10.2,R Dravid,PP Chawla,MV Boucher,1,Not out
+10.3,MV Boucher,PP Chawla,R Dravid,0,Not out
+10.4,MV Boucher,PP Chawla,R Dravid,1,Not out
+10.5,R Dravid,PP Chawla,MV Boucher,1,Not out
+10.6,MV Boucher,PP Chawla,R Dravid,0,Not out
+11.1,R Dravid,Yuvraj Singh,MV Boucher,1,Not out
+11.2,MV Boucher,Yuvraj Singh,R Dravid,1,Not out
+11.3,R Dravid,Yuvraj Singh,MV Boucher,1,Not out
+11.4,MV Boucher,Yuvraj Singh,R Dravid,0,Not out
+11.5,MV Boucher,Yuvraj Singh,R Dravid,0,Not out
+11.6,MV Boucher,Yuvraj Singh,R Dravid,1,Not out
+12.1,MV Boucher,PP Chawla,R Dravid,4,Not out
+12.2,MV Boucher,PP Chawla,R Dravid,1,Not out
+12.3,R Dravid,PP Chawla,MV Boucher,2,Not out
+12.4,R Dravid,PP Chawla,MV Boucher,1,Not out
+12.5,MV Boucher,PP Chawla,R Dravid,1,Not out
+12.6,R Dravid,PP Chawla,MV Boucher,1,Not out
+13.1,R Dravid,JR Hopes,MV Boucher,1,Not out
+13.2,MV Boucher,JR Hopes,R Dravid,0,Not out
+13.3,MV Boucher,JR Hopes,R Dravid,0,Not out
+13.4,MV Boucher,JR Hopes,R Dravid,0,Not out
+13.5,MV Boucher,JR Hopes,R Dravid,1,Not out
+13.6,R Dravid,JR Hopes,MV Boucher,4,Not out
+14.1,MV Boucher,IK Pathan,R Dravid,1,Not out
+14.2,R Dravid,IK Pathan,MV Boucher,1,Not out
+14.3,MV Boucher,IK Pathan,R Dravid,1,Not out
+14.4,R Dravid,IK Pathan,MV Boucher,1,Not out
+14.5,MV Boucher,IK Pathan,R Dravid,1,Not out
+14.6,R Dravid,IK Pathan,MV Boucher,0,bowled
+15.1,MV Boucher,JR Hopes,P Kumar,1,Not out
+15.2,P Kumar,JR Hopes,MV Boucher,1,Not out
+15.3,MV Boucher,JR Hopes,P Kumar,0,Not out
+15.4,MV Boucher,JR Hopes,P Kumar,6,Not out
+15.5,MV Boucher,JR Hopes,P Kumar,4,Not out
+15.6,MV Boucher,JR Hopes,P Kumar,4,Not out
+16.1,P Kumar,VRV Singh,MV Boucher,0,Not out
+16.2,P Kumar,VRV Singh,MV Boucher,1,Not out
+16.3,MV Boucher,VRV Singh,P Kumar,0,Not out
+16.4,MV Boucher,VRV Singh,P Kumar,1,Not out
+16.5,P Kumar,VRV Singh,MV Boucher,2,Not out
+16.6,P Kumar,VRV Singh,MV Boucher,1,Not out
+17.1,P Kumar,S Sreesanth,MV Boucher,0,Not out
+17.2,P Kumar,S Sreesanth,MV Boucher,0,bowled
+17.3,R Vinay Kumar,S Sreesanth,MV Boucher,0,Not out
+17.4,R Vinay Kumar,S Sreesanth,MV Boucher,0,Not out
+17.5,MV Boucher,S Sreesanth,R Vinay Kumar,1,Not out
+17.6,R Vinay Kumar,S Sreesanth,MV Boucher,1,Not out
+17.7,MV Boucher,S Sreesanth,R Vinay Kumar,1,Not out
+18.1,MV Boucher,VRV Singh,R Vinay Kumar,1,Not out
+18.2,R Vinay Kumar,VRV Singh,MV Boucher,0,bowled
+18.3,Z Khan,VRV Singh,MV Boucher,0,Not out
+18.4,Z Khan,VRV Singh,MV Boucher,0,Not out
+18.5,MV Boucher,VRV Singh,Z Khan,1,Not out
+18.6,Z Khan,VRV Singh,MV Boucher,0,Not out
+19.1,MV Boucher,IK Pathan,Z Khan,0,Not out
+19.2,MV Boucher,IK Pathan,Z Khan,1,Not out
+19.3,Z Khan,IK Pathan,MV Boucher,1,Not out
+19.4,MV Boucher,IK Pathan,Z Khan,0,Not out
+19.5,MV Boucher,IK Pathan,Z Khan,4,Not out
+19.6,MV Boucher,IK Pathan,Z Khan,1,run out
+19.7,A Kumble,IK Pathan,Z Khan,0,Not out

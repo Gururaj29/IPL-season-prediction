@@ -1,0 +1,111 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MS Bisla,MG Johnson,G Gambhir,0,Not out
+0.2,MS Bisla,MG Johnson,G Gambhir,0,Not out
+0.3,G Gambhir,MG Johnson,MS Bisla,0,Not out
+0.4,G Gambhir,MG Johnson,MS Bisla,0,bowled
+0.5,JH Kallis,MG Johnson,MS Bisla,1,Not out
+0.6,MS Bisla,MG Johnson,JH Kallis,0,Not out
+1.1,JH Kallis,AN Ahmed,MS Bisla,0,Not out
+1.2,JH Kallis,AN Ahmed,MS Bisla,0,Not out
+1.3,JH Kallis,AN Ahmed,MS Bisla,0,Not out
+1.4,JH Kallis,AN Ahmed,MS Bisla,0,Not out
+1.5,JH Kallis,AN Ahmed,MS Bisla,4,Not out
+1.6,JH Kallis,AN Ahmed,MS Bisla,6,Not out
+2.1,MS Bisla,MG Johnson,JH Kallis,0,Not out
+2.2,MS Bisla,MG Johnson,JH Kallis,1,Not out
+2.3,JH Kallis,MG Johnson,MS Bisla,4,Not out
+2.4,JH Kallis,MG Johnson,MS Bisla,1,Not out
+2.5,MS Bisla,MG Johnson,JH Kallis,0,Not out
+2.6,MS Bisla,MG Johnson,JH Kallis,4,Not out
+3.1,JH Kallis,PP Ojha,MS Bisla,0,Not out
+3.2,JH Kallis,PP Ojha,MS Bisla,1,Not out
+3.3,MS Bisla,PP Ojha,JH Kallis,0,Not out
+3.4,MS Bisla,PP Ojha,JH Kallis,1,Not out
+3.5,JH Kallis,PP Ojha,MS Bisla,1,Not out
+3.6,MS Bisla,PP Ojha,JH Kallis,4,Not out
+4.1,JH Kallis,MG Johnson,MS Bisla,0,Not out
+4.2,JH Kallis,MG Johnson,MS Bisla,0,Not out
+4.3,JH Kallis,MG Johnson,MS Bisla,1,Not out
+4.4,MS Bisla,MG Johnson,JH Kallis,0,Not out
+4.5,MS Bisla,MG Johnson,JH Kallis,0,Not out
+4.6,MS Bisla,MG Johnson,JH Kallis,0,Not out
+5.1,JH Kallis,SL Malinga,MS Bisla,1,Not out
+5.2,MS Bisla,SL Malinga,JH Kallis,0,Not out
+5.3,MS Bisla,SL Malinga,JH Kallis,0,Not out
+5.4,MS Bisla,SL Malinga,JH Kallis,2,Not out
+5.5,MS Bisla,SL Malinga,JH Kallis,4,Not out
+5.6,MS Bisla,SL Malinga,JH Kallis,1,Not out
+6.1,MS Bisla,PP Ojha,JH Kallis,0,stumped
+6.2,YK Pathan,PP Ojha,JH Kallis,1,Not out
+6.3,JH Kallis,PP Ojha,YK Pathan,0,Not out
+6.4,JH Kallis,PP Ojha,YK Pathan,1,Not out
+6.5,YK Pathan,PP Ojha,JH Kallis,6,Not out
+6.6,YK Pathan,PP Ojha,JH Kallis,0,Not out
+7.1,JH Kallis,AN Ahmed,YK Pathan,0,Not out
+7.2,JH Kallis,AN Ahmed,YK Pathan,1,Not out
+7.3,YK Pathan,AN Ahmed,JH Kallis,4,Not out
+7.4,YK Pathan,AN Ahmed,JH Kallis,0,Not out
+7.5,YK Pathan,AN Ahmed,JH Kallis,1,Not out
+7.6,JH Kallis,AN Ahmed,YK Pathan,0,Not out
+8.1,YK Pathan,PP Ojha,JH Kallis,1,Not out
+8.2,JH Kallis,PP Ojha,YK Pathan,1,Not out
+8.3,YK Pathan,PP Ojha,JH Kallis,0,bowled
+8.4,EJG Morgan,PP Ojha,JH Kallis,0,Not out
+8.5,EJG Morgan,PP Ojha,JH Kallis,1,Not out
+8.6,JH Kallis,PP Ojha,EJG Morgan,0,Not out
+9.1,EJG Morgan,Harbhajan Singh,JH Kallis,1,Not out
+9.2,JH Kallis,Harbhajan Singh,EJG Morgan,1,Not out
+9.3,EJG Morgan,Harbhajan Singh,JH Kallis,1,Not out
+9.4,JH Kallis,Harbhajan Singh,EJG Morgan,0,Not out
+9.5,JH Kallis,Harbhajan Singh,EJG Morgan,0,caught
+9.6,EJG Morgan,Harbhajan Singh,DB Das,0,Not out
+10.1,DB Das,PP Ojha,EJG Morgan,4,Not out
+10.2,DB Das,PP Ojha,EJG Morgan,0,Not out
+10.3,DB Das,PP Ojha,EJG Morgan,1,Not out
+10.4,EJG Morgan,PP Ojha,DB Das,0,Not out
+10.5,DB Das,PP Ojha,EJG Morgan,0,Not out
+10.6,DB Das,PP Ojha,EJG Morgan,0,Not out
+11.1,EJG Morgan,Harbhajan Singh,DB Das,1,Not out
+11.2,DB Das,Harbhajan Singh,EJG Morgan,0,Not out
+11.3,DB Das,Harbhajan Singh,EJG Morgan,1,Not out
+11.4,EJG Morgan,Harbhajan Singh,DB Das,1,Not out
+11.5,DB Das,Harbhajan Singh,EJG Morgan,0,Not out
+11.6,DB Das,Harbhajan Singh,EJG Morgan,6,Not out
+12.1,EJG Morgan,AN Ahmed,DB Das,0,Not out
+12.2,EJG Morgan,AN Ahmed,DB Das,0,caught
+12.3,R McLaren,AN Ahmed,DB Das,1,Not out
+12.4,DB Das,AN Ahmed,R McLaren,0,Not out
+12.5,DB Das,AN Ahmed,R McLaren,1,Not out
+12.6,R McLaren,AN Ahmed,DB Das,0,Not out
+13.1,DB Das,Harbhajan Singh,R McLaren,6,Not out
+13.2,DB Das,Harbhajan Singh,R McLaren,0,Not out
+13.3,DB Das,Harbhajan Singh,R McLaren,0,Not out
+13.4,DB Das,Harbhajan Singh,R McLaren,0,Not out
+13.5,DB Das,Harbhajan Singh,R McLaren,4,Not out
+13.6,DB Das,Harbhajan Singh,R McLaren,0,caught and bowled
+14.1,R McLaren,SL Malinga,R Bhatia,0,run out
+14.2,Iqbal Abdulla,SL Malinga,R Bhatia,0,Not out
+14.3,Iqbal Abdulla,SL Malinga,R Bhatia,1,Not out
+14.4,R Bhatia,SL Malinga,Iqbal Abdulla,0,Not out
+14.5,R Bhatia,SL Malinga,Iqbal Abdulla,1,Not out
+14.6,Iqbal Abdulla,SL Malinga,R Bhatia,1,Not out
+15.1,Iqbal Abdulla,Harbhajan Singh,R Bhatia,0,Not out
+15.2,Iqbal Abdulla,Harbhajan Singh,R Bhatia,1,Not out
+15.3,R Bhatia,Harbhajan Singh,Iqbal Abdulla,2,Not out
+15.4,R Bhatia,Harbhajan Singh,Iqbal Abdulla,1,Not out
+15.5,Iqbal Abdulla,Harbhajan Singh,R Bhatia,1,Not out
+15.6,R Bhatia,Harbhajan Singh,Iqbal Abdulla,0,caught
+16.1,SP Narine,SL Malinga,Iqbal Abdulla,0,Not out
+16.2,SP Narine,SL Malinga,Iqbal Abdulla,1,Not out
+16.3,Iqbal Abdulla,SL Malinga,SP Narine,0,Not out
+16.4,Iqbal Abdulla,SL Malinga,SP Narine,1,Not out
+16.5,SP Narine,SL Malinga,Iqbal Abdulla,1,Not out
+16.6,Iqbal Abdulla,SL Malinga,SP Narine,0,Not out
+17.1,SP Narine,MG Johnson,Iqbal Abdulla,1,Not out
+17.2,Iqbal Abdulla,MG Johnson,SP Narine,0,Not out
+17.3,SP Narine,MG Johnson,Iqbal Abdulla,0,Not out
+17.4,SP Narine,MG Johnson,Iqbal Abdulla,0,caught
+17.5,L Balaji,MG Johnson,Iqbal Abdulla,0,Not out
+17.6,L Balaji,MG Johnson,Iqbal Abdulla,0,Not out
+18.1,Iqbal Abdulla,SL Malinga,L Balaji,1,Not out
+18.2,L Balaji,SL Malinga,Iqbal Abdulla,0,bowled

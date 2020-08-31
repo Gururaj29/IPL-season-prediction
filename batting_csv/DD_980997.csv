@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,Q de Kock,AB Dinda,SS Iyer,0,Not out
+0.2,Q de Kock,AB Dinda,SS Iyer,0,Not out
+0.3,Q de Kock,AB Dinda,SS Iyer,1,Not out
+0.4,SS Iyer,AB Dinda,Q de Kock,0,Not out
+0.5,SS Iyer,AB Dinda,Q de Kock,1,Not out
+0.6,Q de Kock,AB Dinda,SS Iyer,0,Not out
+1.1,SS Iyer,DL Chahar,Q de Kock,0,Not out
+1.2,SS Iyer,DL Chahar,Q de Kock,0,Not out
+1.3,SS Iyer,DL Chahar,Q de Kock,1,Not out
+1.4,Q de Kock,DL Chahar,SS Iyer,0,Not out
+1.5,Q de Kock,DL Chahar,SS Iyer,0,Not out
+1.6,Q de Kock,DL Chahar,SS Iyer,1,Not out
+2.1,Q de Kock,AB Dinda,SS Iyer,0,lbw
+2.2,KK Nair,AB Dinda,SS Iyer,0,Not out
+2.3,KK Nair,AB Dinda,SS Iyer,0,Not out
+2.4,KK Nair,AB Dinda,SS Iyer,0,Not out
+2.5,KK Nair,AB Dinda,SS Iyer,0,Not out
+2.6,KK Nair,AB Dinda,SS Iyer,0,Not out
+3.1,SS Iyer,DL Chahar,KK Nair,4,Not out
+3.2,SS Iyer,DL Chahar,KK Nair,0,Not out
+3.3,SS Iyer,DL Chahar,KK Nair,1,Not out
+3.4,KK Nair,DL Chahar,SS Iyer,4,Not out
+3.5,KK Nair,DL Chahar,SS Iyer,2,Not out
+3.6,KK Nair,DL Chahar,SS Iyer,0,Not out
+4.1,SS Iyer,AB Dinda,KK Nair,1,Not out
+4.2,KK Nair,AB Dinda,SS Iyer,4,Not out
+4.3,KK Nair,AB Dinda,SS Iyer,4,Not out
+4.4,KK Nair,AB Dinda,SS Iyer,1,Not out
+4.5,SS Iyer,AB Dinda,KK Nair,0,caught
+4.6,KK Nair,AB Dinda,SV Samson,0,Not out
+5.1,SV Samson,NLTC Perera,KK Nair,0,Not out
+5.2,SV Samson,NLTC Perera,KK Nair,1,Not out
+5.3,KK Nair,NLTC Perera,SV Samson,0,Not out
+5.4,KK Nair,NLTC Perera,SV Samson,0,Not out
+5.5,KK Nair,NLTC Perera,SV Samson,1,Not out
+5.6,SV Samson,NLTC Perera,KK Nair,1,Not out
+6.1,SV Samson,IK Pathan,KK Nair,0,Not out
+6.2,SV Samson,IK Pathan,KK Nair,0,Not out
+6.3,SV Samson,IK Pathan,KK Nair,1,Not out
+6.4,KK Nair,IK Pathan,SV Samson,0,Not out
+6.5,KK Nair,IK Pathan,SV Samson,0,Not out
+6.6,KK Nair,IK Pathan,SV Samson,1,Not out
+7.1,KK Nair,NLTC Perera,SV Samson,1,Not out
+7.2,SV Samson,NLTC Perera,KK Nair,1,Not out
+7.3,KK Nair,NLTC Perera,SV Samson,0,Not out
+7.4,KK Nair,NLTC Perera,SV Samson,0,Not out
+7.5,KK Nair,NLTC Perera,SV Samson,0,Not out
+7.6,KK Nair,NLTC Perera,SV Samson,0,Not out
+8.1,SV Samson,IK Pathan,KK Nair,2,Not out
+8.2,SV Samson,IK Pathan,KK Nair,2,Not out
+8.3,SV Samson,IK Pathan,KK Nair,1,Not out
+8.4,KK Nair,IK Pathan,SV Samson,4,Not out
+8.5,KK Nair,IK Pathan,SV Samson,1,Not out
+8.6,SV Samson,IK Pathan,KK Nair,0,Not out
+9.1,KK Nair,A Zampa,SV Samson,2,Not out
+9.2,KK Nair,A Zampa,SV Samson,2,Not out
+9.3,KK Nair,A Zampa,SV Samson,1,Not out
+9.4,SV Samson,A Zampa,KK Nair,1,Not out
+9.5,KK Nair,A Zampa,SV Samson,1,Not out
+9.6,SV Samson,A Zampa,KK Nair,0,stumped
+10.1,KK Nair,IK Pathan,RR Pant,0,Not out
+10.2,KK Nair,IK Pathan,RR Pant,4,Not out
+10.3,KK Nair,IK Pathan,RR Pant,0,Not out
+10.4,KK Nair,IK Pathan,RR Pant,0,Not out
+10.5,KK Nair,IK Pathan,RR Pant,1,Not out
+10.6,RR Pant,IK Pathan,KK Nair,0,Not out
+11.1,KK Nair,R Ashwin,RR Pant,1,Not out
+11.2,RR Pant,R Ashwin,KK Nair,0,Not out
+11.3,RR Pant,R Ashwin,KK Nair,0,Not out
+11.4,RR Pant,R Ashwin,KK Nair,1,Not out
+11.5,KK Nair,R Ashwin,RR Pant,1,Not out
+11.6,RR Pant,R Ashwin,KK Nair,0,Not out
+12.1,KK Nair,A Zampa,RR Pant,1,Not out
+12.2,RR Pant,A Zampa,KK Nair,1,Not out
+12.3,KK Nair,A Zampa,RR Pant,1,Not out
+12.4,RR Pant,A Zampa,KK Nair,0,Not out
+12.5,RR Pant,A Zampa,KK Nair,2,Not out
+12.6,RR Pant,A Zampa,KK Nair,0,caught
+13.1,JP Duminy,R Ashwin,KK Nair,0,Not out
+13.2,JP Duminy,R Ashwin,KK Nair,1,Not out
+13.3,KK Nair,R Ashwin,JP Duminy,0,Not out
+13.4,KK Nair,R Ashwin,JP Duminy,1,Not out
+13.5,JP Duminy,R Ashwin,KK Nair,4,Not out
+13.6,JP Duminy,R Ashwin,KK Nair,0,Not out
+14.1,KK Nair,A Zampa,JP Duminy,0,Not out
+14.2,KK Nair,A Zampa,JP Duminy,2,Not out
+14.3,KK Nair,A Zampa,JP Duminy,0,lbw
+14.4,CH Morris,A Zampa,JP Duminy,1,Not out
+14.5,JP Duminy,A Zampa,CH Morris,1,Not out
+14.6,CH Morris,A Zampa,JP Duminy,1,Not out
+15.1,CH Morris,R Ashwin,JP Duminy,0,Not out
+15.2,CH Morris,R Ashwin,JP Duminy,1,Not out
+15.3,JP Duminy,R Ashwin,CH Morris,1,Not out
+15.4,CH Morris,R Ashwin,JP Duminy,1,Not out
+15.5,JP Duminy,R Ashwin,CH Morris,0,Not out
+15.6,JP Duminy,R Ashwin,CH Morris,1,Not out
+16.1,JP Duminy,A Zampa,CH Morris,1,Not out
+16.2,CH Morris,A Zampa,JP Duminy,1,Not out
+16.3,JP Duminy,A Zampa,CH Morris,1,Not out
+16.4,CH Morris,A Zampa,JP Duminy,0,Not out
+16.5,CH Morris,A Zampa,JP Duminy,0,Not out
+16.6,CH Morris,A Zampa,JP Duminy,1,Not out
+17.1,CH Morris,R Ashwin,JP Duminy,4,Not out
+17.2,CH Morris,R Ashwin,JP Duminy,0,Not out
+17.3,CH Morris,R Ashwin,JP Duminy,0,Not out
+17.4,CH Morris,R Ashwin,JP Duminy,1,Not out
+17.5,JP Duminy,R Ashwin,CH Morris,1,Not out
+17.6,CH Morris,R Ashwin,JP Duminy,1,Not out
+17.7,JP Duminy,R Ashwin,CH Morris,1,Not out
+17.8,CH Morris,R Ashwin,JP Duminy,0,Not out
+18.1,JP Duminy,AB Dinda,CH Morris,2,Not out
+18.2,JP Duminy,AB Dinda,CH Morris,0,caught
+18.3,NM Coulter-Nile,AB Dinda,CH Morris,0,Not out
+18.4,NM Coulter-Nile,AB Dinda,CH Morris,1,Not out
+18.5,CH Morris,AB Dinda,NM Coulter-Nile,4,Not out
+18.6,CH Morris,AB Dinda,NM Coulter-Nile,1,Not out
+19.1,CH Morris,NLTC Perera,NM Coulter-Nile,1,Not out
+19.2,NM Coulter-Nile,NLTC Perera,CH Morris,1,Not out
+19.3,CH Morris,NLTC Perera,NM Coulter-Nile,4,Not out
+19.4,CH Morris,NLTC Perera,NM Coulter-Nile,6,Not out
+19.5,CH Morris,NLTC Perera,NM Coulter-Nile,4,Not out
+19.6,CH Morris,NLTC Perera,NM Coulter-Nile,6,Not out

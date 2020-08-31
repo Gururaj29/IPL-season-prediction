@@ -1,0 +1,124 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,S Sohal,B Lee,S Dhawan,0,Not out
+0.2,S Sohal,B Lee,S Dhawan,0,Not out
+0.3,S Sohal,B Lee,S Dhawan,0,Not out
+0.4,S Sohal,B Lee,S Dhawan,0,Not out
+0.5,S Sohal,B Lee,S Dhawan,1,Not out
+0.6,S Dhawan,B Lee,S Sohal,0,Not out
+1.1,S Sohal,L Balaji,S Dhawan,4,Not out
+1.2,S Sohal,L Balaji,S Dhawan,0,Not out
+1.3,S Sohal,L Balaji,S Dhawan,0,Not out
+1.4,S Sohal,L Balaji,S Dhawan,0,Not out
+1.5,S Sohal,L Balaji,S Dhawan,4,Not out
+1.6,S Sohal,L Balaji,S Dhawan,1,Not out
+2.1,S Sohal,B Lee,S Dhawan,0,Not out
+2.2,S Sohal,B Lee,S Dhawan,1,Not out
+2.3,S Dhawan,B Lee,S Sohal,2,Not out
+2.4,S Dhawan,B Lee,S Sohal,0,Not out
+2.5,S Dhawan,B Lee,S Sohal,4,Not out
+2.6,S Dhawan,B Lee,S Sohal,4,Not out
+3.1,S Sohal,Iqbal Abdulla,S Dhawan,1,Not out
+3.2,S Dhawan,Iqbal Abdulla,S Sohal,1,Not out
+3.3,S Sohal,Iqbal Abdulla,S Dhawan,2,Not out
+3.4,S Sohal,Iqbal Abdulla,S Dhawan,5,Not out
+3.5,S Dhawan,Iqbal Abdulla,S Sohal,0,Not out
+3.6,S Dhawan,Iqbal Abdulla,S Sohal,1,Not out
+4.1,S Dhawan,L Balaji,S Sohal,0,Not out
+4.2,S Dhawan,L Balaji,S Sohal,1,Not out
+4.3,S Sohal,L Balaji,S Dhawan,4,Not out
+4.4,S Sohal,L Balaji,S Dhawan,1,Not out
+4.5,S Dhawan,L Balaji,S Sohal,0,Not out
+4.6,S Dhawan,L Balaji,S Sohal,1,Not out
+5.1,S Dhawan,Iqbal Abdulla,S Sohal,1,Not out
+5.2,S Sohal,Iqbal Abdulla,S Dhawan,2,Not out
+5.3,S Sohal,Iqbal Abdulla,S Dhawan,0,caught
+5.4,KC Sangakkara,Iqbal Abdulla,S Dhawan,0,Not out
+5.5,KC Sangakkara,Iqbal Abdulla,S Dhawan,0,caught
+5.6,CL White,Iqbal Abdulla,S Dhawan,0,Not out
+6.1,S Dhawan,R Bhatia,CL White,1,Not out
+6.2,CL White,R Bhatia,S Dhawan,1,Not out
+6.3,S Dhawan,R Bhatia,CL White,0,Not out
+6.4,S Dhawan,R Bhatia,CL White,2,Not out
+6.5,S Dhawan,R Bhatia,CL White,0,Not out
+6.6,S Dhawan,R Bhatia,CL White,1,Not out
+7.1,S Dhawan,Iqbal Abdulla,CL White,4,Not out
+7.2,S Dhawan,Iqbal Abdulla,CL White,0,Not out
+7.3,CL White,Iqbal Abdulla,S Dhawan,3,Not out
+7.4,S Dhawan,Iqbal Abdulla,CL White,1,Not out
+7.5,CL White,Iqbal Abdulla,S Dhawan,0,Not out
+7.6,CL White,Iqbal Abdulla,S Dhawan,1,Not out
+8.1,CL White,R Bhatia,S Dhawan,1,Not out
+8.2,S Dhawan,R Bhatia,CL White,0,Not out
+8.3,S Dhawan,R Bhatia,CL White,1,Not out
+8.4,CL White,R Bhatia,S Dhawan,4,Not out
+8.5,CL White,R Bhatia,S Dhawan,1,Not out
+8.6,S Dhawan,R Bhatia,CL White,1,Not out
+9.1,S Dhawan,YK Pathan,CL White,1,Not out
+9.2,CL White,YK Pathan,S Dhawan,0,Not out
+9.3,CL White,YK Pathan,S Dhawan,0,Not out
+9.4,CL White,YK Pathan,S Dhawan,1,Not out
+9.5,S Dhawan,YK Pathan,CL White,1,Not out
+9.6,CL White,YK Pathan,S Dhawan,1,Not out
+10.1,CL White,R Bhatia,S Dhawan,0,bowled
+10.2,DT Christian,R Bhatia,S Dhawan,0,Not out
+10.3,DT Christian,R Bhatia,S Dhawan,1,Not out
+10.4,S Dhawan,R Bhatia,DT Christian,1,Not out
+10.5,DT Christian,R Bhatia,S Dhawan,0,lbw
+10.6,DB Ravi Teja,R Bhatia,S Dhawan,0,Not out
+11.1,S Dhawan,YK Pathan,DB Ravi Teja,1,Not out
+11.2,DB Ravi Teja,YK Pathan,S Dhawan,4,Not out
+11.3,DB Ravi Teja,YK Pathan,S Dhawan,1,Not out
+11.4,S Dhawan,YK Pathan,DB Ravi Teja,0,Not out
+11.5,S Dhawan,YK Pathan,DB Ravi Teja,1,Not out
+11.6,DB Ravi Teja,YK Pathan,S Dhawan,1,Not out
+11.7,S Dhawan,YK Pathan,DB Ravi Teja,0,Not out
+12.1,DB Ravi Teja,R Bhatia,S Dhawan,1,Not out
+12.2,S Dhawan,R Bhatia,DB Ravi Teja,1,Not out
+12.3,DB Ravi Teja,R Bhatia,S Dhawan,1,Not out
+12.4,S Dhawan,R Bhatia,DB Ravi Teja,1,Not out
+12.5,DB Ravi Teja,R Bhatia,S Dhawan,1,Not out
+12.6,S Dhawan,R Bhatia,DB Ravi Teja,6,Not out
+13.1,DB Ravi Teja,YK Pathan,S Dhawan,1,Not out
+13.2,S Dhawan,YK Pathan,DB Ravi Teja,1,Not out
+13.3,DB Ravi Teja,YK Pathan,S Dhawan,2,Not out
+13.4,DB Ravi Teja,YK Pathan,S Dhawan,1,Not out
+13.5,S Dhawan,YK Pathan,DB Ravi Teja,1,Not out
+13.6,DB Ravi Teja,YK Pathan,S Dhawan,0,Not out
+14.1,S Dhawan,Iqbal Abdulla,DB Ravi Teja,4,Not out
+14.2,S Dhawan,Iqbal Abdulla,DB Ravi Teja,1,Not out
+14.3,DB Ravi Teja,Iqbal Abdulla,S Dhawan,1,Not out
+14.4,S Dhawan,Iqbal Abdulla,DB Ravi Teja,1,Not out
+14.5,DB Ravi Teja,Iqbal Abdulla,S Dhawan,4,Not out
+14.6,DB Ravi Teja,Iqbal Abdulla,S Dhawan,1,Not out
+15.1,DB Ravi Teja,L Balaji,S Dhawan,1,Not out
+15.2,S Dhawan,L Balaji,DB Ravi Teja,1,Not out
+15.3,DB Ravi Teja,L Balaji,S Dhawan,1,Not out
+15.4,S Dhawan,L Balaji,DB Ravi Teja,1,Not out
+15.5,DB Ravi Teja,L Balaji,S Dhawan,2,Not out
+15.6,DB Ravi Teja,L Balaji,S Dhawan,0,Not out
+15.7,DB Ravi Teja,L Balaji,S Dhawan,4,Not out
+16.1,S Dhawan,B Lee,DB Ravi Teja,2,Not out
+16.2,S Dhawan,B Lee,DB Ravi Teja,1,Not out
+16.3,DB Ravi Teja,B Lee,S Dhawan,1,Not out
+16.4,S Dhawan,B Lee,DB Ravi Teja,1,Not out
+16.5,DB Ravi Teja,B Lee,S Dhawan,2,Not out
+16.6,DB Ravi Teja,B Lee,S Dhawan,0,bowled
+17.1,S Dhawan,JH Kallis,B Chipli,1,Not out
+17.2,B Chipli,JH Kallis,S Dhawan,1,Not out
+17.3,S Dhawan,JH Kallis,B Chipli,0,bowled
+17.4,A Mishra,JH Kallis,B Chipli,2,Not out
+17.5,A Mishra,JH Kallis,B Chipli,0,Not out
+17.6,A Mishra,JH Kallis,B Chipli,1,Not out
+18.1,A Mishra,B Lee,B Chipli,1,Not out
+18.2,B Chipli,B Lee,A Mishra,4,Not out
+18.3,B Chipli,B Lee,A Mishra,4,Not out
+18.4,B Chipli,B Lee,A Mishra,0,Not out
+18.5,B Chipli,B Lee,A Mishra,1,Not out
+18.6,A Mishra,B Lee,B Chipli,1,Not out
+19.1,A Mishra,JH Kallis,B Chipli,1,Not out
+19.2,B Chipli,JH Kallis,A Mishra,1,Not out
+19.3,A Mishra,JH Kallis,B Chipli,0,Not out
+19.4,A Mishra,JH Kallis,B Chipli,2,Not out
+19.5,A Mishra,JH Kallis,B Chipli,0,Not out
+19.6,A Mishra,JH Kallis,B Chipli,1,Not out
+19.7,B Chipli,JH Kallis,A Mishra,1,Not out

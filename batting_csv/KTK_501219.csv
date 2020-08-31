@@ -1,0 +1,124 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,BB McCullum,B Lee,DPMD Jayawardene,0,Not out
+0.2,BB McCullum,B Lee,DPMD Jayawardene,0,Not out
+0.3,BB McCullum,B Lee,DPMD Jayawardene,1,Not out
+0.4,DPMD Jayawardene,B Lee,BB McCullum,4,Not out
+0.5,DPMD Jayawardene,B Lee,BB McCullum,0,Not out
+0.6,DPMD Jayawardene,B Lee,BB McCullum,0,Not out
+1.1,DPMD Jayawardene,L Balaji,BB McCullum,0,Not out
+1.2,DPMD Jayawardene,L Balaji,BB McCullum,0,Not out
+1.3,DPMD Jayawardene,L Balaji,BB McCullum,0,Not out
+1.4,DPMD Jayawardene,L Balaji,BB McCullum,4,Not out
+1.5,DPMD Jayawardene,L Balaji,BB McCullum,0,Not out
+1.6,DPMD Jayawardene,L Balaji,BB McCullum,0,Not out
+1.7,DPMD Jayawardene,L Balaji,BB McCullum,0,Not out
+2.1,BB McCullum,B Lee,DPMD Jayawardene,0,Not out
+2.2,BB McCullum,B Lee,DPMD Jayawardene,4,Not out
+2.3,BB McCullum,B Lee,DPMD Jayawardene,6,Not out
+2.4,BB McCullum,B Lee,DPMD Jayawardene,0,Not out
+2.5,BB McCullum,B Lee,DPMD Jayawardene,4,Not out
+2.6,BB McCullum,B Lee,DPMD Jayawardene,1,Not out
+3.1,BB McCullum,Iqbal Abdulla,DPMD Jayawardene,0,Not out
+3.2,BB McCullum,Iqbal Abdulla,DPMD Jayawardene,0,Not out
+3.3,BB McCullum,Iqbal Abdulla,DPMD Jayawardene,1,Not out
+3.4,DPMD Jayawardene,Iqbal Abdulla,BB McCullum,4,Not out
+3.5,DPMD Jayawardene,Iqbal Abdulla,BB McCullum,1,Not out
+3.6,BB McCullum,Iqbal Abdulla,DPMD Jayawardene,1,Not out
+4.1,BB McCullum,Shakib Al Hasan,DPMD Jayawardene,1,Not out
+4.2,DPMD Jayawardene,Shakib Al Hasan,BB McCullum,0,Not out
+4.3,DPMD Jayawardene,Shakib Al Hasan,BB McCullum,0,Not out
+4.4,DPMD Jayawardene,Shakib Al Hasan,BB McCullum,0,Not out
+4.5,DPMD Jayawardene,Shakib Al Hasan,BB McCullum,4,Not out
+4.6,DPMD Jayawardene,Shakib Al Hasan,BB McCullum,0,Not out
+5.1,BB McCullum,Iqbal Abdulla,DPMD Jayawardene,1,Not out
+5.2,DPMD Jayawardene,Iqbal Abdulla,BB McCullum,0,Not out
+5.3,DPMD Jayawardene,Iqbal Abdulla,BB McCullum,0,Not out
+5.4,DPMD Jayawardene,Iqbal Abdulla,BB McCullum,4,Not out
+5.5,DPMD Jayawardene,Iqbal Abdulla,BB McCullum,1,Not out
+5.6,BB McCullum,Iqbal Abdulla,DPMD Jayawardene,1,Not out
+6.1,BB McCullum,Shakib Al Hasan,DPMD Jayawardene,1,Not out
+6.2,DPMD Jayawardene,Shakib Al Hasan,BB McCullum,0,Not out
+6.3,DPMD Jayawardene,Shakib Al Hasan,BB McCullum,1,Not out
+6.4,BB McCullum,Shakib Al Hasan,DPMD Jayawardene,1,Not out
+6.5,DPMD Jayawardene,Shakib Al Hasan,BB McCullum,1,Not out
+6.6,BB McCullum,Shakib Al Hasan,DPMD Jayawardene,0,caught
+7.1,DPMD Jayawardene,YK Pathan,PA Patel,1,Not out
+7.2,PA Patel,YK Pathan,DPMD Jayawardene,0,Not out
+7.3,PA Patel,YK Pathan,DPMD Jayawardene,1,Not out
+7.4,DPMD Jayawardene,YK Pathan,PA Patel,0,Not out
+7.5,DPMD Jayawardene,YK Pathan,PA Patel,0,Not out
+7.6,DPMD Jayawardene,YK Pathan,PA Patel,0,lbw
+8.1,PA Patel,Iqbal Abdulla,BJ Hodge,1,Not out
+8.2,BJ Hodge,Iqbal Abdulla,PA Patel,0,Not out
+8.3,BJ Hodge,Iqbal Abdulla,PA Patel,1,Not out
+8.4,PA Patel,Iqbal Abdulla,BJ Hodge,0,Not out
+8.5,PA Patel,Iqbal Abdulla,BJ Hodge,1,Not out
+8.6,BJ Hodge,Iqbal Abdulla,PA Patel,1,Not out
+9.1,BJ Hodge,YK Pathan,PA Patel,0,Not out
+9.2,BJ Hodge,YK Pathan,PA Patel,0,Not out
+9.3,BJ Hodge,YK Pathan,PA Patel,0,Not out
+9.4,BJ Hodge,YK Pathan,PA Patel,0,Not out
+9.5,BJ Hodge,YK Pathan,PA Patel,0,bowled
+9.6,RA Jadeja,YK Pathan,PA Patel,0,Not out
+10.1,PA Patel,L Balaji,RA Jadeja,0,Not out
+10.2,PA Patel,L Balaji,RA Jadeja,0,Not out
+10.3,PA Patel,L Balaji,RA Jadeja,1,Not out
+10.4,RA Jadeja,L Balaji,PA Patel,0,Not out
+10.5,RA Jadeja,L Balaji,PA Patel,0,Not out
+10.6,RA Jadeja,L Balaji,PA Patel,1,Not out
+10.7,PA Patel,L Balaji,RA Jadeja,0,Not out
+11.1,RA Jadeja,YK Pathan,PA Patel,1,Not out
+11.2,PA Patel,YK Pathan,RA Jadeja,4,Not out
+11.3,PA Patel,YK Pathan,RA Jadeja,1,Not out
+11.4,RA Jadeja,YK Pathan,PA Patel,0,Not out
+11.5,PA Patel,YK Pathan,RA Jadeja,0,lbw
+11.6,KM Jadhav,YK Pathan,RA Jadeja,1,Not out
+12.1,KM Jadhav,L Balaji,RA Jadeja,0,Not out
+12.2,KM Jadhav,L Balaji,RA Jadeja,0,Not out
+12.3,KM Jadhav,L Balaji,RA Jadeja,4,Not out
+12.4,KM Jadhav,L Balaji,RA Jadeja,2,Not out
+12.5,KM Jadhav,L Balaji,RA Jadeja,1,Not out
+12.6,RA Jadeja,L Balaji,KM Jadhav,6,Not out
+13.1,KM Jadhav,YK Pathan,RA Jadeja,1,Not out
+13.2,RA Jadeja,YK Pathan,KM Jadhav,2,Not out
+13.3,RA Jadeja,YK Pathan,KM Jadhav,1,Not out
+13.4,KM Jadhav,YK Pathan,RA Jadeja,1,Not out
+13.5,RA Jadeja,YK Pathan,KM Jadhav,6,Not out
+13.6,RA Jadeja,YK Pathan,KM Jadhav,0,Not out
+14.1,KM Jadhav,Shakib Al Hasan,RA Jadeja,1,Not out
+14.2,RA Jadeja,Shakib Al Hasan,KM Jadhav,6,Not out
+14.3,RA Jadeja,Shakib Al Hasan,KM Jadhav,1,Not out
+14.4,KM Jadhav,Shakib Al Hasan,RA Jadeja,1,Not out
+14.5,RA Jadeja,Shakib Al Hasan,KM Jadhav,1,Not out
+14.6,KM Jadhav,Shakib Al Hasan,RA Jadeja,0,bowled
+15.1,RA Jadeja,B Lee,RV Gomez,0,Not out
+15.2,RA Jadeja,B Lee,RV Gomez,4,Not out
+15.3,RA Jadeja,B Lee,RV Gomez,0,Not out
+15.4,RA Jadeja,B Lee,RV Gomez,0,Not out
+15.5,RA Jadeja,B Lee,RV Gomez,0,caught
+15.6,RV Gomez,B Lee,R Vinay Kumar,1,Not out
+15.7,R Vinay Kumar,B Lee,RV Gomez,0,Not out
+16.1,RV Gomez,Iqbal Abdulla,R Vinay Kumar,0,Not out
+16.2,RV Gomez,Iqbal Abdulla,R Vinay Kumar,0,Not out
+16.3,RV Gomez,Iqbal Abdulla,R Vinay Kumar,0,Not out
+16.4,R Vinay Kumar,Iqbal Abdulla,RV Gomez,0,Not out
+16.5,R Vinay Kumar,Iqbal Abdulla,RV Gomez,4,Not out
+16.6,R Vinay Kumar,Iqbal Abdulla,RV Gomez,1,Not out
+17.1,R Vinay Kumar,B Lee,RV Gomez,2,Not out
+17.2,R Vinay Kumar,B Lee,RV Gomez,1,Not out
+17.3,RV Gomez,B Lee,R Vinay Kumar,1,Not out
+17.4,R Vinay Kumar,B Lee,RV Gomez,1,Not out
+17.5,RV Gomez,B Lee,R Vinay Kumar,1,Not out
+17.6,R Vinay Kumar,B Lee,RV Gomez,1,Not out
+18.1,R Vinay Kumar,Shakib Al Hasan,RV Gomez,1,Not out
+18.2,RV Gomez,Shakib Al Hasan,R Vinay Kumar,6,Not out
+18.3,RV Gomez,Shakib Al Hasan,R Vinay Kumar,1,Not out
+18.4,R Vinay Kumar,Shakib Al Hasan,RV Gomez,0,bowled
+18.5,RR Powar,Shakib Al Hasan,RV Gomez,0,Not out
+18.6,RR Powar,Shakib Al Hasan,RV Gomez,1,Not out
+19.1,RR Powar,L Balaji,RV Gomez,0,Not out
+19.2,RR Powar,L Balaji,RV Gomez,0,Not out
+19.3,RR Powar,L Balaji,RV Gomez,1,Not out
+19.4,RV Gomez,L Balaji,RR Powar,0,Not out
+19.5,RR Powar,L Balaji,RV Gomez,1,Not out
+19.6,RV Gomez,L Balaji,RR Powar,0,Not out

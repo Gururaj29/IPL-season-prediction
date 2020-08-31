@@ -1,0 +1,130 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DA Warner,Z Khan,V Sehwag,0,Not out
+0.2,DA Warner,Z Khan,V Sehwag,0,Not out
+0.3,V Sehwag,Z Khan,DA Warner,4,Not out
+0.4,V Sehwag,Z Khan,DA Warner,0,Not out
+0.5,V Sehwag,Z Khan,DA Warner,1,Not out
+0.6,DA Warner,Z Khan,V Sehwag,0,Not out
+1.1,V Sehwag,S Aravind,DA Warner,2,Not out
+1.2,V Sehwag,S Aravind,DA Warner,2,Not out
+1.3,V Sehwag,S Aravind,DA Warner,4,Not out
+1.4,V Sehwag,S Aravind,DA Warner,2,Not out
+1.5,V Sehwag,S Aravind,DA Warner,0,Not out
+1.6,V Sehwag,S Aravind,DA Warner,0,Not out
+2.1,DA Warner,Z Khan,V Sehwag,0,Not out
+2.2,DA Warner,Z Khan,V Sehwag,1,Not out
+2.3,V Sehwag,Z Khan,DA Warner,4,Not out
+2.4,V Sehwag,Z Khan,DA Warner,0,Not out
+2.5,V Sehwag,Z Khan,DA Warner,0,Not out
+2.6,V Sehwag,Z Khan,DA Warner,1,Not out
+2.7,DA Warner,Z Khan,V Sehwag,1,Not out
+3.1,DA Warner,S Aravind,V Sehwag,0,Not out
+3.2,DA Warner,S Aravind,V Sehwag,1,Not out
+3.3,V Sehwag,S Aravind,DA Warner,2,Not out
+3.4,V Sehwag,S Aravind,DA Warner,1,Not out
+3.5,DA Warner,S Aravind,V Sehwag,0,Not out
+3.6,DA Warner,S Aravind,V Sehwag,0,Not out
+4.1,DA Warner,Z Khan,V Sehwag,4,Not out
+4.2,DA Warner,Z Khan,V Sehwag,0,bowled
+4.3,JR Hopes,Z Khan,V Sehwag,0,Not out
+4.4,JR Hopes,Z Khan,V Sehwag,0,Not out
+4.5,JR Hopes,Z Khan,V Sehwag,1,Not out
+4.6,V Sehwag,Z Khan,JR Hopes,0,Not out
+5.1,JR Hopes,S Aravind,V Sehwag,0,Not out
+5.2,JR Hopes,S Aravind,V Sehwag,0,Not out
+5.3,JR Hopes,S Aravind,V Sehwag,4,Not out
+5.4,JR Hopes,S Aravind,V Sehwag,2,Not out
+5.5,JR Hopes,S Aravind,V Sehwag,1,Not out
+5.6,V Sehwag,S Aravind,JR Hopes,1,Not out
+6.1,V Sehwag,DL Vettori,JR Hopes,1,Not out
+6.2,JR Hopes,DL Vettori,V Sehwag,0,run out
+6.3,MS Wade,DL Vettori,JR Hopes,1,Not out
+6.4,JR Hopes,DL Vettori,MS Wade,1,Not out
+6.5,MS Wade,DL Vettori,JR Hopes,0,Not out
+6.6,MS Wade,DL Vettori,JR Hopes,1,Not out
+7.1,MS Wade,CH Gayle,JR Hopes,1,Not out
+7.2,JR Hopes,CH Gayle,MS Wade,4,Not out
+7.3,JR Hopes,CH Gayle,MS Wade,4,Not out
+7.4,JR Hopes,CH Gayle,MS Wade,0,Not out
+7.5,JR Hopes,CH Gayle,MS Wade,2,Not out
+7.6,JR Hopes,CH Gayle,MS Wade,0,Not out
+8.1,MS Wade,DL Vettori,JR Hopes,1,Not out
+8.2,JR Hopes,DL Vettori,MS Wade,0,Not out
+8.3,JR Hopes,DL Vettori,MS Wade,1,Not out
+8.4,MS Wade,DL Vettori,JR Hopes,1,Not out
+8.5,JR Hopes,DL Vettori,MS Wade,4,Not out
+8.6,JR Hopes,DL Vettori,MS Wade,0,Not out
+9.1,MS Wade,A Mithun,JR Hopes,2,Not out
+9.2,MS Wade,A Mithun,JR Hopes,1,Not out
+9.3,JR Hopes,A Mithun,MS Wade,1,Not out
+9.4,MS Wade,A Mithun,JR Hopes,0,bowled
+9.5,Y Venugopal Rao,A Mithun,JR Hopes,0,Not out
+9.6,Y Venugopal Rao,A Mithun,JR Hopes,1,Not out
+10.1,Y Venugopal Rao,J Syed Mohammad,JR Hopes,1,Not out
+10.2,JR Hopes,J Syed Mohammad,Y Venugopal Rao,0,Not out
+10.3,JR Hopes,J Syed Mohammad,Y Venugopal Rao,1,Not out
+10.4,Y Venugopal Rao,J Syed Mohammad,JR Hopes,1,Not out
+10.5,JR Hopes,J Syed Mohammad,Y Venugopal Rao,1,Not out
+10.6,Y Venugopal Rao,J Syed Mohammad,JR Hopes,1,Not out
+11.1,Y Venugopal Rao,A Mithun,JR Hopes,0,Not out
+11.2,Y Venugopal Rao,A Mithun,JR Hopes,4,Not out
+11.3,Y Venugopal Rao,A Mithun,JR Hopes,0,Not out
+11.4,Y Venugopal Rao,A Mithun,JR Hopes,1,Not out
+11.5,JR Hopes,A Mithun,Y Venugopal Rao,1,Not out
+11.6,Y Venugopal Rao,A Mithun,JR Hopes,4,Not out
+11.7,Y Venugopal Rao,A Mithun,JR Hopes,0,Not out
+12.1,JR Hopes,J Syed Mohammad,Y Venugopal Rao,1,Not out
+12.2,Y Venugopal Rao,J Syed Mohammad,JR Hopes,0,Not out
+12.3,Y Venugopal Rao,J Syed Mohammad,JR Hopes,1,Not out
+12.4,JR Hopes,J Syed Mohammad,Y Venugopal Rao,4,Not out
+12.5,JR Hopes,J Syed Mohammad,Y Venugopal Rao,4,Not out
+12.6,JR Hopes,J Syed Mohammad,Y Venugopal Rao,2,Not out
+13.1,Y Venugopal Rao,DL Vettori,JR Hopes,1,Not out
+13.2,JR Hopes,DL Vettori,Y Venugopal Rao,0,Not out
+13.3,JR Hopes,DL Vettori,Y Venugopal Rao,2,Not out
+13.4,JR Hopes,DL Vettori,Y Venugopal Rao,1,Not out
+13.5,Y Venugopal Rao,DL Vettori,JR Hopes,1,Not out
+13.6,JR Hopes,DL Vettori,Y Venugopal Rao,1,Not out
+13.7,Y Venugopal Rao,DL Vettori,JR Hopes,0,Not out
+14.1,Y Venugopal Rao,A Mithun,JR Hopes,6,Not out
+14.2,Y Venugopal Rao,A Mithun,JR Hopes,1,Not out
+14.3,JR Hopes,A Mithun,Y Venugopal Rao,0,Not out
+14.4,JR Hopes,A Mithun,Y Venugopal Rao,0,Not out
+14.5,JR Hopes,A Mithun,Y Venugopal Rao,1,Not out
+14.6,Y Venugopal Rao,A Mithun,JR Hopes,0,Not out
+14.7,Y Venugopal Rao,A Mithun,JR Hopes,1,Not out
+15.1,Y Venugopal Rao,DL Vettori,JR Hopes,0,bowled
+15.2,NV Ojha,DL Vettori,JR Hopes,0,Not out
+15.3,NV Ojha,DL Vettori,JR Hopes,0,Not out
+15.4,NV Ojha,DL Vettori,JR Hopes,0,Not out
+15.5,NV Ojha,DL Vettori,JR Hopes,6,Not out
+15.6,NV Ojha,DL Vettori,JR Hopes,1,Not out
+16.1,NV Ojha,Z Khan,JR Hopes,1,Not out
+16.2,JR Hopes,Z Khan,NV Ojha,0,Not out
+16.3,JR Hopes,Z Khan,NV Ojha,0,Not out
+16.4,JR Hopes,Z Khan,NV Ojha,0,Not out
+16.5,JR Hopes,Z Khan,NV Ojha,1,Not out
+16.6,NV Ojha,Z Khan,JR Hopes,0,Not out
+16.7,NV Ojha,Z Khan,JR Hopes,6,Not out
+17.1,JR Hopes,CH Gayle,NV Ojha,4,Not out
+17.2,JR Hopes,CH Gayle,NV Ojha,1,Not out
+17.3,NV Ojha,CH Gayle,JR Hopes,1,Not out
+17.4,JR Hopes,CH Gayle,NV Ojha,1,Not out
+17.5,NV Ojha,CH Gayle,JR Hopes,1,Not out
+17.6,JR Hopes,CH Gayle,NV Ojha,1,Not out
+18.1,JR Hopes,A Mithun,NV Ojha,2,Not out
+18.2,JR Hopes,A Mithun,NV Ojha,0,caught
+18.3,IK Pathan,A Mithun,NV Ojha,0,Not out
+18.4,IK Pathan,A Mithun,NV Ojha,0,Not out
+18.5,IK Pathan,A Mithun,NV Ojha,6,Not out
+18.6,IK Pathan,A Mithun,NV Ojha,0,Not out
+18.7,IK Pathan,A Mithun,NV Ojha,0,Not out
+18.8,IK Pathan,A Mithun,NV Ojha,0,Not out
+18.9,IK Pathan,A Mithun,NV Ojha,0,Not out
+19.1,NV Ojha,S Aravind,IK Pathan,0,caught
+19.2,IK Pathan,S Aravind,Y Nagar,0,Not out
+19.3,IK Pathan,S Aravind,Y Nagar,6,Not out
+19.4,IK Pathan,S Aravind,Y Nagar,1,Not out
+19.5,Y Nagar,S Aravind,IK Pathan,0,Not out
+19.6,Y Nagar,S Aravind,IK Pathan,0,Not out
+19.7,Y Nagar,S Aravind,IK Pathan,0,Not out

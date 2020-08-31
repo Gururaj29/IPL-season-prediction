@@ -1,0 +1,124 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,G Gambhir,AD Mascarenhas,V Sehwag,4,Not out
+0.2,G Gambhir,AD Mascarenhas,V Sehwag,3,Not out
+0.3,V Sehwag,AD Mascarenhas,G Gambhir,0,Not out
+0.4,V Sehwag,AD Mascarenhas,G Gambhir,1,Not out
+0.5,G Gambhir,AD Mascarenhas,V Sehwag,4,Not out
+0.6,G Gambhir,AD Mascarenhas,V Sehwag,0,Not out
+1.1,V Sehwag,SR Watson,G Gambhir,0,Not out
+1.2,V Sehwag,SR Watson,G Gambhir,1,Not out
+1.3,G Gambhir,SR Watson,V Sehwag,0,Not out
+1.4,G Gambhir,SR Watson,V Sehwag,0,Not out
+1.5,G Gambhir,SR Watson,V Sehwag,2,Not out
+1.6,G Gambhir,SR Watson,V Sehwag,0,Not out
+2.1,V Sehwag,AD Mascarenhas,G Gambhir,1,Not out
+2.2,G Gambhir,AD Mascarenhas,V Sehwag,1,Not out
+2.3,V Sehwag,AD Mascarenhas,G Gambhir,0,Not out
+2.4,V Sehwag,AD Mascarenhas,G Gambhir,4,Not out
+2.5,V Sehwag,AD Mascarenhas,G Gambhir,1,Not out
+2.6,G Gambhir,AD Mascarenhas,V Sehwag,1,Not out
+3.1,G Gambhir,SR Watson,V Sehwag,4,Not out
+3.2,G Gambhir,SR Watson,V Sehwag,1,Not out
+3.3,V Sehwag,SR Watson,G Gambhir,0,Not out
+3.4,V Sehwag,SR Watson,G Gambhir,0,Not out
+3.5,V Sehwag,SR Watson,G Gambhir,0,Not out
+3.6,V Sehwag,SR Watson,G Gambhir,1,Not out
+4.1,V Sehwag,MM Patel,G Gambhir,1,Not out
+4.2,G Gambhir,MM Patel,V Sehwag,1,Not out
+4.3,V Sehwag,MM Patel,G Gambhir,0,Not out
+4.4,V Sehwag,MM Patel,G Gambhir,4,Not out
+4.5,V Sehwag,MM Patel,G Gambhir,1,Not out
+4.6,G Gambhir,MM Patel,V Sehwag,0,Not out
+4.7,V Sehwag,MM Patel,G Gambhir,1,Not out
+5.1,V Sehwag,SR Watson,G Gambhir,0,Not out
+5.2,V Sehwag,SR Watson,G Gambhir,1,Not out
+5.3,G Gambhir,SR Watson,V Sehwag,4,Not out
+5.4,G Gambhir,SR Watson,V Sehwag,1,Not out
+5.5,V Sehwag,SR Watson,G Gambhir,0,Not out
+5.6,V Sehwag,SR Watson,G Gambhir,0,caught
+6.1,G Gambhir,MM Patel,S Dhawan,1,Not out
+6.2,S Dhawan,MM Patel,G Gambhir,2,Not out
+6.3,S Dhawan,MM Patel,G Gambhir,1,Not out
+6.4,G Gambhir,MM Patel,S Dhawan,0,Not out
+6.5,G Gambhir,MM Patel,S Dhawan,1,Not out
+6.6,S Dhawan,MM Patel,G Gambhir,0,run out
+7.1,AB de Villiers,SK Trivedi,G Gambhir,1,Not out
+7.2,G Gambhir,SK Trivedi,AB de Villiers,1,Not out
+7.3,AB de Villiers,SK Trivedi,G Gambhir,2,Not out
+7.4,AB de Villiers,SK Trivedi,G Gambhir,0,Not out
+7.5,AB de Villiers,SK Trivedi,G Gambhir,2,Not out
+7.6,AB de Villiers,SK Trivedi,G Gambhir,1,Not out
+8.1,AB de Villiers,SK Warne,G Gambhir,1,Not out
+8.2,G Gambhir,SK Warne,AB de Villiers,1,Not out
+8.3,AB de Villiers,SK Warne,G Gambhir,0,Not out
+8.4,AB de Villiers,SK Warne,G Gambhir,0,Not out
+8.5,AB de Villiers,SK Warne,G Gambhir,2,Not out
+8.6,AB de Villiers,SK Warne,G Gambhir,1,Not out
+9.1,AB de Villiers,SK Trivedi,G Gambhir,0,Not out
+9.2,AB de Villiers,SK Trivedi,G Gambhir,1,Not out
+9.3,G Gambhir,SK Trivedi,AB de Villiers,1,Not out
+9.4,AB de Villiers,SK Trivedi,G Gambhir,0,Not out
+9.5,AB de Villiers,SK Trivedi,G Gambhir,1,Not out
+9.6,G Gambhir,SK Trivedi,AB de Villiers,0,bowled
+9.7,KD Karthik,SK Trivedi,AB de Villiers,0,Not out
+10.1,AB de Villiers,SK Warne,KD Karthik,2,Not out
+10.2,AB de Villiers,SK Warne,KD Karthik,1,Not out
+10.3,KD Karthik,SK Warne,AB de Villiers,1,Not out
+10.4,AB de Villiers,SK Warne,KD Karthik,0,Not out
+10.5,AB de Villiers,SK Warne,KD Karthik,2,Not out
+10.6,AB de Villiers,SK Warne,KD Karthik,1,Not out
+11.1,AB de Villiers,AD Mascarenhas,KD Karthik,2,Not out
+11.2,AB de Villiers,AD Mascarenhas,KD Karthik,0,Not out
+11.3,KD Karthik,AD Mascarenhas,AB de Villiers,2,Not out
+11.4,KD Karthik,AD Mascarenhas,AB de Villiers,0,Not out
+11.5,KD Karthik,AD Mascarenhas,AB de Villiers,0,Not out
+11.6,KD Karthik,AD Mascarenhas,AB de Villiers,1,Not out
+12.1,KD Karthik,SK Warne,AB de Villiers,0,Not out
+12.2,KD Karthik,SK Warne,AB de Villiers,4,Not out
+12.3,KD Karthik,SK Warne,AB de Villiers,2,Not out
+12.4,KD Karthik,SK Warne,AB de Villiers,0,Not out
+12.5,KD Karthik,SK Warne,AB de Villiers,2,Not out
+12.6,KD Karthik,SK Warne,AB de Villiers,0,Not out
+13.1,AB de Villiers,AD Mascarenhas,KD Karthik,0,Not out
+13.2,KD Karthik,AD Mascarenhas,AB de Villiers,0,Not out
+13.3,AB de Villiers,AD Mascarenhas,KD Karthik,0,caught
+13.4,KD Karthik,AD Mascarenhas,TM Dilshan,0,Not out
+13.5,KD Karthik,AD Mascarenhas,TM Dilshan,1,Not out
+13.6,TM Dilshan,AD Mascarenhas,KD Karthik,1,Not out
+13.7,KD Karthik,AD Mascarenhas,TM Dilshan,0,caught
+14.1,TM Dilshan,MM Patel,A Mishra,1,Not out
+14.2,A Mishra,MM Patel,TM Dilshan,1,Not out
+14.3,TM Dilshan,MM Patel,A Mishra,0,Not out
+14.4,TM Dilshan,MM Patel,A Mishra,0,Not out
+14.5,TM Dilshan,MM Patel,A Mishra,0,Not out
+14.6,TM Dilshan,MM Patel,A Mishra,0,Not out
+15.1,A Mishra,SK Trivedi,TM Dilshan,2,Not out
+15.2,A Mishra,SK Trivedi,TM Dilshan,0,Not out
+15.3,A Mishra,SK Trivedi,TM Dilshan,1,Not out
+15.4,TM Dilshan,SK Trivedi,A Mishra,1,Not out
+15.5,A Mishra,SK Trivedi,TM Dilshan,0,bowled
+15.6,MF Maharoof,SK Trivedi,TM Dilshan,0,Not out
+16.1,MF Maharoof,MM Patel,TM Dilshan,0,Not out
+16.2,MF Maharoof,MM Patel,TM Dilshan,0,Not out
+16.3,MF Maharoof,MM Patel,TM Dilshan,1,Not out
+16.4,TM Dilshan,MM Patel,MF Maharoof,1,Not out
+16.5,MF Maharoof,MM Patel,TM Dilshan,4,Not out
+16.6,MF Maharoof,MM Patel,TM Dilshan,2,Not out
+17.1,TM Dilshan,SK Trivedi,MF Maharoof,4,Not out
+17.2,TM Dilshan,SK Trivedi,MF Maharoof,6,Not out
+17.3,TM Dilshan,SK Trivedi,MF Maharoof,1,Not out
+17.4,MF Maharoof,SK Trivedi,TM Dilshan,2,Not out
+17.5,MF Maharoof,SK Trivedi,TM Dilshan,0,Not out
+17.6,MF Maharoof,SK Trivedi,TM Dilshan,0,Not out
+18.1,TM Dilshan,SK Warne,MF Maharoof,1,Not out
+18.2,MF Maharoof,SK Warne,TM Dilshan,6,Not out
+18.3,MF Maharoof,SK Warne,TM Dilshan,6,Not out
+18.4,MF Maharoof,SK Warne,TM Dilshan,2,Not out
+18.5,MF Maharoof,SK Warne,TM Dilshan,6,Not out
+18.6,MF Maharoof,SK Warne,TM Dilshan,6,Not out
+19.1,TM Dilshan,SR Watson,MF Maharoof,1,Not out
+19.2,MF Maharoof,SR Watson,TM Dilshan,4,Not out
+19.3,MF Maharoof,SR Watson,TM Dilshan,0,caught
+19.4,VY Mahesh,SR Watson,TM Dilshan,0,Not out
+19.5,TM Dilshan,SR Watson,VY Mahesh,0,Not out
+19.6,TM Dilshan,SR Watson,VY Mahesh,1,Not out

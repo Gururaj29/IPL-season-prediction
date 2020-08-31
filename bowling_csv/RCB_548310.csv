@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AJ Finch,Z Khan,V Sehwag,4,Not out
+0.2,AJ Finch,Z Khan,V Sehwag,4,Not out
+0.3,AJ Finch,Z Khan,V Sehwag,4,Not out
+0.4,AJ Finch,Z Khan,V Sehwag,1,Not out
+0.5,V Sehwag,Z Khan,AJ Finch,0,caught
+0.6,NV Ojha,Z Khan,AJ Finch,1,Not out
+1.1,NV Ojha,R Vinay Kumar,AJ Finch,0,Not out
+1.2,NV Ojha,R Vinay Kumar,AJ Finch,0,Not out
+1.3,NV Ojha,R Vinay Kumar,AJ Finch,0,Not out
+1.4,NV Ojha,R Vinay Kumar,AJ Finch,4,Not out
+1.5,NV Ojha,R Vinay Kumar,AJ Finch,6,Not out
+1.6,NV Ojha,R Vinay Kumar,AJ Finch,0,Not out
+2.1,AJ Finch,Z Khan,NV Ojha,1,Not out
+2.2,NV Ojha,Z Khan,AJ Finch,0,Not out
+2.3,NV Ojha,Z Khan,AJ Finch,0,Not out
+2.4,NV Ojha,Z Khan,AJ Finch,0,Not out
+2.5,NV Ojha,Z Khan,AJ Finch,2,Not out
+2.6,NV Ojha,Z Khan,AJ Finch,1,Not out
+2.7,AJ Finch,Z Khan,NV Ojha,1,Not out
+3.1,AJ Finch,R Vinay Kumar,NV Ojha,1,Not out
+3.2,NV Ojha,R Vinay Kumar,AJ Finch,1,Not out
+3.3,AJ Finch,R Vinay Kumar,NV Ojha,0,Not out
+3.4,AJ Finch,R Vinay Kumar,NV Ojha,0,Not out
+3.5,AJ Finch,R Vinay Kumar,NV Ojha,0,Not out
+3.6,AJ Finch,R Vinay Kumar,NV Ojha,0,Not out
+4.1,NV Ojha,Z Khan,AJ Finch,0,Not out
+4.2,NV Ojha,Z Khan,AJ Finch,0,Not out
+4.3,NV Ojha,Z Khan,AJ Finch,4,Not out
+4.4,NV Ojha,Z Khan,AJ Finch,0,Not out
+4.5,NV Ojha,Z Khan,AJ Finch,4,Not out
+4.6,NV Ojha,Z Khan,AJ Finch,0,Not out
+5.1,AJ Finch,AB McDonald,NV Ojha,0,Not out
+5.2,AJ Finch,AB McDonald,NV Ojha,1,Not out
+5.3,NV Ojha,AB McDonald,AJ Finch,0,Not out
+5.4,NV Ojha,AB McDonald,AJ Finch,4,Not out
+5.5,NV Ojha,AB McDonald,AJ Finch,1,Not out
+5.6,AJ Finch,AB McDonald,NV Ojha,0,Not out
+6.1,NV Ojha,DL Vettori,AJ Finch,2,Not out
+6.2,NV Ojha,DL Vettori,AJ Finch,1,Not out
+6.3,AJ Finch,DL Vettori,NV Ojha,0,Not out
+6.4,AJ Finch,DL Vettori,NV Ojha,2,Not out
+6.5,AJ Finch,DL Vettori,NV Ojha,1,Not out
+6.6,NV Ojha,DL Vettori,AJ Finch,1,Not out
+7.1,NV Ojha,M Muralitharan,AJ Finch,1,Not out
+7.2,AJ Finch,M Muralitharan,NV Ojha,1,Not out
+7.3,NV Ojha,M Muralitharan,AJ Finch,0,caught
+7.4,Y Venugopal Rao,M Muralitharan,AJ Finch,1,Not out
+7.5,AJ Finch,M Muralitharan,Y Venugopal Rao,1,Not out
+7.6,Y Venugopal Rao,M Muralitharan,AJ Finch,1,Not out
+8.1,Y Venugopal Rao,DL Vettori,AJ Finch,4,Not out
+8.2,Y Venugopal Rao,DL Vettori,AJ Finch,0,Not out
+8.3,AJ Finch,DL Vettori,Y Venugopal Rao,1,Not out
+8.4,Y Venugopal Rao,DL Vettori,AJ Finch,1,Not out
+8.5,AJ Finch,DL Vettori,Y Venugopal Rao,1,Not out
+8.6,Y Venugopal Rao,DL Vettori,AJ Finch,0,Not out
+9.1,AJ Finch,M Muralitharan,Y Venugopal Rao,1,Not out
+9.2,Y Venugopal Rao,M Muralitharan,AJ Finch,0,Not out
+9.3,Y Venugopal Rao,M Muralitharan,AJ Finch,1,Not out
+9.4,AJ Finch,M Muralitharan,Y Venugopal Rao,0,Not out
+9.5,AJ Finch,M Muralitharan,Y Venugopal Rao,0,lbw
+9.6,GJ Maxwell,M Muralitharan,Y Venugopal Rao,0,Not out
+10.1,Y Venugopal Rao,DL Vettori,GJ Maxwell,0,Not out
+10.2,Y Venugopal Rao,DL Vettori,GJ Maxwell,0,Not out
+10.3,Y Venugopal Rao,DL Vettori,GJ Maxwell,0,Not out
+10.4,Y Venugopal Rao,DL Vettori,GJ Maxwell,0,Not out
+10.5,Y Venugopal Rao,DL Vettori,GJ Maxwell,2,Not out
+10.6,Y Venugopal Rao,DL Vettori,GJ Maxwell,2,Not out
+11.1,GJ Maxwell,M Muralitharan,Y Venugopal Rao,2,Not out
+11.2,GJ Maxwell,M Muralitharan,Y Venugopal Rao,1,Not out
+11.3,Y Venugopal Rao,M Muralitharan,GJ Maxwell,1,Not out
+11.4,GJ Maxwell,M Muralitharan,Y Venugopal Rao,0,caught
+11.5,Y Nagar,M Muralitharan,Y Venugopal Rao,0,Not out
+11.6,Y Nagar,M Muralitharan,Y Venugopal Rao,0,Not out
+12.1,Y Venugopal Rao,HV Patel,Y Nagar,2,Not out
+12.2,Y Venugopal Rao,HV Patel,Y Nagar,1,Not out
+12.3,Y Nagar,HV Patel,Y Venugopal Rao,1,Not out
+12.4,Y Venugopal Rao,HV Patel,Y Nagar,0,Not out
+12.5,Y Venugopal Rao,HV Patel,Y Nagar,0,Not out
+12.6,Y Venugopal Rao,HV Patel,Y Nagar,0,Not out
+13.1,Y Nagar,AB McDonald,Y Venugopal Rao,1,Not out
+13.2,Y Venugopal Rao,AB McDonald,Y Nagar,0,Not out
+13.3,Y Venugopal Rao,AB McDonald,Y Nagar,2,Not out
+13.4,Y Venugopal Rao,AB McDonald,Y Nagar,0,caught
+13.5,Y Nagar,AB McDonald,IK Pathan,1,Not out
+13.6,IK Pathan,AB McDonald,Y Nagar,1,Not out
+14.1,IK Pathan,HV Patel,Y Nagar,1,Not out
+14.2,Y Nagar,HV Patel,IK Pathan,0,Not out
+14.3,Y Nagar,HV Patel,IK Pathan,0,Not out
+14.4,Y Nagar,HV Patel,IK Pathan,4,Not out
+14.5,Y Nagar,HV Patel,IK Pathan,1,Not out
+14.6,IK Pathan,HV Patel,Y Nagar,0,Not out
+15.1,Y Nagar,M Muralitharan,IK Pathan,0,Not out
+15.2,Y Nagar,M Muralitharan,IK Pathan,1,Not out
+15.3,IK Pathan,M Muralitharan,Y Nagar,6,Not out
+15.4,IK Pathan,M Muralitharan,Y Nagar,4,Not out
+15.5,IK Pathan,M Muralitharan,Y Nagar,2,Not out
+15.6,IK Pathan,M Muralitharan,Y Nagar,1,Not out
+16.1,IK Pathan,DL Vettori,Y Nagar,0,Not out
+16.2,IK Pathan,DL Vettori,Y Nagar,1,Not out
+16.3,Y Nagar,DL Vettori,IK Pathan,1,Not out
+16.4,IK Pathan,DL Vettori,Y Nagar,1,Not out
+16.5,Y Nagar,DL Vettori,IK Pathan,2,Not out
+16.6,Y Nagar,DL Vettori,IK Pathan,4,Not out
+16.7,Y Nagar,DL Vettori,IK Pathan,0,caught
+17.1,IK Pathan,R Vinay Kumar,DAJ Bracewell,1,Not out
+17.2,DAJ Bracewell,R Vinay Kumar,IK Pathan,0,Not out
+17.3,DAJ Bracewell,R Vinay Kumar,IK Pathan,4,Not out
+17.4,DAJ Bracewell,R Vinay Kumar,IK Pathan,1,Not out
+17.5,IK Pathan,R Vinay Kumar,DAJ Bracewell,0,Not out
+17.6,DAJ Bracewell,R Vinay Kumar,IK Pathan,1,Not out
+18.1,DAJ Bracewell,Z Khan,IK Pathan,1,Not out
+18.2,IK Pathan,Z Khan,DAJ Bracewell,4,Not out
+18.3,IK Pathan,Z Khan,DAJ Bracewell,1,Not out
+18.4,DAJ Bracewell,Z Khan,IK Pathan,1,Not out
+18.5,IK Pathan,Z Khan,DAJ Bracewell,0,Not out
+18.6,IK Pathan,Z Khan,DAJ Bracewell,1,run out
+19.1,DAJ Bracewell,R Vinay Kumar,M Morkel,2,Not out
+19.2,DAJ Bracewell,R Vinay Kumar,M Morkel,1,Not out
+19.3,M Morkel,R Vinay Kumar,DAJ Bracewell,1,Not out
+19.4,DAJ Bracewell,R Vinay Kumar,M Morkel,1,Not out
+19.5,M Morkel,R Vinay Kumar,DAJ Bracewell,0,Not out
+19.6,M Morkel,R Vinay Kumar,DAJ Bracewell,1,Not out

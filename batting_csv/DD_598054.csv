@@ -1,0 +1,126 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DPMD Jayawardene,R Rampaul,V Sehwag,0,Not out
+0.2,DPMD Jayawardene,R Rampaul,V Sehwag,1,Not out
+0.3,V Sehwag,R Rampaul,DPMD Jayawardene,2,Not out
+0.4,V Sehwag,R Rampaul,DPMD Jayawardene,4,Not out
+0.5,V Sehwag,R Rampaul,DPMD Jayawardene,0,Not out
+0.6,V Sehwag,R Rampaul,DPMD Jayawardene,0,Not out
+1.1,DPMD Jayawardene,MC Henriques,V Sehwag,0,Not out
+1.2,DPMD Jayawardene,MC Henriques,V Sehwag,4,Not out
+1.3,DPMD Jayawardene,MC Henriques,V Sehwag,4,Not out
+1.4,DPMD Jayawardene,MC Henriques,V Sehwag,1,Not out
+1.5,V Sehwag,MC Henriques,DPMD Jayawardene,0,Not out
+1.6,V Sehwag,MC Henriques,DPMD Jayawardene,0,Not out
+2.1,DPMD Jayawardene,R Rampaul,V Sehwag,4,Not out
+2.2,DPMD Jayawardene,R Rampaul,V Sehwag,4,Not out
+2.3,DPMD Jayawardene,R Rampaul,V Sehwag,0,Not out
+2.4,DPMD Jayawardene,R Rampaul,V Sehwag,0,Not out
+2.5,DPMD Jayawardene,R Rampaul,V Sehwag,0,Not out
+2.6,DPMD Jayawardene,R Rampaul,V Sehwag,1,Not out
+3.1,DPMD Jayawardene,JD Unadkat,V Sehwag,0,bowled
+3.2,UBT Chand,JD Unadkat,V Sehwag,0,Not out
+3.3,UBT Chand,JD Unadkat,V Sehwag,0,Not out
+3.4,UBT Chand,JD Unadkat,V Sehwag,0,Not out
+3.5,UBT Chand,JD Unadkat,V Sehwag,0,Not out
+3.6,UBT Chand,JD Unadkat,V Sehwag,4,Not out
+3.7,UBT Chand,JD Unadkat,V Sehwag,1,Not out
+4.1,UBT Chand,R Vinay Kumar,V Sehwag,0,Not out
+4.2,UBT Chand,R Vinay Kumar,V Sehwag,4,Not out
+4.3,UBT Chand,R Vinay Kumar,V Sehwag,1,Not out
+4.4,V Sehwag,R Vinay Kumar,UBT Chand,4,Not out
+4.5,V Sehwag,R Vinay Kumar,UBT Chand,4,Not out
+4.6,V Sehwag,R Vinay Kumar,UBT Chand,4,Not out
+5.1,UBT Chand,JD Unadkat,V Sehwag,1,Not out
+5.2,V Sehwag,JD Unadkat,UBT Chand,0,caught
+5.3,DA Warner,JD Unadkat,UBT Chand,0,Not out
+5.4,DA Warner,JD Unadkat,UBT Chand,0,Not out
+5.5,DA Warner,JD Unadkat,UBT Chand,0,Not out
+5.6,DA Warner,JD Unadkat,UBT Chand,0,Not out
+6.1,UBT Chand,MC Henriques,DA Warner,0,Not out
+6.2,UBT Chand,MC Henriques,DA Warner,6,Not out
+6.3,UBT Chand,MC Henriques,DA Warner,1,Not out
+6.4,DA Warner,MC Henriques,UBT Chand,4,Not out
+6.5,DA Warner,MC Henriques,UBT Chand,0,bowled
+6.6,BJ Rohrer,MC Henriques,UBT Chand,1,Not out
+7.1,BJ Rohrer,M Kartik,UBT Chand,0,Not out
+7.2,BJ Rohrer,M Kartik,UBT Chand,0,Not out
+7.3,BJ Rohrer,M Kartik,UBT Chand,1,Not out
+7.4,UBT Chand,M Kartik,BJ Rohrer,0,Not out
+7.5,UBT Chand,M Kartik,BJ Rohrer,1,Not out
+7.6,BJ Rohrer,M Kartik,UBT Chand,1,Not out
+8.1,BJ Rohrer,J Syed Mohammad,UBT Chand,4,Not out
+8.2,BJ Rohrer,J Syed Mohammad,UBT Chand,0,Not out
+8.3,BJ Rohrer,J Syed Mohammad,UBT Chand,4,Not out
+8.4,BJ Rohrer,J Syed Mohammad,UBT Chand,4,Not out
+8.5,BJ Rohrer,J Syed Mohammad,UBT Chand,1,Not out
+8.6,UBT Chand,J Syed Mohammad,BJ Rohrer,4,Not out
+8.7,UBT Chand,J Syed Mohammad,BJ Rohrer,2,Not out
+9.1,BJ Rohrer,M Kartik,UBT Chand,1,Not out
+9.2,UBT Chand,M Kartik,BJ Rohrer,0,Not out
+9.3,UBT Chand,M Kartik,BJ Rohrer,0,Not out
+9.4,UBT Chand,M Kartik,BJ Rohrer,1,Not out
+9.5,BJ Rohrer,M Kartik,UBT Chand,0,Not out
+9.6,BJ Rohrer,M Kartik,UBT Chand,2,Not out
+10.1,UBT Chand,CH Gayle,BJ Rohrer,1,Not out
+10.2,BJ Rohrer,CH Gayle,UBT Chand,2,Not out
+10.3,BJ Rohrer,CH Gayle,UBT Chand,0,Not out
+10.4,BJ Rohrer,CH Gayle,UBT Chand,4,Not out
+10.5,BJ Rohrer,CH Gayle,UBT Chand,0,Not out
+10.6,BJ Rohrer,CH Gayle,UBT Chand,1,Not out
+11.1,BJ Rohrer,M Kartik,UBT Chand,1,Not out
+11.2,UBT Chand,M Kartik,BJ Rohrer,1,Not out
+11.3,BJ Rohrer,M Kartik,UBT Chand,0,Not out
+11.4,UBT Chand,M Kartik,BJ Rohrer,4,Not out
+11.5,UBT Chand,M Kartik,BJ Rohrer,0,Not out
+11.6,UBT Chand,M Kartik,BJ Rohrer,2,Not out
+12.1,BJ Rohrer,R Vinay Kumar,UBT Chand,0,Not out
+12.2,BJ Rohrer,R Vinay Kumar,UBT Chand,1,Not out
+12.3,UBT Chand,R Vinay Kumar,BJ Rohrer,1,Not out
+12.4,BJ Rohrer,R Vinay Kumar,UBT Chand,1,Not out
+12.5,UBT Chand,R Vinay Kumar,BJ Rohrer,0,Not out
+12.6,UBT Chand,R Vinay Kumar,BJ Rohrer,0,Not out
+12.7,UBT Chand,R Vinay Kumar,BJ Rohrer,0,Not out
+13.1,BJ Rohrer,R Rampaul,UBT Chand,2,Not out
+13.2,BJ Rohrer,R Rampaul,UBT Chand,0,Not out
+13.3,UBT Chand,R Rampaul,BJ Rohrer,1,Not out
+13.4,BJ Rohrer,R Rampaul,UBT Chand,0,Not out
+13.5,BJ Rohrer,R Rampaul,UBT Chand,0,Not out
+13.6,BJ Rohrer,R Rampaul,UBT Chand,1,Not out
+14.1,BJ Rohrer,R Vinay Kumar,UBT Chand,0,bowled
+14.2,KM Jadhav,R Vinay Kumar,UBT Chand,1,Not out
+14.3,UBT Chand,R Vinay Kumar,KM Jadhav,1,Not out
+14.4,KM Jadhav,R Vinay Kumar,UBT Chand,1,Not out
+14.5,UBT Chand,R Vinay Kumar,KM Jadhav,1,Not out
+14.6,KM Jadhav,R Vinay Kumar,UBT Chand,1,Not out
+15.1,KM Jadhav,M Kartik,UBT Chand,1,Not out
+15.2,UBT Chand,M Kartik,KM Jadhav,1,Not out
+15.3,KM Jadhav,M Kartik,UBT Chand,1,Not out
+15.4,UBT Chand,M Kartik,KM Jadhav,1,Not out
+15.5,KM Jadhav,M Kartik,UBT Chand,1,Not out
+15.6,UBT Chand,M Kartik,KM Jadhav,1,Not out
+16.1,UBT Chand,JD Unadkat,KM Jadhav,0,caught
+16.2,KM Jadhav,JD Unadkat,IK Pathan,2,Not out
+16.3,KM Jadhav,JD Unadkat,IK Pathan,0,caught
+16.4,IK Pathan,JD Unadkat,M Morkel,1,Not out
+16.5,M Morkel,JD Unadkat,IK Pathan,0,Not out
+16.6,M Morkel,JD Unadkat,IK Pathan,1,Not out
+17.1,M Morkel,R Vinay Kumar,IK Pathan,1,Not out
+17.2,IK Pathan,R Vinay Kumar,M Morkel,4,Not out
+17.3,IK Pathan,R Vinay Kumar,M Morkel,1,Not out
+17.4,M Morkel,R Vinay Kumar,IK Pathan,4,Not out
+17.5,M Morkel,R Vinay Kumar,IK Pathan,4,Not out
+17.6,M Morkel,R Vinay Kumar,IK Pathan,3,Not out
+18.1,M Morkel,R Rampaul,IK Pathan,0,Not out
+18.2,M Morkel,R Rampaul,IK Pathan,1,Not out
+18.3,IK Pathan,R Rampaul,M Morkel,0,Not out
+18.4,IK Pathan,R Rampaul,M Morkel,0,Not out
+18.5,IK Pathan,R Rampaul,M Morkel,0,Not out
+18.6,IK Pathan,R Rampaul,M Morkel,0,Not out
+18.7,IK Pathan,R Rampaul,M Morkel,6,Not out
+18.8,IK Pathan,R Rampaul,M Morkel,6,Not out
+19.1,M Morkel,JD Unadkat,IK Pathan,4,Not out
+19.2,M Morkel,JD Unadkat,IK Pathan,1,Not out
+19.3,IK Pathan,JD Unadkat,M Morkel,4,Not out
+19.4,IK Pathan,JD Unadkat,M Morkel,1,Not out
+19.5,M Morkel,JD Unadkat,IK Pathan,0,bowled
+19.6,UT Yadav,JD Unadkat,IK Pathan,4,Not out

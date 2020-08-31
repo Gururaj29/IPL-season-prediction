@@ -1,0 +1,128 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,S Dhawan,P Kumar,SR Tendulkar,0,Not out
+0.2,S Dhawan,P Kumar,SR Tendulkar,1,Not out
+0.3,SR Tendulkar,P Kumar,S Dhawan,0,Not out
+0.4,SR Tendulkar,P Kumar,S Dhawan,0,Not out
+0.5,SR Tendulkar,P Kumar,S Dhawan,0,Not out
+0.6,SR Tendulkar,P Kumar,S Dhawan,1,Not out
+1.1,SR Tendulkar,DW Steyn,S Dhawan,0,Not out
+1.2,SR Tendulkar,DW Steyn,S Dhawan,0,Not out
+1.3,SR Tendulkar,DW Steyn,S Dhawan,4,Not out
+1.4,SR Tendulkar,DW Steyn,S Dhawan,0,Not out
+1.5,SR Tendulkar,DW Steyn,S Dhawan,4,Not out
+1.6,SR Tendulkar,DW Steyn,S Dhawan,0,caught
+1.7,AM Nayar,DW Steyn,S Dhawan,0,Not out
+2.1,S Dhawan,P Kumar,AM Nayar,0,Not out
+2.2,S Dhawan,P Kumar,AM Nayar,4,Not out
+2.3,S Dhawan,P Kumar,AM Nayar,0,Not out
+2.4,S Dhawan,P Kumar,AM Nayar,1,Not out
+2.5,AM Nayar,P Kumar,S Dhawan,0,Not out
+2.6,AM Nayar,P Kumar,S Dhawan,2,Not out
+2.7,AM Nayar,P Kumar,S Dhawan,0,Not out
+3.1,S Dhawan,DW Steyn,AM Nayar,4,Not out
+3.2,S Dhawan,DW Steyn,AM Nayar,0,Not out
+3.3,S Dhawan,DW Steyn,AM Nayar,2,Not out
+3.4,S Dhawan,DW Steyn,AM Nayar,0,run out
+3.5,AM Nayar,DW Steyn,AT Rayudu,1,Not out
+3.6,AT Rayudu,DW Steyn,AM Nayar,0,Not out
+3.7,AT Rayudu,DW Steyn,AM Nayar,0,Not out
+4.1,AM Nayar,R Vinay Kumar,AT Rayudu,1,Not out
+4.2,AT Rayudu,R Vinay Kumar,AM Nayar,0,Not out
+4.3,AT Rayudu,R Vinay Kumar,AM Nayar,0,Not out
+4.4,AT Rayudu,R Vinay Kumar,AM Nayar,0,Not out
+4.5,AT Rayudu,R Vinay Kumar,AM Nayar,0,Not out
+4.6,AT Rayudu,R Vinay Kumar,AM Nayar,4,Not out
+4.7,AT Rayudu,R Vinay Kumar,AM Nayar,2,Not out
+5.1,AM Nayar,P Kumar,AT Rayudu,2,Not out
+5.2,AM Nayar,P Kumar,AT Rayudu,4,Not out
+5.3,AM Nayar,P Kumar,AT Rayudu,1,Not out
+5.4,AT Rayudu,P Kumar,AM Nayar,0,Not out
+5.5,AT Rayudu,P Kumar,AM Nayar,4,Not out
+5.6,AT Rayudu,P Kumar,AM Nayar,4,Not out
+6.1,AM Nayar,JH Kallis,AT Rayudu,4,Not out
+6.2,AM Nayar,JH Kallis,AT Rayudu,1,Not out
+6.3,AT Rayudu,JH Kallis,AM Nayar,1,Not out
+6.4,AM Nayar,JH Kallis,AT Rayudu,0,Not out
+6.5,AM Nayar,JH Kallis,AT Rayudu,1,Not out
+6.6,AT Rayudu,JH Kallis,AM Nayar,1,Not out
+7.1,AT Rayudu,A Kumble,AM Nayar,0,Not out
+7.2,AT Rayudu,A Kumble,AM Nayar,1,Not out
+7.3,AM Nayar,A Kumble,AT Rayudu,2,Not out
+7.4,AM Nayar,A Kumble,AT Rayudu,0,Not out
+7.5,AM Nayar,A Kumble,AT Rayudu,1,Not out
+7.6,AT Rayudu,A Kumble,AM Nayar,0,Not out
+8.1,AM Nayar,KP Pietersen,AT Rayudu,2,Not out
+8.2,AM Nayar,KP Pietersen,AT Rayudu,0,caught
+8.3,JP Duminy,KP Pietersen,AT Rayudu,1,Not out
+8.4,AT Rayudu,KP Pietersen,JP Duminy,4,Not out
+8.5,AT Rayudu,KP Pietersen,JP Duminy,1,Not out
+8.6,JP Duminy,KP Pietersen,AT Rayudu,0,Not out
+9.1,AT Rayudu,A Kumble,JP Duminy,1,Not out
+9.2,JP Duminy,A Kumble,AT Rayudu,2,Not out
+9.3,JP Duminy,A Kumble,AT Rayudu,0,caught
+9.4,SS Tiwary,A Kumble,AT Rayudu,0,Not out
+9.5,AT Rayudu,A Kumble,SS Tiwary,2,Not out
+9.6,AT Rayudu,A Kumble,SS Tiwary,1,Not out
+10.1,AT Rayudu,KP Pietersen,SS Tiwary,1,Not out
+10.2,SS Tiwary,KP Pietersen,AT Rayudu,0,Not out
+10.3,SS Tiwary,KP Pietersen,AT Rayudu,0,Not out
+10.4,SS Tiwary,KP Pietersen,AT Rayudu,1,Not out
+10.5,AT Rayudu,KP Pietersen,SS Tiwary,1,Not out
+10.6,SS Tiwary,KP Pietersen,AT Rayudu,0,Not out
+11.1,AT Rayudu,A Kumble,SS Tiwary,1,Not out
+11.2,SS Tiwary,A Kumble,AT Rayudu,1,Not out
+11.3,AT Rayudu,A Kumble,SS Tiwary,0,Not out
+11.4,AT Rayudu,A Kumble,SS Tiwary,0,Not out
+11.5,AT Rayudu,A Kumble,SS Tiwary,1,Not out
+11.6,SS Tiwary,A Kumble,AT Rayudu,1,Not out
+12.1,SS Tiwary,KP Pietersen,AT Rayudu,1,Not out
+12.2,AT Rayudu,KP Pietersen,SS Tiwary,1,Not out
+12.3,SS Tiwary,KP Pietersen,AT Rayudu,0,Not out
+12.4,SS Tiwary,KP Pietersen,AT Rayudu,1,Not out
+12.5,AT Rayudu,KP Pietersen,SS Tiwary,1,Not out
+12.6,SS Tiwary,KP Pietersen,AT Rayudu,1,Not out
+13.1,SS Tiwary,V Kohli,AT Rayudu,2,Not out
+13.2,SS Tiwary,V Kohli,AT Rayudu,0,Not out
+13.3,SS Tiwary,V Kohli,AT Rayudu,6,Not out
+13.4,SS Tiwary,V Kohli,AT Rayudu,0,Not out
+13.5,SS Tiwary,V Kohli,AT Rayudu,1,Not out
+13.6,AT Rayudu,V Kohli,SS Tiwary,1,Not out
+14.1,AT Rayudu,KP Pietersen,SS Tiwary,1,Not out
+14.2,SS Tiwary,KP Pietersen,AT Rayudu,0,Not out
+14.3,SS Tiwary,KP Pietersen,AT Rayudu,1,Not out
+14.4,AT Rayudu,KP Pietersen,SS Tiwary,0,Not out
+14.5,AT Rayudu,KP Pietersen,SS Tiwary,1,Not out
+14.6,SS Tiwary,KP Pietersen,AT Rayudu,1,Not out
+15.1,SS Tiwary,JH Kallis,AT Rayudu,6,Not out
+15.2,SS Tiwary,JH Kallis,AT Rayudu,1,Not out
+15.3,AT Rayudu,JH Kallis,SS Tiwary,1,Not out
+15.4,SS Tiwary,JH Kallis,AT Rayudu,4,Not out
+15.5,SS Tiwary,JH Kallis,AT Rayudu,4,Not out
+15.6,SS Tiwary,JH Kallis,AT Rayudu,1,Not out
+16.1,SS Tiwary,A Kumble,AT Rayudu,1,Not out
+16.2,AT Rayudu,A Kumble,SS Tiwary,0,Not out
+16.3,AT Rayudu,A Kumble,SS Tiwary,1,Not out
+16.4,SS Tiwary,A Kumble,AT Rayudu,4,Not out
+16.5,SS Tiwary,A Kumble,AT Rayudu,6,Not out
+16.6,SS Tiwary,A Kumble,AT Rayudu,1,Not out
+16.7,AT Rayudu,A Kumble,SS Tiwary,1,Not out
+16.8,SS Tiwary,A Kumble,AT Rayudu,0,Not out
+17.1,SS Tiwary,DW Steyn,AT Rayudu,1,Not out
+17.2,AT Rayudu,DW Steyn,SS Tiwary,0,Not out
+17.3,AT Rayudu,DW Steyn,SS Tiwary,2,Not out
+17.4,AT Rayudu,DW Steyn,SS Tiwary,0,caught
+17.5,KA Pollard,DW Steyn,SS Tiwary,1,Not out
+17.6,SS Tiwary,DW Steyn,KA Pollard,6,Not out
+18.1,KA Pollard,R Vinay Kumar,SS Tiwary,2,Not out
+18.2,KA Pollard,R Vinay Kumar,SS Tiwary,6,Not out
+18.3,KA Pollard,R Vinay Kumar,SS Tiwary,2,Not out
+18.4,KA Pollard,R Vinay Kumar,SS Tiwary,6,Not out
+18.5,KA Pollard,R Vinay Kumar,SS Tiwary,0,Not out
+18.6,KA Pollard,R Vinay Kumar,SS Tiwary,1,Not out
+19.1,KA Pollard,DW Steyn,SS Tiwary,4,Not out
+19.2,KA Pollard,DW Steyn,SS Tiwary,2,Not out
+19.3,KA Pollard,DW Steyn,SS Tiwary,0,Not out
+19.4,KA Pollard,DW Steyn,SS Tiwary,2,Not out
+19.5,KA Pollard,DW Steyn,SS Tiwary,0,Not out
+19.6,KA Pollard,DW Steyn,SS Tiwary,6,Not out
+19.7,KA Pollard,DW Steyn,SS Tiwary,1,Not out

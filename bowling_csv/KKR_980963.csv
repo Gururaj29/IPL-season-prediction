@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,M Vijay,AD Russell,MP Stoinis,1,Not out
+0.2,MP Stoinis,AD Russell,M Vijay,0,Not out
+0.3,MP Stoinis,AD Russell,M Vijay,0,Not out
+0.4,MP Stoinis,AD Russell,M Vijay,0,caught
+0.5,M Vohra,AD Russell,M Vijay,0,Not out
+0.6,M Vohra,AD Russell,M Vijay,0,Not out
+0.7,M Vohra,AD Russell,M Vijay,0,Not out
+1.1,M Vijay,M Morkel,M Vohra,0,Not out
+1.2,M Vijay,M Morkel,M Vohra,0,Not out
+1.3,M Vijay,M Morkel,M Vohra,0,Not out
+1.4,M Vijay,M Morkel,M Vohra,0,Not out
+1.5,M Vijay,M Morkel,M Vohra,0,Not out
+1.6,M Vijay,M Morkel,M Vohra,0,Not out
+1.7,M Vijay,M Morkel,M Vohra,4,Not out
+2.1,M Vohra,AD Russell,M Vijay,0,Not out
+2.2,M Vohra,AD Russell,M Vijay,0,Not out
+2.3,M Vijay,AD Russell,M Vohra,0,Not out
+2.4,M Vijay,AD Russell,M Vohra,0,Not out
+2.5,M Vijay,AD Russell,M Vohra,1,Not out
+2.6,M Vohra,AD Russell,M Vijay,0,caught
+3.1,M Vijay,M Morkel,WP Saha,0,caught
+3.2,GJ Maxwell,M Morkel,WP Saha,0,Not out
+3.3,GJ Maxwell,M Morkel,WP Saha,1,Not out
+3.4,WP Saha,M Morkel,GJ Maxwell,0,Not out
+3.5,WP Saha,M Morkel,GJ Maxwell,0,Not out
+3.6,WP Saha,M Morkel,GJ Maxwell,2,Not out
+4.1,GJ Maxwell,UT Yadav,WP Saha,0,Not out
+4.2,GJ Maxwell,UT Yadav,WP Saha,1,Not out
+4.3,WP Saha,UT Yadav,GJ Maxwell,0,Not out
+4.4,WP Saha,UT Yadav,GJ Maxwell,4,Not out
+4.5,WP Saha,UT Yadav,GJ Maxwell,2,Not out
+4.6,WP Saha,UT Yadav,GJ Maxwell,4,Not out
+5.1,GJ Maxwell,M Morkel,WP Saha,4,Not out
+5.2,GJ Maxwell,M Morkel,WP Saha,0,Not out
+5.3,GJ Maxwell,M Morkel,WP Saha,0,Not out
+5.4,GJ Maxwell,M Morkel,WP Saha,0,Not out
+5.5,WP Saha,M Morkel,GJ Maxwell,1,Not out
+5.6,GJ Maxwell,M Morkel,WP Saha,4,Not out
+6.1,WP Saha,UT Yadav,GJ Maxwell,0,Not out
+6.2,WP Saha,UT Yadav,GJ Maxwell,1,Not out
+6.3,GJ Maxwell,UT Yadav,WP Saha,0,Not out
+6.4,WP Saha,UT Yadav,GJ Maxwell,1,Not out
+6.5,GJ Maxwell,UT Yadav,WP Saha,0,Not out
+6.6,WP Saha,UT Yadav,GJ Maxwell,2,Not out
+7.1,GJ Maxwell,Shakib Al Hasan,WP Saha,1,Not out
+7.2,WP Saha,Shakib Al Hasan,GJ Maxwell,2,Not out
+7.3,WP Saha,Shakib Al Hasan,GJ Maxwell,0,Not out
+7.4,WP Saha,Shakib Al Hasan,GJ Maxwell,1,Not out
+7.5,GJ Maxwell,Shakib Al Hasan,WP Saha,1,Not out
+7.6,WP Saha,Shakib Al Hasan,GJ Maxwell,0,Not out
+8.1,GJ Maxwell,PP Chawla,WP Saha,0,Not out
+8.2,GJ Maxwell,PP Chawla,WP Saha,1,Not out
+8.3,WP Saha,PP Chawla,GJ Maxwell,4,Not out
+8.4,WP Saha,PP Chawla,GJ Maxwell,0,Not out
+8.5,WP Saha,PP Chawla,GJ Maxwell,0,Not out
+8.6,WP Saha,PP Chawla,GJ Maxwell,0,bowled
+9.1,GJ Maxwell,GB Hogg,DA Miller,1,Not out
+9.2,DA Miller,GB Hogg,GJ Maxwell,0,Not out
+9.3,DA Miller,GB Hogg,GJ Maxwell,1,Not out
+9.4,GJ Maxwell,GB Hogg,DA Miller,2,Not out
+9.5,GJ Maxwell,GB Hogg,DA Miller,6,Not out
+9.6,GJ Maxwell,GB Hogg,DA Miller,1,Not out
+10.1,GJ Maxwell,PP Chawla,DA Miller,2,Not out
+10.2,GJ Maxwell,PP Chawla,DA Miller,6,Not out
+10.3,GJ Maxwell,PP Chawla,DA Miller,0,Not out
+10.4,GJ Maxwell,PP Chawla,DA Miller,4,Not out
+10.5,GJ Maxwell,PP Chawla,DA Miller,0,Not out
+10.6,GJ Maxwell,PP Chawla,DA Miller,0,Not out
+11.1,DA Miller,GB Hogg,GJ Maxwell,1,Not out
+11.2,GJ Maxwell,GB Hogg,DA Miller,6,Not out
+11.3,GJ Maxwell,GB Hogg,DA Miller,4,Not out
+11.4,GJ Maxwell,GB Hogg,DA Miller,4,Not out
+11.5,GJ Maxwell,GB Hogg,DA Miller,1,Not out
+11.6,DA Miller,GB Hogg,GJ Maxwell,1,Not out
+12.1,DA Miller,PP Chawla,GJ Maxwell,2,Not out
+12.2,DA Miller,PP Chawla,GJ Maxwell,1,Not out
+12.3,GJ Maxwell,PP Chawla,DA Miller,0,Not out
+12.4,GJ Maxwell,PP Chawla,DA Miller,1,Not out
+12.5,DA Miller,PP Chawla,GJ Maxwell,1,Not out
+12.6,GJ Maxwell,PP Chawla,DA Miller,0,Not out
+13.1,DA Miller,UT Yadav,GJ Maxwell,0,Not out
+13.2,DA Miller,UT Yadav,GJ Maxwell,1,Not out
+13.3,GJ Maxwell,UT Yadav,DA Miller,2,Not out
+13.4,GJ Maxwell,UT Yadav,DA Miller,0,Not out
+13.5,GJ Maxwell,UT Yadav,DA Miller,2,Not out
+13.6,GJ Maxwell,UT Yadav,DA Miller,4,Not out
+13.7,GJ Maxwell,UT Yadav,DA Miller,1,Not out
+14.1,GJ Maxwell,Shakib Al Hasan,DA Miller,0,Not out
+14.2,GJ Maxwell,Shakib Al Hasan,DA Miller,6,Not out
+14.3,GJ Maxwell,Shakib Al Hasan,DA Miller,1,Not out
+14.4,DA Miller,Shakib Al Hasan,GJ Maxwell,0,Not out
+14.5,DA Miller,Shakib Al Hasan,GJ Maxwell,1,Not out
+14.6,GJ Maxwell,Shakib Al Hasan,DA Miller,0,Not out
+15.1,DA Miller,PP Chawla,GJ Maxwell,1,Not out
+15.2,GJ Maxwell,PP Chawla,DA Miller,1,Not out
+15.3,DA Miller,PP Chawla,GJ Maxwell,1,Not out
+15.4,GJ Maxwell,PP Chawla,DA Miller,0,lbw
+15.5,Gurkeerat Singh,PP Chawla,DA Miller,0,Not out
+15.6,Gurkeerat Singh,PP Chawla,DA Miller,0,Not out
+15.7,Gurkeerat Singh,PP Chawla,DA Miller,1,Not out
+16.1,Gurkeerat Singh,Shakib Al Hasan,DA Miller,1,Not out
+16.2,DA Miller,Shakib Al Hasan,Gurkeerat Singh,1,Not out
+16.3,Gurkeerat Singh,Shakib Al Hasan,DA Miller,1,Not out
+16.4,DA Miller,Shakib Al Hasan,Gurkeerat Singh,1,Not out
+16.5,Gurkeerat Singh,Shakib Al Hasan,DA Miller,0,Not out
+16.6,Gurkeerat Singh,Shakib Al Hasan,DA Miller,4,Not out
+17.1,DA Miller,AD Russell,Gurkeerat Singh,0,Not out
+17.2,DA Miller,AD Russell,Gurkeerat Singh,0,Not out
+17.3,DA Miller,AD Russell,Gurkeerat Singh,0,caught
+17.4,Gurkeerat Singh,AD Russell,AR Patel,1,Not out
+17.5,AR Patel,AD Russell,Gurkeerat Singh,6,Not out
+17.6,AR Patel,AD Russell,Gurkeerat Singh,6,Not out
+18.1,Gurkeerat Singh,M Morkel,AR Patel,1,Not out
+18.2,AR Patel,M Morkel,Gurkeerat Singh,4,Not out
+18.3,AR Patel,M Morkel,Gurkeerat Singh,1,Not out
+18.4,Gurkeerat Singh,M Morkel,AR Patel,1,Not out
+18.5,AR Patel,M Morkel,Gurkeerat Singh,2,Not out
+18.6,AR Patel,M Morkel,Gurkeerat Singh,1,Not out
+19.1,AR Patel,AD Russell,Gurkeerat Singh,1,Not out
+19.2,Gurkeerat Singh,AD Russell,AR Patel,0,run out
+19.3,Gurkeerat Singh,AD Russell,Swapnil Singh,1,run out
+19.4,MM Sharma,AD Russell,Swapnil Singh,1,Not out
+19.5,Swapnil Singh,AD Russell,MM Sharma,0,lbw
+19.6,Sandeep Sharma,AD Russell,MM Sharma,1,Not out

@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DA Warner,B Lee,V Sehwag,0,Not out
+0.2,DA Warner,B Lee,V Sehwag,1,Not out
+0.3,V Sehwag,B Lee,DA Warner,4,Not out
+0.4,V Sehwag,B Lee,DA Warner,1,Not out
+0.5,DA Warner,B Lee,V Sehwag,0,Not out
+0.6,DA Warner,B Lee,V Sehwag,0,Not out
+0.7,DA Warner,B Lee,V Sehwag,0,Not out
+1.1,V Sehwag,L Balaji,DA Warner,0,Not out
+1.2,V Sehwag,L Balaji,DA Warner,4,Not out
+1.3,V Sehwag,L Balaji,DA Warner,1,Not out
+1.4,DA Warner,L Balaji,V Sehwag,1,Not out
+1.5,V Sehwag,L Balaji,DA Warner,1,Not out
+1.6,DA Warner,L Balaji,V Sehwag,0,bowled
+2.1,V Sehwag,B Lee,JR Hopes,0,Not out
+2.2,V Sehwag,B Lee,JR Hopes,0,Not out
+2.3,V Sehwag,B Lee,JR Hopes,0,Not out
+2.4,V Sehwag,B Lee,JR Hopes,1,Not out
+2.5,JR Hopes,B Lee,V Sehwag,0,Not out
+2.6,JR Hopes,B Lee,V Sehwag,1,Not out
+3.1,JR Hopes,L Balaji,V Sehwag,1,Not out
+3.2,V Sehwag,L Balaji,JR Hopes,6,Not out
+3.3,V Sehwag,L Balaji,JR Hopes,4,Not out
+3.4,V Sehwag,L Balaji,JR Hopes,0,Not out
+3.5,V Sehwag,L Balaji,JR Hopes,0,Not out
+3.6,V Sehwag,L Balaji,JR Hopes,1,Not out
+4.1,V Sehwag,JD Unadkat,JR Hopes,1,Not out
+4.2,JR Hopes,JD Unadkat,V Sehwag,0,Not out
+4.3,JR Hopes,JD Unadkat,V Sehwag,0,Not out
+4.4,JR Hopes,JD Unadkat,V Sehwag,0,Not out
+4.5,JR Hopes,JD Unadkat,V Sehwag,1,Not out
+4.6,V Sehwag,JD Unadkat,JR Hopes,4,Not out
+5.1,JR Hopes,Iqbal Abdulla,V Sehwag,0,Not out
+5.2,JR Hopes,Iqbal Abdulla,V Sehwag,0,Not out
+5.3,JR Hopes,Iqbal Abdulla,V Sehwag,0,Not out
+5.4,JR Hopes,Iqbal Abdulla,V Sehwag,1,Not out
+5.5,V Sehwag,Iqbal Abdulla,JR Hopes,0,Not out
+5.6,V Sehwag,Iqbal Abdulla,JR Hopes,4,Not out
+5.7,V Sehwag,Iqbal Abdulla,JR Hopes,1,Not out
+6.1,V Sehwag,JD Unadkat,JR Hopes,1,Not out
+6.2,JR Hopes,JD Unadkat,V Sehwag,1,Not out
+6.3,V Sehwag,JD Unadkat,JR Hopes,0,Not out
+6.4,V Sehwag,JD Unadkat,JR Hopes,0,caught
+6.5,IK Pathan,JD Unadkat,JR Hopes,0,Not out
+6.6,IK Pathan,JD Unadkat,JR Hopes,1,Not out
+7.1,IK Pathan,JH Kallis,JR Hopes,1,Not out
+7.2,JR Hopes,JH Kallis,IK Pathan,0,Not out
+7.3,JR Hopes,JH Kallis,IK Pathan,0,Not out
+7.4,JR Hopes,JH Kallis,IK Pathan,1,Not out
+7.5,IK Pathan,JH Kallis,JR Hopes,1,Not out
+7.6,JR Hopes,JH Kallis,IK Pathan,1,Not out
+8.1,JR Hopes,JD Unadkat,IK Pathan,0,Not out
+8.2,JR Hopes,JD Unadkat,IK Pathan,4,Not out
+8.3,JR Hopes,JD Unadkat,IK Pathan,1,Not out
+8.4,IK Pathan,JD Unadkat,JR Hopes,0,Not out
+8.5,IK Pathan,JD Unadkat,JR Hopes,0,Not out
+8.6,IK Pathan,JD Unadkat,JR Hopes,0,Not out
+9.1,JR Hopes,JH Kallis,IK Pathan,0,Not out
+9.2,JR Hopes,JH Kallis,IK Pathan,1,Not out
+9.3,IK Pathan,JH Kallis,JR Hopes,0,Not out
+9.4,IK Pathan,JH Kallis,JR Hopes,0,Not out
+9.5,IK Pathan,JH Kallis,JR Hopes,0,Not out
+9.6,IK Pathan,JH Kallis,JR Hopes,6,Not out
+10.1,JR Hopes,Iqbal Abdulla,IK Pathan,0,Not out
+10.2,JR Hopes,Iqbal Abdulla,IK Pathan,1,Not out
+10.3,IK Pathan,Iqbal Abdulla,JR Hopes,0,caught
+10.4,JR Hopes,Iqbal Abdulla,TR Birt,1,Not out
+10.5,TR Birt,Iqbal Abdulla,JR Hopes,0,Not out
+10.6,TR Birt,Iqbal Abdulla,JR Hopes,0,Not out
+11.1,JR Hopes,YK Pathan,TR Birt,1,Not out
+11.2,TR Birt,YK Pathan,JR Hopes,1,Not out
+11.3,JR Hopes,YK Pathan,TR Birt,1,Not out
+11.4,TR Birt,YK Pathan,JR Hopes,0,Not out
+11.5,TR Birt,YK Pathan,JR Hopes,0,Not out
+11.6,TR Birt,YK Pathan,JR Hopes,1,Not out
+12.1,TR Birt,Iqbal Abdulla,JR Hopes,2,Not out
+12.2,TR Birt,Iqbal Abdulla,JR Hopes,2,Not out
+12.3,TR Birt,Iqbal Abdulla,JR Hopes,1,Not out
+12.4,JR Hopes,Iqbal Abdulla,TR Birt,0,Not out
+12.5,JR Hopes,Iqbal Abdulla,TR Birt,1,Not out
+12.6,TR Birt,Iqbal Abdulla,JR Hopes,1,Not out
+13.1,TR Birt,YK Pathan,JR Hopes,0,caught
+13.2,Y Venugopal Rao,YK Pathan,JR Hopes,0,Not out
+13.3,Y Venugopal Rao,YK Pathan,JR Hopes,0,Not out
+13.4,Y Venugopal Rao,YK Pathan,JR Hopes,1,Not out
+13.5,JR Hopes,YK Pathan,Y Venugopal Rao,1,Not out
+13.6,Y Venugopal Rao,YK Pathan,JR Hopes,0,Not out
+14.1,JR Hopes,Iqbal Abdulla,Y Venugopal Rao,6,Not out
+14.2,JR Hopes,Iqbal Abdulla,Y Venugopal Rao,0,caught
+14.3,NV Ojha,Iqbal Abdulla,Y Venugopal Rao,1,Not out
+14.4,Y Venugopal Rao,Iqbal Abdulla,NV Ojha,1,Not out
+14.5,NV Ojha,Iqbal Abdulla,Y Venugopal Rao,0,caught
+14.6,Y Venugopal Rao,Iqbal Abdulla,Y Nagar,1,Not out
+15.1,Y Venugopal Rao,B Lee,Y Nagar,4,Not out
+15.2,Y Venugopal Rao,B Lee,Y Nagar,1,Not out
+15.3,Y Nagar,B Lee,Y Venugopal Rao,2,Not out
+15.4,Y Nagar,B Lee,Y Venugopal Rao,0,Not out
+15.5,Y Nagar,B Lee,Y Venugopal Rao,0,Not out
+15.6,Y Nagar,B Lee,Y Venugopal Rao,1,Not out
+15.7,Y Venugopal Rao,B Lee,Y Nagar,2,Not out
+15.8,Y Venugopal Rao,B Lee,Y Nagar,1,Not out
+16.1,Y Venugopal Rao,JD Unadkat,Y Nagar,1,Not out
+16.2,Y Nagar,JD Unadkat,Y Venugopal Rao,6,Not out
+16.3,Y Nagar,JD Unadkat,Y Venugopal Rao,0,Not out
+16.4,Y Nagar,JD Unadkat,Y Venugopal Rao,0,Not out
+16.5,Y Nagar,JD Unadkat,Y Venugopal Rao,3,Not out
+16.6,Y Venugopal Rao,JD Unadkat,Y Nagar,0,Not out
+17.1,Y Nagar,L Balaji,Y Venugopal Rao,0,Not out
+17.2,Y Venugopal Rao,L Balaji,Y Nagar,0,Not out
+17.3,Y Venugopal Rao,L Balaji,Y Nagar,2,Not out
+17.4,Y Venugopal Rao,L Balaji,Y Nagar,4,Not out
+17.5,Y Venugopal Rao,L Balaji,Y Nagar,1,Not out
+17.6,Y Nagar,L Balaji,Y Venugopal Rao,6,Not out
+18.1,Y Venugopal Rao,B Lee,Y Nagar,0,Not out
+18.2,Y Venugopal Rao,B Lee,Y Nagar,0,run out
+18.3,Y Nagar,B Lee,AB Agarkar,0,run out
+18.4,Y Nagar,B Lee,M Morkel,1,Not out
+18.5,M Morkel,B Lee,Y Nagar,1,Not out
+18.6,Y Nagar,B Lee,M Morkel,0,Not out
+19.1,M Morkel,L Balaji,Y Nagar,0,Not out
+19.2,M Morkel,L Balaji,Y Nagar,4,Not out
+19.3,M Morkel,L Balaji,Y Nagar,0,Not out
+19.4,M Morkel,L Balaji,Y Nagar,1,Not out
+19.5,Y Nagar,L Balaji,M Morkel,0,caught
+19.6,UT Yadav,L Balaji,M Morkel,1,Not out

@@ -1,0 +1,118 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,G Gambhir,SL Malinga,DA Warner,0,Not out
+0.2,G Gambhir,SL Malinga,DA Warner,0,Not out
+0.3,G Gambhir,SL Malinga,DA Warner,1,Not out
+0.4,DA Warner,SL Malinga,G Gambhir,0,Not out
+0.5,DA Warner,SL Malinga,G Gambhir,0,Not out
+0.6,DA Warner,SL Malinga,G Gambhir,0,Not out
+0.7,G Gambhir,SL Malinga,DA Warner,0,Not out
+0.8,G Gambhir,SL Malinga,DA Warner,4,Not out
+1.1,DA Warner,DS Kulkarni,G Gambhir,0,Not out
+1.2,DA Warner,DS Kulkarni,G Gambhir,1,Not out
+1.3,G Gambhir,DS Kulkarni,DA Warner,1,Not out
+1.4,DA Warner,DS Kulkarni,G Gambhir,1,Not out
+1.5,G Gambhir,DS Kulkarni,DA Warner,0,Not out
+1.6,G Gambhir,DS Kulkarni,DA Warner,0,Not out
+2.1,DA Warner,SL Malinga,G Gambhir,6,Not out
+2.2,DA Warner,SL Malinga,G Gambhir,0,Not out
+2.3,DA Warner,SL Malinga,G Gambhir,2,Not out
+2.4,DA Warner,SL Malinga,G Gambhir,0,Not out
+2.5,DA Warner,SL Malinga,G Gambhir,0,Not out
+2.6,DA Warner,SL Malinga,G Gambhir,1,Not out
+3.1,DA Warner,DS Kulkarni,G Gambhir,0,Not out
+3.2,DA Warner,DS Kulkarni,G Gambhir,0,Not out
+3.3,DA Warner,DS Kulkarni,G Gambhir,1,Not out
+3.4,G Gambhir,DS Kulkarni,DA Warner,1,Not out
+3.5,DA Warner,DS Kulkarni,G Gambhir,0,Not out
+3.6,DA Warner,DS Kulkarni,G Gambhir,1,Not out
+4.1,DA Warner,SL Malinga,G Gambhir,1,Not out
+4.2,G Gambhir,SL Malinga,DA Warner,1,Not out
+4.3,DA Warner,SL Malinga,G Gambhir,0,Not out
+4.4,DA Warner,SL Malinga,G Gambhir,1,Not out
+4.5,G Gambhir,SL Malinga,DA Warner,4,Not out
+4.6,G Gambhir,SL Malinga,DA Warner,1,Not out
+4.7,DA Warner,SL Malinga,G Gambhir,1,Not out
+5.1,DA Warner,DS Kulkarni,G Gambhir,0,Not out
+5.2,DA Warner,DS Kulkarni,G Gambhir,1,Not out
+5.3,G Gambhir,DS Kulkarni,DA Warner,1,Not out
+5.4,DA Warner,DS Kulkarni,G Gambhir,0,Not out
+5.5,DA Warner,DS Kulkarni,G Gambhir,0,Not out
+5.6,DA Warner,DS Kulkarni,G Gambhir,1,Not out
+6.1,DA Warner,DJ Bravo,G Gambhir,1,Not out
+6.2,G Gambhir,DJ Bravo,DA Warner,0,Not out
+6.3,G Gambhir,DJ Bravo,DA Warner,0,Not out
+6.4,G Gambhir,DJ Bravo,DA Warner,0,Not out
+6.5,G Gambhir,DJ Bravo,DA Warner,0,Not out
+6.6,G Gambhir,DJ Bravo,DA Warner,1,Not out
+7.1,G Gambhir,Harbhajan Singh,DA Warner,1,Not out
+7.2,DA Warner,Harbhajan Singh,G Gambhir,0,Not out
+7.3,DA Warner,Harbhajan Singh,G Gambhir,1,Not out
+7.4,G Gambhir,Harbhajan Singh,DA Warner,0,Not out
+7.5,G Gambhir,Harbhajan Singh,DA Warner,1,Not out
+7.6,DA Warner,Harbhajan Singh,G Gambhir,1,Not out
+8.1,DA Warner,JP Duminy,G Gambhir,0,Not out
+8.2,DA Warner,JP Duminy,G Gambhir,0,stumped
+8.3,TM Dilshan,JP Duminy,G Gambhir,1,Not out
+8.4,G Gambhir,JP Duminy,TM Dilshan,1,Not out
+8.5,TM Dilshan,JP Duminy,G Gambhir,1,Not out
+8.6,G Gambhir,JP Duminy,TM Dilshan,1,Not out
+9.1,G Gambhir,Harbhajan Singh,TM Dilshan,0,caught
+9.2,TM Dilshan,Harbhajan Singh,AB de Villiers,1,Not out
+9.3,AB de Villiers,Harbhajan Singh,TM Dilshan,4,Not out
+9.4,AB de Villiers,Harbhajan Singh,TM Dilshan,1,Not out
+9.5,TM Dilshan,Harbhajan Singh,AB de Villiers,0,Not out
+9.6,TM Dilshan,Harbhajan Singh,AB de Villiers,0,Not out
+10.1,AB de Villiers,JP Duminy,TM Dilshan,0,Not out
+10.2,AB de Villiers,JP Duminy,TM Dilshan,1,Not out
+10.3,TM Dilshan,JP Duminy,AB de Villiers,0,Not out
+10.4,AB de Villiers,JP Duminy,TM Dilshan,0,Not out
+10.5,AB de Villiers,JP Duminy,TM Dilshan,0,Not out
+10.6,AB de Villiers,JP Duminy,TM Dilshan,1,Not out
+10.7,TM Dilshan,JP Duminy,AB de Villiers,0,Not out
+11.1,AB de Villiers,Harbhajan Singh,TM Dilshan,1,Not out
+11.2,TM Dilshan,Harbhajan Singh,AB de Villiers,1,Not out
+11.3,AB de Villiers,Harbhajan Singh,TM Dilshan,0,Not out
+11.4,AB de Villiers,Harbhajan Singh,TM Dilshan,1,Not out
+11.5,TM Dilshan,Harbhajan Singh,AB de Villiers,1,Not out
+11.6,AB de Villiers,Harbhajan Singh,TM Dilshan,0,Not out
+12.1,TM Dilshan,JP Duminy,AB de Villiers,1,Not out
+12.2,AB de Villiers,JP Duminy,TM Dilshan,1,Not out
+12.3,TM Dilshan,JP Duminy,AB de Villiers,0,Not out
+12.4,TM Dilshan,JP Duminy,AB de Villiers,0,Not out
+12.5,TM Dilshan,JP Duminy,AB de Villiers,0,Not out
+12.6,TM Dilshan,JP Duminy,AB de Villiers,0,Not out
+13.1,AB de Villiers,Harbhajan Singh,TM Dilshan,0,Not out
+13.2,AB de Villiers,Harbhajan Singh,TM Dilshan,0,Not out
+13.3,AB de Villiers,Harbhajan Singh,TM Dilshan,1,Not out
+13.4,TM Dilshan,Harbhajan Singh,AB de Villiers,1,Not out
+13.5,AB de Villiers,Harbhajan Singh,TM Dilshan,4,Not out
+13.6,AB de Villiers,Harbhajan Singh,TM Dilshan,1,Not out
+14.1,AB de Villiers,JP Duminy,TM Dilshan,1,Not out
+14.2,TM Dilshan,JP Duminy,AB de Villiers,1,Not out
+14.3,AB de Villiers,JP Duminy,TM Dilshan,0,Not out
+14.4,AB de Villiers,JP Duminy,TM Dilshan,1,Not out
+14.5,TM Dilshan,JP Duminy,AB de Villiers,1,Not out
+14.6,AB de Villiers,JP Duminy,TM Dilshan,1,Not out
+15.1,AB de Villiers,SR Tendulkar,TM Dilshan,4,Not out
+15.2,AB de Villiers,SR Tendulkar,TM Dilshan,6,Not out
+15.3,AB de Villiers,SR Tendulkar,TM Dilshan,4,Not out
+15.4,AB de Villiers,SR Tendulkar,TM Dilshan,0,Not out
+15.5,AB de Villiers,SR Tendulkar,TM Dilshan,4,Not out
+15.6,AB de Villiers,SR Tendulkar,TM Dilshan,1,Not out
+16.1,AB de Villiers,RR Raje,TM Dilshan,0,Not out
+16.2,AB de Villiers,RR Raje,TM Dilshan,0,Not out
+16.3,AB de Villiers,RR Raje,TM Dilshan,0,Not out
+16.4,AB de Villiers,RR Raje,TM Dilshan,3,Not out
+16.5,TM Dilshan,RR Raje,AB de Villiers,4,Not out
+16.6,TM Dilshan,RR Raje,AB de Villiers,4,Not out
+17.1,AB de Villiers,SL Malinga,TM Dilshan,0,Not out
+17.2,AB de Villiers,SL Malinga,TM Dilshan,0,Not out
+17.3,AB de Villiers,SL Malinga,TM Dilshan,2,Not out
+17.4,AB de Villiers,SL Malinga,TM Dilshan,1,Not out
+17.5,TM Dilshan,SL Malinga,AB de Villiers,0,caught
+17.6,KD Karthik,SL Malinga,AB de Villiers,0,Not out
+18.1,AB de Villiers,RR Raje,KD Karthik,4,Not out
+18.2,AB de Villiers,RR Raje,KD Karthik,1,Not out
+18.3,KD Karthik,RR Raje,AB de Villiers,1,Not out
+18.4,AB de Villiers,RR Raje,KD Karthik,1,Not out
+18.5,KD Karthik,RR Raje,AB de Villiers,4,Not out

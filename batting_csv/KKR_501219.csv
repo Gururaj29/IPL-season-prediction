@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MS Bisla,RP Singh,JH Kallis,1,Not out
+0.2,JH Kallis,RP Singh,MS Bisla,1,Not out
+0.3,MS Bisla,RP Singh,JH Kallis,0,Not out
+0.4,MS Bisla,RP Singh,JH Kallis,0,Not out
+0.5,MS Bisla,RP Singh,JH Kallis,1,Not out
+0.6,JH Kallis,RP Singh,MS Bisla,0,Not out
+1.1,MS Bisla,R Vinay Kumar,JH Kallis,1,Not out
+1.2,JH Kallis,R Vinay Kumar,MS Bisla,0,Not out
+1.3,JH Kallis,R Vinay Kumar,MS Bisla,1,Not out
+1.4,MS Bisla,R Vinay Kumar,JH Kallis,4,Not out
+1.5,MS Bisla,R Vinay Kumar,JH Kallis,0,Not out
+1.6,MS Bisla,R Vinay Kumar,JH Kallis,1,Not out
+2.1,MS Bisla,RA Jadeja,JH Kallis,1,Not out
+2.2,JH Kallis,RA Jadeja,MS Bisla,1,Not out
+2.3,MS Bisla,RA Jadeja,JH Kallis,1,Not out
+2.4,JH Kallis,RA Jadeja,MS Bisla,1,Not out
+2.5,MS Bisla,RA Jadeja,JH Kallis,4,Not out
+2.6,MS Bisla,RA Jadeja,JH Kallis,0,Not out
+3.1,JH Kallis,R Vinay Kumar,MS Bisla,2,Not out
+3.2,JH Kallis,R Vinay Kumar,MS Bisla,0,Not out
+3.3,JH Kallis,R Vinay Kumar,MS Bisla,0,caught
+3.4,G Gambhir,R Vinay Kumar,MS Bisla,2,Not out
+3.5,G Gambhir,R Vinay Kumar,MS Bisla,0,Not out
+3.6,G Gambhir,R Vinay Kumar,MS Bisla,1,Not out
+4.1,G Gambhir,RP Singh,MS Bisla,0,Not out
+4.2,G Gambhir,RP Singh,MS Bisla,0,bowled
+4.3,MK Tiwary,RP Singh,MS Bisla,0,Not out
+4.4,MK Tiwary,RP Singh,MS Bisla,0,Not out
+4.5,MK Tiwary,RP Singh,MS Bisla,0,Not out
+4.6,MK Tiwary,RP Singh,MS Bisla,1,Not out
+5.1,MK Tiwary,RA Jadeja,MS Bisla,0,Not out
+5.2,MK Tiwary,RA Jadeja,MS Bisla,6,Not out
+5.3,MK Tiwary,RA Jadeja,MS Bisla,0,Not out
+5.4,MK Tiwary,RA Jadeja,MS Bisla,1,Not out
+5.5,MS Bisla,RA Jadeja,MK Tiwary,2,Not out
+5.6,MS Bisla,RA Jadeja,MK Tiwary,0,bowled
+6.1,MK Tiwary,RR Powar,EJG Morgan,0,Not out
+6.2,MK Tiwary,RR Powar,EJG Morgan,1,Not out
+6.3,EJG Morgan,RR Powar,MK Tiwary,0,Not out
+6.4,EJG Morgan,RR Powar,MK Tiwary,1,Not out
+6.5,MK Tiwary,RR Powar,EJG Morgan,2,Not out
+6.6,MK Tiwary,RR Powar,EJG Morgan,1,Not out
+7.1,MK Tiwary,M Muralitharan,EJG Morgan,0,Not out
+7.2,MK Tiwary,M Muralitharan,EJG Morgan,1,Not out
+7.3,EJG Morgan,M Muralitharan,MK Tiwary,0,Not out
+7.4,EJG Morgan,M Muralitharan,MK Tiwary,1,Not out
+7.5,MK Tiwary,M Muralitharan,EJG Morgan,1,Not out
+7.6,EJG Morgan,M Muralitharan,MK Tiwary,4,Not out
+8.1,MK Tiwary,RR Powar,EJG Morgan,1,Not out
+8.2,EJG Morgan,RR Powar,MK Tiwary,1,Not out
+8.3,MK Tiwary,RR Powar,EJG Morgan,0,Not out
+8.4,MK Tiwary,RR Powar,EJG Morgan,1,Not out
+8.5,EJG Morgan,RR Powar,MK Tiwary,0,Not out
+8.6,EJG Morgan,RR Powar,MK Tiwary,0,Not out
+9.1,MK Tiwary,M Muralitharan,EJG Morgan,0,Not out
+9.2,MK Tiwary,M Muralitharan,EJG Morgan,1,Not out
+9.3,EJG Morgan,M Muralitharan,MK Tiwary,1,Not out
+9.4,MK Tiwary,M Muralitharan,EJG Morgan,0,Not out
+9.5,MK Tiwary,M Muralitharan,EJG Morgan,1,Not out
+9.6,EJG Morgan,M Muralitharan,MK Tiwary,0,Not out
+10.1,MK Tiwary,RA Jadeja,EJG Morgan,2,Not out
+10.2,MK Tiwary,RA Jadeja,EJG Morgan,0,Not out
+10.3,MK Tiwary,RA Jadeja,EJG Morgan,0,Not out
+10.4,MK Tiwary,RA Jadeja,EJG Morgan,1,Not out
+10.5,EJG Morgan,RA Jadeja,MK Tiwary,1,Not out
+10.6,MK Tiwary,RA Jadeja,EJG Morgan,1,Not out
+11.1,MK Tiwary,RR Powar,EJG Morgan,1,Not out
+11.2,EJG Morgan,RR Powar,MK Tiwary,1,Not out
+11.3,MK Tiwary,RR Powar,EJG Morgan,6,Not out
+11.4,MK Tiwary,RR Powar,EJG Morgan,0,Not out
+11.5,MK Tiwary,RR Powar,EJG Morgan,0,Not out
+11.6,MK Tiwary,RR Powar,EJG Morgan,1,Not out
+12.1,MK Tiwary,R Vinay Kumar,EJG Morgan,0,Not out
+12.2,MK Tiwary,R Vinay Kumar,EJG Morgan,0,run out
+12.3,MK Tiwary,R Vinay Kumar,Shakib Al Hasan,0,Not out
+12.4,MK Tiwary,R Vinay Kumar,Shakib Al Hasan,0,Not out
+12.5,MK Tiwary,R Vinay Kumar,Shakib Al Hasan,1,Not out
+12.6,Shakib Al Hasan,R Vinay Kumar,MK Tiwary,1,Not out
+13.1,Shakib Al Hasan,M Muralitharan,MK Tiwary,1,Not out
+13.2,MK Tiwary,M Muralitharan,Shakib Al Hasan,0,Not out
+13.3,MK Tiwary,M Muralitharan,Shakib Al Hasan,0,Not out
+13.4,MK Tiwary,M Muralitharan,Shakib Al Hasan,0,Not out
+13.5,MK Tiwary,M Muralitharan,Shakib Al Hasan,1,Not out
+13.6,Shakib Al Hasan,M Muralitharan,MK Tiwary,0,Not out
+14.1,MK Tiwary,RP Singh,Shakib Al Hasan,4,Not out
+14.2,MK Tiwary,RP Singh,Shakib Al Hasan,4,Not out
+14.3,MK Tiwary,RP Singh,Shakib Al Hasan,0,Not out
+14.4,MK Tiwary,RP Singh,Shakib Al Hasan,1,Not out
+14.5,Shakib Al Hasan,RP Singh,MK Tiwary,0,Not out
+14.6,Shakib Al Hasan,RP Singh,MK Tiwary,0,bowled
+15.1,MK Tiwary,RR Powar,YK Pathan,2,Not out
+15.2,MK Tiwary,RR Powar,YK Pathan,1,Not out
+15.3,YK Pathan,RR Powar,MK Tiwary,2,Not out
+15.4,YK Pathan,RR Powar,MK Tiwary,6,Not out
+15.5,YK Pathan,RR Powar,MK Tiwary,0,caught
+15.6,MK Tiwary,RR Powar,R Bhatia,1,Not out
+16.1,MK Tiwary,RA Jadeja,R Bhatia,0,Not out
+16.2,MK Tiwary,RA Jadeja,R Bhatia,1,Not out
+16.3,R Bhatia,RA Jadeja,MK Tiwary,0,Not out
+16.4,R Bhatia,RA Jadeja,MK Tiwary,1,Not out
+16.5,MK Tiwary,RA Jadeja,R Bhatia,0,Not out
+16.6,MK Tiwary,RA Jadeja,R Bhatia,0,stumped
+16.7,B Lee,RA Jadeja,R Bhatia,0,Not out
+17.1,R Bhatia,M Muralitharan,B Lee,0,Not out
+17.2,B Lee,M Muralitharan,R Bhatia,1,Not out
+17.3,R Bhatia,M Muralitharan,B Lee,1,Not out
+17.4,B Lee,M Muralitharan,R Bhatia,0,caught
+17.5,Iqbal Abdulla,M Muralitharan,R Bhatia,0,Not out
+17.6,Iqbal Abdulla,M Muralitharan,R Bhatia,1,Not out
+17.7,R Bhatia,M Muralitharan,Iqbal Abdulla,1,Not out
+18.1,R Bhatia,RP Singh,Iqbal Abdulla,4,Not out
+18.2,R Bhatia,RP Singh,Iqbal Abdulla,1,Not out
+18.3,Iqbal Abdulla,RP Singh,R Bhatia,1,Not out
+18.4,R Bhatia,RP Singh,Iqbal Abdulla,1,Not out
+18.5,Iqbal Abdulla,RP Singh,R Bhatia,4,Not out
+18.6,Iqbal Abdulla,RP Singh,R Bhatia,1,Not out
+19.1,Iqbal Abdulla,R Vinay Kumar,R Bhatia,0,Not out
+19.2,Iqbal Abdulla,R Vinay Kumar,R Bhatia,2,Not out
+19.3,Iqbal Abdulla,R Vinay Kumar,R Bhatia,2,Not out
+19.4,Iqbal Abdulla,R Vinay Kumar,R Bhatia,1,Not out
+19.5,R Bhatia,R Vinay Kumar,Iqbal Abdulla,1,run out
+19.6,L Balaji,R Vinay Kumar,Iqbal Abdulla,1,Not out

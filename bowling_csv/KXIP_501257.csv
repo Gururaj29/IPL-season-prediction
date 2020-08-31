@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,NV Ojha,P Kumar,DA Warner,1,Not out
+0.2,DA Warner,P Kumar,NV Ojha,1,Not out
+0.3,NV Ojha,P Kumar,DA Warner,2,Not out
+0.4,NV Ojha,P Kumar,DA Warner,0,Not out
+0.5,NV Ojha,P Kumar,DA Warner,0,Not out
+0.6,NV Ojha,P Kumar,DA Warner,1,Not out
+0.7,DA Warner,P Kumar,NV Ojha,0,Not out
+1.1,NV Ojha,RJ Harris,DA Warner,0,Not out
+1.2,NV Ojha,RJ Harris,DA Warner,0,Not out
+1.3,NV Ojha,RJ Harris,DA Warner,0,Not out
+1.4,NV Ojha,RJ Harris,DA Warner,4,Not out
+1.5,NV Ojha,RJ Harris,DA Warner,0,Not out
+1.6,NV Ojha,RJ Harris,DA Warner,0,Not out
+1.7,NV Ojha,RJ Harris,DA Warner,0,Not out
+2.1,DA Warner,P Kumar,NV Ojha,0,Not out
+2.2,DA Warner,P Kumar,NV Ojha,0,Not out
+2.3,DA Warner,P Kumar,NV Ojha,0,Not out
+2.4,DA Warner,P Kumar,NV Ojha,0,Not out
+2.5,DA Warner,P Kumar,NV Ojha,0,Not out
+2.6,DA Warner,P Kumar,NV Ojha,0,Not out
+3.1,NV Ojha,RJ Harris,DA Warner,0,Not out
+3.2,NV Ojha,RJ Harris,DA Warner,0,Not out
+3.3,NV Ojha,RJ Harris,DA Warner,0,Not out
+3.4,DA Warner,RJ Harris,NV Ojha,0,Not out
+3.5,NV Ojha,RJ Harris,DA Warner,1,Not out
+3.6,DA Warner,RJ Harris,NV Ojha,0,Not out
+4.1,NV Ojha,P Kumar,DA Warner,0,Not out
+4.2,NV Ojha,P Kumar,DA Warner,0,Not out
+4.3,NV Ojha,P Kumar,DA Warner,0,Not out
+4.4,NV Ojha,P Kumar,DA Warner,1,Not out
+4.5,DA Warner,P Kumar,NV Ojha,6,Not out
+4.6,DA Warner,P Kumar,NV Ojha,0,Not out
+5.1,NV Ojha,SJ Srivastava,DA Warner,0,Not out
+5.2,NV Ojha,SJ Srivastava,DA Warner,4,Not out
+5.3,NV Ojha,SJ Srivastava,DA Warner,6,Not out
+5.4,NV Ojha,SJ Srivastava,DA Warner,0,Not out
+5.5,NV Ojha,SJ Srivastava,DA Warner,6,Not out
+5.6,NV Ojha,SJ Srivastava,DA Warner,0,Not out
+5.7,NV Ojha,SJ Srivastava,DA Warner,0,Not out
+6.1,DA Warner,PP Chawla,NV Ojha,0,Not out
+6.2,DA Warner,PP Chawla,NV Ojha,0,Not out
+6.3,DA Warner,PP Chawla,NV Ojha,1,Not out
+6.4,NV Ojha,PP Chawla,DA Warner,1,Not out
+6.5,DA Warner,PP Chawla,NV Ojha,4,Not out
+6.6,DA Warner,PP Chawla,NV Ojha,1,Not out
+7.1,DA Warner,SJ Srivastava,NV Ojha,1,Not out
+7.2,NV Ojha,SJ Srivastava,DA Warner,1,Not out
+7.3,DA Warner,SJ Srivastava,NV Ojha,0,Not out
+7.4,DA Warner,SJ Srivastava,NV Ojha,1,Not out
+7.5,NV Ojha,SJ Srivastava,DA Warner,0,Not out
+7.6,NV Ojha,SJ Srivastava,DA Warner,0,caught
+8.1,DA Warner,PC Valthaty,Y Venugopal Rao,0,Not out
+8.2,DA Warner,PC Valthaty,Y Venugopal Rao,4,Not out
+8.3,DA Warner,PC Valthaty,Y Venugopal Rao,0,Not out
+8.4,DA Warner,PC Valthaty,Y Venugopal Rao,4,Not out
+8.5,DA Warner,PC Valthaty,Y Venugopal Rao,1,Not out
+8.6,Y Venugopal Rao,PC Valthaty,DA Warner,0,Not out
+9.1,DA Warner,SJ Srivastava,Y Venugopal Rao,1,Not out
+9.2,Y Venugopal Rao,SJ Srivastava,DA Warner,1,Not out
+9.3,DA Warner,SJ Srivastava,Y Venugopal Rao,0,Not out
+9.4,DA Warner,SJ Srivastava,Y Venugopal Rao,4,Not out
+9.5,DA Warner,SJ Srivastava,Y Venugopal Rao,0,caught
+9.6,Y Venugopal Rao,SJ Srivastava,S Sriram,0,Not out
+10.1,S Sriram,PC Valthaty,Y Venugopal Rao,1,Not out
+10.2,Y Venugopal Rao,PC Valthaty,S Sriram,1,Not out
+10.3,S Sriram,PC Valthaty,Y Venugopal Rao,0,Not out
+10.4,S Sriram,PC Valthaty,Y Venugopal Rao,0,Not out
+10.5,S Sriram,PC Valthaty,Y Venugopal Rao,2,Not out
+10.6,S Sriram,PC Valthaty,Y Venugopal Rao,1,Not out
+11.1,S Sriram,PP Chawla,Y Venugopal Rao,0,Not out
+11.2,S Sriram,PP Chawla,Y Venugopal Rao,0,caught
+11.3,Y Venugopal Rao,PP Chawla,IK Pathan,0,Not out
+11.4,Y Venugopal Rao,PP Chawla,IK Pathan,1,Not out
+11.5,IK Pathan,PP Chawla,Y Venugopal Rao,0,Not out
+11.6,IK Pathan,PP Chawla,Y Venugopal Rao,1,Not out
+12.1,IK Pathan,PC Valthaty,Y Venugopal Rao,1,Not out
+12.2,Y Venugopal Rao,PC Valthaty,IK Pathan,2,Not out
+12.3,Y Venugopal Rao,PC Valthaty,IK Pathan,4,Not out
+12.4,Y Venugopal Rao,PC Valthaty,IK Pathan,1,Not out
+12.5,IK Pathan,PC Valthaty,Y Venugopal Rao,0,Not out
+12.6,Y Venugopal Rao,PC Valthaty,IK Pathan,6,Not out
+13.1,IK Pathan,PP Chawla,Y Venugopal Rao,0,Not out
+13.2,IK Pathan,PP Chawla,Y Venugopal Rao,1,Not out
+13.3,Y Venugopal Rao,PP Chawla,IK Pathan,0,Not out
+13.4,Y Venugopal Rao,PP Chawla,IK Pathan,0,Not out
+13.5,Y Venugopal Rao,PP Chawla,IK Pathan,0,caught
+13.6,JR Hopes,PP Chawla,IK Pathan,1,Not out
+14.1,JR Hopes,PC Valthaty,IK Pathan,1,Not out
+14.2,IK Pathan,PC Valthaty,JR Hopes,0,caught
+14.3,JR Hopes,PC Valthaty,TR Birt,0,Not out
+14.4,JR Hopes,PC Valthaty,TR Birt,0,Not out
+14.5,JR Hopes,PC Valthaty,TR Birt,4,Not out
+14.6,JR Hopes,PC Valthaty,TR Birt,1,Not out
+15.1,JR Hopes,PP Chawla,TR Birt,0,caught
+15.2,Y Nagar,PP Chawla,TR Birt,1,Not out
+15.3,TR Birt,PP Chawla,Y Nagar,0,Not out
+15.4,TR Birt,PP Chawla,Y Nagar,4,Not out
+15.5,TR Birt,PP Chawla,Y Nagar,0,Not out
+15.6,TR Birt,PP Chawla,Y Nagar,0,Not out
+16.1,Y Nagar,RJ Harris,TR Birt,1,Not out
+16.2,TR Birt,RJ Harris,Y Nagar,4,Not out
+16.3,TR Birt,RJ Harris,Y Nagar,2,Not out
+16.4,TR Birt,RJ Harris,Y Nagar,0,Not out
+16.5,Y Nagar,RJ Harris,TR Birt,0,Not out
+16.6,Y Nagar,RJ Harris,TR Birt,0,Not out
+17.1,TR Birt,P Kumar,Y Nagar,0,Not out
+17.2,TR Birt,P Kumar,Y Nagar,0,Not out
+17.3,TR Birt,P Kumar,Y Nagar,6,Not out
+17.4,TR Birt,P Kumar,Y Nagar,0,caught
+17.5,Y Nagar,P Kumar,M Morkel,4,Not out
+17.6,Y Nagar,P Kumar,M Morkel,0,Not out
+17.7,Y Nagar,P Kumar,M Morkel,4,Not out
+18.1,M Morkel,RJ Harris,Y Nagar,2,Not out
+18.2,M Morkel,RJ Harris,Y Nagar,1,Not out
+18.3,Y Nagar,RJ Harris,M Morkel,0,lbw
+18.4,VR Aaron,RJ Harris,M Morkel,0,Not out
+18.5,VR Aaron,RJ Harris,M Morkel,0,Not out
+18.6,VR Aaron,RJ Harris,M Morkel,0,Not out
+19.1,M Morkel,SJ Srivastava,VR Aaron,2,Not out
+19.2,M Morkel,SJ Srivastava,VR Aaron,6,Not out
+19.3,M Morkel,SJ Srivastava,VR Aaron,4,Not out
+19.4,M Morkel,SJ Srivastava,VR Aaron,1,Not out
+19.5,VR Aaron,SJ Srivastava,M Morkel,0,Not out
+19.6,VR Aaron,SJ Srivastava,M Morkel,0,Not out

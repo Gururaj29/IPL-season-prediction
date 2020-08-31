@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AC Gilchrist,B Lee,HH Gibbs,0,Not out
+0.2,AC Gilchrist,B Lee,HH Gibbs,1,Not out
+0.3,HH Gibbs,B Lee,AC Gilchrist,0,Not out
+0.4,HH Gibbs,B Lee,AC Gilchrist,4,Not out
+0.5,HH Gibbs,B Lee,AC Gilchrist,0,Not out
+0.6,HH Gibbs,B Lee,AC Gilchrist,0,Not out
+1.1,AC Gilchrist,IK Pathan,HH Gibbs,0,Not out
+1.2,AC Gilchrist,IK Pathan,HH Gibbs,4,Not out
+1.3,AC Gilchrist,IK Pathan,HH Gibbs,6,Not out
+1.4,AC Gilchrist,IK Pathan,HH Gibbs,0,Not out
+1.5,AC Gilchrist,IK Pathan,HH Gibbs,4,Not out
+1.6,AC Gilchrist,IK Pathan,HH Gibbs,4,Not out
+2.1,HH Gibbs,B Lee,AC Gilchrist,0,Not out
+2.2,HH Gibbs,B Lee,AC Gilchrist,2,Not out
+2.3,HH Gibbs,B Lee,AC Gilchrist,1,Not out
+2.4,AC Gilchrist,B Lee,HH Gibbs,0,Not out
+2.5,AC Gilchrist,B Lee,HH Gibbs,4,Not out
+2.6,AC Gilchrist,B Lee,HH Gibbs,0,Not out
+3.1,HH Gibbs,S Sreesanth,AC Gilchrist,0,Not out
+3.2,HH Gibbs,S Sreesanth,AC Gilchrist,0,Not out
+3.3,HH Gibbs,S Sreesanth,AC Gilchrist,4,Not out
+3.4,HH Gibbs,S Sreesanth,AC Gilchrist,0,Not out
+3.5,HH Gibbs,S Sreesanth,AC Gilchrist,0,Not out
+3.6,HH Gibbs,S Sreesanth,AC Gilchrist,0,Not out
+4.1,AC Gilchrist,RR Powar,HH Gibbs,0,Not out
+4.2,AC Gilchrist,RR Powar,HH Gibbs,0,stumped
+4.3,TL Suman,RR Powar,HH Gibbs,0,bowled
+4.4,A Symonds,RR Powar,HH Gibbs,4,Not out
+4.5,A Symonds,RR Powar,HH Gibbs,2,Not out
+4.6,A Symonds,RR Powar,HH Gibbs,0,Not out
+5.1,HH Gibbs,S Sreesanth,A Symonds,0,Not out
+5.2,HH Gibbs,S Sreesanth,A Symonds,0,Not out
+5.3,HH Gibbs,S Sreesanth,A Symonds,0,Not out
+5.4,HH Gibbs,S Sreesanth,A Symonds,1,Not out
+5.5,A Symonds,S Sreesanth,HH Gibbs,1,Not out
+5.6,HH Gibbs,S Sreesanth,A Symonds,4,Not out
+6.1,A Symonds,PP Chawla,HH Gibbs,1,Not out
+6.2,HH Gibbs,PP Chawla,A Symonds,2,Not out
+6.3,HH Gibbs,PP Chawla,A Symonds,0,Not out
+6.4,HH Gibbs,PP Chawla,A Symonds,0,Not out
+6.5,HH Gibbs,PP Chawla,A Symonds,0,Not out
+6.6,HH Gibbs,PP Chawla,A Symonds,0,Not out
+7.1,A Symonds,RR Powar,HH Gibbs,0,Not out
+7.2,A Symonds,RR Powar,HH Gibbs,0,Not out
+7.3,A Symonds,RR Powar,HH Gibbs,0,Not out
+7.4,A Symonds,RR Powar,HH Gibbs,2,Not out
+7.5,A Symonds,RR Powar,HH Gibbs,1,Not out
+7.6,HH Gibbs,RR Powar,A Symonds,1,Not out
+7.7,A Symonds,RR Powar,HH Gibbs,0,Not out
+8.1,HH Gibbs,PP Chawla,A Symonds,1,Not out
+8.2,A Symonds,PP Chawla,HH Gibbs,1,Not out
+8.3,HH Gibbs,PP Chawla,A Symonds,1,Not out
+8.4,A Symonds,PP Chawla,HH Gibbs,0,Not out
+8.5,A Symonds,PP Chawla,HH Gibbs,2,Not out
+8.6,A Symonds,PP Chawla,HH Gibbs,2,Not out
+9.1,HH Gibbs,Yuvraj Singh,A Symonds,0,Not out
+9.2,HH Gibbs,Yuvraj Singh,A Symonds,2,Not out
+9.3,HH Gibbs,Yuvraj Singh,A Symonds,0,Not out
+9.4,HH Gibbs,Yuvraj Singh,A Symonds,0,Not out
+9.5,HH Gibbs,Yuvraj Singh,A Symonds,0,Not out
+9.6,HH Gibbs,Yuvraj Singh,A Symonds,2,Not out
+10.1,A Symonds,PP Chawla,HH Gibbs,2,Not out
+10.2,A Symonds,PP Chawla,HH Gibbs,1,Not out
+10.3,HH Gibbs,PP Chawla,A Symonds,0,Not out
+10.4,HH Gibbs,PP Chawla,A Symonds,0,Not out
+10.5,HH Gibbs,PP Chawla,A Symonds,1,Not out
+10.6,A Symonds,PP Chawla,HH Gibbs,1,Not out
+11.1,A Symonds,Yuvraj Singh,HH Gibbs,0,Not out
+11.2,A Symonds,Yuvraj Singh,HH Gibbs,2,Not out
+11.3,A Symonds,Yuvraj Singh,HH Gibbs,0,Not out
+11.4,A Symonds,Yuvraj Singh,HH Gibbs,1,Not out
+11.5,HH Gibbs,Yuvraj Singh,A Symonds,0,Not out
+11.6,HH Gibbs,Yuvraj Singh,A Symonds,0,caught
+12.1,A Symonds,B Lee,RG Sharma,1,Not out
+12.2,RG Sharma,B Lee,A Symonds,0,Not out
+12.3,RG Sharma,B Lee,A Symonds,2,Not out
+12.4,RG Sharma,B Lee,A Symonds,0,Not out
+12.5,RG Sharma,B Lee,A Symonds,1,Not out
+12.6,A Symonds,B Lee,RG Sharma,0,Not out
+12.7,A Symonds,B Lee,RG Sharma,1,Not out
+13.1,A Symonds,Yuvraj Singh,RG Sharma,0,stumped
+13.2,Y Venugopal Rao,Yuvraj Singh,RG Sharma,0,bowled
+13.3,DB Ravi Teja,Yuvraj Singh,RG Sharma,2,Not out
+13.4,DB Ravi Teja,Yuvraj Singh,RG Sharma,0,Not out
+13.5,DB Ravi Teja,Yuvraj Singh,RG Sharma,0,Not out
+13.6,DB Ravi Teja,Yuvraj Singh,RG Sharma,0,Not out
+14.1,RG Sharma,PP Chawla,DB Ravi Teja,0,Not out
+14.2,RG Sharma,PP Chawla,DB Ravi Teja,0,Not out
+14.3,RG Sharma,PP Chawla,DB Ravi Teja,1,Not out
+14.4,DB Ravi Teja,PP Chawla,RG Sharma,4,Not out
+14.5,DB Ravi Teja,PP Chawla,RG Sharma,0,Not out
+14.6,DB Ravi Teja,PP Chawla,RG Sharma,0,Not out
+15.1,RG Sharma,Yuvraj Singh,DB Ravi Teja,0,Not out
+15.2,RG Sharma,Yuvraj Singh,DB Ravi Teja,1,Not out
+15.3,DB Ravi Teja,Yuvraj Singh,RG Sharma,1,Not out
+15.4,RG Sharma,Yuvraj Singh,DB Ravi Teja,1,Not out
+15.5,DB Ravi Teja,Yuvraj Singh,RG Sharma,1,Not out
+15.6,RG Sharma,Yuvraj Singh,DB Ravi Teja,0,Not out
+16.1,DB Ravi Teja,IK Pathan,RG Sharma,0,Not out
+16.2,DB Ravi Teja,IK Pathan,RG Sharma,0,Not out
+16.3,DB Ravi Teja,IK Pathan,RG Sharma,1,Not out
+16.4,RG Sharma,IK Pathan,DB Ravi Teja,0,Not out
+16.5,RG Sharma,IK Pathan,DB Ravi Teja,0,Not out
+16.6,RG Sharma,IK Pathan,DB Ravi Teja,1,Not out
+17.1,RG Sharma,WA Mota,DB Ravi Teja,1,Not out
+17.2,DB Ravi Teja,WA Mota,RG Sharma,1,Not out
+17.3,RG Sharma,WA Mota,DB Ravi Teja,6,Not out
+17.4,RG Sharma,WA Mota,DB Ravi Teja,6,Not out
+17.5,RG Sharma,WA Mota,DB Ravi Teja,0,Not out
+17.6,RG Sharma,WA Mota,DB Ravi Teja,4,Not out
+18.1,DB Ravi Teja,B Lee,RG Sharma,0,Not out
+18.2,DB Ravi Teja,B Lee,RG Sharma,0,run out
+18.3,RG Sharma,B Lee,RJ Harris,1,Not out
+18.4,RJ Harris,B Lee,RG Sharma,0,Not out
+18.5,RG Sharma,B Lee,RJ Harris,6,Not out
+18.6,RG Sharma,B Lee,RJ Harris,4,Not out
+18.7,RG Sharma,B Lee,RJ Harris,1,Not out
+19.1,RG Sharma,IK Pathan,RJ Harris,2,Not out
+19.2,RG Sharma,IK Pathan,RJ Harris,4,Not out
+19.3,RG Sharma,IK Pathan,RJ Harris,0,Not out
+19.4,RG Sharma,IK Pathan,RJ Harris,0,bowled
+19.5,RP Singh,IK Pathan,RJ Harris,0,Not out
+19.6,RP Singh,IK Pathan,RJ Harris,0,caught and bowled
+19.7,RJ Harris,IK Pathan,Jaskaran Singh,2,Not out

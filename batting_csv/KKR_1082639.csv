@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,SP Narine,Sandeep Sharma,CA Lynn,4,Not out
+0.2,SP Narine,Sandeep Sharma,CA Lynn,4,Not out
+0.3,SP Narine,Sandeep Sharma,CA Lynn,0,Not out
+0.4,SP Narine,Sandeep Sharma,CA Lynn,1,Not out
+0.5,CA Lynn,Sandeep Sharma,SP Narine,4,Not out
+0.6,CA Lynn,Sandeep Sharma,SP Narine,1,Not out
+1.1,CA Lynn,MJ Henry,SP Narine,4,Not out
+1.2,CA Lynn,MJ Henry,SP Narine,2,Not out
+1.3,CA Lynn,MJ Henry,SP Narine,0,Not out
+1.4,CA Lynn,MJ Henry,SP Narine,4,Not out
+1.5,CA Lynn,MJ Henry,SP Narine,1,Not out
+1.6,SP Narine,MJ Henry,CA Lynn,0,Not out
+2.1,CA Lynn,Sandeep Sharma,SP Narine,0,Not out
+2.2,CA Lynn,Sandeep Sharma,SP Narine,4,Not out
+2.3,CA Lynn,Sandeep Sharma,SP Narine,0,Not out
+2.4,CA Lynn,Sandeep Sharma,SP Narine,0,Not out
+2.5,CA Lynn,Sandeep Sharma,SP Narine,1,Not out
+2.6,SP Narine,Sandeep Sharma,CA Lynn,1,Not out
+3.1,SP Narine,MM Sharma,CA Lynn,0,Not out
+3.2,SP Narine,MM Sharma,CA Lynn,4,Not out
+3.3,SP Narine,MM Sharma,CA Lynn,4,Not out
+3.4,SP Narine,MM Sharma,CA Lynn,0,bowled
+3.5,G Gambhir,MM Sharma,CA Lynn,0,Not out
+3.6,G Gambhir,MM Sharma,CA Lynn,0,Not out
+4.1,CA Lynn,AR Patel,G Gambhir,4,Not out
+4.2,CA Lynn,AR Patel,G Gambhir,4,Not out
+4.3,CA Lynn,AR Patel,G Gambhir,1,Not out
+4.4,G Gambhir,AR Patel,CA Lynn,0,Not out
+4.5,G Gambhir,AR Patel,CA Lynn,0,Not out
+4.6,G Gambhir,AR Patel,CA Lynn,1,Not out
+5.1,G Gambhir,MJ Henry,CA Lynn,1,Not out
+5.2,CA Lynn,MJ Henry,G Gambhir,0,Not out
+5.3,CA Lynn,MJ Henry,G Gambhir,4,Not out
+5.4,CA Lynn,MJ Henry,G Gambhir,6,Not out
+5.5,CA Lynn,MJ Henry,G Gambhir,1,Not out
+5.6,G Gambhir,MJ Henry,CA Lynn,0,Not out
+6.1,CA Lynn,AR Patel,G Gambhir,1,Not out
+6.2,G Gambhir,AR Patel,CA Lynn,0,Not out
+6.3,G Gambhir,AR Patel,CA Lynn,1,Not out
+6.4,CA Lynn,AR Patel,G Gambhir,0,Not out
+6.5,CA Lynn,AR Patel,G Gambhir,1,Not out
+6.6,G Gambhir,AR Patel,CA Lynn,0,Not out
+7.1,CA Lynn,R Tewatia,G Gambhir,0,Not out
+7.2,CA Lynn,R Tewatia,G Gambhir,1,Not out
+7.3,G Gambhir,R Tewatia,CA Lynn,0,Not out
+7.4,G Gambhir,R Tewatia,CA Lynn,0,Not out
+7.5,CA Lynn,R Tewatia,G Gambhir,1,Not out
+7.6,G Gambhir,R Tewatia,CA Lynn,1,Not out
+8.1,G Gambhir,Swapnil Singh,CA Lynn,1,Not out
+8.2,CA Lynn,Swapnil Singh,G Gambhir,1,Not out
+8.3,G Gambhir,Swapnil Singh,CA Lynn,1,Not out
+8.4,CA Lynn,Swapnil Singh,G Gambhir,2,Not out
+8.5,CA Lynn,Swapnil Singh,G Gambhir,0,Not out
+8.6,CA Lynn,Swapnil Singh,G Gambhir,1,Not out
+8.7,G Gambhir,Swapnil Singh,CA Lynn,1,Not out
+9.1,G Gambhir,R Tewatia,CA Lynn,1,Not out
+9.2,CA Lynn,R Tewatia,G Gambhir,1,Not out
+9.3,G Gambhir,R Tewatia,CA Lynn,0,caught
+9.4,CA Lynn,R Tewatia,RV Uthappa,1,Not out
+9.5,RV Uthappa,R Tewatia,CA Lynn,0,caught
+9.6,CA Lynn,R Tewatia,MK Pandey,0,Not out
+10.1,MK Pandey,AR Patel,CA Lynn,0,Not out
+10.2,MK Pandey,AR Patel,CA Lynn,0,Not out
+10.3,MK Pandey,AR Patel,CA Lynn,0,Not out
+10.4,MK Pandey,AR Patel,CA Lynn,1,Not out
+10.5,CA Lynn,AR Patel,MK Pandey,1,Not out
+10.6,MK Pandey,AR Patel,CA Lynn,1,Not out
+11.1,MK Pandey,R Tewatia,CA Lynn,0,Not out
+11.2,MK Pandey,R Tewatia,CA Lynn,1,Not out
+11.3,CA Lynn,R Tewatia,MK Pandey,1,Not out
+11.4,MK Pandey,R Tewatia,CA Lynn,0,Not out
+11.5,MK Pandey,R Tewatia,CA Lynn,1,Not out
+11.6,CA Lynn,R Tewatia,MK Pandey,0,Not out
+12.1,CA Lynn,Swapnil Singh,MK Pandey,2,Not out
+12.2,CA Lynn,Swapnil Singh,MK Pandey,2,Not out
+12.3,CA Lynn,Swapnil Singh,MK Pandey,0,Not out
+12.4,CA Lynn,Swapnil Singh,MK Pandey,6,Not out
+12.5,CA Lynn,Swapnil Singh,MK Pandey,1,Not out
+12.6,MK Pandey,Swapnil Singh,CA Lynn,0,Not out
+13.1,CA Lynn,R Tewatia,MK Pandey,0,Not out
+13.2,CA Lynn,R Tewatia,MK Pandey,1,Not out
+13.3,MK Pandey,R Tewatia,CA Lynn,1,Not out
+13.4,CA Lynn,R Tewatia,MK Pandey,0,Not out
+13.5,CA Lynn,R Tewatia,MK Pandey,1,Not out
+13.6,MK Pandey,R Tewatia,CA Lynn,4,Not out
+13.7,MK Pandey,R Tewatia,CA Lynn,1,Not out
+14.1,MK Pandey,AR Patel,CA Lynn,1,Not out
+14.2,CA Lynn,AR Patel,MK Pandey,6,Not out
+14.3,CA Lynn,AR Patel,MK Pandey,2,Not out
+14.4,CA Lynn,AR Patel,MK Pandey,0,Not out
+14.5,CA Lynn,AR Patel,MK Pandey,1,Not out
+14.6,MK Pandey,AR Patel,CA Lynn,2,Not out
+15.1,CA Lynn,Sandeep Sharma,MK Pandey,1,Not out
+15.2,MK Pandey,Sandeep Sharma,CA Lynn,1,Not out
+15.3,CA Lynn,Sandeep Sharma,MK Pandey,1,Not out
+15.4,MK Pandey,Sandeep Sharma,CA Lynn,1,Not out
+15.5,CA Lynn,Sandeep Sharma,MK Pandey,1,Not out
+15.6,MK Pandey,Sandeep Sharma,CA Lynn,1,Not out
+16.1,MK Pandey,MM Sharma,CA Lynn,1,Not out
+16.2,CA Lynn,MM Sharma,MK Pandey,1,Not out
+16.3,MK Pandey,MM Sharma,CA Lynn,0,Not out
+16.4,MK Pandey,MM Sharma,CA Lynn,0,Not out
+16.5,MK Pandey,MM Sharma,CA Lynn,1,Not out
+16.6,CA Lynn,MM Sharma,MK Pandey,4,Not out
+17.1,MK Pandey,MJ Henry,CA Lynn,0,caught
+17.2,CA Lynn,MJ Henry,C de Grandhomme,1,run out
+17.3,YK Pathan,MJ Henry,C de Grandhomme,1,Not out
+17.4,C de Grandhomme,MJ Henry,YK Pathan,1,Not out
+17.5,YK Pathan,MJ Henry,C de Grandhomme,1,Not out
+17.6,C de Grandhomme,MJ Henry,YK Pathan,4,Not out
+18.1,YK Pathan,MM Sharma,C de Grandhomme,0,caught
+18.2,C de Grandhomme,MM Sharma,CR Woakes,1,Not out
+18.3,CR Woakes,MM Sharma,C de Grandhomme,0,Not out
+18.4,CR Woakes,MM Sharma,C de Grandhomme,6,Not out
+18.5,CR Woakes,MM Sharma,C de Grandhomme,1,Not out
+18.6,C de Grandhomme,MM Sharma,CR Woakes,1,Not out
+19.1,C de Grandhomme,Sandeep Sharma,CR Woakes,1,Not out
+19.2,CR Woakes,Sandeep Sharma,C de Grandhomme,1,Not out
+19.3,C de Grandhomme,Sandeep Sharma,CR Woakes,2,Not out
+19.4,C de Grandhomme,Sandeep Sharma,CR Woakes,1,Not out
+19.5,CR Woakes,Sandeep Sharma,C de Grandhomme,0,Not out
+19.6,CR Woakes,Sandeep Sharma,C de Grandhomme,0,Not out

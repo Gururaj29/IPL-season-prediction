@@ -1,0 +1,124 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,CH Gayle,DW Steyn,PA Patel,0,Not out
+0.2,CH Gayle,DW Steyn,PA Patel,1,Not out
+0.3,PA Patel,DW Steyn,CH Gayle,0,Not out
+0.4,PA Patel,DW Steyn,CH Gayle,2,Not out
+0.5,PA Patel,DW Steyn,CH Gayle,0,Not out
+0.6,PA Patel,DW Steyn,CH Gayle,1,Not out
+0.7,CH Gayle,DW Steyn,PA Patel,0,Not out
+1.1,PA Patel,B Kumar,CH Gayle,0,bowled
+1.2,V Kohli,B Kumar,CH Gayle,0,Not out
+1.3,V Kohli,B Kumar,CH Gayle,0,Not out
+1.4,V Kohli,B Kumar,CH Gayle,0,Not out
+1.5,V Kohli,B Kumar,CH Gayle,0,Not out
+1.6,V Kohli,B Kumar,CH Gayle,0,Not out
+1.7,V Kohli,B Kumar,CH Gayle,0,caught
+2.1,CH Gayle,DW Steyn,RR Rossouw,0,Not out
+2.2,CH Gayle,DW Steyn,RR Rossouw,0,Not out
+2.3,CH Gayle,DW Steyn,RR Rossouw,4,Not out
+2.4,CH Gayle,DW Steyn,RR Rossouw,0,Not out
+2.5,CH Gayle,DW Steyn,RR Rossouw,0,Not out
+2.6,CH Gayle,DW Steyn,RR Rossouw,4,Not out
+3.1,RR Rossouw,B Kumar,CH Gayle,0,Not out
+3.2,RR Rossouw,B Kumar,CH Gayle,1,Not out
+3.3,CH Gayle,B Kumar,RR Rossouw,0,Not out
+3.4,CH Gayle,B Kumar,RR Rossouw,1,Not out
+3.5,RR Rossouw,B Kumar,CH Gayle,0,Not out
+3.6,RR Rossouw,B Kumar,CH Gayle,0,Not out
+4.1,CH Gayle,I Sharma,RR Rossouw,0,Not out
+4.2,CH Gayle,I Sharma,RR Rossouw,0,Not out
+4.3,CH Gayle,I Sharma,RR Rossouw,0,Not out
+4.4,CH Gayle,I Sharma,RR Rossouw,4,Not out
+4.5,CH Gayle,I Sharma,RR Rossouw,6,Not out
+4.6,CH Gayle,I Sharma,RR Rossouw,6,Not out
+5.1,RR Rossouw,B Kumar,CH Gayle,0,Not out
+5.2,RR Rossouw,B Kumar,CH Gayle,4,Not out
+5.3,RR Rossouw,B Kumar,CH Gayle,0,Not out
+5.4,RR Rossouw,B Kumar,CH Gayle,0,Not out
+5.5,RR Rossouw,B Kumar,CH Gayle,0,Not out
+5.6,RR Rossouw,B Kumar,CH Gayle,0,Not out
+6.1,CH Gayle,KV Sharma,RR Rossouw,0,Not out
+6.2,CH Gayle,KV Sharma,RR Rossouw,1,Not out
+6.3,RR Rossouw,KV Sharma,CH Gayle,1,Not out
+6.4,CH Gayle,KV Sharma,RR Rossouw,0,caught
+6.5,AB de Villiers,KV Sharma,RR Rossouw,0,Not out
+6.6,AB de Villiers,KV Sharma,RR Rossouw,0,Not out
+7.1,RR Rossouw,I Sharma,AB de Villiers,1,Not out
+7.2,AB de Villiers,I Sharma,RR Rossouw,1,Not out
+7.3,RR Rossouw,I Sharma,AB de Villiers,0,Not out
+7.4,RR Rossouw,I Sharma,AB de Villiers,1,Not out
+7.5,AB de Villiers,I Sharma,RR Rossouw,0,Not out
+7.6,AB de Villiers,I Sharma,RR Rossouw,1,Not out
+7.7,RR Rossouw,I Sharma,AB de Villiers,2,Not out
+8.1,AB de Villiers,KV Sharma,RR Rossouw,1,Not out
+8.2,RR Rossouw,KV Sharma,AB de Villiers,2,Not out
+8.3,RR Rossouw,KV Sharma,AB de Villiers,1,Not out
+8.4,AB de Villiers,KV Sharma,RR Rossouw,1,Not out
+8.5,RR Rossouw,KV Sharma,AB de Villiers,0,Not out
+8.6,RR Rossouw,KV Sharma,AB de Villiers,0,Not out
+9.1,AB de Villiers,IK Pathan,RR Rossouw,1,Not out
+9.2,RR Rossouw,IK Pathan,AB de Villiers,0,Not out
+9.3,RR Rossouw,IK Pathan,AB de Villiers,0,Not out
+9.4,RR Rossouw,IK Pathan,AB de Villiers,1,Not out
+9.5,AB de Villiers,IK Pathan,RR Rossouw,0,Not out
+9.6,AB de Villiers,IK Pathan,RR Rossouw,0,Not out
+9.7,AB de Villiers,IK Pathan,RR Rossouw,6,Not out
+10.1,RR Rossouw,KV Sharma,AB de Villiers,0,lbw
+10.2,Yuvraj Singh,KV Sharma,AB de Villiers,0,Not out
+10.3,Yuvraj Singh,KV Sharma,AB de Villiers,1,Not out
+10.4,AB de Villiers,KV Sharma,Yuvraj Singh,0,Not out
+10.5,AB de Villiers,KV Sharma,Yuvraj Singh,1,Not out
+10.6,Yuvraj Singh,KV Sharma,AB de Villiers,0,Not out
+11.1,AB de Villiers,I Sharma,Yuvraj Singh,1,Not out
+11.2,Yuvraj Singh,I Sharma,AB de Villiers,0,Not out
+11.3,Yuvraj Singh,I Sharma,AB de Villiers,4,Not out
+11.4,Yuvraj Singh,I Sharma,AB de Villiers,0,Not out
+11.5,Yuvraj Singh,I Sharma,AB de Villiers,1,Not out
+11.6,AB de Villiers,I Sharma,Yuvraj Singh,6,Not out
+12.1,Yuvraj Singh,DJG Sammy,AB de Villiers,0,Not out
+12.2,Yuvraj Singh,DJG Sammy,AB de Villiers,0,Not out
+12.3,Yuvraj Singh,DJG Sammy,AB de Villiers,1,Not out
+12.4,AB de Villiers,DJG Sammy,Yuvraj Singh,4,Not out
+12.5,AB de Villiers,DJG Sammy,Yuvraj Singh,1,Not out
+12.6,Yuvraj Singh,DJG Sammy,AB de Villiers,0,Not out
+13.1,AB de Villiers,IK Pathan,Yuvraj Singh,6,Not out
+13.2,AB de Villiers,IK Pathan,Yuvraj Singh,0,Not out
+13.3,AB de Villiers,IK Pathan,Yuvraj Singh,2,Not out
+13.4,AB de Villiers,IK Pathan,Yuvraj Singh,1,Not out
+13.5,Yuvraj Singh,IK Pathan,AB de Villiers,0,Not out
+13.6,Yuvraj Singh,IK Pathan,AB de Villiers,1,Not out
+14.1,Yuvraj Singh,KV Sharma,AB de Villiers,6,Not out
+14.2,Yuvraj Singh,KV Sharma,AB de Villiers,0,Not out
+14.3,Yuvraj Singh,KV Sharma,AB de Villiers,0,caught
+14.4,MA Starc,KV Sharma,AB de Villiers,0,Not out
+14.5,MA Starc,KV Sharma,AB de Villiers,0,Not out
+14.6,MA Starc,KV Sharma,AB de Villiers,2,Not out
+15.1,AB de Villiers,DJG Sammy,MA Starc,6,Not out
+15.2,AB de Villiers,DJG Sammy,MA Starc,1,Not out
+15.3,MA Starc,DJG Sammy,AB de Villiers,1,Not out
+15.4,AB de Villiers,DJG Sammy,MA Starc,4,Not out
+15.5,AB de Villiers,DJG Sammy,MA Starc,6,Not out
+15.6,AB de Villiers,DJG Sammy,MA Starc,1,Not out
+16.1,AB de Villiers,DW Steyn,MA Starc,1,Not out
+16.2,MA Starc,DW Steyn,AB de Villiers,1,Not out
+16.3,AB de Villiers,DW Steyn,MA Starc,0,Not out
+16.4,AB de Villiers,DW Steyn,MA Starc,0,Not out
+16.5,AB de Villiers,DW Steyn,MA Starc,1,Not out
+16.6,MA Starc,DW Steyn,AB de Villiers,0,Not out
+17.1,AB de Villiers,B Kumar,MA Starc,4,Not out
+17.2,AB de Villiers,B Kumar,MA Starc,0,Not out
+17.3,AB de Villiers,B Kumar,MA Starc,0,Not out
+17.4,AB de Villiers,B Kumar,MA Starc,0,Not out
+17.5,AB de Villiers,B Kumar,MA Starc,4,Not out
+17.6,AB de Villiers,B Kumar,MA Starc,1,Not out
+18.1,AB de Villiers,DW Steyn,MA Starc,6,Not out
+18.2,AB de Villiers,DW Steyn,MA Starc,6,Not out
+18.3,AB de Villiers,DW Steyn,MA Starc,0,Not out
+18.4,MA Starc,DW Steyn,AB de Villiers,1,Not out
+18.5,AB de Villiers,DW Steyn,MA Starc,4,Not out
+18.6,AB de Villiers,DW Steyn,MA Starc,6,Not out
+19.1,MA Starc,IK Pathan,AB de Villiers,0,run out
+19.2,AB de Villiers,IK Pathan,HV Patel,1,Not out
+19.3,HV Patel,IK Pathan,AB de Villiers,0,Not out
+19.4,HV Patel,IK Pathan,AB de Villiers,1,Not out
+19.5,AB de Villiers,IK Pathan,HV Patel,4,Not out

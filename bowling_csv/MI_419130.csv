@@ -1,0 +1,111 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AC Gilchrist,Harbhajan Singh,MD Mishra,0,Not out
+0.2,AC Gilchrist,Harbhajan Singh,MD Mishra,0,caught
+0.3,HH Gibbs,Harbhajan Singh,MD Mishra,4,Not out
+0.4,HH Gibbs,Harbhajan Singh,MD Mishra,0,Not out
+0.5,HH Gibbs,Harbhajan Singh,MD Mishra,0,Not out
+0.6,HH Gibbs,Harbhajan Singh,MD Mishra,4,Not out
+1.1,MD Mishra,R McLaren,HH Gibbs,0,Not out
+1.2,MD Mishra,R McLaren,HH Gibbs,1,Not out
+1.3,HH Gibbs,R McLaren,MD Mishra,0,Not out
+1.4,HH Gibbs,R McLaren,MD Mishra,1,Not out
+1.5,MD Mishra,R McLaren,HH Gibbs,0,Not out
+1.6,MD Mishra,R McLaren,HH Gibbs,4,Not out
+2.1,HH Gibbs,Z Khan,MD Mishra,1,Not out
+2.2,MD Mishra,Z Khan,HH Gibbs,0,Not out
+2.3,MD Mishra,Z Khan,HH Gibbs,1,Not out
+2.4,HH Gibbs,Z Khan,MD Mishra,0,Not out
+2.5,HH Gibbs,Z Khan,MD Mishra,4,Not out
+2.6,HH Gibbs,Z Khan,MD Mishra,0,Not out
+3.1,MD Mishra,R McLaren,HH Gibbs,6,Not out
+3.2,MD Mishra,R McLaren,HH Gibbs,0,Not out
+3.3,MD Mishra,R McLaren,HH Gibbs,1,Not out
+3.4,HH Gibbs,R McLaren,MD Mishra,1,Not out
+3.5,MD Mishra,R McLaren,HH Gibbs,0,Not out
+3.6,MD Mishra,R McLaren,HH Gibbs,0,Not out
+3.7,MD Mishra,R McLaren,HH Gibbs,0,Not out
+4.1,HH Gibbs,Z Khan,MD Mishra,0,Not out
+4.2,HH Gibbs,Z Khan,MD Mishra,6,Not out
+4.3,HH Gibbs,Z Khan,MD Mishra,6,Not out
+4.4,HH Gibbs,Z Khan,MD Mishra,0,Not out
+4.5,HH Gibbs,Z Khan,MD Mishra,0,caught
+4.6,A Symonds,Z Khan,MD Mishra,1,Not out
+5.1,A Symonds,SL Malinga,MD Mishra,0,Not out
+5.2,MD Mishra,SL Malinga,A Symonds,0,caught
+5.3,A Symonds,SL Malinga,RG Sharma,0,Not out
+5.4,A Symonds,SL Malinga,RG Sharma,0,Not out
+5.5,A Symonds,SL Malinga,RG Sharma,0,Not out
+5.6,A Symonds,SL Malinga,RG Sharma,0,Not out
+5.7,A Symonds,SL Malinga,RG Sharma,0,caught
+6.1,RG Sharma,DJ Bravo,TL Suman,0,Not out
+6.2,RG Sharma,DJ Bravo,TL Suman,6,Not out
+6.3,RG Sharma,DJ Bravo,TL Suman,0,Not out
+6.4,RG Sharma,DJ Bravo,TL Suman,1,Not out
+6.5,TL Suman,DJ Bravo,RG Sharma,0,Not out
+6.6,TL Suman,DJ Bravo,RG Sharma,0,Not out
+7.1,RG Sharma,SL Malinga,TL Suman,1,Not out
+7.2,TL Suman,SL Malinga,RG Sharma,2,Not out
+7.3,TL Suman,SL Malinga,RG Sharma,0,Not out
+7.4,TL Suman,SL Malinga,RG Sharma,0,Not out
+7.5,TL Suman,SL Malinga,RG Sharma,0,Not out
+7.6,TL Suman,SL Malinga,RG Sharma,1,Not out
+8.1,TL Suman,Harbhajan Singh,RG Sharma,1,Not out
+8.2,RG Sharma,Harbhajan Singh,TL Suman,0,Not out
+8.3,RG Sharma,Harbhajan Singh,TL Suman,1,Not out
+8.4,TL Suman,Harbhajan Singh,RG Sharma,1,Not out
+8.5,RG Sharma,Harbhajan Singh,TL Suman,1,Not out
+8.6,TL Suman,Harbhajan Singh,RG Sharma,1,Not out
+8.7,RG Sharma,Harbhajan Singh,TL Suman,0,Not out
+8.8,RG Sharma,Harbhajan Singh,TL Suman,1,Not out
+9.1,RG Sharma,DJ Bravo,TL Suman,1,Not out
+9.2,TL Suman,DJ Bravo,RG Sharma,0,Not out
+9.3,TL Suman,DJ Bravo,RG Sharma,0,Not out
+9.4,TL Suman,DJ Bravo,RG Sharma,0,Not out
+9.5,TL Suman,DJ Bravo,RG Sharma,2,Not out
+9.6,TL Suman,DJ Bravo,RG Sharma,6,Not out
+10.1,RG Sharma,Harbhajan Singh,TL Suman,1,Not out
+10.2,TL Suman,Harbhajan Singh,RG Sharma,1,Not out
+10.3,RG Sharma,Harbhajan Singh,TL Suman,1,Not out
+10.4,TL Suman,Harbhajan Singh,RG Sharma,0,caught and bowled
+10.5,Y Venugopal Rao,Harbhajan Singh,RG Sharma,4,Not out
+10.6,Y Venugopal Rao,Harbhajan Singh,RG Sharma,0,Not out
+11.1,RG Sharma,KA Pollard,Y Venugopal Rao,0,Not out
+11.2,RG Sharma,KA Pollard,Y Venugopal Rao,2,Not out
+11.3,RG Sharma,KA Pollard,Y Venugopal Rao,1,Not out
+11.4,Y Venugopal Rao,KA Pollard,RG Sharma,1,Not out
+11.5,RG Sharma,KA Pollard,Y Venugopal Rao,1,Not out
+11.6,Y Venugopal Rao,KA Pollard,RG Sharma,1,Not out
+12.1,Y Venugopal Rao,R McLaren,RG Sharma,0,Not out
+12.2,Y Venugopal Rao,R McLaren,RG Sharma,0,Not out
+12.3,Y Venugopal Rao,R McLaren,RG Sharma,0,Not out
+12.4,Y Venugopal Rao,R McLaren,RG Sharma,1,Not out
+12.5,RG Sharma,R McLaren,Y Venugopal Rao,4,Not out
+12.6,RG Sharma,R McLaren,Y Venugopal Rao,4,Not out
+13.1,Y Venugopal Rao,KA Pollard,RG Sharma,0,caught
+13.2,RG Sharma,KA Pollard,Jaskaran Singh,0,Not out
+13.3,RG Sharma,KA Pollard,Jaskaran Singh,2,Not out
+13.4,RG Sharma,KA Pollard,Jaskaran Singh,4,Not out
+13.5,RG Sharma,KA Pollard,Jaskaran Singh,2,Not out
+13.6,RG Sharma,KA Pollard,Jaskaran Singh,6,Not out
+14.1,Jaskaran Singh,Harbhajan Singh,RG Sharma,1,Not out
+14.2,RG Sharma,Harbhajan Singh,Jaskaran Singh,1,Not out
+14.3,Jaskaran Singh,Harbhajan Singh,RG Sharma,0,caught
+14.4,RG Sharma,Harbhajan Singh,KAJ Roach,1,Not out
+14.5,KAJ Roach,Harbhajan Singh,RG Sharma,4,Not out
+14.6,KAJ Roach,Harbhajan Singh,RG Sharma,1,Not out
+15.1,KAJ Roach,SL Malinga,RG Sharma,2,Not out
+15.2,KAJ Roach,SL Malinga,RG Sharma,1,Not out
+15.3,RG Sharma,SL Malinga,KAJ Roach,1,Not out
+15.4,KAJ Roach,SL Malinga,RG Sharma,1,Not out
+15.5,RG Sharma,SL Malinga,KAJ Roach,0,Not out
+15.6,RG Sharma,SL Malinga,KAJ Roach,2,Not out
+16.1,KAJ Roach,Z Khan,RG Sharma,0,Not out
+16.2,KAJ Roach,Z Khan,RG Sharma,0,Not out
+16.3,KAJ Roach,Z Khan,RG Sharma,1,Not out
+16.4,RG Sharma,Z Khan,KAJ Roach,0,bowled
+16.5,RP Singh,Z Khan,KAJ Roach,1,Not out
+16.6,KAJ Roach,Z Khan,RP Singh,0,bowled
+17.1,RP Singh,SL Malinga,PP Ojha,0,Not out
+17.2,RP Singh,SL Malinga,PP Ojha,0,Not out
+17.3,RP Singh,SL Malinga,PP Ojha,0,Not out
+17.4,RP Singh,SL Malinga,PP Ojha,0,bowled

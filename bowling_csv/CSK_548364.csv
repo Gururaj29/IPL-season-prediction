@@ -1,0 +1,126 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DA Warner,BW Hilfenhaus,V Sehwag,0,Not out
+0.2,DA Warner,BW Hilfenhaus,V Sehwag,0,Not out
+0.3,DA Warner,BW Hilfenhaus,V Sehwag,1,Not out
+0.4,V Sehwag,BW Hilfenhaus,DA Warner,4,Not out
+0.5,V Sehwag,BW Hilfenhaus,DA Warner,0,bowled
+0.6,NV Ojha,BW Hilfenhaus,DA Warner,0,Not out
+1.1,DA Warner,JA Morkel,NV Ojha,0,Not out
+1.2,DA Warner,JA Morkel,NV Ojha,4,Not out
+1.3,DA Warner,JA Morkel,NV Ojha,0,Not out
+1.4,DA Warner,JA Morkel,NV Ojha,0,Not out
+1.5,DA Warner,JA Morkel,NV Ojha,3,Not out
+1.6,NV Ojha,JA Morkel,DA Warner,0,Not out
+2.1,DA Warner,BW Hilfenhaus,NV Ojha,0,caught
+2.2,DPMD Jayawardene,BW Hilfenhaus,NV Ojha,0,Not out
+2.3,DPMD Jayawardene,BW Hilfenhaus,NV Ojha,0,Not out
+2.4,DPMD Jayawardene,BW Hilfenhaus,NV Ojha,4,Not out
+2.5,DPMD Jayawardene,BW Hilfenhaus,NV Ojha,2,Not out
+2.6,DPMD Jayawardene,BW Hilfenhaus,NV Ojha,0,Not out
+3.1,NV Ojha,JA Morkel,DPMD Jayawardene,0,Not out
+3.2,NV Ojha,JA Morkel,DPMD Jayawardene,0,Not out
+3.3,NV Ojha,JA Morkel,DPMD Jayawardene,1,Not out
+3.4,DPMD Jayawardene,JA Morkel,NV Ojha,1,Not out
+3.5,NV Ojha,JA Morkel,DPMD Jayawardene,1,Not out
+3.6,DPMD Jayawardene,JA Morkel,NV Ojha,0,Not out
+4.1,NV Ojha,BW Hilfenhaus,DPMD Jayawardene,0,Not out
+4.2,NV Ojha,BW Hilfenhaus,DPMD Jayawardene,0,Not out
+4.3,NV Ojha,BW Hilfenhaus,DPMD Jayawardene,0,Not out
+4.4,NV Ojha,BW Hilfenhaus,DPMD Jayawardene,0,Not out
+4.5,NV Ojha,BW Hilfenhaus,DPMD Jayawardene,1,Not out
+4.6,DPMD Jayawardene,BW Hilfenhaus,NV Ojha,1,Not out
+4.7,NV Ojha,BW Hilfenhaus,DPMD Jayawardene,0,caught
+5.1,DPMD Jayawardene,JA Morkel,Y Venugopal Rao,0,Not out
+5.2,DPMD Jayawardene,JA Morkel,Y Venugopal Rao,0,caught
+5.3,Y Nagar,JA Morkel,Y Venugopal Rao,1,Not out
+5.4,Y Venugopal Rao,JA Morkel,Y Nagar,0,Not out
+5.5,Y Venugopal Rao,JA Morkel,Y Nagar,0,Not out
+5.6,Y Nagar,JA Morkel,Y Venugopal Rao,1,Not out
+6.1,Y Nagar,DJ Bravo,Y Venugopal Rao,0,Not out
+6.2,Y Nagar,DJ Bravo,Y Venugopal Rao,0,Not out
+6.3,Y Nagar,DJ Bravo,Y Venugopal Rao,1,Not out
+6.4,Y Venugopal Rao,DJ Bravo,Y Nagar,1,Not out
+6.5,Y Nagar,DJ Bravo,Y Venugopal Rao,1,Not out
+6.6,Y Venugopal Rao,DJ Bravo,Y Nagar,0,Not out
+6.7,Y Venugopal Rao,DJ Bravo,Y Nagar,1,Not out
+7.1,Y Venugopal Rao,SB Jakati,Y Nagar,1,Not out
+7.2,Y Nagar,SB Jakati,Y Venugopal Rao,0,Not out
+7.3,Y Nagar,SB Jakati,Y Venugopal Rao,1,Not out
+7.4,Y Venugopal Rao,SB Jakati,Y Nagar,1,Not out
+7.5,Y Nagar,SB Jakati,Y Venugopal Rao,1,Not out
+7.6,Y Venugopal Rao,SB Jakati,Y Nagar,1,Not out
+8.1,Y Venugopal Rao,RA Jadeja,Y Nagar,6,Not out
+8.2,Y Venugopal Rao,RA Jadeja,Y Nagar,1,Not out
+8.3,Y Nagar,RA Jadeja,Y Venugopal Rao,1,Not out
+8.4,Y Venugopal Rao,RA Jadeja,Y Nagar,1,Not out
+8.5,Y Nagar,RA Jadeja,Y Venugopal Rao,1,Not out
+8.6,Y Venugopal Rao,RA Jadeja,Y Nagar,1,Not out
+9.1,Y Venugopal Rao,R Ashwin,Y Nagar,1,Not out
+9.2,Y Nagar,R Ashwin,Y Venugopal Rao,1,Not out
+9.3,Y Venugopal Rao,R Ashwin,Y Nagar,0,Not out
+9.4,Y Venugopal Rao,R Ashwin,Y Nagar,1,Not out
+9.5,Y Nagar,R Ashwin,Y Venugopal Rao,0,Not out
+9.6,Y Nagar,R Ashwin,Y Venugopal Rao,1,Not out
+10.1,Y Nagar,SB Jakati,Y Venugopal Rao,1,Not out
+10.2,Y Venugopal Rao,SB Jakati,Y Nagar,1,Not out
+10.3,Y Nagar,SB Jakati,Y Venugopal Rao,1,Not out
+10.4,Y Venugopal Rao,SB Jakati,Y Nagar,0,Not out
+10.5,Y Venugopal Rao,SB Jakati,Y Nagar,1,Not out
+10.6,Y Nagar,SB Jakati,Y Venugopal Rao,0,Not out
+11.1,Y Venugopal Rao,R Ashwin,Y Nagar,1,Not out
+11.2,Y Nagar,R Ashwin,Y Venugopal Rao,1,Not out
+11.3,Y Venugopal Rao,R Ashwin,Y Nagar,0,Not out
+11.4,Y Venugopal Rao,R Ashwin,Y Nagar,1,Not out
+11.5,Y Nagar,R Ashwin,Y Venugopal Rao,0,Not out
+11.6,Y Nagar,R Ashwin,Y Venugopal Rao,1,Not out
+12.1,Y Nagar,SB Jakati,Y Venugopal Rao,1,Not out
+12.2,Y Venugopal Rao,SB Jakati,Y Nagar,6,Not out
+12.3,Y Venugopal Rao,SB Jakati,Y Nagar,1,Not out
+12.4,Y Nagar,SB Jakati,Y Venugopal Rao,2,Not out
+12.5,Y Nagar,SB Jakati,Y Venugopal Rao,1,Not out
+12.6,Y Venugopal Rao,SB Jakati,Y Nagar,0,Not out
+13.1,Y Nagar,R Ashwin,Y Venugopal Rao,1,Not out
+13.2,Y Venugopal Rao,R Ashwin,Y Nagar,0,caught
+13.3,IK Pathan,R Ashwin,Y Nagar,0,Not out
+13.4,IK Pathan,R Ashwin,Y Nagar,1,Not out
+13.5,Y Nagar,R Ashwin,IK Pathan,0,Not out
+13.6,Y Nagar,R Ashwin,IK Pathan,1,Not out
+14.1,Y Nagar,DJ Bravo,IK Pathan,0,Not out
+14.2,Y Nagar,DJ Bravo,IK Pathan,1,Not out
+14.3,IK Pathan,DJ Bravo,Y Nagar,0,Not out
+14.4,IK Pathan,DJ Bravo,Y Nagar,2,Not out
+14.5,IK Pathan,DJ Bravo,Y Nagar,0,Not out
+14.6,IK Pathan,DJ Bravo,Y Nagar,1,Not out
+15.1,IK Pathan,R Ashwin,Y Nagar,1,Not out
+15.2,Y Nagar,R Ashwin,IK Pathan,0,Not out
+15.3,Y Nagar,R Ashwin,IK Pathan,2,Not out
+15.4,Y Nagar,R Ashwin,IK Pathan,2,Not out
+15.5,Y Nagar,R Ashwin,IK Pathan,0,Not out
+15.6,Y Nagar,R Ashwin,IK Pathan,1,Not out
+16.1,Y Nagar,JA Morkel,IK Pathan,1,Not out
+16.2,IK Pathan,JA Morkel,Y Nagar,0,Not out
+16.3,IK Pathan,JA Morkel,Y Nagar,0,Not out
+16.4,Y Nagar,JA Morkel,IK Pathan,0,Not out
+16.5,Y Nagar,JA Morkel,IK Pathan,1,Not out
+16.6,IK Pathan,JA Morkel,Y Nagar,0,Not out
+16.7,IK Pathan,JA Morkel,Y Nagar,0,Not out
+17.1,Y Nagar,DJ Bravo,IK Pathan,0,Not out
+17.2,Y Nagar,DJ Bravo,IK Pathan,1,Not out
+17.3,IK Pathan,DJ Bravo,Y Nagar,0,Not out
+17.4,IK Pathan,DJ Bravo,Y Nagar,2,Not out
+17.5,IK Pathan,DJ Bravo,Y Nagar,1,Not out
+17.6,Y Nagar,DJ Bravo,IK Pathan,1,Not out
+17.7,IK Pathan,DJ Bravo,Y Nagar,0,Not out
+18.1,Y Nagar,BW Hilfenhaus,IK Pathan,0,Not out
+18.2,Y Nagar,BW Hilfenhaus,IK Pathan,1,Not out
+18.3,IK Pathan,BW Hilfenhaus,Y Nagar,0,Not out
+18.4,IK Pathan,BW Hilfenhaus,Y Nagar,1,Not out
+18.5,Y Nagar,BW Hilfenhaus,IK Pathan,4,Not out
+18.6,Y Nagar,BW Hilfenhaus,IK Pathan,0,Not out
+18.7,Y Nagar,BW Hilfenhaus,IK Pathan,6,Not out
+19.1,IK Pathan,DJ Bravo,Y Nagar,2,Not out
+19.2,IK Pathan,DJ Bravo,Y Nagar,1,Not out
+19.3,Y Nagar,DJ Bravo,IK Pathan,1,Not out
+19.4,IK Pathan,DJ Bravo,Y Nagar,1,Not out
+19.5,Y Nagar,DJ Bravo,IK Pathan,2,Not out
+19.6,Y Nagar,DJ Bravo,IK Pathan,0,Not out

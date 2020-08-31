@@ -1,0 +1,114 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,Mandeep Singh,R Rampaul,SE Marsh,4,Not out
+0.2,Mandeep Singh,R Rampaul,SE Marsh,0,Not out
+0.3,Mandeep Singh,R Rampaul,SE Marsh,0,Not out
+0.4,Mandeep Singh,R Rampaul,SE Marsh,0,Not out
+0.5,Mandeep Singh,R Rampaul,SE Marsh,1,Not out
+0.6,SE Marsh,R Rampaul,Mandeep Singh,1,Not out
+1.1,SE Marsh,RP Singh,Mandeep Singh,0,Not out
+1.2,SE Marsh,RP Singh,Mandeep Singh,0,Not out
+1.3,SE Marsh,RP Singh,Mandeep Singh,1,Not out
+1.4,Mandeep Singh,RP Singh,SE Marsh,0,Not out
+1.5,Mandeep Singh,RP Singh,SE Marsh,1,Not out
+1.6,SE Marsh,RP Singh,Mandeep Singh,4,Not out
+2.1,Mandeep Singh,R Rampaul,SE Marsh,1,Not out
+2.2,SE Marsh,R Rampaul,Mandeep Singh,0,Not out
+2.3,SE Marsh,R Rampaul,Mandeep Singh,0,caught
+2.4,Gurkeerat Singh,R Rampaul,Mandeep Singh,0,Not out
+2.5,Gurkeerat Singh,R Rampaul,Mandeep Singh,0,Not out
+2.6,Gurkeerat Singh,R Rampaul,Mandeep Singh,0,Not out
+3.1,Mandeep Singh,MC Henriques,Gurkeerat Singh,4,Not out
+3.2,Mandeep Singh,MC Henriques,Gurkeerat Singh,1,Not out
+3.3,Gurkeerat Singh,MC Henriques,Mandeep Singh,0,Not out
+3.4,Gurkeerat Singh,MC Henriques,Mandeep Singh,0,Not out
+3.5,Gurkeerat Singh,MC Henriques,Mandeep Singh,0,Not out
+3.6,Gurkeerat Singh,MC Henriques,Mandeep Singh,0,Not out
+3.7,Gurkeerat Singh,MC Henriques,Mandeep Singh,2,Not out
+4.1,Mandeep Singh,R Vinay Kumar,Gurkeerat Singh,4,Not out
+4.2,Mandeep Singh,R Vinay Kumar,Gurkeerat Singh,0,caught
+4.3,DJ Hussey,R Vinay Kumar,Gurkeerat Singh,4,Not out
+4.4,DJ Hussey,R Vinay Kumar,Gurkeerat Singh,0,Not out
+4.5,DJ Hussey,R Vinay Kumar,Gurkeerat Singh,1,Not out
+4.6,Gurkeerat Singh,R Vinay Kumar,DJ Hussey,1,Not out
+5.1,Gurkeerat Singh,MC Henriques,DJ Hussey,1,Not out
+5.2,DJ Hussey,MC Henriques,Gurkeerat Singh,1,Not out
+5.3,Gurkeerat Singh,MC Henriques,DJ Hussey,4,Not out
+5.4,Gurkeerat Singh,MC Henriques,DJ Hussey,0,Not out
+5.5,Gurkeerat Singh,MC Henriques,DJ Hussey,0,Not out
+5.6,Gurkeerat Singh,MC Henriques,DJ Hussey,4,Not out
+6.1,DJ Hussey,R Vinay Kumar,Gurkeerat Singh,0,Not out
+6.2,DJ Hussey,R Vinay Kumar,Gurkeerat Singh,1,Not out
+6.3,Gurkeerat Singh,R Vinay Kumar,DJ Hussey,1,Not out
+6.4,DJ Hussey,R Vinay Kumar,Gurkeerat Singh,1,Not out
+6.5,Gurkeerat Singh,R Vinay Kumar,DJ Hussey,0,Not out
+6.6,Gurkeerat Singh,R Vinay Kumar,DJ Hussey,1,Not out
+7.1,Gurkeerat Singh,M Kartik,DJ Hussey,2,Not out
+7.2,Gurkeerat Singh,M Kartik,DJ Hussey,4,Not out
+7.3,Gurkeerat Singh,M Kartik,DJ Hussey,0,Not out
+7.4,Gurkeerat Singh,M Kartik,DJ Hussey,0,lbw
+7.5,DA Miller,M Kartik,DJ Hussey,1,Not out
+7.6,DJ Hussey,M Kartik,DA Miller,0,Not out
+8.1,DA Miller,RP Singh,DJ Hussey,1,Not out
+8.2,DJ Hussey,RP Singh,DA Miller,2,Not out
+8.3,DJ Hussey,RP Singh,DA Miller,0,Not out
+8.4,DJ Hussey,RP Singh,DA Miller,1,Not out
+8.5,DA Miller,RP Singh,DJ Hussey,0,Not out
+8.6,DA Miller,RP Singh,DJ Hussey,2,Not out
+9.1,DJ Hussey,M Kartik,DA Miller,1,Not out
+9.2,DA Miller,M Kartik,DJ Hussey,3,Not out
+9.3,DJ Hussey,M Kartik,DA Miller,1,Not out
+9.4,DA Miller,M Kartik,DJ Hussey,1,Not out
+9.5,DJ Hussey,M Kartik,DA Miller,0,caught
+9.6,DA Miller,M Kartik,R Sathish,0,Not out
+10.1,R Sathish,MC Henriques,DA Miller,1,Not out
+10.2,DA Miller,MC Henriques,R Sathish,4,Not out
+10.3,DA Miller,MC Henriques,R Sathish,1,Not out
+10.4,R Sathish,MC Henriques,DA Miller,0,Not out
+10.5,R Sathish,MC Henriques,DA Miller,3,Not out
+10.6,DA Miller,MC Henriques,R Sathish,2,Not out
+11.1,R Sathish,M Kartik,DA Miller,0,Not out
+11.2,R Sathish,M Kartik,DA Miller,1,Not out
+11.3,DA Miller,M Kartik,R Sathish,6,Not out
+11.4,DA Miller,M Kartik,R Sathish,1,Not out
+11.5,R Sathish,M Kartik,DA Miller,1,Not out
+11.6,DA Miller,M Kartik,R Sathish,1,Not out
+11.7,R Sathish,M Kartik,DA Miller,0,Not out
+12.1,DA Miller,R Rampaul,R Sathish,2,Not out
+12.2,DA Miller,R Rampaul,R Sathish,0,Not out
+12.3,DA Miller,R Rampaul,R Sathish,1,Not out
+12.4,R Sathish,R Rampaul,DA Miller,0,Not out
+12.5,R Sathish,R Rampaul,DA Miller,1,Not out
+12.6,DA Miller,R Rampaul,R Sathish,1,Not out
+13.1,DA Miller,R Vinay Kumar,R Sathish,0,Not out
+13.2,R Sathish,R Vinay Kumar,DA Miller,1,Not out
+13.3,DA Miller,R Vinay Kumar,R Sathish,4,Not out
+13.4,DA Miller,R Vinay Kumar,R Sathish,6,Not out
+13.5,DA Miller,R Vinay Kumar,R Sathish,4,Not out
+13.6,DA Miller,R Vinay Kumar,R Sathish,1,Not out
+14.1,DA Miller,RP Singh,R Sathish,6,Not out
+14.2,DA Miller,RP Singh,R Sathish,0,Not out
+14.3,DA Miller,RP Singh,R Sathish,6,Not out
+14.4,DA Miller,RP Singh,R Sathish,4,Not out
+14.5,DA Miller,RP Singh,R Sathish,4,Not out
+14.6,DA Miller,RP Singh,R Sathish,4,Not out
+14.7,DA Miller,RP Singh,R Sathish,1,Not out
+15.1,DA Miller,R Rampaul,R Sathish,6,Not out
+15.2,DA Miller,R Rampaul,R Sathish,1,Not out
+15.3,R Sathish,R Rampaul,DA Miller,0,Not out
+15.4,DA Miller,R Rampaul,R Sathish,2,Not out
+15.5,DA Miller,R Rampaul,R Sathish,2,Not out
+15.6,DA Miller,R Rampaul,R Sathish,4,Not out
+16.1,R Sathish,R Vinay Kumar,DA Miller,2,Not out
+16.2,R Sathish,R Vinay Kumar,DA Miller,1,Not out
+16.3,DA Miller,R Vinay Kumar,R Sathish,4,Not out
+16.4,DA Miller,R Vinay Kumar,R Sathish,2,Not out
+16.5,DA Miller,R Vinay Kumar,R Sathish,6,Not out
+16.6,DA Miller,R Vinay Kumar,R Sathish,1,Not out
+16.7,R Sathish,R Vinay Kumar,DA Miller,1,Not out
+17.1,R Sathish,CH Gayle,DA Miller,0,Not out
+17.2,R Sathish,CH Gayle,DA Miller,6,Not out
+17.3,R Sathish,CH Gayle,DA Miller,0,Not out
+17.4,R Sathish,CH Gayle,DA Miller,4,Not out
+17.5,R Sathish,CH Gayle,DA Miller,4,Not out
+17.6,R Sathish,CH Gayle,DA Miller,1,Not out
+17.7,DA Miller,CH Gayle,R Sathish,6,Not out

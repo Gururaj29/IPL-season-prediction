@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,SE Marsh,RP Singh,KC Sangakkara,0,Not out
+0.2,SE Marsh,RP Singh,KC Sangakkara,1,Not out
+0.3,KC Sangakkara,RP Singh,SE Marsh,1,Not out
+0.4,SE Marsh,RP Singh,KC Sangakkara,2,Not out
+0.5,SE Marsh,RP Singh,KC Sangakkara,4,Not out
+0.6,SE Marsh,RP Singh,KC Sangakkara,6,Not out
+1.1,KC Sangakkara,DP Vijaykumar,SE Marsh,0,Not out
+1.2,KC Sangakkara,DP Vijaykumar,SE Marsh,3,Not out
+1.3,SE Marsh,DP Vijaykumar,KC Sangakkara,2,Not out
+1.4,SE Marsh,DP Vijaykumar,KC Sangakkara,0,Not out
+1.5,SE Marsh,DP Vijaykumar,KC Sangakkara,4,Not out
+1.6,SE Marsh,DP Vijaykumar,KC Sangakkara,0,Not out
+2.1,KC Sangakkara,Y Venugopal Rao,SE Marsh,0,Not out
+2.2,KC Sangakkara,Y Venugopal Rao,SE Marsh,4,Not out
+2.3,KC Sangakkara,Y Venugopal Rao,SE Marsh,2,Not out
+2.4,KC Sangakkara,Y Venugopal Rao,SE Marsh,6,Not out
+2.5,KC Sangakkara,Y Venugopal Rao,SE Marsh,0,Not out
+2.6,KC Sangakkara,Y Venugopal Rao,SE Marsh,0,Not out
+3.1,SE Marsh,DP Vijaykumar,KC Sangakkara,6,Not out
+3.2,SE Marsh,DP Vijaykumar,KC Sangakkara,1,Not out
+3.3,KC Sangakkara,DP Vijaykumar,SE Marsh,0,Not out
+3.4,KC Sangakkara,DP Vijaykumar,SE Marsh,4,Not out
+3.5,KC Sangakkara,DP Vijaykumar,SE Marsh,4,Not out
+3.6,KC Sangakkara,DP Vijaykumar,SE Marsh,0,Not out
+4.1,SE Marsh,SB Styris,KC Sangakkara,0,Not out
+4.2,SE Marsh,SB Styris,KC Sangakkara,1,Not out
+4.3,KC Sangakkara,SB Styris,SE Marsh,1,Not out
+4.4,SE Marsh,SB Styris,KC Sangakkara,1,Not out
+4.5,KC Sangakkara,SB Styris,SE Marsh,6,Not out
+4.6,KC Sangakkara,SB Styris,SE Marsh,4,Not out
+5.1,SE Marsh,RP Singh,KC Sangakkara,1,Not out
+5.2,KC Sangakkara,RP Singh,SE Marsh,4,Not out
+5.3,KC Sangakkara,RP Singh,SE Marsh,4,Not out
+5.4,KC Sangakkara,RP Singh,SE Marsh,1,Not out
+5.5,SE Marsh,RP Singh,KC Sangakkara,1,Not out
+5.6,KC Sangakkara,RP Singh,SE Marsh,0,Not out
+6.1,SE Marsh,SB Styris,KC Sangakkara,0,Not out
+6.2,SE Marsh,SB Styris,KC Sangakkara,1,Not out
+6.3,KC Sangakkara,SB Styris,SE Marsh,1,Not out
+6.4,SE Marsh,SB Styris,KC Sangakkara,1,Not out
+6.5,KC Sangakkara,SB Styris,SE Marsh,1,Not out
+6.6,SE Marsh,SB Styris,KC Sangakkara,0,Not out
+7.1,KC Sangakkara,RG Sharma,SE Marsh,4,Not out
+7.2,KC Sangakkara,RG Sharma,SE Marsh,0,Not out
+7.3,SE Marsh,RG Sharma,KC Sangakkara,1,Not out
+7.4,KC Sangakkara,RG Sharma,SE Marsh,0,caught
+7.5,SE Marsh,RG Sharma,Yuvraj Singh,1,Not out
+7.6,Yuvraj Singh,RG Sharma,SE Marsh,0,Not out
+7.7,Yuvraj Singh,RG Sharma,SE Marsh,0,Not out
+8.1,SE Marsh,Y Venugopal Rao,Yuvraj Singh,4,Not out
+8.2,SE Marsh,Y Venugopal Rao,Yuvraj Singh,1,Not out
+8.3,Yuvraj Singh,Y Venugopal Rao,SE Marsh,4,Not out
+8.4,Yuvraj Singh,Y Venugopal Rao,SE Marsh,1,Not out
+8.5,SE Marsh,Y Venugopal Rao,Yuvraj Singh,0,Not out
+8.6,SE Marsh,Y Venugopal Rao,Yuvraj Singh,1,Not out
+9.1,SE Marsh,RG Sharma,Yuvraj Singh,0,Not out
+9.2,SE Marsh,RG Sharma,Yuvraj Singh,1,Not out
+9.3,Yuvraj Singh,RG Sharma,SE Marsh,1,Not out
+9.4,SE Marsh,RG Sharma,Yuvraj Singh,1,Not out
+9.5,Yuvraj Singh,RG Sharma,SE Marsh,1,Not out
+9.6,SE Marsh,RG Sharma,Yuvraj Singh,0,Not out
+10.1,Yuvraj Singh,PP Ojha,SE Marsh,0,Not out
+10.2,Yuvraj Singh,PP Ojha,SE Marsh,0,Not out
+10.3,Yuvraj Singh,PP Ojha,SE Marsh,0,Not out
+10.4,Yuvraj Singh,PP Ojha,SE Marsh,0,Not out
+10.5,Yuvraj Singh,PP Ojha,SE Marsh,1,Not out
+10.6,SE Marsh,PP Ojha,Yuvraj Singh,0,Not out
+10.7,SE Marsh,PP Ojha,Yuvraj Singh,1,Not out
+10.8,Yuvraj Singh,PP Ojha,SE Marsh,0,Not out
+11.1,SE Marsh,RG Sharma,Yuvraj Singh,1,Not out
+11.2,Yuvraj Singh,RG Sharma,SE Marsh,4,Not out
+11.3,Yuvraj Singh,RG Sharma,SE Marsh,1,Not out
+11.4,SE Marsh,RG Sharma,Yuvraj Singh,1,Not out
+11.5,Yuvraj Singh,RG Sharma,SE Marsh,2,Not out
+11.6,Yuvraj Singh,RG Sharma,SE Marsh,1,Not out
+12.1,Yuvraj Singh,PP Ojha,SE Marsh,1,Not out
+12.2,SE Marsh,PP Ojha,Yuvraj Singh,0,Not out
+12.3,SE Marsh,PP Ojha,Yuvraj Singh,1,Not out
+12.4,Yuvraj Singh,PP Ojha,SE Marsh,0,caught
+12.5,LA Pomersbach,PP Ojha,SE Marsh,1,Not out
+12.6,SE Marsh,PP Ojha,LA Pomersbach,1,Not out
+13.1,SE Marsh,RG Sharma,LA Pomersbach,1,Not out
+13.2,LA Pomersbach,RG Sharma,SE Marsh,0,Not out
+13.3,LA Pomersbach,RG Sharma,SE Marsh,0,Not out
+13.4,LA Pomersbach,RG Sharma,SE Marsh,1,Not out
+13.5,SE Marsh,RG Sharma,LA Pomersbach,1,Not out
+13.6,LA Pomersbach,RG Sharma,SE Marsh,1,Not out
+14.1,LA Pomersbach,PP Ojha,SE Marsh,1,Not out
+14.2,SE Marsh,PP Ojha,LA Pomersbach,1,Not out
+14.3,LA Pomersbach,PP Ojha,SE Marsh,1,Not out
+14.4,SE Marsh,PP Ojha,LA Pomersbach,2,Not out
+14.5,SE Marsh,PP Ojha,LA Pomersbach,6,Not out
+14.6,SE Marsh,PP Ojha,LA Pomersbach,1,Not out
+15.1,SE Marsh,SB Styris,LA Pomersbach,1,Not out
+15.2,LA Pomersbach,SB Styris,SE Marsh,1,Not out
+15.3,SE Marsh,SB Styris,LA Pomersbach,0,Not out
+15.4,SE Marsh,SB Styris,LA Pomersbach,0,caught
+15.5,LA Pomersbach,SB Styris,DPMD Jayawardene,0,Not out
+15.6,DPMD Jayawardene,SB Styris,LA Pomersbach,1,Not out
+16.1,DPMD Jayawardene,PP Ojha,LA Pomersbach,0,Not out
+16.2,DPMD Jayawardene,PP Ojha,LA Pomersbach,1,Not out
+16.3,LA Pomersbach,PP Ojha,DPMD Jayawardene,6,Not out
+16.4,LA Pomersbach,PP Ojha,DPMD Jayawardene,1,Not out
+16.5,DPMD Jayawardene,PP Ojha,LA Pomersbach,0,Not out
+16.6,DPMD Jayawardene,PP Ojha,LA Pomersbach,1,Not out
+16.7,LA Pomersbach,PP Ojha,DPMD Jayawardene,0,caught
+17.1,PP Chawla,RP Singh,DPMD Jayawardene,0,Not out
+17.2,PP Chawla,RP Singh,DPMD Jayawardene,1,Not out
+17.3,DPMD Jayawardene,RP Singh,PP Chawla,1,Not out
+17.4,PP Chawla,RP Singh,DPMD Jayawardene,1,Not out
+17.5,DPMD Jayawardene,RP Singh,PP Chawla,1,Not out
+17.6,PP Chawla,RP Singh,DPMD Jayawardene,0,Not out
+17.7,PP Chawla,RP Singh,DPMD Jayawardene,1,Not out
+18.1,PP Chawla,SB Styris,DPMD Jayawardene,6,Not out
+18.2,PP Chawla,SB Styris,DPMD Jayawardene,0,Not out
+18.3,PP Chawla,SB Styris,DPMD Jayawardene,1,Not out
+18.4,DPMD Jayawardene,SB Styris,PP Chawla,2,Not out
+18.5,DPMD Jayawardene,SB Styris,PP Chawla,6,Not out
+18.6,DPMD Jayawardene,SB Styris,PP Chawla,1,Not out
+19.1,DPMD Jayawardene,RP Singh,PP Chawla,0,Not out
+19.2,PP Chawla,RP Singh,DPMD Jayawardene,2,Not out
+19.3,PP Chawla,RP Singh,DPMD Jayawardene,4,Not out

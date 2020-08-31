@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,HM Amla,B Kumar,M Vohra,0,lbw
+0.2,GJ Maxwell,B Kumar,M Vohra,4,Not out
+0.3,GJ Maxwell,B Kumar,M Vohra,0,Not out
+0.4,GJ Maxwell,B Kumar,M Vohra,0,Not out
+0.5,GJ Maxwell,B Kumar,M Vohra,0,Not out
+0.6,GJ Maxwell,B Kumar,M Vohra,2,Not out
+1.1,M Vohra,BB Sran,GJ Maxwell,4,Not out
+1.2,M Vohra,BB Sran,GJ Maxwell,1,Not out
+1.3,GJ Maxwell,BB Sran,M Vohra,0,Not out
+1.4,GJ Maxwell,BB Sran,M Vohra,4,Not out
+1.5,GJ Maxwell,BB Sran,M Vohra,0,Not out
+1.6,GJ Maxwell,BB Sran,M Vohra,0,Not out
+2.1,M Vohra,B Kumar,GJ Maxwell,0,Not out
+2.2,M Vohra,B Kumar,GJ Maxwell,1,Not out
+2.3,GJ Maxwell,B Kumar,M Vohra,0,Not out
+2.4,GJ Maxwell,B Kumar,M Vohra,0,Not out
+2.5,GJ Maxwell,B Kumar,M Vohra,0,caught
+2.6,M Vohra,B Kumar,EJG Morgan,0,Not out
+3.1,M Vohra,S Kaul,EJG Morgan,0,Not out
+3.2,M Vohra,S Kaul,EJG Morgan,1,Not out
+3.3,EJG Morgan,S Kaul,M Vohra,0,Not out
+3.4,EJG Morgan,S Kaul,M Vohra,0,Not out
+3.5,EJG Morgan,S Kaul,M Vohra,1,Not out
+3.6,M Vohra,S Kaul,EJG Morgan,1,Not out
+3.7,EJG Morgan,S Kaul,M Vohra,1,Not out
+4.1,EJG Morgan,Mohammad Nabi,M Vohra,6,Not out
+4.2,EJG Morgan,Mohammad Nabi,M Vohra,1,Not out
+4.3,M Vohra,Mohammad Nabi,EJG Morgan,0,Not out
+4.4,M Vohra,Mohammad Nabi,EJG Morgan,2,Not out
+4.5,M Vohra,Mohammad Nabi,EJG Morgan,0,Not out
+4.6,M Vohra,Mohammad Nabi,EJG Morgan,1,Not out
+5.1,M Vohra,Rashid Khan,EJG Morgan,0,Not out
+5.2,EJG Morgan,Rashid Khan,M Vohra,0,Not out
+5.3,EJG Morgan,Rashid Khan,M Vohra,1,Not out
+5.4,M Vohra,Rashid Khan,EJG Morgan,4,Not out
+5.5,M Vohra,Rashid Khan,EJG Morgan,0,Not out
+5.6,M Vohra,Rashid Khan,EJG Morgan,6,Not out
+5.7,M Vohra,Rashid Khan,EJG Morgan,4,Not out
+6.1,EJG Morgan,MC Henriques,M Vohra,1,Not out
+6.2,M Vohra,MC Henriques,EJG Morgan,0,Not out
+6.3,M Vohra,MC Henriques,EJG Morgan,1,Not out
+6.4,EJG Morgan,MC Henriques,M Vohra,0,Not out
+6.5,EJG Morgan,MC Henriques,M Vohra,0,Not out
+6.6,EJG Morgan,MC Henriques,M Vohra,0,Not out
+7.1,M Vohra,S Kaul,EJG Morgan,1,Not out
+7.2,EJG Morgan,S Kaul,M Vohra,1,Not out
+7.3,M Vohra,S Kaul,EJG Morgan,1,Not out
+7.4,EJG Morgan,S Kaul,M Vohra,0,Not out
+7.5,EJG Morgan,S Kaul,M Vohra,0,Not out
+7.6,EJG Morgan,S Kaul,M Vohra,1,Not out
+8.1,EJG Morgan,Mohammad Nabi,M Vohra,0,bowled
+8.2,DA Miller,Mohammad Nabi,M Vohra,0,Not out
+8.3,DA Miller,Mohammad Nabi,M Vohra,1,Not out
+8.4,M Vohra,Mohammad Nabi,DA Miller,0,Not out
+8.5,M Vohra,Mohammad Nabi,DA Miller,3,Not out
+8.6,DA Miller,Mohammad Nabi,M Vohra,0,Not out
+9.1,M Vohra,Rashid Khan,DA Miller,1,Not out
+9.2,DA Miller,Rashid Khan,M Vohra,0,Not out
+9.3,DA Miller,Rashid Khan,M Vohra,0,Not out
+9.4,DA Miller,Rashid Khan,M Vohra,0,bowled
+9.5,WP Saha,Rashid Khan,M Vohra,0,Not out
+9.6,WP Saha,Rashid Khan,M Vohra,0,bowled
+10.1,M Vohra,Mohammad Nabi,AR Patel,0,Not out
+10.2,M Vohra,Mohammad Nabi,AR Patel,1,Not out
+10.3,AR Patel,Mohammad Nabi,M Vohra,0,Not out
+10.4,AR Patel,Mohammad Nabi,M Vohra,0,Not out
+10.5,AR Patel,Mohammad Nabi,M Vohra,0,Not out
+10.6,AR Patel,Mohammad Nabi,M Vohra,0,Not out
+11.1,M Vohra,Rashid Khan,AR Patel,1,Not out
+11.2,AR Patel,Rashid Khan,M Vohra,1,Not out
+11.3,M Vohra,Rashid Khan,AR Patel,1,Not out
+11.4,AR Patel,Rashid Khan,M Vohra,1,Not out
+11.5,M Vohra,Rashid Khan,AR Patel,0,Not out
+11.6,M Vohra,Rashid Khan,AR Patel,0,Not out
+12.1,AR Patel,Mohammad Nabi,M Vohra,1,Not out
+12.2,M Vohra,Mohammad Nabi,AR Patel,1,Not out
+12.3,AR Patel,Mohammad Nabi,M Vohra,2,Not out
+12.4,AR Patel,Mohammad Nabi,M Vohra,1,Not out
+12.5,M Vohra,Mohammad Nabi,AR Patel,4,Not out
+12.6,M Vohra,Mohammad Nabi,AR Patel,4,Not out
+13.1,AR Patel,MC Henriques,M Vohra,0,Not out
+13.2,AR Patel,MC Henriques,M Vohra,1,Not out
+13.3,M Vohra,MC Henriques,AR Patel,1,Not out
+13.4,AR Patel,MC Henriques,M Vohra,0,caught
+13.5,M Vohra,MC Henriques,MM Sharma,0,Not out
+13.6,M Vohra,MC Henriques,MM Sharma,2,Not out
+14.1,MM Sharma,BB Sran,M Vohra,6,Not out
+14.2,MM Sharma,BB Sran,M Vohra,0,Not out
+14.3,MM Sharma,BB Sran,M Vohra,1,Not out
+14.4,M Vohra,BB Sran,MM Sharma,6,Not out
+14.5,M Vohra,BB Sran,MM Sharma,4,Not out
+14.6,M Vohra,BB Sran,MM Sharma,0,Not out
+14.7,M Vohra,BB Sran,MM Sharma,2,Not out
+15.1,MM Sharma,Rashid Khan,M Vohra,1,Not out
+15.2,M Vohra,Rashid Khan,MM Sharma,4,Not out
+15.3,M Vohra,Rashid Khan,MM Sharma,0,Not out
+15.4,M Vohra,Rashid Khan,MM Sharma,6,Not out
+15.5,M Vohra,Rashid Khan,MM Sharma,6,Not out
+15.6,M Vohra,Rashid Khan,MM Sharma,4,Not out
+16.1,MM Sharma,B Kumar,M Vohra,2,Not out
+16.2,MM Sharma,B Kumar,M Vohra,0,caught
+16.3,M Vohra,B Kumar,KC Cariappa,4,Not out
+16.4,M Vohra,B Kumar,KC Cariappa,1,Not out
+16.5,KC Cariappa,B Kumar,M Vohra,0,Not out
+16.6,KC Cariappa,B Kumar,M Vohra,0,Not out
+17.1,M Vohra,S Kaul,KC Cariappa,6,Not out
+17.2,M Vohra,S Kaul,KC Cariappa,2,Not out
+17.3,M Vohra,S Kaul,KC Cariappa,2,Not out
+17.4,M Vohra,S Kaul,KC Cariappa,1,Not out
+17.5,KC Cariappa,S Kaul,M Vohra,0,Not out
+17.6,KC Cariappa,S Kaul,M Vohra,1,Not out
+18.1,KC Cariappa,B Kumar,M Vohra,0,bowled
+18.2,I Sharma,B Kumar,M Vohra,1,Not out
+18.3,M Vohra,B Kumar,I Sharma,0,lbw
+18.4,Sandeep Sharma,B Kumar,I Sharma,1,Not out
+18.5,I Sharma,B Kumar,Sandeep Sharma,0,Not out
+18.6,I Sharma,B Kumar,Sandeep Sharma,1,Not out
+18.7,Sandeep Sharma,B Kumar,I Sharma,1,Not out
+19.1,Sandeep Sharma,S Kaul,I Sharma,2,Not out
+19.2,Sandeep Sharma,S Kaul,I Sharma,0,Not out
+19.3,Sandeep Sharma,S Kaul,I Sharma,1,Not out
+19.4,I Sharma,S Kaul,Sandeep Sharma,0,Not out
+19.5,I Sharma,S Kaul,Sandeep Sharma,0,Not out
+19.6,I Sharma,S Kaul,Sandeep Sharma,0,bowled

@@ -1,0 +1,127 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,TL Suman,B Lee,SR Tendulkar,4,Not out
+0.2,TL Suman,B Lee,SR Tendulkar,0,Not out
+0.3,TL Suman,B Lee,SR Tendulkar,0,Not out
+0.4,SR Tendulkar,B Lee,TL Suman,0,Not out
+0.5,SR Tendulkar,B Lee,TL Suman,4,Not out
+0.6,SR Tendulkar,B Lee,TL Suman,4,Not out
+1.1,TL Suman,Iqbal Abdulla,SR Tendulkar,0,caught
+1.2,Harbhajan Singh,Iqbal Abdulla,SR Tendulkar,0,Not out
+1.3,Harbhajan Singh,Iqbal Abdulla,SR Tendulkar,0,Not out
+1.4,Harbhajan Singh,Iqbal Abdulla,SR Tendulkar,0,Not out
+1.5,Harbhajan Singh,Iqbal Abdulla,SR Tendulkar,1,Not out
+1.6,SR Tendulkar,Iqbal Abdulla,Harbhajan Singh,0,Not out
+2.1,Harbhajan Singh,B Lee,SR Tendulkar,4,Not out
+2.2,Harbhajan Singh,B Lee,SR Tendulkar,4,Not out
+2.3,Harbhajan Singh,B Lee,SR Tendulkar,1,Not out
+2.4,SR Tendulkar,B Lee,Harbhajan Singh,0,Not out
+2.5,Harbhajan Singh,B Lee,SR Tendulkar,0,Not out
+2.6,Harbhajan Singh,B Lee,SR Tendulkar,0,Not out
+3.1,SR Tendulkar,Iqbal Abdulla,Harbhajan Singh,4,Not out
+3.2,SR Tendulkar,Iqbal Abdulla,Harbhajan Singh,1,Not out
+3.3,Harbhajan Singh,Iqbal Abdulla,SR Tendulkar,0,Not out
+3.4,Harbhajan Singh,Iqbal Abdulla,SR Tendulkar,0,Not out
+3.5,Harbhajan Singh,Iqbal Abdulla,SR Tendulkar,0,Not out
+3.6,Harbhajan Singh,Iqbal Abdulla,SR Tendulkar,4,Not out
+4.1,SR Tendulkar,Shakib Al Hasan,Harbhajan Singh,1,Not out
+4.2,Harbhajan Singh,Shakib Al Hasan,SR Tendulkar,0,Not out
+4.3,Harbhajan Singh,Shakib Al Hasan,SR Tendulkar,0,Not out
+4.4,Harbhajan Singh,Shakib Al Hasan,SR Tendulkar,1,Not out
+4.5,SR Tendulkar,Shakib Al Hasan,Harbhajan Singh,1,Not out
+4.6,Harbhajan Singh,Shakib Al Hasan,SR Tendulkar,0,Not out
+5.1,SR Tendulkar,L Balaji,Harbhajan Singh,1,Not out
+5.2,Harbhajan Singh,L Balaji,SR Tendulkar,0,Not out
+5.3,Harbhajan Singh,L Balaji,SR Tendulkar,4,Not out
+5.4,Harbhajan Singh,L Balaji,SR Tendulkar,2,Not out
+5.5,Harbhajan Singh,L Balaji,SR Tendulkar,4,Not out
+5.6,Harbhajan Singh,L Balaji,SR Tendulkar,0,Not out
+5.7,Harbhajan Singh,L Balaji,SR Tendulkar,2,Not out
+6.1,SR Tendulkar,Shakib Al Hasan,Harbhajan Singh,1,Not out
+6.2,Harbhajan Singh,Shakib Al Hasan,SR Tendulkar,1,Not out
+6.3,SR Tendulkar,Shakib Al Hasan,Harbhajan Singh,1,Not out
+6.4,Harbhajan Singh,Shakib Al Hasan,SR Tendulkar,0,Not out
+6.5,Harbhajan Singh,Shakib Al Hasan,SR Tendulkar,0,Not out
+6.6,Harbhajan Singh,Shakib Al Hasan,SR Tendulkar,0,Not out
+6.7,SR Tendulkar,Shakib Al Hasan,Harbhajan Singh,4,Not out
+7.1,Harbhajan Singh,YK Pathan,SR Tendulkar,0,Not out
+7.2,Harbhajan Singh,YK Pathan,SR Tendulkar,1,Not out
+7.3,SR Tendulkar,YK Pathan,Harbhajan Singh,4,Not out
+7.4,SR Tendulkar,YK Pathan,Harbhajan Singh,1,Not out
+7.5,Harbhajan Singh,YK Pathan,SR Tendulkar,1,Not out
+7.6,SR Tendulkar,YK Pathan,Harbhajan Singh,0,Not out
+8.1,Harbhajan Singh,R Bhatia,SR Tendulkar,0,caught
+8.2,RG Sharma,R Bhatia,SR Tendulkar,1,Not out
+8.3,SR Tendulkar,R Bhatia,RG Sharma,1,Not out
+8.4,RG Sharma,R Bhatia,SR Tendulkar,1,Not out
+8.5,SR Tendulkar,R Bhatia,RG Sharma,1,Not out
+8.6,RG Sharma,R Bhatia,SR Tendulkar,1,Not out
+9.1,RG Sharma,Shakib Al Hasan,SR Tendulkar,0,Not out
+9.2,RG Sharma,Shakib Al Hasan,SR Tendulkar,4,Not out
+9.3,RG Sharma,Shakib Al Hasan,SR Tendulkar,0,Not out
+9.4,RG Sharma,Shakib Al Hasan,SR Tendulkar,2,Not out
+9.5,RG Sharma,Shakib Al Hasan,SR Tendulkar,1,Not out
+9.6,SR Tendulkar,Shakib Al Hasan,RG Sharma,0,Not out
+9.7,SR Tendulkar,Shakib Al Hasan,RG Sharma,1,Not out
+10.1,SR Tendulkar,R Bhatia,RG Sharma,1,Not out
+10.2,RG Sharma,R Bhatia,SR Tendulkar,0,caught
+10.3,KA Pollard,R Bhatia,SR Tendulkar,1,Not out
+10.4,SR Tendulkar,R Bhatia,KA Pollard,0,Not out
+10.5,SR Tendulkar,R Bhatia,KA Pollard,4,Not out
+10.6,SR Tendulkar,R Bhatia,KA Pollard,0,Not out
+11.1,SR Tendulkar,Iqbal Abdulla,KA Pollard,1,Not out
+11.2,KA Pollard,Iqbal Abdulla,SR Tendulkar,0,Not out
+11.3,KA Pollard,Iqbal Abdulla,SR Tendulkar,0,Not out
+11.4,KA Pollard,Iqbal Abdulla,SR Tendulkar,0,Not out
+11.5,KA Pollard,Iqbal Abdulla,SR Tendulkar,1,Not out
+11.6,SR Tendulkar,Iqbal Abdulla,KA Pollard,1,Not out
+12.1,SR Tendulkar,R Bhatia,KA Pollard,1,Not out
+12.2,KA Pollard,R Bhatia,SR Tendulkar,1,Not out
+12.3,SR Tendulkar,R Bhatia,KA Pollard,0,caught
+12.4,KA Pollard,R Bhatia,JEC Franklin,0,Not out
+12.5,KA Pollard,R Bhatia,JEC Franklin,1,Not out
+12.6,JEC Franklin,R Bhatia,KA Pollard,0,Not out
+13.1,KA Pollard,Shakib Al Hasan,JEC Franklin,0,Not out
+13.2,KA Pollard,Shakib Al Hasan,JEC Franklin,1,Not out
+13.3,JEC Franklin,Shakib Al Hasan,KA Pollard,2,Not out
+13.4,JEC Franklin,Shakib Al Hasan,KA Pollard,1,Not out
+13.5,KA Pollard,Shakib Al Hasan,JEC Franklin,0,Not out
+13.6,KA Pollard,Shakib Al Hasan,JEC Franklin,1,Not out
+14.1,KA Pollard,R Bhatia,JEC Franklin,1,Not out
+14.2,JEC Franklin,R Bhatia,KA Pollard,1,Not out
+14.3,KA Pollard,R Bhatia,JEC Franklin,4,Not out
+14.4,KA Pollard,R Bhatia,JEC Franklin,1,Not out
+14.5,JEC Franklin,R Bhatia,KA Pollard,1,Not out
+14.6,KA Pollard,R Bhatia,JEC Franklin,0,Not out
+15.1,JEC Franklin,Iqbal Abdulla,KA Pollard,1,Not out
+15.2,KA Pollard,Iqbal Abdulla,JEC Franklin,1,Not out
+15.3,JEC Franklin,Iqbal Abdulla,KA Pollard,6,Not out
+15.4,JEC Franklin,Iqbal Abdulla,KA Pollard,1,Not out
+15.5,KA Pollard,Iqbal Abdulla,JEC Franklin,0,Not out
+15.6,KA Pollard,Iqbal Abdulla,JEC Franklin,4,Not out
+16.1,JEC Franklin,B Lee,KA Pollard,2,Not out
+16.2,JEC Franklin,B Lee,KA Pollard,2,Not out
+16.3,JEC Franklin,B Lee,KA Pollard,0,Not out
+16.4,JEC Franklin,B Lee,KA Pollard,1,Not out
+16.5,KA Pollard,B Lee,JEC Franklin,0,Not out
+16.6,KA Pollard,B Lee,JEC Franklin,0,Not out
+16.7,KA Pollard,B Lee,JEC Franklin,1,Not out
+16.8,JEC Franklin,B Lee,KA Pollard,1,Not out
+17.1,JEC Franklin,L Balaji,KA Pollard,4,Not out
+17.2,JEC Franklin,L Balaji,KA Pollard,1,Not out
+17.3,KA Pollard,L Balaji,JEC Franklin,0,bowled
+17.4,AT Rayudu,L Balaji,JEC Franklin,1,Not out
+17.5,JEC Franklin,L Balaji,AT Rayudu,1,Not out
+17.6,AT Rayudu,L Balaji,JEC Franklin,0,Not out
+17.7,AT Rayudu,L Balaji,JEC Franklin,6,Not out
+18.1,JEC Franklin,B Lee,AT Rayudu,0,Not out
+18.2,JEC Franklin,B Lee,AT Rayudu,2,Not out
+18.3,JEC Franklin,B Lee,AT Rayudu,1,Not out
+18.4,AT Rayudu,B Lee,JEC Franklin,2,Not out
+18.5,AT Rayudu,B Lee,JEC Franklin,2,Not out
+18.6,AT Rayudu,B Lee,JEC Franklin,0,Not out
+19.1,JEC Franklin,L Balaji,AT Rayudu,4,Not out
+19.2,JEC Franklin,L Balaji,AT Rayudu,4,Not out
+19.3,JEC Franklin,L Balaji,AT Rayudu,4,Not out
+19.4,JEC Franklin,L Balaji,AT Rayudu,4,Not out
+19.5,JEC Franklin,L Balaji,AT Rayudu,1,Not out
+19.6,AT Rayudu,L Balaji,JEC Franklin,6,Not out

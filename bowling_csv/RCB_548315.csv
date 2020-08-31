@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,JH Kallis,Z Khan,G Gambhir,0,Not out
+0.2,JH Kallis,Z Khan,G Gambhir,0,Not out
+0.3,JH Kallis,Z Khan,G Gambhir,0,Not out
+0.4,JH Kallis,Z Khan,G Gambhir,0,Not out
+0.5,JH Kallis,Z Khan,G Gambhir,4,Not out
+0.6,JH Kallis,Z Khan,G Gambhir,0,Not out
+1.1,G Gambhir,R Vinay Kumar,JH Kallis,1,Not out
+1.2,JH Kallis,R Vinay Kumar,G Gambhir,0,Not out
+1.3,JH Kallis,R Vinay Kumar,G Gambhir,0,Not out
+1.4,JH Kallis,R Vinay Kumar,G Gambhir,0,Not out
+1.5,G Gambhir,R Vinay Kumar,JH Kallis,0,Not out
+1.6,G Gambhir,R Vinay Kumar,JH Kallis,4,Not out
+2.1,JH Kallis,Z Khan,G Gambhir,4,Not out
+2.2,JH Kallis,Z Khan,G Gambhir,0,Not out
+2.3,JH Kallis,Z Khan,G Gambhir,4,Not out
+2.4,JH Kallis,Z Khan,G Gambhir,0,Not out
+2.5,JH Kallis,Z Khan,G Gambhir,0,Not out
+2.6,JH Kallis,Z Khan,G Gambhir,0,Not out
+3.1,G Gambhir,HV Patel,JH Kallis,4,Not out
+3.2,G Gambhir,HV Patel,JH Kallis,0,Not out
+3.3,G Gambhir,HV Patel,JH Kallis,4,Not out
+3.4,G Gambhir,HV Patel,JH Kallis,6,Not out
+3.5,G Gambhir,HV Patel,JH Kallis,1,Not out
+3.6,JH Kallis,HV Patel,G Gambhir,0,Not out
+4.1,G Gambhir,Z Khan,JH Kallis,4,Not out
+4.2,G Gambhir,Z Khan,JH Kallis,4,Not out
+4.3,G Gambhir,Z Khan,JH Kallis,1,Not out
+4.4,JH Kallis,Z Khan,G Gambhir,1,Not out
+4.5,G Gambhir,Z Khan,JH Kallis,1,Not out
+4.6,JH Kallis,Z Khan,G Gambhir,1,Not out
+5.1,JH Kallis,M Muralitharan,G Gambhir,6,Not out
+5.2,JH Kallis,M Muralitharan,G Gambhir,1,Not out
+5.3,G Gambhir,M Muralitharan,JH Kallis,0,Not out
+5.4,G Gambhir,M Muralitharan,JH Kallis,1,Not out
+5.5,JH Kallis,M Muralitharan,G Gambhir,1,Not out
+5.6,G Gambhir,M Muralitharan,JH Kallis,4,Not out
+6.1,JH Kallis,DL Vettori,G Gambhir,0,Not out
+6.2,JH Kallis,DL Vettori,G Gambhir,0,caught
+6.3,MS Bisla,DL Vettori,G Gambhir,0,Not out
+6.4,MS Bisla,DL Vettori,G Gambhir,1,Not out
+6.5,G Gambhir,DL Vettori,MS Bisla,1,Not out
+6.6,MS Bisla,DL Vettori,G Gambhir,1,Not out
+7.1,MS Bisla,V Kohli,G Gambhir,6,Not out
+7.2,MS Bisla,V Kohli,G Gambhir,0,Not out
+7.3,MS Bisla,V Kohli,G Gambhir,1,Not out
+7.4,G Gambhir,V Kohli,MS Bisla,1,Not out
+7.5,MS Bisla,V Kohli,G Gambhir,4,Not out
+7.6,MS Bisla,V Kohli,G Gambhir,1,Not out
+8.1,MS Bisla,DL Vettori,G Gambhir,1,Not out
+8.2,G Gambhir,DL Vettori,MS Bisla,1,Not out
+8.3,MS Bisla,DL Vettori,G Gambhir,0,Not out
+8.4,MS Bisla,DL Vettori,G Gambhir,2,Not out
+8.5,MS Bisla,DL Vettori,G Gambhir,4,Not out
+8.6,MS Bisla,DL Vettori,G Gambhir,0,Not out
+9.1,G Gambhir,M Muralitharan,MS Bisla,0,Not out
+9.2,G Gambhir,M Muralitharan,MS Bisla,4,Not out
+9.3,G Gambhir,M Muralitharan,MS Bisla,1,Not out
+9.4,MS Bisla,M Muralitharan,G Gambhir,0,Not out
+9.5,G Gambhir,M Muralitharan,MS Bisla,1,Not out
+9.6,MS Bisla,M Muralitharan,G Gambhir,1,Not out
+10.1,MS Bisla,DL Vettori,G Gambhir,1,Not out
+10.2,G Gambhir,DL Vettori,MS Bisla,1,Not out
+10.3,MS Bisla,DL Vettori,G Gambhir,6,Not out
+10.4,MS Bisla,DL Vettori,G Gambhir,0,Not out
+10.5,MS Bisla,DL Vettori,G Gambhir,2,Not out
+10.6,MS Bisla,DL Vettori,G Gambhir,1,Not out
+11.1,MS Bisla,HV Patel,G Gambhir,0,Not out
+11.2,MS Bisla,HV Patel,G Gambhir,6,Not out
+11.3,MS Bisla,HV Patel,G Gambhir,1,Not out
+11.4,G Gambhir,HV Patel,MS Bisla,1,Not out
+11.5,MS Bisla,HV Patel,G Gambhir,2,Not out
+11.6,MS Bisla,HV Patel,G Gambhir,2,Not out
+12.1,G Gambhir,R Vinay Kumar,MS Bisla,1,Not out
+12.2,MS Bisla,R Vinay Kumar,G Gambhir,1,Not out
+12.3,G Gambhir,R Vinay Kumar,MS Bisla,0,Not out
+12.4,G Gambhir,R Vinay Kumar,MS Bisla,1,Not out
+12.5,MS Bisla,R Vinay Kumar,G Gambhir,1,Not out
+12.6,G Gambhir,R Vinay Kumar,MS Bisla,4,Not out
+13.1,MS Bisla,M Muralitharan,G Gambhir,1,Not out
+13.2,G Gambhir,M Muralitharan,MS Bisla,1,Not out
+13.3,MS Bisla,M Muralitharan,G Gambhir,0,stumped
+13.4,YK Pathan,M Muralitharan,G Gambhir,0,Not out
+13.5,YK Pathan,M Muralitharan,G Gambhir,1,Not out
+13.6,G Gambhir,M Muralitharan,YK Pathan,0,Not out
+14.1,YK Pathan,R Vinay Kumar,G Gambhir,0,caught
+14.2,MK Tiwary,R Vinay Kumar,G Gambhir,1,Not out
+14.3,G Gambhir,R Vinay Kumar,MK Tiwary,0,Not out
+14.4,G Gambhir,R Vinay Kumar,MK Tiwary,1,Not out
+14.5,MK Tiwary,R Vinay Kumar,G Gambhir,0,Not out
+14.6,MK Tiwary,R Vinay Kumar,G Gambhir,0,Not out
+15.1,G Gambhir,HV Patel,MK Tiwary,2,Not out
+15.2,G Gambhir,HV Patel,MK Tiwary,0,Not out
+15.3,G Gambhir,HV Patel,MK Tiwary,2,Not out
+15.4,G Gambhir,HV Patel,MK Tiwary,1,Not out
+15.5,MK Tiwary,HV Patel,G Gambhir,1,Not out
+15.6,G Gambhir,HV Patel,MK Tiwary,1,Not out
+16.1,G Gambhir,Z Khan,MK Tiwary,4,Not out
+16.2,G Gambhir,Z Khan,MK Tiwary,0,caught
+16.3,RN ten Doeschate,Z Khan,MK Tiwary,0,Not out
+16.4,RN ten Doeschate,Z Khan,MK Tiwary,1,Not out
+16.5,MK Tiwary,Z Khan,RN ten Doeschate,0,caught
+16.6,RN ten Doeschate,Z Khan,Shakib Al Hasan,2,Not out
+17.1,Shakib Al Hasan,M Muralitharan,RN ten Doeschate,1,Not out
+17.2,RN ten Doeschate,M Muralitharan,Shakib Al Hasan,0,caught
+17.3,LR Shukla,M Muralitharan,Shakib Al Hasan,1,Not out
+17.4,Shakib Al Hasan,M Muralitharan,LR Shukla,0,Not out
+17.5,Shakib Al Hasan,M Muralitharan,LR Shukla,0,Not out
+17.6,Shakib Al Hasan,M Muralitharan,LR Shukla,1,Not out
+17.7,LR Shukla,M Muralitharan,Shakib Al Hasan,1,Not out
+17.8,Shakib Al Hasan,M Muralitharan,LR Shukla,2,Not out
+18.1,LR Shukla,R Vinay Kumar,Shakib Al Hasan,0,Not out
+18.2,LR Shukla,R Vinay Kumar,Shakib Al Hasan,1,Not out
+18.3,Shakib Al Hasan,R Vinay Kumar,LR Shukla,0,caught
+18.4,LR Shukla,R Vinay Kumar,B Lee,0,Not out
+18.5,LR Shukla,R Vinay Kumar,B Lee,0,Not out
+18.6,LR Shukla,R Vinay Kumar,B Lee,2,Not out
+19.1,B Lee,HV Patel,LR Shukla,0,Not out
+19.2,B Lee,HV Patel,LR Shukla,1,Not out
+19.3,LR Shukla,HV Patel,B Lee,0,caught
+19.4,B Lee,HV Patel,R Bhatia,6,Not out
+19.5,B Lee,HV Patel,R Bhatia,1,Not out
+19.6,R Bhatia,HV Patel,B Lee,4,Not out

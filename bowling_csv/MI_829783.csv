@@ -1,0 +1,122 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MA Agarwal,SL Malinga,SS Iyer,0,caught
+0.2,JP Duminy,SL Malinga,SS Iyer,0,Not out
+0.3,JP Duminy,SL Malinga,SS Iyer,0,Not out
+0.4,JP Duminy,SL Malinga,SS Iyer,4,Not out
+0.5,JP Duminy,SL Malinga,SS Iyer,0,Not out
+0.6,JP Duminy,SL Malinga,SS Iyer,0,Not out
+1.1,SS Iyer,MJ McClenaghan,JP Duminy,1,Not out
+1.2,JP Duminy,MJ McClenaghan,SS Iyer,1,Not out
+1.3,SS Iyer,MJ McClenaghan,JP Duminy,0,Not out
+1.4,SS Iyer,MJ McClenaghan,JP Duminy,0,Not out
+1.5,SS Iyer,MJ McClenaghan,JP Duminy,0,Not out
+1.6,SS Iyer,MJ McClenaghan,JP Duminy,0,Not out
+1.7,SS Iyer,MJ McClenaghan,JP Duminy,0,Not out
+2.1,JP Duminy,R Vinay Kumar,SS Iyer,0,Not out
+2.2,JP Duminy,R Vinay Kumar,SS Iyer,1,Not out
+2.3,SS Iyer,R Vinay Kumar,JP Duminy,0,Not out
+2.4,SS Iyer,R Vinay Kumar,JP Duminy,0,Not out
+2.5,SS Iyer,R Vinay Kumar,JP Duminy,1,Not out
+2.6,JP Duminy,R Vinay Kumar,SS Iyer,6,Not out
+3.1,SS Iyer,MJ McClenaghan,JP Duminy,4,Not out
+3.2,SS Iyer,MJ McClenaghan,JP Duminy,4,Not out
+3.3,SS Iyer,MJ McClenaghan,JP Duminy,0,Not out
+3.4,SS Iyer,MJ McClenaghan,JP Duminy,2,Not out
+3.5,SS Iyer,MJ McClenaghan,JP Duminy,0,Not out
+3.6,SS Iyer,MJ McClenaghan,JP Duminy,4,Not out
+4.1,JP Duminy,R Vinay Kumar,SS Iyer,1,Not out
+4.2,SS Iyer,R Vinay Kumar,JP Duminy,0,Not out
+4.3,SS Iyer,R Vinay Kumar,JP Duminy,2,Not out
+4.4,SS Iyer,R Vinay Kumar,JP Duminy,1,Not out
+4.5,JP Duminy,R Vinay Kumar,SS Iyer,6,Not out
+4.6,JP Duminy,R Vinay Kumar,SS Iyer,4,Not out
+5.1,SS Iyer,Harbhajan Singh,JP Duminy,0,caught
+5.2,JP Duminy,Harbhajan Singh,KM Jadhav,0,Not out
+5.3,JP Duminy,Harbhajan Singh,KM Jadhav,0,Not out
+5.4,JP Duminy,Harbhajan Singh,KM Jadhav,0,Not out
+5.5,JP Duminy,Harbhajan Singh,KM Jadhav,0,Not out
+5.6,KM Jadhav,Harbhajan Singh,JP Duminy,0,Not out
+6.1,JP Duminy,J Suchith,KM Jadhav,4,Not out
+6.2,JP Duminy,J Suchith,KM Jadhav,1,Not out
+6.3,KM Jadhav,J Suchith,JP Duminy,1,Not out
+6.4,JP Duminy,J Suchith,KM Jadhav,0,caught and bowled
+6.5,Yuvraj Singh,J Suchith,KM Jadhav,1,Not out
+6.6,KM Jadhav,J Suchith,Yuvraj Singh,1,Not out
+7.1,KM Jadhav,Harbhajan Singh,Yuvraj Singh,0,Not out
+7.2,KM Jadhav,Harbhajan Singh,Yuvraj Singh,1,Not out
+7.3,Yuvraj Singh,Harbhajan Singh,KM Jadhav,0,Not out
+7.4,Yuvraj Singh,Harbhajan Singh,KM Jadhav,0,Not out
+7.5,Yuvraj Singh,Harbhajan Singh,KM Jadhav,1,Not out
+7.6,KM Jadhav,Harbhajan Singh,Yuvraj Singh,3,Not out
+8.1,KM Jadhav,SL Malinga,Yuvraj Singh,1,Not out
+8.2,Yuvraj Singh,SL Malinga,KM Jadhav,0,Not out
+8.3,Yuvraj Singh,SL Malinga,KM Jadhav,0,Not out
+8.4,Yuvraj Singh,SL Malinga,KM Jadhav,0,Not out
+8.5,Yuvraj Singh,SL Malinga,KM Jadhav,4,Not out
+8.6,Yuvraj Singh,SL Malinga,KM Jadhav,4,Not out
+9.1,KM Jadhav,Harbhajan Singh,Yuvraj Singh,1,Not out
+9.2,Yuvraj Singh,Harbhajan Singh,KM Jadhav,0,Not out
+9.3,Yuvraj Singh,Harbhajan Singh,KM Jadhav,0,Not out
+9.4,Yuvraj Singh,Harbhajan Singh,KM Jadhav,0,Not out
+9.5,Yuvraj Singh,Harbhajan Singh,KM Jadhav,0,Not out
+9.6,Yuvraj Singh,Harbhajan Singh,KM Jadhav,2,Not out
+10.1,KM Jadhav,J Suchith,Yuvraj Singh,6,Not out
+10.2,KM Jadhav,J Suchith,Yuvraj Singh,0,Not out
+10.3,KM Jadhav,J Suchith,Yuvraj Singh,0,Not out
+10.4,KM Jadhav,J Suchith,Yuvraj Singh,0,Not out
+10.5,KM Jadhav,J Suchith,Yuvraj Singh,2,Not out
+10.6,KM Jadhav,J Suchith,Yuvraj Singh,0,Not out
+11.1,Yuvraj Singh,Harbhajan Singh,KM Jadhav,1,Not out
+11.2,KM Jadhav,Harbhajan Singh,Yuvraj Singh,0,stumped
+11.3,AD Mathews,Harbhajan Singh,Yuvraj Singh,1,Not out
+11.4,Yuvraj Singh,Harbhajan Singh,AD Mathews,0,Not out
+11.5,Yuvraj Singh,Harbhajan Singh,AD Mathews,0,Not out
+11.6,Yuvraj Singh,Harbhajan Singh,AD Mathews,1,Not out
+12.1,Yuvraj Singh,J Suchith,AD Mathews,1,Not out
+12.2,AD Mathews,J Suchith,Yuvraj Singh,1,Not out
+12.3,Yuvraj Singh,J Suchith,AD Mathews,4,Not out
+12.4,Yuvraj Singh,J Suchith,AD Mathews,1,Not out
+12.5,AD Mathews,J Suchith,Yuvraj Singh,0,Not out
+12.6,AD Mathews,J Suchith,Yuvraj Singh,1,Not out
+13.1,AD Mathews,HH Pandya,Yuvraj Singh,0,Not out
+13.2,AD Mathews,HH Pandya,Yuvraj Singh,1,Not out
+13.3,Yuvraj Singh,HH Pandya,AD Mathews,0,Not out
+13.4,Yuvraj Singh,HH Pandya,AD Mathews,0,Not out
+13.5,Yuvraj Singh,HH Pandya,AD Mathews,0,Not out
+13.6,Yuvraj Singh,HH Pandya,AD Mathews,1,Not out
+14.1,Yuvraj Singh,MJ McClenaghan,AD Mathews,0,Not out
+14.2,Yuvraj Singh,MJ McClenaghan,AD Mathews,1,Not out
+14.3,AD Mathews,MJ McClenaghan,Yuvraj Singh,1,Not out
+14.4,Yuvraj Singh,MJ McClenaghan,AD Mathews,1,Not out
+14.5,AD Mathews,MJ McClenaghan,Yuvraj Singh,1,Not out
+14.6,Yuvraj Singh,MJ McClenaghan,AD Mathews,1,Not out
+15.1,Yuvraj Singh,HH Pandya,AD Mathews,0,Not out
+15.2,Yuvraj Singh,HH Pandya,AD Mathews,1,Not out
+15.3,AD Mathews,HH Pandya,Yuvraj Singh,6,Not out
+15.4,AD Mathews,HH Pandya,Yuvraj Singh,0,caught
+15.5,Yuvraj Singh,HH Pandya,SS Tiwary,0,Not out
+15.6,Yuvraj Singh,HH Pandya,SS Tiwary,4,Not out
+16.1,SS Tiwary,SL Malinga,Yuvraj Singh,1,Not out
+16.2,Yuvraj Singh,SL Malinga,SS Tiwary,4,Not out
+16.3,Yuvraj Singh,SL Malinga,SS Tiwary,4,Not out
+16.4,Yuvraj Singh,SL Malinga,SS Tiwary,4,Not out
+16.5,Yuvraj Singh,SL Malinga,SS Tiwary,1,Not out
+16.6,SS Tiwary,SL Malinga,Yuvraj Singh,1,Not out
+17.1,SS Tiwary,MJ McClenaghan,Yuvraj Singh,0,Not out
+17.2,Yuvraj Singh,MJ McClenaghan,SS Tiwary,1,Not out
+17.3,SS Tiwary,MJ McClenaghan,Yuvraj Singh,1,Not out
+17.4,Yuvraj Singh,MJ McClenaghan,SS Tiwary,6,Not out
+17.5,Yuvraj Singh,MJ McClenaghan,SS Tiwary,6,Not out
+17.6,Yuvraj Singh,MJ McClenaghan,SS Tiwary,1,Not out
+18.1,Yuvraj Singh,SL Malinga,SS Tiwary,1,Not out
+18.2,SS Tiwary,SL Malinga,Yuvraj Singh,4,Not out
+18.3,SS Tiwary,SL Malinga,Yuvraj Singh,0,Not out
+18.4,SS Tiwary,SL Malinga,Yuvraj Singh,0,Not out
+18.5,Yuvraj Singh,SL Malinga,SS Tiwary,0,Not out
+18.6,Yuvraj Singh,SL Malinga,SS Tiwary,0,caught
+19.1,SS Tiwary,R Vinay Kumar,NM Coulter-Nile,0,Not out
+19.2,SS Tiwary,R Vinay Kumar,NM Coulter-Nile,4,Not out
+19.3,SS Tiwary,R Vinay Kumar,NM Coulter-Nile,1,Not out
+19.4,NM Coulter-Nile,R Vinay Kumar,SS Tiwary,1,Not out
+19.5,SS Tiwary,R Vinay Kumar,NM Coulter-Nile,1,Not out
+19.6,NM Coulter-Nile,R Vinay Kumar,SS Tiwary,2,Not out

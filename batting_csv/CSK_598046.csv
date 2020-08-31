@@ -1,0 +1,97 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MEK Hussey,MG Johnson,M Vijay,0,Not out
+0.2,MEK Hussey,MG Johnson,M Vijay,0,Not out
+0.3,MEK Hussey,MG Johnson,M Vijay,2,Not out
+0.4,MEK Hussey,MG Johnson,M Vijay,4,Not out
+0.5,MEK Hussey,MG Johnson,M Vijay,0,Not out
+0.6,MEK Hussey,MG Johnson,M Vijay,0,Not out
+1.1,M Vijay,P Suyal,MEK Hussey,0,Not out
+1.2,M Vijay,P Suyal,MEK Hussey,1,Not out
+1.3,MEK Hussey,P Suyal,M Vijay,1,Not out
+1.4,M Vijay,P Suyal,MEK Hussey,1,Not out
+1.5,MEK Hussey,P Suyal,M Vijay,0,Not out
+1.6,MEK Hussey,P Suyal,M Vijay,0,Not out
+2.1,M Vijay,MG Johnson,MEK Hussey,0,bowled
+2.2,SK Raina,MG Johnson,MEK Hussey,0,caught
+2.3,S Badrinath,MG Johnson,MEK Hussey,0,Not out
+2.4,S Badrinath,MG Johnson,MEK Hussey,0,Not out
+2.5,S Badrinath,MG Johnson,MEK Hussey,0,lbw
+2.6,DJ Bravo,MG Johnson,MEK Hussey,1,Not out
+3.1,DJ Bravo,P Suyal,MEK Hussey,0,Not out
+3.2,DJ Bravo,P Suyal,MEK Hussey,0,Not out
+3.3,DJ Bravo,P Suyal,MEK Hussey,4,Not out
+3.4,DJ Bravo,P Suyal,MEK Hussey,4,Not out
+3.5,DJ Bravo,P Suyal,MEK Hussey,0,Not out
+3.6,DJ Bravo,P Suyal,MEK Hussey,0,caught
+4.1,MEK Hussey,Harbhajan Singh,R Ashwin,1,Not out
+4.2,R Ashwin,Harbhajan Singh,MEK Hussey,0,Not out
+4.3,R Ashwin,Harbhajan Singh,MEK Hussey,0,Not out
+4.4,R Ashwin,Harbhajan Singh,MEK Hussey,0,Not out
+4.5,R Ashwin,Harbhajan Singh,MEK Hussey,1,Not out
+4.6,MEK Hussey,Harbhajan Singh,R Ashwin,1,Not out
+5.1,MEK Hussey,P Suyal,R Ashwin,0,Not out
+5.2,MEK Hussey,P Suyal,R Ashwin,6,Not out
+5.3,MEK Hussey,P Suyal,R Ashwin,1,Not out
+5.4,R Ashwin,P Suyal,MEK Hussey,0,Not out
+5.5,MEK Hussey,P Suyal,R Ashwin,0,Not out
+5.6,MEK Hussey,P Suyal,R Ashwin,0,Not out
+5.7,MEK Hussey,P Suyal,R Ashwin,2,Not out
+6.1,R Ashwin,Harbhajan Singh,MEK Hussey,0,Not out
+6.2,R Ashwin,Harbhajan Singh,MEK Hussey,1,Not out
+6.3,MEK Hussey,Harbhajan Singh,R Ashwin,1,Not out
+6.4,R Ashwin,Harbhajan Singh,MEK Hussey,0,bowled
+6.5,MS Dhoni,Harbhajan Singh,MEK Hussey,0,Not out
+6.6,MS Dhoni,Harbhajan Singh,MEK Hussey,0,Not out
+7.1,MEK Hussey,SL Malinga,MS Dhoni,0,Not out
+7.2,MEK Hussey,SL Malinga,MS Dhoni,0,Not out
+7.3,MEK Hussey,SL Malinga,MS Dhoni,0,Not out
+7.4,MEK Hussey,SL Malinga,MS Dhoni,0,Not out
+7.5,MEK Hussey,SL Malinga,MS Dhoni,1,Not out
+7.6,MS Dhoni,SL Malinga,MEK Hussey,1,Not out
+8.1,MS Dhoni,Harbhajan Singh,MEK Hussey,1,Not out
+8.2,MEK Hussey,Harbhajan Singh,MS Dhoni,1,Not out
+8.3,MS Dhoni,Harbhajan Singh,MEK Hussey,1,Not out
+8.4,MEK Hussey,Harbhajan Singh,MS Dhoni,0,Not out
+8.5,MEK Hussey,Harbhajan Singh,MS Dhoni,1,Not out
+8.6,MS Dhoni,Harbhajan Singh,MEK Hussey,0,Not out
+9.1,MEK Hussey,PP Ojha,MS Dhoni,0,caught
+9.2,MS Dhoni,PP Ojha,RA Jadeja,1,Not out
+9.3,RA Jadeja,PP Ojha,MS Dhoni,1,Not out
+9.4,MS Dhoni,PP Ojha,RA Jadeja,4,Not out
+9.5,MS Dhoni,PP Ojha,RA Jadeja,0,Not out
+9.6,MS Dhoni,PP Ojha,RA Jadeja,2,Not out
+10.1,RA Jadeja,Harbhajan Singh,MS Dhoni,2,Not out
+10.2,RA Jadeja,Harbhajan Singh,MS Dhoni,0,Not out
+10.3,RA Jadeja,Harbhajan Singh,MS Dhoni,2,Not out
+10.4,RA Jadeja,Harbhajan Singh,MS Dhoni,0,Not out
+10.5,RA Jadeja,Harbhajan Singh,MS Dhoni,0,Not out
+10.6,RA Jadeja,Harbhajan Singh,MS Dhoni,0,Not out
+11.1,MS Dhoni,PP Ojha,RA Jadeja,0,Not out
+11.2,MS Dhoni,PP Ojha,RA Jadeja,0,caught
+11.3,CH Morris,PP Ojha,RA Jadeja,0,Not out
+11.4,CH Morris,PP Ojha,RA Jadeja,0,Not out
+11.5,CH Morris,PP Ojha,RA Jadeja,0,Not out
+11.6,CH Morris,PP Ojha,RA Jadeja,1,Not out
+11.7,RA Jadeja,PP Ojha,CH Morris,0,Not out
+12.1,CH Morris,SL Malinga,RA Jadeja,0,bowled
+12.2,MM Sharma,SL Malinga,RA Jadeja,0,Not out
+12.3,MM Sharma,SL Malinga,RA Jadeja,0,Not out
+12.4,MM Sharma,SL Malinga,RA Jadeja,0,caught
+12.5,RA Jadeja,SL Malinga,B Laughlin,1,Not out
+12.6,B Laughlin,SL Malinga,RA Jadeja,0,Not out
+13.1,RA Jadeja,MG Johnson,B Laughlin,2,Not out
+13.2,RA Jadeja,MG Johnson,B Laughlin,4,Not out
+13.3,RA Jadeja,MG Johnson,B Laughlin,0,Not out
+13.4,RA Jadeja,MG Johnson,B Laughlin,2,Not out
+13.5,RA Jadeja,MG Johnson,B Laughlin,1,Not out
+13.6,B Laughlin,MG Johnson,RA Jadeja,1,Not out
+13.7,RA Jadeja,MG Johnson,B Laughlin,0,Not out
+13.8,RA Jadeja,MG Johnson,B Laughlin,4,Not out
+14.1,B Laughlin,SL Malinga,RA Jadeja,1,Not out
+14.2,RA Jadeja,SL Malinga,B Laughlin,1,Not out
+14.3,B Laughlin,SL Malinga,RA Jadeja,0,Not out
+14.4,B Laughlin,SL Malinga,RA Jadeja,0,Not out
+14.5,B Laughlin,SL Malinga,RA Jadeja,0,Not out
+14.6,B Laughlin,SL Malinga,RA Jadeja,1,Not out
+15.1,B Laughlin,PP Ojha,RA Jadeja,1,Not out
+15.2,RA Jadeja,PP Ojha,B Laughlin,0,caught

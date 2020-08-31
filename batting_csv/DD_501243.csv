@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AJ Finch,DW Steyn,V Sehwag,0,Not out
+0.2,AJ Finch,DW Steyn,V Sehwag,0,caught
+0.3,NV Ojha,DW Steyn,V Sehwag,0,Not out
+0.4,NV Ojha,DW Steyn,V Sehwag,0,Not out
+0.5,NV Ojha,DW Steyn,V Sehwag,1,Not out
+0.6,V Sehwag,DW Steyn,NV Ojha,4,Not out
+1.1,NV Ojha,I Sharma,V Sehwag,1,Not out
+1.2,V Sehwag,I Sharma,NV Ojha,0,Not out
+1.3,V Sehwag,I Sharma,NV Ojha,0,Not out
+1.4,V Sehwag,I Sharma,NV Ojha,0,Not out
+1.5,V Sehwag,I Sharma,NV Ojha,0,Not out
+1.6,V Sehwag,I Sharma,NV Ojha,1,Not out
+1.7,NV Ojha,I Sharma,V Sehwag,0,Not out
+2.1,V Sehwag,DW Steyn,NV Ojha,0,Not out
+2.2,V Sehwag,DW Steyn,NV Ojha,0,Not out
+2.3,V Sehwag,DW Steyn,NV Ojha,1,Not out
+2.4,NV Ojha,DW Steyn,V Sehwag,0,Not out
+2.5,NV Ojha,DW Steyn,V Sehwag,0,Not out
+2.6,NV Ojha,DW Steyn,V Sehwag,1,Not out
+2.7,V Sehwag,DW Steyn,NV Ojha,0,Not out
+3.1,NV Ojha,I Sharma,V Sehwag,4,Not out
+3.2,NV Ojha,I Sharma,V Sehwag,0,caught
+3.3,Y Venugopal Rao,I Sharma,V Sehwag,0,Not out
+3.4,Y Venugopal Rao,I Sharma,V Sehwag,0,Not out
+3.5,Y Venugopal Rao,I Sharma,V Sehwag,0,Not out
+3.6,Y Venugopal Rao,I Sharma,V Sehwag,1,Not out
+4.1,Y Venugopal Rao,DT Christian,V Sehwag,0,Not out
+4.2,V Sehwag,DT Christian,Y Venugopal Rao,1,Not out
+4.3,Y Venugopal Rao,DT Christian,V Sehwag,1,Not out
+4.4,V Sehwag,DT Christian,Y Venugopal Rao,0,Not out
+4.5,V Sehwag,DT Christian,Y Venugopal Rao,0,Not out
+4.6,V Sehwag,DT Christian,Y Venugopal Rao,1,Not out
+4.7,Y Venugopal Rao,DT Christian,V Sehwag,0,Not out
+4.8,Y Venugopal Rao,DT Christian,V Sehwag,0,Not out
+4.9,Y Venugopal Rao,DT Christian,V Sehwag,1,Not out
+5.1,Y Venugopal Rao,I Sharma,V Sehwag,0,Not out
+5.2,Y Venugopal Rao,I Sharma,V Sehwag,0,Not out
+5.3,Y Venugopal Rao,I Sharma,V Sehwag,0,Not out
+5.4,Y Venugopal Rao,I Sharma,V Sehwag,0,Not out
+5.5,Y Venugopal Rao,I Sharma,V Sehwag,0,caught
+5.6,V Sehwag,I Sharma,TR Birt,0,Not out
+5.7,V Sehwag,I Sharma,TR Birt,4,Not out
+6.1,TR Birt,DT Christian,V Sehwag,0,Not out
+6.2,TR Birt,DT Christian,V Sehwag,0,Not out
+6.3,TR Birt,DT Christian,V Sehwag,0,Not out
+6.4,TR Birt,DT Christian,V Sehwag,0,Not out
+6.5,TR Birt,DT Christian,V Sehwag,0,Not out
+6.6,TR Birt,DT Christian,V Sehwag,1,Not out
+6.7,V Sehwag,DT Christian,TR Birt,1,Not out
+7.1,V Sehwag,I Malhotra,TR Birt,6,Not out
+7.2,V Sehwag,I Malhotra,TR Birt,6,Not out
+7.3,V Sehwag,I Malhotra,TR Birt,4,Not out
+7.4,V Sehwag,I Malhotra,TR Birt,4,Not out
+7.5,V Sehwag,I Malhotra,TR Birt,2,Not out
+7.6,V Sehwag,I Malhotra,TR Birt,1,Not out
+8.1,V Sehwag,DT Christian,TR Birt,2,Not out
+8.2,V Sehwag,DT Christian,TR Birt,4,Not out
+8.3,V Sehwag,DT Christian,TR Birt,1,Not out
+8.4,TR Birt,DT Christian,V Sehwag,1,Not out
+8.5,V Sehwag,DT Christian,TR Birt,4,Not out
+8.6,V Sehwag,DT Christian,TR Birt,1,Not out
+9.1,V Sehwag,A Mishra,TR Birt,6,Not out
+9.2,V Sehwag,A Mishra,TR Birt,2,Not out
+9.3,V Sehwag,A Mishra,TR Birt,4,Not out
+9.4,V Sehwag,A Mishra,TR Birt,2,Not out
+9.5,V Sehwag,A Mishra,TR Birt,1,Not out
+9.6,TR Birt,A Mishra,V Sehwag,2,Not out
+10.1,V Sehwag,DT Christian,TR Birt,1,Not out
+10.2,TR Birt,DT Christian,V Sehwag,0,bowled
+10.3,IK Pathan,DT Christian,V Sehwag,0,Not out
+10.4,IK Pathan,DT Christian,V Sehwag,1,Not out
+10.5,V Sehwag,DT Christian,IK Pathan,1,Not out
+10.6,IK Pathan,DT Christian,V Sehwag,4,Not out
+11.1,V Sehwag,A Mishra,IK Pathan,1,Not out
+11.2,IK Pathan,A Mishra,V Sehwag,1,Not out
+11.3,V Sehwag,A Mishra,IK Pathan,4,Not out
+11.4,V Sehwag,A Mishra,IK Pathan,4,Not out
+11.5,V Sehwag,A Mishra,IK Pathan,4,Not out
+11.6,V Sehwag,A Mishra,IK Pathan,1,Not out
+12.1,V Sehwag,DW Steyn,IK Pathan,1,Not out
+12.2,IK Pathan,DW Steyn,V Sehwag,0,Not out
+12.3,V Sehwag,DW Steyn,IK Pathan,0,Not out
+12.4,V Sehwag,DW Steyn,IK Pathan,2,Not out
+12.5,V Sehwag,DW Steyn,IK Pathan,4,Not out
+12.6,V Sehwag,DW Steyn,IK Pathan,4,Not out
+13.1,IK Pathan,A Mishra,V Sehwag,1,Not out
+13.2,V Sehwag,A Mishra,IK Pathan,0,Not out
+13.3,V Sehwag,A Mishra,IK Pathan,6,Not out
+13.4,V Sehwag,A Mishra,IK Pathan,1,Not out
+13.5,IK Pathan,A Mishra,V Sehwag,1,Not out
+13.6,V Sehwag,A Mishra,IK Pathan,1,Not out
+14.1,V Sehwag,B Chipli,IK Pathan,2,Not out
+14.2,V Sehwag,B Chipli,IK Pathan,6,Not out
+14.3,V Sehwag,B Chipli,IK Pathan,6,Not out
+14.4,V Sehwag,B Chipli,IK Pathan,2,Not out
+14.5,V Sehwag,B Chipli,IK Pathan,4,Not out
+14.6,V Sehwag,B Chipli,IK Pathan,0,Not out
+15.1,IK Pathan,I Sharma,V Sehwag,0,Not out
+15.2,IK Pathan,I Sharma,V Sehwag,0,Not out
+15.3,IK Pathan,I Sharma,V Sehwag,1,Not out
+15.4,V Sehwag,I Sharma,IK Pathan,0,Not out
+15.5,V Sehwag,I Sharma,IK Pathan,1,Not out
+15.6,IK Pathan,I Sharma,V Sehwag,1,Not out
+16.1,IK Pathan,DW Steyn,V Sehwag,1,Not out
+16.2,V Sehwag,DW Steyn,IK Pathan,0,caught
+16.3,JR Hopes,DW Steyn,IK Pathan,1,Not out
+16.4,IK Pathan,DW Steyn,JR Hopes,0,Not out
+16.5,IK Pathan,DW Steyn,JR Hopes,0,Not out
+16.6,IK Pathan,DW Steyn,JR Hopes,1,Not out
+16.7,JR Hopes,DW Steyn,IK Pathan,1,Not out
+17.1,JR Hopes,A Mishra,IK Pathan,2,Not out
+17.2,JR Hopes,A Mishra,IK Pathan,4,Not out
+17.3,JR Hopes,A Mishra,IK Pathan,4,Not out
+17.4,JR Hopes,A Mishra,IK Pathan,1,Not out
+17.5,IK Pathan,A Mishra,JR Hopes,0,stumped
+17.6,Y Nagar,A Mishra,JR Hopes,0,Not out
+18.1,JR Hopes,JP Duminy,Y Nagar,1,Not out
+18.2,Y Nagar,JP Duminy,JR Hopes,1,Not out
+18.3,JR Hopes,JP Duminy,Y Nagar,2,Not out
+18.4,JR Hopes,JP Duminy,Y Nagar,0,Not out
+18.5,JR Hopes,JP Duminy,Y Nagar,1,Not out
+18.6,Y Nagar,JP Duminy,JR Hopes,6,Not out

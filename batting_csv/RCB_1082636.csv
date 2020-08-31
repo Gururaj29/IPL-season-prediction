@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,CH Gayle,UT Yadav,Mandeep Singh,0,caught
+0.2,V Kohli,UT Yadav,Mandeep Singh,0,Not out
+0.3,V Kohli,UT Yadav,Mandeep Singh,0,Not out
+0.4,V Kohli,UT Yadav,Mandeep Singh,0,Not out
+0.5,V Kohli,UT Yadav,Mandeep Singh,0,Not out
+0.6,V Kohli,UT Yadav,Mandeep Singh,1,Not out
+1.1,V Kohli,CR Woakes,Mandeep Singh,1,Not out
+1.2,Mandeep Singh,CR Woakes,V Kohli,0,Not out
+1.3,Mandeep Singh,CR Woakes,V Kohli,0,Not out
+1.4,Mandeep Singh,CR Woakes,V Kohli,0,Not out
+1.5,Mandeep Singh,CR Woakes,V Kohli,4,Not out
+1.6,Mandeep Singh,CR Woakes,V Kohli,6,Not out
+2.1,V Kohli,UT Yadav,Mandeep Singh,1,Not out
+2.2,Mandeep Singh,UT Yadav,V Kohli,4,Not out
+2.3,Mandeep Singh,UT Yadav,V Kohli,1,Not out
+2.4,V Kohli,UT Yadav,Mandeep Singh,2,Not out
+2.5,V Kohli,UT Yadav,Mandeep Singh,0,lbw
+2.6,AB de Villiers,UT Yadav,Mandeep Singh,0,Not out
+3.1,Mandeep Singh,CR Woakes,AB de Villiers,2,Not out
+3.2,Mandeep Singh,CR Woakes,AB de Villiers,1,Not out
+3.3,AB de Villiers,CR Woakes,Mandeep Singh,0,Not out
+3.4,AB de Villiers,CR Woakes,Mandeep Singh,0,Not out
+3.5,AB de Villiers,CR Woakes,Mandeep Singh,2,Not out
+3.6,AB de Villiers,CR Woakes,Mandeep Singh,4,Not out
+4.1,Mandeep Singh,SP Narine,AB de Villiers,1,Not out
+4.2,AB de Villiers,SP Narine,Mandeep Singh,0,Not out
+4.3,AB de Villiers,SP Narine,Mandeep Singh,4,Not out
+4.4,AB de Villiers,SP Narine,Mandeep Singh,0,bowled
+4.5,TM Head,SP Narine,Mandeep Singh,0,Not out
+4.6,TM Head,SP Narine,Mandeep Singh,0,Not out
+5.1,Mandeep Singh,UT Yadav,TM Head,0,Not out
+5.2,Mandeep Singh,UT Yadav,TM Head,0,Not out
+5.3,Mandeep Singh,UT Yadav,TM Head,0,Not out
+5.4,Mandeep Singh,UT Yadav,TM Head,1,Not out
+5.5,TM Head,UT Yadav,Mandeep Singh,0,Not out
+5.6,TM Head,UT Yadav,Mandeep Singh,4,Not out
+5.7,TM Head,UT Yadav,Mandeep Singh,0,Not out
+6.1,Mandeep Singh,SP Narine,TM Head,1,Not out
+6.2,TM Head,SP Narine,Mandeep Singh,2,Not out
+6.3,TM Head,SP Narine,Mandeep Singh,1,Not out
+6.4,Mandeep Singh,SP Narine,TM Head,0,Not out
+6.5,Mandeep Singh,SP Narine,TM Head,4,Not out
+6.6,Mandeep Singh,SP Narine,TM Head,1,Not out
+7.1,Mandeep Singh,AS Rajpoot,TM Head,1,Not out
+7.2,TM Head,AS Rajpoot,Mandeep Singh,0,Not out
+7.3,TM Head,AS Rajpoot,Mandeep Singh,1,Not out
+7.4,Mandeep Singh,AS Rajpoot,TM Head,1,Not out
+7.5,TM Head,AS Rajpoot,Mandeep Singh,1,Not out
+7.6,Mandeep Singh,AS Rajpoot,TM Head,1,Not out
+8.1,Mandeep Singh,PP Chawla,TM Head,1,Not out
+8.2,TM Head,PP Chawla,Mandeep Singh,1,Not out
+8.3,Mandeep Singh,PP Chawla,TM Head,1,Not out
+8.4,TM Head,PP Chawla,Mandeep Singh,1,Not out
+8.5,Mandeep Singh,PP Chawla,TM Head,1,Not out
+8.6,TM Head,PP Chawla,Mandeep Singh,0,Not out
+9.1,Mandeep Singh,AS Rajpoot,TM Head,0,Not out
+9.2,Mandeep Singh,AS Rajpoot,TM Head,1,Not out
+9.3,TM Head,AS Rajpoot,Mandeep Singh,0,Not out
+9.4,TM Head,AS Rajpoot,Mandeep Singh,1,Not out
+9.5,Mandeep Singh,AS Rajpoot,TM Head,1,Not out
+9.6,TM Head,AS Rajpoot,Mandeep Singh,0,Not out
+10.1,TM Head,PP Chawla,Mandeep Singh,1,Not out
+10.2,Mandeep Singh,PP Chawla,TM Head,1,Not out
+10.3,TM Head,PP Chawla,Mandeep Singh,1,Not out
+10.4,Mandeep Singh,PP Chawla,TM Head,1,Not out
+10.5,TM Head,PP Chawla,Mandeep Singh,2,Not out
+10.6,TM Head,PP Chawla,Mandeep Singh,2,Not out
+11.1,Mandeep Singh,AS Rajpoot,TM Head,0,Not out
+11.2,Mandeep Singh,AS Rajpoot,TM Head,1,Not out
+11.3,TM Head,AS Rajpoot,Mandeep Singh,0,Not out
+11.4,TM Head,AS Rajpoot,Mandeep Singh,1,Not out
+11.5,Mandeep Singh,AS Rajpoot,TM Head,1,Not out
+11.6,TM Head,AS Rajpoot,Mandeep Singh,4,Not out
+12.1,Mandeep Singh,C de Grandhomme,TM Head,1,Not out
+12.2,TM Head,C de Grandhomme,Mandeep Singh,1,Not out
+12.3,Mandeep Singh,C de Grandhomme,TM Head,0,Not out
+12.4,Mandeep Singh,C de Grandhomme,TM Head,1,Not out
+12.5,TM Head,C de Grandhomme,Mandeep Singh,2,Not out
+12.6,TM Head,C de Grandhomme,Mandeep Singh,1,Not out
+13.1,TM Head,SP Narine,Mandeep Singh,1,Not out
+13.2,Mandeep Singh,SP Narine,TM Head,2,Not out
+13.3,Mandeep Singh,SP Narine,TM Head,1,Not out
+13.4,TM Head,SP Narine,Mandeep Singh,6,Not out
+13.5,TM Head,SP Narine,Mandeep Singh,1,Not out
+13.6,Mandeep Singh,SP Narine,TM Head,1,Not out
+14.1,Mandeep Singh,C de Grandhomme,TM Head,4,Not out
+14.2,Mandeep Singh,C de Grandhomme,TM Head,0,Not out
+14.3,Mandeep Singh,C de Grandhomme,TM Head,1,Not out
+14.4,TM Head,C de Grandhomme,Mandeep Singh,1,Not out
+14.5,Mandeep Singh,C de Grandhomme,TM Head,2,Not out
+14.6,Mandeep Singh,C de Grandhomme,TM Head,1,Not out
+15.1,Mandeep Singh,SP Narine,TM Head,0,caught
+15.2,TM Head,SP Narine,KM Jadhav,1,Not out
+15.3,KM Jadhav,SP Narine,TM Head,1,Not out
+15.4,TM Head,SP Narine,KM Jadhav,1,Not out
+15.5,KM Jadhav,SP Narine,TM Head,0,Not out
+15.6,KM Jadhav,SP Narine,TM Head,0,Not out
+16.1,TM Head,CR Woakes,KM Jadhav,1,Not out
+16.2,KM Jadhav,CR Woakes,TM Head,0,Not out
+16.3,KM Jadhav,CR Woakes,TM Head,1,Not out
+16.4,TM Head,CR Woakes,KM Jadhav,0,Not out
+16.5,TM Head,CR Woakes,KM Jadhav,1,Not out
+16.6,KM Jadhav,CR Woakes,TM Head,4,Not out
+17.1,TM Head,AS Rajpoot,KM Jadhav,0,Not out
+17.2,TM Head,AS Rajpoot,KM Jadhav,1,Not out
+17.3,KM Jadhav,AS Rajpoot,TM Head,1,Not out
+17.4,TM Head,AS Rajpoot,KM Jadhav,1,Not out
+17.5,KM Jadhav,AS Rajpoot,TM Head,1,Not out
+17.6,TM Head,AS Rajpoot,KM Jadhav,6,Not out
+18.1,KM Jadhav,CR Woakes,TM Head,0,caught
+18.2,TM Head,CR Woakes,P Negi,1,Not out
+18.3,P Negi,CR Woakes,TM Head,1,Not out
+18.4,TM Head,CR Woakes,P Negi,0,Not out
+18.5,TM Head,CR Woakes,P Negi,2,Not out
+18.6,TM Head,CR Woakes,P Negi,6,Not out
+18.7,TM Head,CR Woakes,P Negi,1,Not out
+19.1,TM Head,UT Yadav,P Negi,1,Not out
+19.2,P Negi,UT Yadav,TM Head,4,Not out
+19.3,P Negi,UT Yadav,TM Head,0,caught
+19.4,TM Head,UT Yadav,S Aravind,6,Not out
+19.5,TM Head,UT Yadav,S Aravind,6,Not out
+19.6,TM Head,UT Yadav,S Aravind,4,Not out

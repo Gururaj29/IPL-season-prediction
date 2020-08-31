@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,G Gambhir,DS Kulkarni,JH Kallis,0,Not out
+0.2,G Gambhir,DS Kulkarni,JH Kallis,0,Not out
+0.3,G Gambhir,DS Kulkarni,JH Kallis,0,Not out
+0.4,G Gambhir,DS Kulkarni,JH Kallis,0,Not out
+0.5,JH Kallis,DS Kulkarni,G Gambhir,0,Not out
+0.6,JH Kallis,DS Kulkarni,G Gambhir,0,Not out
+0.7,JH Kallis,DS Kulkarni,G Gambhir,1,Not out
+1.1,JH Kallis,MM Patel,G Gambhir,2,Not out
+1.2,JH Kallis,MM Patel,G Gambhir,0,Not out
+1.3,JH Kallis,MM Patel,G Gambhir,4,Not out
+1.4,JH Kallis,MM Patel,G Gambhir,0,caught
+1.5,SP Goswami,MM Patel,G Gambhir,0,Not out
+1.6,SP Goswami,MM Patel,G Gambhir,0,Not out
+2.1,G Gambhir,Harbhajan Singh,SP Goswami,4,Not out
+2.2,G Gambhir,Harbhajan Singh,SP Goswami,0,Not out
+2.3,G Gambhir,Harbhajan Singh,SP Goswami,0,Not out
+2.4,G Gambhir,Harbhajan Singh,SP Goswami,0,Not out
+2.5,G Gambhir,Harbhajan Singh,SP Goswami,0,bowled
+2.6,MK Tiwary,Harbhajan Singh,SP Goswami,1,Not out
+3.1,MK Tiwary,MM Patel,SP Goswami,1,Not out
+3.2,SP Goswami,MM Patel,MK Tiwary,0,caught
+3.3,YK Pathan,MM Patel,MK Tiwary,0,Not out
+3.4,YK Pathan,MM Patel,MK Tiwary,0,Not out
+3.5,YK Pathan,MM Patel,MK Tiwary,1,Not out
+3.6,MK Tiwary,MM Patel,YK Pathan,0,Not out
+4.1,YK Pathan,SL Malinga,MK Tiwary,0,Not out
+4.2,YK Pathan,SL Malinga,MK Tiwary,0,Not out
+4.3,YK Pathan,SL Malinga,MK Tiwary,1,Not out
+4.4,MK Tiwary,SL Malinga,YK Pathan,0,Not out
+4.5,MK Tiwary,SL Malinga,YK Pathan,0,Not out
+4.6,MK Tiwary,SL Malinga,YK Pathan,2,Not out
+5.1,YK Pathan,DS Kulkarni,MK Tiwary,0,Not out
+5.2,YK Pathan,DS Kulkarni,MK Tiwary,1,Not out
+5.3,MK Tiwary,DS Kulkarni,YK Pathan,0,lbw
+5.4,RN ten Doeschate,DS Kulkarni,YK Pathan,0,Not out
+5.5,RN ten Doeschate,DS Kulkarni,YK Pathan,4,Not out
+5.6,RN ten Doeschate,DS Kulkarni,YK Pathan,1,Not out
+6.1,RN ten Doeschate,SL Malinga,YK Pathan,0,Not out
+6.2,RN ten Doeschate,SL Malinga,YK Pathan,0,Not out
+6.3,RN ten Doeschate,SL Malinga,YK Pathan,0,Not out
+6.4,RN ten Doeschate,SL Malinga,YK Pathan,0,Not out
+6.5,RN ten Doeschate,SL Malinga,YK Pathan,4,Not out
+6.6,RN ten Doeschate,SL Malinga,YK Pathan,1,Not out
+7.1,RN ten Doeschate,JEC Franklin,YK Pathan,1,Not out
+7.2,YK Pathan,JEC Franklin,RN ten Doeschate,1,Not out
+7.3,RN ten Doeschate,JEC Franklin,YK Pathan,0,Not out
+7.4,RN ten Doeschate,JEC Franklin,YK Pathan,1,Not out
+7.5,YK Pathan,JEC Franklin,RN ten Doeschate,1,Not out
+7.6,RN ten Doeschate,JEC Franklin,YK Pathan,6,Not out
+8.1,YK Pathan,KA Pollard,RN ten Doeschate,0,Not out
+8.2,YK Pathan,KA Pollard,RN ten Doeschate,1,Not out
+8.3,RN ten Doeschate,KA Pollard,YK Pathan,0,Not out
+8.4,RN ten Doeschate,KA Pollard,YK Pathan,0,Not out
+8.5,RN ten Doeschate,KA Pollard,YK Pathan,1,Not out
+8.6,YK Pathan,KA Pollard,RN ten Doeschate,1,Not out
+9.1,YK Pathan,Harbhajan Singh,RN ten Doeschate,1,Not out
+9.2,RN ten Doeschate,Harbhajan Singh,YK Pathan,0,Not out
+9.3,RN ten Doeschate,Harbhajan Singh,YK Pathan,1,Not out
+9.4,YK Pathan,Harbhajan Singh,RN ten Doeschate,1,Not out
+9.5,RN ten Doeschate,Harbhajan Singh,YK Pathan,2,Not out
+9.6,RN ten Doeschate,Harbhajan Singh,YK Pathan,1,Not out
+10.1,RN ten Doeschate,KA Pollard,YK Pathan,0,Not out
+10.2,RN ten Doeschate,KA Pollard,YK Pathan,0,Not out
+10.3,RN ten Doeschate,KA Pollard,YK Pathan,4,Not out
+10.4,RN ten Doeschate,KA Pollard,YK Pathan,6,Not out
+10.5,RN ten Doeschate,KA Pollard,YK Pathan,1,Not out
+10.6,YK Pathan,KA Pollard,RN ten Doeschate,4,Not out
+11.1,RN ten Doeschate,Harbhajan Singh,YK Pathan,1,Not out
+11.2,YK Pathan,Harbhajan Singh,RN ten Doeschate,1,Not out
+11.3,RN ten Doeschate,Harbhajan Singh,YK Pathan,1,Not out
+11.4,YK Pathan,Harbhajan Singh,RN ten Doeschate,4,Not out
+11.5,YK Pathan,Harbhajan Singh,RN ten Doeschate,0,Not out
+11.6,YK Pathan,Harbhajan Singh,RN ten Doeschate,1,Not out
+12.1,YK Pathan,MM Patel,RN ten Doeschate,4,Not out
+12.2,YK Pathan,MM Patel,RN ten Doeschate,1,Not out
+12.3,RN ten Doeschate,MM Patel,YK Pathan,0,Not out
+12.4,RN ten Doeschate,MM Patel,YK Pathan,1,Not out
+12.5,YK Pathan,MM Patel,RN ten Doeschate,2,Not out
+12.6,YK Pathan,MM Patel,RN ten Doeschate,0,caught
+13.1,RN ten Doeschate,Harbhajan Singh,Shakib Al Hasan,1,Not out
+13.2,Shakib Al Hasan,Harbhajan Singh,RN ten Doeschate,0,Not out
+13.3,Shakib Al Hasan,Harbhajan Singh,RN ten Doeschate,1,Not out
+13.4,RN ten Doeschate,Harbhajan Singh,Shakib Al Hasan,0,Not out
+13.5,RN ten Doeschate,Harbhajan Singh,Shakib Al Hasan,0,Not out
+13.6,RN ten Doeschate,Harbhajan Singh,Shakib Al Hasan,4,Not out
+13.7,RN ten Doeschate,Harbhajan Singh,Shakib Al Hasan,0,Not out
+14.1,Shakib Al Hasan,DS Kulkarni,RN ten Doeschate,4,Not out
+14.2,Shakib Al Hasan,DS Kulkarni,RN ten Doeschate,4,Not out
+14.3,Shakib Al Hasan,DS Kulkarni,RN ten Doeschate,4,Not out
+14.4,Shakib Al Hasan,DS Kulkarni,RN ten Doeschate,0,Not out
+14.5,Shakib Al Hasan,DS Kulkarni,RN ten Doeschate,2,Not out
+14.6,Shakib Al Hasan,DS Kulkarni,RN ten Doeschate,1,Not out
+15.1,Shakib Al Hasan,SL Malinga,RN ten Doeschate,1,Not out
+15.2,RN ten Doeschate,SL Malinga,Shakib Al Hasan,1,Not out
+15.3,Shakib Al Hasan,SL Malinga,RN ten Doeschate,0,Not out
+15.4,Shakib Al Hasan,SL Malinga,RN ten Doeschate,2,Not out
+15.5,Shakib Al Hasan,SL Malinga,RN ten Doeschate,1,Not out
+15.6,RN ten Doeschate,SL Malinga,Shakib Al Hasan,1,Not out
+15.7,Shakib Al Hasan,SL Malinga,RN ten Doeschate,0,Not out
+16.1,Shakib Al Hasan,MM Patel,RN ten Doeschate,4,Not out
+16.2,Shakib Al Hasan,MM Patel,RN ten Doeschate,1,Not out
+16.3,RN ten Doeschate,MM Patel,Shakib Al Hasan,4,Not out
+16.4,RN ten Doeschate,MM Patel,Shakib Al Hasan,1,Not out
+16.5,Shakib Al Hasan,MM Patel,RN ten Doeschate,1,Not out
+16.6,RN ten Doeschate,MM Patel,Shakib Al Hasan,0,Not out
+17.1,Shakib Al Hasan,SL Malinga,RN ten Doeschate,0,bowled
+17.2,R Bhatia,SL Malinga,RN ten Doeschate,0,Not out
+17.3,R Bhatia,SL Malinga,RN ten Doeschate,1,Not out
+17.4,RN ten Doeschate,SL Malinga,R Bhatia,1,Not out
+17.5,R Bhatia,SL Malinga,RN ten Doeschate,1,Not out
+17.6,RN ten Doeschate,SL Malinga,R Bhatia,1,Not out
+18.1,RN ten Doeschate,DS Kulkarni,R Bhatia,4,Not out
+18.2,RN ten Doeschate,DS Kulkarni,R Bhatia,0,Not out
+18.3,RN ten Doeschate,DS Kulkarni,R Bhatia,1,run out
+18.4,RN ten Doeschate,DS Kulkarni,B Lee,1,Not out
+18.5,B Lee,DS Kulkarni,RN ten Doeschate,1,Not out
+18.6,RN ten Doeschate,DS Kulkarni,B Lee,1,Not out
+18.7,B Lee,DS Kulkarni,RN ten Doeschate,0,Not out
+19.1,RN ten Doeschate,KA Pollard,B Lee,2,Not out
+19.2,RN ten Doeschate,KA Pollard,B Lee,6,Not out
+19.3,RN ten Doeschate,KA Pollard,B Lee,1,Not out
+19.4,B Lee,KA Pollard,RN ten Doeschate,1,Not out
+19.5,RN ten Doeschate,KA Pollard,B Lee,2,Not out
+19.6,RN ten Doeschate,KA Pollard,B Lee,1,Not out

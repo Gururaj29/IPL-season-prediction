@@ -1,0 +1,92 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AC Gilchrist,JA Morkel,HH Gibbs,0,lbw
+0.2,VVS Laxman,JA Morkel,HH Gibbs,0,Not out
+0.3,VVS Laxman,JA Morkel,HH Gibbs,0,Not out
+0.4,VVS Laxman,JA Morkel,HH Gibbs,0,Not out
+0.5,VVS Laxman,JA Morkel,HH Gibbs,0,Not out
+0.6,VVS Laxman,JA Morkel,HH Gibbs,0,Not out
+1.1,HH Gibbs,S Tyagi,VVS Laxman,0,Not out
+1.2,HH Gibbs,S Tyagi,VVS Laxman,0,Not out
+1.3,HH Gibbs,S Tyagi,VVS Laxman,0,bowled
+1.4,RG Sharma,S Tyagi,VVS Laxman,0,Not out
+1.5,RG Sharma,S Tyagi,VVS Laxman,0,Not out
+1.6,RG Sharma,S Tyagi,VVS Laxman,0,Not out
+1.7,RG Sharma,S Tyagi,VVS Laxman,0,Not out
+2.1,VVS Laxman,JA Morkel,RG Sharma,0,Not out
+2.2,VVS Laxman,JA Morkel,RG Sharma,0,caught
+2.3,DR Smith,JA Morkel,RG Sharma,2,Not out
+2.4,DR Smith,JA Morkel,RG Sharma,0,Not out
+2.5,DR Smith,JA Morkel,RG Sharma,2,Not out
+2.6,DR Smith,JA Morkel,RG Sharma,2,Not out
+3.1,RG Sharma,S Tyagi,DR Smith,0,Not out
+3.2,RG Sharma,S Tyagi,DR Smith,0,Not out
+3.3,RG Sharma,S Tyagi,DR Smith,0,Not out
+3.4,RG Sharma,S Tyagi,DR Smith,1,Not out
+3.5,DR Smith,S Tyagi,RG Sharma,6,Not out
+3.6,DR Smith,S Tyagi,RG Sharma,1,Not out
+4.1,DR Smith,JA Morkel,RG Sharma,0,Not out
+4.2,DR Smith,JA Morkel,RG Sharma,0,Not out
+4.3,DR Smith,JA Morkel,RG Sharma,6,Not out
+4.4,DR Smith,JA Morkel,RG Sharma,6,Not out
+4.5,DR Smith,JA Morkel,RG Sharma,4,Not out
+4.6,DR Smith,JA Morkel,RG Sharma,0,Not out
+4.7,RG Sharma,JA Morkel,DR Smith,1,Not out
+5.1,RG Sharma,L Balaji,DR Smith,6,Not out
+5.2,RG Sharma,L Balaji,DR Smith,4,Not out
+5.3,RG Sharma,L Balaji,DR Smith,1,Not out
+5.4,DR Smith,L Balaji,RG Sharma,6,Not out
+5.5,DR Smith,L Balaji,RG Sharma,1,Not out
+5.6,RG Sharma,L Balaji,DR Smith,0,Not out
+6.1,DR Smith,SB Jakati,RG Sharma,1,Not out
+6.2,RG Sharma,SB Jakati,DR Smith,1,Not out
+6.3,DR Smith,SB Jakati,RG Sharma,6,Not out
+6.4,DR Smith,SB Jakati,RG Sharma,1,Not out
+6.5,RG Sharma,SB Jakati,DR Smith,1,Not out
+6.6,DR Smith,SB Jakati,RG Sharma,0,Not out
+7.1,RG Sharma,M Muralitharan,DR Smith,1,Not out
+7.2,DR Smith,M Muralitharan,RG Sharma,0,Not out
+7.3,RG Sharma,M Muralitharan,DR Smith,0,Not out
+7.4,RG Sharma,M Muralitharan,DR Smith,1,Not out
+7.5,DR Smith,M Muralitharan,RG Sharma,4,Not out
+7.6,DR Smith,M Muralitharan,RG Sharma,0,Not out
+8.1,RG Sharma,SB Jakati,DR Smith,4,Not out
+8.2,RG Sharma,SB Jakati,DR Smith,0,caught
+8.3,DR Smith,SB Jakati,TL Suman,1,Not out
+8.4,TL Suman,SB Jakati,DR Smith,0,Not out
+8.5,TL Suman,SB Jakati,DR Smith,1,Not out
+8.6,DR Smith,SB Jakati,TL Suman,0,lbw
+9.1,TL Suman,M Muralitharan,Y Venugopal Rao,0,Not out
+9.2,TL Suman,M Muralitharan,Y Venugopal Rao,1,Not out
+9.3,Y Venugopal Rao,M Muralitharan,TL Suman,0,Not out
+9.4,Y Venugopal Rao,M Muralitharan,TL Suman,0,Not out
+9.5,Y Venugopal Rao,M Muralitharan,TL Suman,1,Not out
+9.6,TL Suman,M Muralitharan,Y Venugopal Rao,1,Not out
+9.7,Y Venugopal Rao,M Muralitharan,TL Suman,0,Not out
+10.1,TL Suman,SB Jakati,Y Venugopal Rao,0,Not out
+10.2,Y Venugopal Rao,SB Jakati,TL Suman,1,Not out
+10.3,TL Suman,SB Jakati,Y Venugopal Rao,1,Not out
+10.4,Y Venugopal Rao,SB Jakati,TL Suman,0,caught
+10.5,RJ Harris,SB Jakati,TL Suman,1,Not out
+10.6,TL Suman,SB Jakati,RJ Harris,1,Not out
+11.1,TL Suman,SK Raina,RJ Harris,4,Not out
+11.2,TL Suman,SK Raina,RJ Harris,0,Not out
+11.3,TL Suman,SK Raina,RJ Harris,2,Not out
+11.4,TL Suman,SK Raina,RJ Harris,0,Not out
+11.5,TL Suman,SK Raina,RJ Harris,4,Not out
+11.6,TL Suman,SK Raina,RJ Harris,1,Not out
+12.1,TL Suman,SB Jakati,RJ Harris,1,Not out
+12.2,RJ Harris,SB Jakati,TL Suman,0,Not out
+12.3,RJ Harris,SB Jakati,TL Suman,0,Not out
+12.4,RJ Harris,SB Jakati,TL Suman,0,bowled
+12.5,RP Singh,SB Jakati,TL Suman,0,Not out
+12.6,RP Singh,SB Jakati,TL Suman,1,Not out
+13.1,RP Singh,M Muralitharan,TL Suman,1,Not out
+13.2,TL Suman,M Muralitharan,RP Singh,0,Not out
+13.3,RP Singh,M Muralitharan,TL Suman,0,Not out
+13.4,RP Singh,M Muralitharan,TL Suman,0,Not out
+13.5,RP Singh,M Muralitharan,TL Suman,0,caught
+13.6,TL Suman,M Muralitharan,Shoaib Ahmed,0,caught
+14.1,Shoaib Ahmed,SK Raina,PP Ojha,0,Not out
+14.2,Shoaib Ahmed,SK Raina,PP Ojha,1,Not out
+14.3,PP Ojha,SK Raina,Shoaib Ahmed,0,Not out
+14.4,PP Ojha,SK Raina,Shoaib Ahmed,0,caught

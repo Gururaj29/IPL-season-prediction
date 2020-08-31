@@ -1,0 +1,75 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,BB McCullum,IK Pathan,JH Kallis,0,Not out
+0.2,BB McCullum,IK Pathan,JH Kallis,4,Not out
+0.3,BB McCullum,IK Pathan,JH Kallis,1,Not out
+0.4,JH Kallis,IK Pathan,BB McCullum,0,Not out
+0.5,JH Kallis,IK Pathan,BB McCullum,0,Not out
+0.6,JH Kallis,IK Pathan,BB McCullum,4,Not out
+1.1,BB McCullum,RE van der Merwe,JH Kallis,0,Not out
+1.2,BB McCullum,RE van der Merwe,JH Kallis,4,Not out
+1.3,BB McCullum,RE van der Merwe,JH Kallis,0,Not out
+1.4,BB McCullum,RE van der Merwe,JH Kallis,0,Not out
+1.5,BB McCullum,RE van der Merwe,JH Kallis,0,lbw
+1.6,G Gambhir,RE van der Merwe,JH Kallis,0,Not out
+1.7,G Gambhir,RE van der Merwe,JH Kallis,1,Not out
+2.1,G Gambhir,M Morkel,JH Kallis,0,Not out
+2.2,G Gambhir,M Morkel,JH Kallis,4,Not out
+2.3,G Gambhir,M Morkel,JH Kallis,1,Not out
+2.4,JH Kallis,M Morkel,G Gambhir,0,bowled
+2.5,MK Tiwary,M Morkel,G Gambhir,0,bowled
+2.6,YK Pathan,M Morkel,G Gambhir,0,Not out
+3.1,G Gambhir,UT Yadav,YK Pathan,1,Not out
+3.2,YK Pathan,UT Yadav,G Gambhir,0,Not out
+3.3,G Gambhir,UT Yadav,YK Pathan,4,Not out
+3.4,G Gambhir,UT Yadav,YK Pathan,1,Not out
+3.5,YK Pathan,UT Yadav,G Gambhir,0,Not out
+3.6,YK Pathan,UT Yadav,G Gambhir,0,caught
+4.1,G Gambhir,M Morkel,DB Das,0,Not out
+4.2,G Gambhir,M Morkel,DB Das,1,Not out
+4.3,DB Das,M Morkel,G Gambhir,2,Not out
+4.4,DB Das,M Morkel,G Gambhir,0,Not out
+4.5,DB Das,M Morkel,G Gambhir,0,Not out
+4.6,DB Das,M Morkel,G Gambhir,0,Not out
+5.1,G Gambhir,GJ Maxwell,DB Das,1,Not out
+5.2,DB Das,GJ Maxwell,G Gambhir,0,Not out
+5.3,DB Das,GJ Maxwell,G Gambhir,1,Not out
+5.4,G Gambhir,GJ Maxwell,DB Das,0,Not out
+5.5,G Gambhir,GJ Maxwell,DB Das,1,Not out
+5.6,DB Das,GJ Maxwell,G Gambhir,2,Not out
+5.7,DB Das,GJ Maxwell,G Gambhir,6,Not out
+6.1,G Gambhir,M Morkel,DB Das,1,Not out
+6.2,DB Das,M Morkel,G Gambhir,6,Not out
+6.3,DB Das,M Morkel,G Gambhir,1,Not out
+6.4,G Gambhir,M Morkel,DB Das,0,bowled
+6.5,LR Shukla,M Morkel,DB Das,1,run out
+6.6,R Bhatia,M Morkel,LR Shukla,1,Not out
+7.1,R Bhatia,S Nadeem,LR Shukla,0,Not out
+7.2,R Bhatia,S Nadeem,LR Shukla,1,Not out
+7.3,LR Shukla,S Nadeem,R Bhatia,2,Not out
+7.4,LR Shukla,S Nadeem,R Bhatia,1,Not out
+7.5,R Bhatia,S Nadeem,LR Shukla,1,Not out
+7.6,LR Shukla,S Nadeem,R Bhatia,1,Not out
+8.1,LR Shukla,RE van der Merwe,R Bhatia,0,Not out
+8.2,LR Shukla,RE van der Merwe,R Bhatia,6,Not out
+8.3,LR Shukla,RE van der Merwe,R Bhatia,2,Not out
+8.4,LR Shukla,RE van der Merwe,R Bhatia,4,Not out
+8.5,LR Shukla,RE van der Merwe,R Bhatia,0,Not out
+8.6,LR Shukla,RE van der Merwe,R Bhatia,1,Not out
+9.1,LR Shukla,S Nadeem,R Bhatia,6,Not out
+9.2,LR Shukla,S Nadeem,R Bhatia,1,Not out
+9.3,R Bhatia,S Nadeem,LR Shukla,1,Not out
+9.4,LR Shukla,S Nadeem,R Bhatia,1,Not out
+9.5,R Bhatia,S Nadeem,LR Shukla,1,Not out
+9.6,LR Shukla,S Nadeem,R Bhatia,0,Not out
+10.1,R Bhatia,UT Yadav,LR Shukla,1,Not out
+10.2,LR Shukla,UT Yadav,R Bhatia,0,Not out
+10.3,LR Shukla,UT Yadav,R Bhatia,0,Not out
+10.4,LR Shukla,UT Yadav,R Bhatia,0,caught
+10.5,R Bhatia,UT Yadav,B Lee,1,Not out
+10.6,B Lee,UT Yadav,R Bhatia,1,Not out
+11.1,B Lee,RE van der Merwe,R Bhatia,1,Not out
+11.2,R Bhatia,RE van der Merwe,B Lee,0,stumped
+11.3,Iqbal Abdulla,RE van der Merwe,B Lee,1,Not out
+11.4,B Lee,RE van der Merwe,Iqbal Abdulla,6,Not out
+11.5,B Lee,RE van der Merwe,Iqbal Abdulla,0,Not out
+11.6,B Lee,RE van der Merwe,Iqbal Abdulla,1,run out

@@ -1,0 +1,122 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,Q de Kock,B Kumar,SS Iyer,0,Not out
+0.2,Q de Kock,B Kumar,SS Iyer,4,Not out
+0.3,Q de Kock,B Kumar,SS Iyer,1,Not out
+0.4,SS Iyer,B Kumar,Q de Kock,0,Not out
+0.5,SS Iyer,B Kumar,Q de Kock,0,Not out
+0.6,SS Iyer,B Kumar,Q de Kock,0,Not out
+1.1,Q de Kock,I Sharma,SS Iyer,0,Not out
+1.2,Q de Kock,I Sharma,SS Iyer,4,Not out
+1.3,Q de Kock,I Sharma,SS Iyer,0,Not out
+1.4,Q de Kock,I Sharma,SS Iyer,0,Not out
+1.5,Q de Kock,I Sharma,SS Iyer,0,Not out
+1.6,Q de Kock,I Sharma,SS Iyer,4,Not out
+2.1,SS Iyer,B Kumar,Q de Kock,0,Not out
+2.2,SS Iyer,B Kumar,Q de Kock,0,Not out
+2.3,SS Iyer,B Kumar,Q de Kock,0,Not out
+2.4,SS Iyer,B Kumar,Q de Kock,0,caught and bowled
+2.5,JP Duminy,B Kumar,Q de Kock,1,Not out
+2.6,Q de Kock,B Kumar,JP Duminy,1,Not out
+3.1,Q de Kock,Parvez Rasool,JP Duminy,0,Not out
+3.2,Q de Kock,Parvez Rasool,JP Duminy,2,Not out
+3.3,Q de Kock,Parvez Rasool,JP Duminy,0,Not out
+3.4,Q de Kock,Parvez Rasool,JP Duminy,1,Not out
+3.5,JP Duminy,Parvez Rasool,Q de Kock,2,Not out
+3.6,JP Duminy,Parvez Rasool,Q de Kock,1,Not out
+4.1,JP Duminy,P Kumar,Q de Kock,0,Not out
+4.2,Q de Kock,P Kumar,JP Duminy,4,Not out
+4.3,Q de Kock,P Kumar,JP Duminy,4,Not out
+4.4,Q de Kock,P Kumar,JP Duminy,0,Not out
+4.5,Q de Kock,P Kumar,JP Duminy,4,Not out
+4.6,Q de Kock,P Kumar,JP Duminy,0,Not out
+5.1,JP Duminy,I Sharma,Q de Kock,1,Not out
+5.2,Q de Kock,I Sharma,JP Duminy,4,Not out
+5.3,Q de Kock,I Sharma,JP Duminy,0,Not out
+5.4,Q de Kock,I Sharma,JP Duminy,0,Not out
+5.5,Q de Kock,I Sharma,JP Duminy,4,Not out
+5.6,Q de Kock,I Sharma,JP Duminy,6,Not out
+6.1,JP Duminy,MC Henriques,Q de Kock,0,Not out
+6.2,JP Duminy,MC Henriques,Q de Kock,1,Not out
+6.3,Q de Kock,MC Henriques,JP Duminy,1,Not out
+6.4,JP Duminy,MC Henriques,Q de Kock,1,Not out
+6.5,Q de Kock,MC Henriques,JP Duminy,0,Not out
+6.6,Q de Kock,MC Henriques,JP Duminy,4,Not out
+7.1,JP Duminy,Parvez Rasool,Q de Kock,1,Not out
+7.2,Q de Kock,Parvez Rasool,JP Duminy,1,Not out
+7.3,JP Duminy,Parvez Rasool,Q de Kock,1,Not out
+7.4,Q de Kock,Parvez Rasool,JP Duminy,1,Not out
+7.5,JP Duminy,Parvez Rasool,Q de Kock,0,Not out
+7.6,JP Duminy,Parvez Rasool,Q de Kock,0,Not out
+8.1,Q de Kock,KV Sharma,JP Duminy,0,Not out
+8.2,Q de Kock,KV Sharma,JP Duminy,0,stumped
+8.3,Yuvraj Singh,KV Sharma,JP Duminy,0,Not out
+8.4,Yuvraj Singh,KV Sharma,JP Duminy,1,Not out
+8.5,JP Duminy,KV Sharma,Yuvraj Singh,1,Not out
+8.6,Yuvraj Singh,KV Sharma,JP Duminy,0,Not out
+9.1,JP Duminy,Parvez Rasool,Yuvraj Singh,1,Not out
+9.2,Yuvraj Singh,Parvez Rasool,JP Duminy,1,Not out
+9.3,JP Duminy,Parvez Rasool,Yuvraj Singh,1,Not out
+9.4,Yuvraj Singh,Parvez Rasool,JP Duminy,0,Not out
+9.5,Yuvraj Singh,Parvez Rasool,JP Duminy,0,Not out
+9.6,Yuvraj Singh,Parvez Rasool,JP Duminy,0,caught
+10.1,KM Jadhav,KV Sharma,JP Duminy,1,Not out
+10.2,JP Duminy,KV Sharma,KM Jadhav,0,bowled
+10.3,SS Tiwary,KV Sharma,KM Jadhav,0,Not out
+10.4,SS Tiwary,KV Sharma,KM Jadhav,0,Not out
+10.5,SS Tiwary,KV Sharma,KM Jadhav,0,Not out
+10.6,SS Tiwary,KV Sharma,KM Jadhav,0,Not out
+11.1,KM Jadhav,Parvez Rasool,SS Tiwary,1,Not out
+11.2,SS Tiwary,Parvez Rasool,KM Jadhav,4,Not out
+11.3,SS Tiwary,Parvez Rasool,KM Jadhav,1,Not out
+11.4,KM Jadhav,Parvez Rasool,SS Tiwary,1,Not out
+11.5,SS Tiwary,Parvez Rasool,KM Jadhav,0,Not out
+11.6,SS Tiwary,Parvez Rasool,KM Jadhav,0,Not out
+12.1,KM Jadhav,KV Sharma,SS Tiwary,1,Not out
+12.2,SS Tiwary,KV Sharma,KM Jadhav,1,Not out
+12.3,KM Jadhav,KV Sharma,SS Tiwary,1,Not out
+12.4,SS Tiwary,KV Sharma,KM Jadhav,0,Not out
+12.5,SS Tiwary,KV Sharma,KM Jadhav,6,Not out
+12.6,SS Tiwary,KV Sharma,KM Jadhav,0,Not out
+13.1,KM Jadhav,RS Bopara,SS Tiwary,4,Not out
+13.2,KM Jadhav,RS Bopara,SS Tiwary,0,Not out
+13.3,KM Jadhav,RS Bopara,SS Tiwary,4,Not out
+13.4,KM Jadhav,RS Bopara,SS Tiwary,4,Not out
+13.5,KM Jadhav,RS Bopara,SS Tiwary,1,Not out
+13.6,SS Tiwary,RS Bopara,KM Jadhav,2,Not out
+14.1,KM Jadhav,MC Henriques,SS Tiwary,2,Not out
+14.2,KM Jadhav,MC Henriques,SS Tiwary,4,Not out
+14.3,KM Jadhav,MC Henriques,SS Tiwary,0,Not out
+14.4,KM Jadhav,MC Henriques,SS Tiwary,0,Not out
+14.5,KM Jadhav,MC Henriques,SS Tiwary,1,Not out
+14.6,SS Tiwary,MC Henriques,KM Jadhav,0,Not out
+15.1,KM Jadhav,P Kumar,SS Tiwary,6,Not out
+15.2,KM Jadhav,P Kumar,SS Tiwary,4,Not out
+15.3,KM Jadhav,P Kumar,SS Tiwary,6,Not out
+15.4,KM Jadhav,P Kumar,SS Tiwary,1,Not out
+15.5,SS Tiwary,P Kumar,KM Jadhav,0,Not out
+15.6,SS Tiwary,P Kumar,KM Jadhav,2,Not out
+15.7,SS Tiwary,P Kumar,KM Jadhav,2,Not out
+16.1,KM Jadhav,B Kumar,SS Tiwary,0,Not out
+16.2,KM Jadhav,B Kumar,SS Tiwary,0,Not out
+16.3,KM Jadhav,B Kumar,SS Tiwary,4,Not out
+16.4,KM Jadhav,B Kumar,SS Tiwary,0,Not out
+16.5,KM Jadhav,B Kumar,SS Tiwary,4,Not out
+16.6,KM Jadhav,B Kumar,SS Tiwary,1,Not out
+17.1,KM Jadhav,I Sharma,SS Tiwary,4,Not out
+17.2,KM Jadhav,I Sharma,SS Tiwary,1,Not out
+17.3,SS Tiwary,I Sharma,KM Jadhav,0,Not out
+17.4,SS Tiwary,I Sharma,KM Jadhav,0,Not out
+17.5,SS Tiwary,I Sharma,KM Jadhav,1,Not out
+17.6,KM Jadhav,I Sharma,SS Tiwary,1,Not out
+18.1,KM Jadhav,B Kumar,SS Tiwary,1,Not out
+18.2,SS Tiwary,B Kumar,KM Jadhav,0,Not out
+18.3,KM Jadhav,B Kumar,SS Tiwary,1,Not out
+18.4,SS Tiwary,B Kumar,KM Jadhav,1,Not out
+18.5,KM Jadhav,B Kumar,SS Tiwary,1,Not out
+18.6,SS Tiwary,B Kumar,KM Jadhav,0,Not out
+19.1,SS Tiwary,I Sharma,KM Jadhav,4,Not out
+19.2,SS Tiwary,I Sharma,KM Jadhav,1,Not out
+19.3,KM Jadhav,I Sharma,SS Tiwary,2,Not out
+19.4,KM Jadhav,I Sharma,SS Tiwary,1,Not out
+19.5,SS Tiwary,I Sharma,KM Jadhav,1,Not out
+19.6,KM Jadhav,I Sharma,SS Tiwary,0,Not out

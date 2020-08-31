@@ -1,0 +1,127 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,SC Ganguly,KAJ Roach,CH Gayle,4,Not out
+0.2,SC Ganguly,KAJ Roach,CH Gayle,0,Not out
+0.3,SC Ganguly,KAJ Roach,CH Gayle,4,Not out
+0.4,SC Ganguly,KAJ Roach,CH Gayle,0,Not out
+0.5,SC Ganguly,KAJ Roach,CH Gayle,0,Not out
+0.6,SC Ganguly,KAJ Roach,CH Gayle,2,Not out
+1.1,CH Gayle,Jaskaran Singh,SC Ganguly,0,Not out
+1.2,CH Gayle,Jaskaran Singh,SC Ganguly,0,Not out
+1.3,CH Gayle,Jaskaran Singh,SC Ganguly,4,Not out
+1.4,CH Gayle,Jaskaran Singh,SC Ganguly,0,Not out
+1.5,CH Gayle,Jaskaran Singh,SC Ganguly,0,Not out
+1.6,SC Ganguly,Jaskaran Singh,CH Gayle,0,Not out
+2.1,CH Gayle,A Symonds,SC Ganguly,0,Not out
+2.2,CH Gayle,A Symonds,SC Ganguly,0,caught
+2.3,SC Ganguly,A Symonds,CA Pujara,0,Not out
+2.4,SC Ganguly,A Symonds,CA Pujara,1,Not out
+2.5,CA Pujara,A Symonds,SC Ganguly,4,Not out
+2.6,CA Pujara,A Symonds,SC Ganguly,4,Not out
+3.1,SC Ganguly,Jaskaran Singh,CA Pujara,0,Not out
+3.2,CA Pujara,Jaskaran Singh,SC Ganguly,0,Not out
+3.3,CA Pujara,Jaskaran Singh,SC Ganguly,2,Not out
+3.4,CA Pujara,Jaskaran Singh,SC Ganguly,0,Not out
+3.5,CA Pujara,Jaskaran Singh,SC Ganguly,1,Not out
+3.6,SC Ganguly,Jaskaran Singh,CA Pujara,1,Not out
+4.1,SC Ganguly,Harmeet Singh,CA Pujara,0,Not out
+4.2,SC Ganguly,Harmeet Singh,CA Pujara,1,Not out
+4.3,CA Pujara,Harmeet Singh,SC Ganguly,0,Not out
+4.4,CA Pujara,Harmeet Singh,SC Ganguly,0,Not out
+4.5,CA Pujara,Harmeet Singh,SC Ganguly,4,Not out
+4.6,CA Pujara,Harmeet Singh,SC Ganguly,1,Not out
+4.7,SC Ganguly,Harmeet Singh,CA Pujara,0,Not out
+5.1,CA Pujara,A Symonds,SC Ganguly,0,Not out
+5.2,CA Pujara,A Symonds,SC Ganguly,0,Not out
+5.3,CA Pujara,A Symonds,SC Ganguly,1,Not out
+5.4,SC Ganguly,A Symonds,CA Pujara,4,Not out
+5.5,SC Ganguly,A Symonds,CA Pujara,1,Not out
+5.6,CA Pujara,A Symonds,SC Ganguly,0,caught
+6.1,SC Ganguly,KAJ Roach,MK Tiwary,0,Not out
+6.2,SC Ganguly,KAJ Roach,MK Tiwary,1,Not out
+6.3,MK Tiwary,KAJ Roach,SC Ganguly,1,Not out
+6.4,SC Ganguly,KAJ Roach,MK Tiwary,6,Not out
+6.5,SC Ganguly,KAJ Roach,MK Tiwary,4,Not out
+6.6,SC Ganguly,KAJ Roach,MK Tiwary,0,Not out
+6.7,SC Ganguly,KAJ Roach,MK Tiwary,0,Not out
+7.1,MK Tiwary,RG Sharma,SC Ganguly,2,Not out
+7.2,MK Tiwary,RG Sharma,SC Ganguly,1,Not out
+7.3,SC Ganguly,RG Sharma,MK Tiwary,4,Not out
+7.4,SC Ganguly,RG Sharma,MK Tiwary,1,Not out
+7.5,MK Tiwary,RG Sharma,SC Ganguly,1,Not out
+7.6,SC Ganguly,RG Sharma,MK Tiwary,0,Not out
+8.1,MK Tiwary,PP Ojha,SC Ganguly,0,Not out
+8.2,MK Tiwary,PP Ojha,SC Ganguly,0,Not out
+8.3,MK Tiwary,PP Ojha,SC Ganguly,0,bowled
+8.4,DJ Hussey,PP Ojha,SC Ganguly,1,Not out
+8.5,SC Ganguly,PP Ojha,DJ Hussey,0,Not out
+8.6,SC Ganguly,PP Ojha,DJ Hussey,1,Not out
+9.1,SC Ganguly,Harmeet Singh,DJ Hussey,0,Not out
+9.2,SC Ganguly,Harmeet Singh,DJ Hussey,0,Not out
+9.3,SC Ganguly,Harmeet Singh,DJ Hussey,4,Not out
+9.4,SC Ganguly,Harmeet Singh,DJ Hussey,0,Not out
+9.5,SC Ganguly,Harmeet Singh,DJ Hussey,4,Not out
+9.6,SC Ganguly,Harmeet Singh,DJ Hussey,2,Not out
+10.1,DJ Hussey,PP Ojha,SC Ganguly,0,Not out
+10.2,DJ Hussey,PP Ojha,SC Ganguly,1,Not out
+10.3,SC Ganguly,PP Ojha,DJ Hussey,0,Not out
+10.4,SC Ganguly,PP Ojha,DJ Hussey,1,Not out
+10.5,DJ Hussey,PP Ojha,SC Ganguly,0,Not out
+10.6,DJ Hussey,PP Ojha,SC Ganguly,1,Not out
+11.1,DJ Hussey,A Symonds,SC Ganguly,0,Not out
+11.2,DJ Hussey,A Symonds,SC Ganguly,1,Not out
+11.3,SC Ganguly,A Symonds,DJ Hussey,0,Not out
+11.4,SC Ganguly,A Symonds,DJ Hussey,0,Not out
+11.5,DJ Hussey,A Symonds,SC Ganguly,1,Not out
+11.6,SC Ganguly,A Symonds,DJ Hussey,0,Not out
+12.1,DJ Hussey,PP Ojha,SC Ganguly,0,Not out
+12.2,DJ Hussey,PP Ojha,SC Ganguly,1,Not out
+12.3,SC Ganguly,PP Ojha,DJ Hussey,1,Not out
+12.4,DJ Hussey,PP Ojha,SC Ganguly,1,Not out
+12.5,SC Ganguly,PP Ojha,DJ Hussey,6,Not out
+12.6,SC Ganguly,PP Ojha,DJ Hussey,4,Not out
+13.1,DJ Hussey,RG Sharma,SC Ganguly,1,Not out
+13.2,SC Ganguly,RG Sharma,DJ Hussey,1,Not out
+13.3,DJ Hussey,RG Sharma,SC Ganguly,1,Not out
+13.4,SC Ganguly,RG Sharma,DJ Hussey,1,Not out
+13.5,DJ Hussey,RG Sharma,SC Ganguly,0,Not out
+13.6,DJ Hussey,RG Sharma,SC Ganguly,1,Not out
+13.7,SC Ganguly,RG Sharma,DJ Hussey,1,Not out
+14.1,SC Ganguly,Y Venugopal Rao,DJ Hussey,1,Not out
+14.2,DJ Hussey,Y Venugopal Rao,SC Ganguly,1,Not out
+14.3,SC Ganguly,Y Venugopal Rao,DJ Hussey,4,Not out
+14.4,SC Ganguly,Y Venugopal Rao,DJ Hussey,2,Not out
+14.5,SC Ganguly,Y Venugopal Rao,DJ Hussey,0,Not out
+14.6,SC Ganguly,Y Venugopal Rao,DJ Hussey,2,Not out
+15.1,DJ Hussey,A Symonds,SC Ganguly,0,Not out
+15.2,DJ Hussey,A Symonds,SC Ganguly,6,Not out
+15.3,DJ Hussey,A Symonds,SC Ganguly,1,Not out
+15.4,SC Ganguly,A Symonds,DJ Hussey,0,Not out
+15.5,SC Ganguly,A Symonds,DJ Hussey,1,Not out
+15.6,DJ Hussey,A Symonds,SC Ganguly,1,Not out
+16.1,DJ Hussey,PP Ojha,SC Ganguly,0,Not out
+16.2,DJ Hussey,PP Ojha,SC Ganguly,0,Not out
+16.3,SC Ganguly,PP Ojha,DJ Hussey,6,Not out
+16.4,SC Ganguly,PP Ojha,DJ Hussey,0,Not out
+16.5,SC Ganguly,PP Ojha,DJ Hussey,6,Not out
+16.6,SC Ganguly,PP Ojha,DJ Hussey,0,Not out
+16.7,SC Ganguly,PP Ojha,DJ Hussey,6,Not out
+16.8,SC Ganguly,PP Ojha,DJ Hussey,0,caught
+17.1,DJ Hussey,KAJ Roach,AD Mathews,6,Not out
+17.2,DJ Hussey,KAJ Roach,AD Mathews,1,Not out
+17.3,AD Mathews,KAJ Roach,DJ Hussey,1,Not out
+17.4,DJ Hussey,KAJ Roach,AD Mathews,0,Not out
+17.5,DJ Hussey,KAJ Roach,AD Mathews,1,Not out
+17.6,AD Mathews,KAJ Roach,DJ Hussey,2,Not out
+17.7,AD Mathews,KAJ Roach,DJ Hussey,1,Not out
+18.1,AD Mathews,Jaskaran Singh,DJ Hussey,0,caught
+18.2,DJ Hussey,Jaskaran Singh,WP Saha,4,Not out
+18.3,DJ Hussey,Jaskaran Singh,WP Saha,0,caught
+18.4,WP Saha,Jaskaran Singh,AB Agarkar,1,Not out
+18.5,AB Agarkar,Jaskaran Singh,WP Saha,1,Not out
+18.6,WP Saha,Jaskaran Singh,AB Agarkar,4,Not out
+19.1,AB Agarkar,KAJ Roach,WP Saha,4,Not out
+19.2,AB Agarkar,KAJ Roach,WP Saha,1,Not out
+19.3,WP Saha,KAJ Roach,AB Agarkar,4,Not out
+19.4,WP Saha,KAJ Roach,AB Agarkar,1,Not out
+19.5,AB Agarkar,KAJ Roach,WP Saha,0,Not out
+19.6,AB Agarkar,KAJ Roach,WP Saha,2,Not out

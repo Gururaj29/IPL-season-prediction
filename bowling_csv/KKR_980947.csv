@@ -1,0 +1,114 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,RG Sharma,JD Unadkat,PA Patel,0,Not out
+0.2,RG Sharma,JD Unadkat,PA Patel,6,Not out
+0.3,RG Sharma,JD Unadkat,PA Patel,0,Not out
+0.4,RG Sharma,JD Unadkat,PA Patel,1,Not out
+0.5,PA Patel,JD Unadkat,RG Sharma,1,Not out
+0.6,RG Sharma,JD Unadkat,PA Patel,0,Not out
+1.1,PA Patel,UT Yadav,RG Sharma,0,caught
+1.2,AT Rayudu,UT Yadav,RG Sharma,4,Not out
+1.3,AT Rayudu,UT Yadav,RG Sharma,0,Not out
+1.4,AT Rayudu,UT Yadav,RG Sharma,1,Not out
+1.5,RG Sharma,UT Yadav,AT Rayudu,1,Not out
+1.6,AT Rayudu,UT Yadav,RG Sharma,0,Not out
+1.7,AT Rayudu,UT Yadav,RG Sharma,1,Not out
+2.1,AT Rayudu,Shakib Al Hasan,RG Sharma,0,Not out
+2.2,AT Rayudu,Shakib Al Hasan,RG Sharma,0,Not out
+2.3,AT Rayudu,Shakib Al Hasan,RG Sharma,0,Not out
+2.4,AT Rayudu,Shakib Al Hasan,RG Sharma,4,Not out
+2.5,AT Rayudu,Shakib Al Hasan,RG Sharma,6,Not out
+2.6,AT Rayudu,Shakib Al Hasan,RG Sharma,0,Not out
+3.1,RG Sharma,UT Yadav,AT Rayudu,0,Not out
+3.2,RG Sharma,UT Yadav,AT Rayudu,0,Not out
+3.3,RG Sharma,UT Yadav,AT Rayudu,4,Not out
+3.4,RG Sharma,UT Yadav,AT Rayudu,4,Not out
+3.5,RG Sharma,UT Yadav,AT Rayudu,1,Not out
+3.6,AT Rayudu,UT Yadav,RG Sharma,0,Not out
+3.7,AT Rayudu,UT Yadav,RG Sharma,1,Not out
+4.1,AT Rayudu,SP Narine,RG Sharma,1,Not out
+4.2,RG Sharma,SP Narine,AT Rayudu,4,Not out
+4.3,RG Sharma,SP Narine,AT Rayudu,0,Not out
+4.4,RG Sharma,SP Narine,AT Rayudu,1,Not out
+4.5,AT Rayudu,SP Narine,RG Sharma,1,Not out
+4.6,RG Sharma,SP Narine,AT Rayudu,1,Not out
+5.1,RG Sharma,JD Unadkat,AT Rayudu,6,Not out
+5.2,RG Sharma,JD Unadkat,AT Rayudu,1,Not out
+5.3,AT Rayudu,JD Unadkat,RG Sharma,4,Not out
+5.4,AT Rayudu,JD Unadkat,RG Sharma,4,Not out
+5.5,AT Rayudu,JD Unadkat,RG Sharma,4,Not out
+5.6,AT Rayudu,JD Unadkat,RG Sharma,0,Not out
+6.1,RG Sharma,Shakib Al Hasan,AT Rayudu,1,Not out
+6.2,AT Rayudu,Shakib Al Hasan,RG Sharma,1,Not out
+6.3,RG Sharma,Shakib Al Hasan,AT Rayudu,1,Not out
+6.4,AT Rayudu,Shakib Al Hasan,RG Sharma,0,Not out
+6.5,AT Rayudu,Shakib Al Hasan,RG Sharma,0,caught
+6.6,RG Sharma,Shakib Al Hasan,KH Pandya,1,Not out
+7.1,RG Sharma,R Sathish,KH Pandya,1,Not out
+7.2,KH Pandya,R Sathish,RG Sharma,4,Not out
+7.3,KH Pandya,R Sathish,RG Sharma,1,Not out
+7.4,RG Sharma,R Sathish,KH Pandya,0,Not out
+7.5,RG Sharma,R Sathish,KH Pandya,1,Not out
+7.6,KH Pandya,R Sathish,RG Sharma,0,Not out
+8.1,RG Sharma,SP Narine,KH Pandya,1,Not out
+8.2,KH Pandya,SP Narine,RG Sharma,1,Not out
+8.3,RG Sharma,SP Narine,KH Pandya,0,Not out
+8.4,RG Sharma,SP Narine,KH Pandya,0,Not out
+8.5,RG Sharma,SP Narine,KH Pandya,1,Not out
+8.6,KH Pandya,SP Narine,RG Sharma,0,bowled
+9.1,RG Sharma,AD Russell,JC Buttler,1,Not out
+9.2,JC Buttler,AD Russell,RG Sharma,0,Not out
+9.3,JC Buttler,AD Russell,RG Sharma,1,Not out
+9.4,RG Sharma,AD Russell,JC Buttler,4,Not out
+9.5,RG Sharma,AD Russell,JC Buttler,0,Not out
+9.6,RG Sharma,AD Russell,JC Buttler,1,Not out
+10.1,RG Sharma,Shakib Al Hasan,JC Buttler,1,Not out
+10.2,JC Buttler,Shakib Al Hasan,RG Sharma,1,Not out
+10.3,RG Sharma,Shakib Al Hasan,JC Buttler,1,Not out
+10.4,JC Buttler,Shakib Al Hasan,RG Sharma,2,Not out
+10.5,JC Buttler,Shakib Al Hasan,RG Sharma,0,Not out
+10.6,JC Buttler,Shakib Al Hasan,RG Sharma,1,Not out
+11.1,JC Buttler,AD Russell,RG Sharma,4,Not out
+11.2,JC Buttler,AD Russell,RG Sharma,1,Not out
+11.3,RG Sharma,AD Russell,JC Buttler,4,Not out
+11.4,RG Sharma,AD Russell,JC Buttler,0,Not out
+11.5,RG Sharma,AD Russell,JC Buttler,1,Not out
+11.6,JC Buttler,AD Russell,RG Sharma,1,Not out
+12.1,JC Buttler,SP Narine,RG Sharma,0,Not out
+12.2,JC Buttler,SP Narine,RG Sharma,0,Not out
+12.3,JC Buttler,SP Narine,RG Sharma,0,Not out
+12.4,JC Buttler,SP Narine,RG Sharma,0,Not out
+12.5,JC Buttler,SP Narine,RG Sharma,4,Not out
+12.6,JC Buttler,SP Narine,RG Sharma,0,caught
+13.1,RG Sharma,AD Russell,KA Pollard,1,Not out
+13.2,KA Pollard,AD Russell,RG Sharma,0,Not out
+13.3,KA Pollard,AD Russell,RG Sharma,1,Not out
+13.4,RG Sharma,AD Russell,KA Pollard,4,Not out
+13.5,RG Sharma,AD Russell,KA Pollard,0,Not out
+13.6,RG Sharma,AD Russell,KA Pollard,4,Not out
+14.1,KA Pollard,Shakib Al Hasan,RG Sharma,4,Not out
+14.2,KA Pollard,Shakib Al Hasan,RG Sharma,1,Not out
+14.3,RG Sharma,Shakib Al Hasan,KA Pollard,1,Not out
+14.4,KA Pollard,Shakib Al Hasan,RG Sharma,4,Not out
+14.5,KA Pollard,Shakib Al Hasan,RG Sharma,0,Not out
+14.6,KA Pollard,Shakib Al Hasan,RG Sharma,0,Not out
+15.1,RG Sharma,R Sathish,KA Pollard,0,Not out
+15.2,RG Sharma,R Sathish,KA Pollard,1,Not out
+15.3,KA Pollard,R Sathish,RG Sharma,6,Not out
+15.4,KA Pollard,R Sathish,RG Sharma,0,Not out
+15.5,KA Pollard,R Sathish,RG Sharma,6,Not out
+15.6,KA Pollard,R Sathish,RG Sharma,2,Not out
+15.7,KA Pollard,R Sathish,RG Sharma,0,Not out
+15.8,KA Pollard,R Sathish,RG Sharma,6,Not out
+16.1,RG Sharma,SP Narine,KA Pollard,1,Not out
+16.2,KA Pollard,SP Narine,RG Sharma,1,Not out
+16.3,RG Sharma,SP Narine,KA Pollard,0,Not out
+16.4,RG Sharma,SP Narine,KA Pollard,0,Not out
+16.5,RG Sharma,SP Narine,KA Pollard,4,Not out
+16.6,RG Sharma,SP Narine,KA Pollard,1,Not out
+17.1,RG Sharma,JD Unadkat,KA Pollard,1,Not out
+17.2,KA Pollard,JD Unadkat,RG Sharma,2,Not out
+17.3,KA Pollard,JD Unadkat,RG Sharma,0,Not out
+17.4,KA Pollard,JD Unadkat,RG Sharma,6,Not out
+17.5,KA Pollard,JD Unadkat,RG Sharma,6,Not out
+17.6,KA Pollard,JD Unadkat,RG Sharma,0,Not out
+17.7,KA Pollard,JD Unadkat,RG Sharma,6,Not out

@@ -1,0 +1,126 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,JH Kallis,A Singh,W Jaffer,0,Not out
+0.2,JH Kallis,A Singh,W Jaffer,1,Not out
+0.3,W Jaffer,A Singh,JH Kallis,1,Not out
+0.4,JH Kallis,A Singh,W Jaffer,0,Not out
+0.5,JH Kallis,A Singh,W Jaffer,0,Not out
+0.6,JH Kallis,A Singh,W Jaffer,0,Not out
+0.7,JH Kallis,A Singh,W Jaffer,0,Not out
+1.1,W Jaffer,M Morkel,JH Kallis,0,Not out
+1.2,W Jaffer,M Morkel,JH Kallis,2,Not out
+1.3,W Jaffer,M Morkel,JH Kallis,0,Not out
+1.4,W Jaffer,M Morkel,JH Kallis,4,Not out
+1.5,W Jaffer,M Morkel,JH Kallis,0,Not out
+1.6,W Jaffer,M Morkel,JH Kallis,1,Not out
+2.1,W Jaffer,A Singh,JH Kallis,0,Not out
+2.2,W Jaffer,A Singh,JH Kallis,0,caught
+2.3,RV Uthappa,A Singh,JH Kallis,1,Not out
+2.4,JH Kallis,A Singh,RV Uthappa,0,Not out
+2.5,JH Kallis,A Singh,RV Uthappa,1,Not out
+2.6,RV Uthappa,A Singh,JH Kallis,0,Not out
+2.7,RV Uthappa,A Singh,JH Kallis,0,Not out
+3.1,JH Kallis,M Morkel,RV Uthappa,1,Not out
+3.2,RV Uthappa,M Morkel,JH Kallis,1,Not out
+3.3,JH Kallis,M Morkel,RV Uthappa,0,Not out
+3.4,JH Kallis,M Morkel,RV Uthappa,1,Not out
+3.5,RV Uthappa,M Morkel,JH Kallis,0,Not out
+3.6,RV Uthappa,M Morkel,JH Kallis,0,Not out
+4.1,JH Kallis,MM Patel,RV Uthappa,6,Not out
+4.2,JH Kallis,MM Patel,RV Uthappa,0,Not out
+4.3,JH Kallis,MM Patel,RV Uthappa,0,Not out
+4.4,JH Kallis,MM Patel,RV Uthappa,0,caught
+4.5,RV Uthappa,MM Patel,R Dravid,1,Not out
+4.6,R Dravid,MM Patel,RV Uthappa,0,Not out
+5.1,RV Uthappa,LA Carseldine,R Dravid,0,Not out
+5.2,RV Uthappa,LA Carseldine,R Dravid,0,Not out
+5.3,RV Uthappa,LA Carseldine,R Dravid,4,Not out
+5.4,RV Uthappa,LA Carseldine,R Dravid,0,Not out
+5.5,RV Uthappa,LA Carseldine,R Dravid,1,Not out
+5.6,R Dravid,LA Carseldine,RV Uthappa,0,caught
+5.7,V Kohli,LA Carseldine,RV Uthappa,0,Not out
+6.1,RV Uthappa,MM Patel,V Kohli,0,Not out
+6.2,RV Uthappa,MM Patel,V Kohli,0,Not out
+6.3,RV Uthappa,MM Patel,V Kohli,0,Not out
+6.4,RV Uthappa,MM Patel,V Kohli,0,Not out
+6.5,RV Uthappa,MM Patel,V Kohli,0,Not out
+6.6,RV Uthappa,MM Patel,V Kohli,4,Not out
+6.7,RV Uthappa,MM Patel,V Kohli,4,Not out
+7.1,V Kohli,SK Warne,RV Uthappa,0,Not out
+7.2,V Kohli,SK Warne,RV Uthappa,0,Not out
+7.3,V Kohli,SK Warne,RV Uthappa,0,Not out
+7.4,V Kohli,SK Warne,RV Uthappa,1,Not out
+7.5,RV Uthappa,SK Warne,V Kohli,0,Not out
+7.6,RV Uthappa,SK Warne,V Kohli,1,Not out
+8.1,RV Uthappa,RA Jadeja,V Kohli,0,lbw
+8.2,MV Boucher,RA Jadeja,V Kohli,1,Not out
+8.3,V Kohli,RA Jadeja,MV Boucher,1,Not out
+8.4,MV Boucher,RA Jadeja,V Kohli,1,Not out
+8.5,V Kohli,RA Jadeja,MV Boucher,1,Not out
+8.6,MV Boucher,RA Jadeja,V Kohli,0,Not out
+9.1,V Kohli,SK Warne,MV Boucher,1,Not out
+9.2,MV Boucher,SK Warne,V Kohli,2,Not out
+9.3,MV Boucher,SK Warne,V Kohli,0,Not out
+9.4,MV Boucher,SK Warne,V Kohli,1,Not out
+9.5,V Kohli,SK Warne,MV Boucher,0,Not out
+9.6,V Kohli,SK Warne,MV Boucher,1,Not out
+10.1,V Kohli,RA Jadeja,MV Boucher,0,Not out
+10.2,V Kohli,RA Jadeja,MV Boucher,1,Not out
+10.3,MV Boucher,RA Jadeja,V Kohli,1,Not out
+10.4,V Kohli,RA Jadeja,MV Boucher,1,Not out
+10.5,MV Boucher,RA Jadeja,V Kohli,0,bowled
+10.6,RE van der Merwe,RA Jadeja,V Kohli,1,Not out
+11.1,RE van der Merwe,SK Warne,V Kohli,1,Not out
+11.2,V Kohli,SK Warne,RE van der Merwe,0,Not out
+11.3,V Kohli,SK Warne,RE van der Merwe,4,Not out
+11.4,V Kohli,SK Warne,RE van der Merwe,0,Not out
+11.5,V Kohli,SK Warne,RE van der Merwe,1,Not out
+11.6,RE van der Merwe,SK Warne,V Kohli,1,Not out
+12.1,RE van der Merwe,RA Jadeja,V Kohli,0,Not out
+12.2,RE van der Merwe,RA Jadeja,V Kohli,0,Not out
+12.3,RE van der Merwe,RA Jadeja,V Kohli,0,Not out
+12.4,RE van der Merwe,RA Jadeja,V Kohli,1,Not out
+12.5,V Kohli,RA Jadeja,RE van der Merwe,1,Not out
+12.6,RE van der Merwe,RA Jadeja,V Kohli,1,Not out
+13.1,RE van der Merwe,M Morkel,V Kohli,4,Not out
+13.2,RE van der Merwe,M Morkel,V Kohli,0,Not out
+13.3,RE van der Merwe,M Morkel,V Kohli,1,Not out
+13.4,V Kohli,M Morkel,RE van der Merwe,1,Not out
+13.5,RE van der Merwe,M Morkel,V Kohli,1,Not out
+13.6,V Kohli,M Morkel,RE van der Merwe,0,Not out
+13.7,V Kohli,M Morkel,RE van der Merwe,1,Not out
+14.1,V Kohli,RA Jadeja,RE van der Merwe,0,caught
+14.2,D du Preez,RA Jadeja,RE van der Merwe,1,Not out
+14.3,RE van der Merwe,RA Jadeja,D du Preez,1,Not out
+14.4,D du Preez,RA Jadeja,RE van der Merwe,0,Not out
+14.5,D du Preez,RA Jadeja,RE van der Merwe,2,Not out
+14.6,D du Preez,RA Jadeja,RE van der Merwe,0,Not out
+15.1,RE van der Merwe,AS Raut,D du Preez,1,Not out
+15.2,D du Preez,AS Raut,RE van der Merwe,0,Not out
+15.3,D du Preez,AS Raut,RE van der Merwe,1,Not out
+15.4,RE van der Merwe,AS Raut,D du Preez,1,Not out
+15.5,D du Preez,AS Raut,RE van der Merwe,2,Not out
+15.6,D du Preez,AS Raut,RE van der Merwe,1,Not out
+16.1,D du Preez,A Singh,RE van der Merwe,1,Not out
+16.2,RE van der Merwe,A Singh,D du Preez,1,Not out
+16.3,D du Preez,A Singh,RE van der Merwe,1,Not out
+16.4,RE van der Merwe,A Singh,D du Preez,0,bowled
+16.5,P Kumar,A Singh,D du Preez,6,Not out
+16.6,P Kumar,A Singh,D du Preez,1,Not out
+17.1,P Kumar,M Morkel,D du Preez,0,Not out
+17.2,P Kumar,M Morkel,D du Preez,0,run out
+17.3,R Vinay Kumar,M Morkel,D du Preez,0,Not out
+17.4,R Vinay Kumar,M Morkel,D du Preez,0,Not out
+17.5,R Vinay Kumar,M Morkel,D du Preez,0,Not out
+17.6,R Vinay Kumar,M Morkel,D du Preez,1,Not out
+18.1,R Vinay Kumar,SK Warne,D du Preez,1,Not out
+18.2,D du Preez,SK Warne,R Vinay Kumar,1,Not out
+18.3,R Vinay Kumar,SK Warne,D du Preez,6,Not out
+18.4,R Vinay Kumar,SK Warne,D du Preez,0,Not out
+18.5,R Vinay Kumar,SK Warne,D du Preez,1,Not out
+18.6,D du Preez,SK Warne,R Vinay Kumar,0,Not out
+19.1,R Vinay Kumar,A Singh,D du Preez,1,Not out
+19.2,D du Preez,A Singh,R Vinay Kumar,0,caught
+19.3,R Vinay Kumar,A Singh,A Kumble,2,Not out
+19.4,R Vinay Kumar,A Singh,A Kumble,0,Not out
+19.5,R Vinay Kumar,A Singh,A Kumble,0,Not out
+19.6,R Vinay Kumar,A Singh,A Kumble,0,bowled

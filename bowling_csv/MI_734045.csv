@@ -1,0 +1,119 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DR Smith,P Kumar,F du Plessis,0,Not out
+0.2,DR Smith,P Kumar,F du Plessis,4,Not out
+0.3,DR Smith,P Kumar,F du Plessis,0,Not out
+0.4,DR Smith,P Kumar,F du Plessis,0,Not out
+0.5,F du Plessis,P Kumar,DR Smith,0,Not out
+0.6,F du Plessis,P Kumar,DR Smith,0,Not out
+1.1,F du Plessis,CJ Anderson,DR Smith,4,Not out
+1.2,F du Plessis,CJ Anderson,DR Smith,1,Not out
+1.3,DR Smith,CJ Anderson,F du Plessis,1,Not out
+1.4,F du Plessis,CJ Anderson,DR Smith,0,Not out
+1.5,F du Plessis,CJ Anderson,DR Smith,4,Not out
+1.6,F du Plessis,CJ Anderson,DR Smith,0,Not out
+2.1,DR Smith,P Kumar,F du Plessis,0,Not out
+2.2,DR Smith,P Kumar,F du Plessis,1,Not out
+2.3,F du Plessis,P Kumar,DR Smith,1,Not out
+2.4,DR Smith,P Kumar,F du Plessis,0,Not out
+2.5,DR Smith,P Kumar,F du Plessis,1,Not out
+2.6,F du Plessis,P Kumar,DR Smith,1,Not out
+3.1,F du Plessis,CJ Anderson,DR Smith,1,Not out
+3.2,DR Smith,CJ Anderson,F du Plessis,1,Not out
+3.3,F du Plessis,CJ Anderson,DR Smith,4,Not out
+3.4,F du Plessis,CJ Anderson,DR Smith,2,Not out
+3.5,F du Plessis,CJ Anderson,DR Smith,6,Not out
+3.6,F du Plessis,CJ Anderson,DR Smith,4,Not out
+4.1,DR Smith,P Kumar,F du Plessis,1,Not out
+4.2,F du Plessis,P Kumar,DR Smith,0,Not out
+4.3,F du Plessis,P Kumar,DR Smith,1,Not out
+4.4,DR Smith,P Kumar,F du Plessis,1,Not out
+4.5,F du Plessis,P Kumar,DR Smith,1,Not out
+4.6,DR Smith,P Kumar,F du Plessis,1,Not out
+5.1,DR Smith,JJ Bumrah,F du Plessis,0,Not out
+5.2,DR Smith,JJ Bumrah,F du Plessis,4,Not out
+5.3,DR Smith,JJ Bumrah,F du Plessis,4,Not out
+5.4,DR Smith,JJ Bumrah,F du Plessis,4,Not out
+5.5,DR Smith,JJ Bumrah,F du Plessis,1,Not out
+5.6,F du Plessis,JJ Bumrah,DR Smith,4,Not out
+6.1,DR Smith,Harbhajan Singh,F du Plessis,0,Not out
+6.2,DR Smith,Harbhajan Singh,F du Plessis,0,caught
+6.3,F du Plessis,Harbhajan Singh,SK Raina,0,Not out
+6.4,F du Plessis,Harbhajan Singh,SK Raina,0,Not out
+6.5,F du Plessis,Harbhajan Singh,SK Raina,1,Not out
+6.6,SK Raina,Harbhajan Singh,F du Plessis,1,Not out
+6.7,F du Plessis,Harbhajan Singh,SK Raina,0,caught
+6.8,SK Raina,Harbhajan Singh,BB McCullum,0,Not out
+7.1,BB McCullum,CJ Anderson,SK Raina,1,Not out
+7.2,SK Raina,CJ Anderson,BB McCullum,1,Not out
+7.3,BB McCullum,CJ Anderson,SK Raina,0,Not out
+7.4,BB McCullum,CJ Anderson,SK Raina,0,Not out
+7.5,BB McCullum,CJ Anderson,SK Raina,0,Not out
+7.6,SK Raina,CJ Anderson,BB McCullum,0,Not out
+7.7,SK Raina,CJ Anderson,BB McCullum,4,Not out
+8.1,BB McCullum,Harbhajan Singh,SK Raina,0,Not out
+8.2,BB McCullum,Harbhajan Singh,SK Raina,0,Not out
+8.3,BB McCullum,Harbhajan Singh,SK Raina,6,Not out
+8.4,BB McCullum,Harbhajan Singh,SK Raina,0,Not out
+8.5,BB McCullum,Harbhajan Singh,SK Raina,1,Not out
+8.6,SK Raina,Harbhajan Singh,BB McCullum,1,Not out
+9.1,SK Raina,PP Ojha,BB McCullum,1,Not out
+9.2,BB McCullum,PP Ojha,SK Raina,6,Not out
+9.3,BB McCullum,PP Ojha,SK Raina,0,stumped
+9.4,DJ Hussey,PP Ojha,SK Raina,1,Not out
+9.5,SK Raina,PP Ojha,DJ Hussey,1,Not out
+9.6,DJ Hussey,PP Ojha,SK Raina,0,Not out
+10.1,SK Raina,Harbhajan Singh,DJ Hussey,0,Not out
+10.2,SK Raina,Harbhajan Singh,DJ Hussey,2,Not out
+10.3,SK Raina,Harbhajan Singh,DJ Hussey,0,Not out
+10.4,SK Raina,Harbhajan Singh,DJ Hussey,6,Not out
+10.5,SK Raina,Harbhajan Singh,DJ Hussey,1,Not out
+10.6,DJ Hussey,Harbhajan Singh,SK Raina,0,Not out
+11.1,SK Raina,PP Ojha,DJ Hussey,1,Not out
+11.2,DJ Hussey,PP Ojha,SK Raina,1,Not out
+11.3,SK Raina,PP Ojha,DJ Hussey,3,Not out
+11.4,DJ Hussey,PP Ojha,SK Raina,0,Not out
+11.5,DJ Hussey,PP Ojha,SK Raina,0,Not out
+11.6,DJ Hussey,PP Ojha,SK Raina,0,Not out
+12.1,SK Raina,Harbhajan Singh,DJ Hussey,1,Not out
+12.2,DJ Hussey,Harbhajan Singh,SK Raina,1,Not out
+12.3,SK Raina,Harbhajan Singh,DJ Hussey,1,Not out
+12.4,DJ Hussey,Harbhajan Singh,SK Raina,1,Not out
+12.5,SK Raina,Harbhajan Singh,DJ Hussey,1,Not out
+12.6,DJ Hussey,Harbhajan Singh,SK Raina,1,Not out
+13.1,DJ Hussey,JJ Bumrah,SK Raina,4,Not out
+13.2,DJ Hussey,JJ Bumrah,SK Raina,0,Not out
+13.3,DJ Hussey,JJ Bumrah,SK Raina,0,Not out
+13.4,DJ Hussey,JJ Bumrah,SK Raina,1,Not out
+13.5,SK Raina,JJ Bumrah,DJ Hussey,0,Not out
+13.6,SK Raina,JJ Bumrah,DJ Hussey,4,Not out
+14.1,DJ Hussey,P Kumar,SK Raina,1,Not out
+14.2,SK Raina,P Kumar,DJ Hussey,2,Not out
+14.3,SK Raina,P Kumar,DJ Hussey,2,Not out
+14.4,SK Raina,P Kumar,DJ Hussey,2,Not out
+14.5,SK Raina,P Kumar,DJ Hussey,1,Not out
+14.6,DJ Hussey,P Kumar,SK Raina,6,Not out
+15.1,SK Raina,PP Ojha,DJ Hussey,1,Not out
+15.2,DJ Hussey,PP Ojha,SK Raina,6,Not out
+15.3,DJ Hussey,PP Ojha,SK Raina,0,Not out
+15.4,DJ Hussey,PP Ojha,SK Raina,6,Not out
+15.5,DJ Hussey,PP Ojha,SK Raina,1,Not out
+15.6,SK Raina,PP Ojha,DJ Hussey,6,Not out
+16.1,DJ Hussey,JJ Bumrah,SK Raina,0,Not out
+16.2,DJ Hussey,JJ Bumrah,SK Raina,4,Not out
+16.3,DJ Hussey,JJ Bumrah,SK Raina,2,Not out
+16.4,DJ Hussey,JJ Bumrah,SK Raina,1,Not out
+16.5,SK Raina,JJ Bumrah,DJ Hussey,1,Not out
+16.6,DJ Hussey,JJ Bumrah,SK Raina,0,Not out
+17.1,SK Raina,KA Pollard,DJ Hussey,0,Not out
+17.2,SK Raina,KA Pollard,DJ Hussey,0,Not out
+17.3,SK Raina,KA Pollard,DJ Hussey,4,Not out
+17.4,SK Raina,KA Pollard,DJ Hussey,1,Not out
+17.5,DJ Hussey,KA Pollard,SK Raina,1,Not out
+17.6,SK Raina,KA Pollard,DJ Hussey,1,Not out
+17.7,DJ Hussey,KA Pollard,SK Raina,0,Not out
+17.8,DJ Hussey,KA Pollard,SK Raina,1,Not out
+18.1,DJ Hussey,JJ Bumrah,SK Raina,1,Not out
+18.2,SK Raina,JJ Bumrah,DJ Hussey,0,Not out
+18.3,SK Raina,JJ Bumrah,DJ Hussey,0,Not out
+18.4,SK Raina,JJ Bumrah,DJ Hussey,0,Not out
+18.5,SK Raina,JJ Bumrah,DJ Hussey,4,Not out

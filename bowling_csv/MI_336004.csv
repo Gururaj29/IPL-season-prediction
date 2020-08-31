@@ -1,0 +1,115 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,G Gambhir,SM Pollock,V Sehwag,0,Not out
+0.2,G Gambhir,SM Pollock,V Sehwag,1,Not out
+0.3,V Sehwag,SM Pollock,G Gambhir,1,Not out
+0.4,G Gambhir,SM Pollock,V Sehwag,0,Not out
+0.5,G Gambhir,SM Pollock,V Sehwag,0,Not out
+0.6,G Gambhir,SM Pollock,V Sehwag,0,Not out
+1.1,V Sehwag,A Nehra,G Gambhir,1,Not out
+1.2,G Gambhir,A Nehra,V Sehwag,0,Not out
+1.3,G Gambhir,A Nehra,V Sehwag,0,Not out
+1.4,G Gambhir,A Nehra,V Sehwag,0,Not out
+1.5,G Gambhir,A Nehra,V Sehwag,0,caught
+1.6,S Dhawan,A Nehra,V Sehwag,1,Not out
+2.1,S Dhawan,SM Pollock,V Sehwag,0,Not out
+2.2,S Dhawan,SM Pollock,V Sehwag,0,caught
+2.3,AB de Villiers,SM Pollock,V Sehwag,0,Not out
+2.4,AB de Villiers,SM Pollock,V Sehwag,0,Not out
+2.5,AB de Villiers,SM Pollock,V Sehwag,2,Not out
+2.6,AB de Villiers,SM Pollock,V Sehwag,0,Not out
+3.1,V Sehwag,A Nehra,AB de Villiers,1,Not out
+3.2,AB de Villiers,A Nehra,V Sehwag,6,Not out
+3.3,AB de Villiers,A Nehra,V Sehwag,4,Not out
+3.4,AB de Villiers,A Nehra,V Sehwag,1,Not out
+3.5,V Sehwag,A Nehra,AB de Villiers,4,Not out
+3.6,V Sehwag,A Nehra,AB de Villiers,0,Not out
+4.1,AB de Villiers,SM Pollock,V Sehwag,0,Not out
+4.2,AB de Villiers,SM Pollock,V Sehwag,0,Not out
+4.3,AB de Villiers,SM Pollock,V Sehwag,0,Not out
+4.4,AB de Villiers,SM Pollock,V Sehwag,0,Not out
+4.5,AB de Villiers,SM Pollock,V Sehwag,1,Not out
+4.6,V Sehwag,SM Pollock,AB de Villiers,6,Not out
+5.1,AB de Villiers,DJ Bravo,V Sehwag,1,Not out
+5.2,V Sehwag,DJ Bravo,AB de Villiers,1,Not out
+5.3,AB de Villiers,DJ Bravo,V Sehwag,2,Not out
+5.4,AB de Villiers,DJ Bravo,V Sehwag,0,Not out
+5.5,AB de Villiers,DJ Bravo,V Sehwag,0,Not out
+5.6,AB de Villiers,DJ Bravo,V Sehwag,4,Not out
+6.1,V Sehwag,DS Kulkarni,AB de Villiers,0,run out
+6.2,V Sehwag,DS Kulkarni,Shoaib Malik,1,Not out
+6.3,Shoaib Malik,DS Kulkarni,V Sehwag,1,Not out
+6.4,V Sehwag,DS Kulkarni,Shoaib Malik,1,Not out
+6.5,Shoaib Malik,DS Kulkarni,V Sehwag,0,Not out
+6.6,Shoaib Malik,DS Kulkarni,V Sehwag,1,Not out
+6.7,V Sehwag,DS Kulkarni,Shoaib Malik,0,Not out
+7.1,Shoaib Malik,DJ Bravo,V Sehwag,2,Not out
+7.2,Shoaib Malik,DJ Bravo,V Sehwag,1,Not out
+7.3,V Sehwag,DJ Bravo,Shoaib Malik,1,Not out
+7.4,Shoaib Malik,DJ Bravo,V Sehwag,2,Not out
+7.5,Shoaib Malik,DJ Bravo,V Sehwag,1,Not out
+7.6,V Sehwag,DJ Bravo,Shoaib Malik,4,Not out
+8.1,Shoaib Malik,DS Kulkarni,V Sehwag,4,Not out
+8.2,Shoaib Malik,DS Kulkarni,V Sehwag,2,Not out
+8.3,Shoaib Malik,DS Kulkarni,V Sehwag,1,Not out
+8.4,V Sehwag,DS Kulkarni,Shoaib Malik,4,Not out
+8.5,V Sehwag,DS Kulkarni,Shoaib Malik,1,Not out
+8.6,Shoaib Malik,DS Kulkarni,V Sehwag,0,Not out
+9.1,V Sehwag,ST Jayasuriya,Shoaib Malik,6,Not out
+9.2,V Sehwag,ST Jayasuriya,Shoaib Malik,1,Not out
+9.3,Shoaib Malik,ST Jayasuriya,V Sehwag,1,Not out
+9.4,V Sehwag,ST Jayasuriya,Shoaib Malik,1,Not out
+9.5,Shoaib Malik,ST Jayasuriya,V Sehwag,1,Not out
+9.6,V Sehwag,ST Jayasuriya,Shoaib Malik,6,Not out
+10.1,Shoaib Malik,DJ Thornely,V Sehwag,1,Not out
+10.2,V Sehwag,DJ Thornely,Shoaib Malik,0,caught
+10.3,KD Karthik,DJ Thornely,Shoaib Malik,1,Not out
+10.4,Shoaib Malik,DJ Thornely,KD Karthik,0,Not out
+10.5,Shoaib Malik,DJ Thornely,KD Karthik,1,Not out
+10.6,KD Karthik,DJ Thornely,Shoaib Malik,1,Not out
+11.1,KD Karthik,A Nehra,Shoaib Malik,1,Not out
+11.2,Shoaib Malik,A Nehra,KD Karthik,1,Not out
+11.3,KD Karthik,A Nehra,Shoaib Malik,0,Not out
+11.4,KD Karthik,A Nehra,Shoaib Malik,1,Not out
+11.5,Shoaib Malik,A Nehra,KD Karthik,1,Not out
+11.6,KD Karthik,A Nehra,Shoaib Malik,0,Not out
+12.1,KD Karthik,DJ Thornely,Shoaib Malik,4,Not out
+12.2,KD Karthik,DJ Thornely,Shoaib Malik,0,Not out
+12.3,KD Karthik,DJ Thornely,Shoaib Malik,4,Not out
+12.4,KD Karthik,DJ Thornely,Shoaib Malik,1,Not out
+12.5,Shoaib Malik,DJ Thornely,KD Karthik,1,Not out
+12.6,KD Karthik,DJ Thornely,Shoaib Malik,1,Not out
+13.1,KD Karthik,RR Raje,Shoaib Malik,0,Not out
+13.2,KD Karthik,RR Raje,Shoaib Malik,1,Not out
+13.3,Shoaib Malik,RR Raje,KD Karthik,1,Not out
+13.4,KD Karthik,RR Raje,Shoaib Malik,4,Not out
+13.5,KD Karthik,RR Raje,Shoaib Malik,1,Not out
+13.6,Shoaib Malik,RR Raje,KD Karthik,1,Not out
+14.1,Shoaib Malik,SM Pollock,KD Karthik,0,caught
+14.2,KD Karthik,SM Pollock,R Bhatia,1,Not out
+14.3,R Bhatia,SM Pollock,KD Karthik,1,Not out
+14.4,KD Karthik,SM Pollock,R Bhatia,0,Not out
+14.5,KD Karthik,SM Pollock,R Bhatia,2,Not out
+14.6,KD Karthik,SM Pollock,R Bhatia,1,Not out
+15.1,KD Karthik,RR Raje,R Bhatia,2,Not out
+15.2,KD Karthik,RR Raje,R Bhatia,1,Not out
+15.3,R Bhatia,RR Raje,KD Karthik,0,Not out
+15.4,R Bhatia,RR Raje,KD Karthik,1,Not out
+15.5,KD Karthik,RR Raje,R Bhatia,1,Not out
+15.6,R Bhatia,RR Raje,KD Karthik,0,Not out
+16.1,KD Karthik,DJ Bravo,R Bhatia,0,lbw
+16.2,PJ Sangwan,DJ Bravo,R Bhatia,0,Not out
+16.3,PJ Sangwan,DJ Bravo,R Bhatia,2,Not out
+16.4,PJ Sangwan,DJ Bravo,R Bhatia,0,Not out
+16.5,R Bhatia,DJ Bravo,PJ Sangwan,6,Not out
+16.6,R Bhatia,DJ Bravo,PJ Sangwan,0,Not out
+17.1,R Bhatia,A Nehra,PJ Sangwan,1,Not out
+17.2,PJ Sangwan,A Nehra,R Bhatia,0,caught
+17.3,R Bhatia,A Nehra,VY Mahesh,0,caught
+17.4,VY Mahesh,A Nehra,Mohammad Asif,0,Not out
+17.5,VY Mahesh,A Nehra,Mohammad Asif,0,Not out
+17.6,VY Mahesh,A Nehra,Mohammad Asif,2,Not out
+18.1,Mohammad Asif,DS Kulkarni,VY Mahesh,0,caught
+18.2,VY Mahesh,DS Kulkarni,GD McGrath,0,Not out
+18.3,VY Mahesh,DS Kulkarni,GD McGrath,1,Not out
+18.4,GD McGrath,DS Kulkarni,VY Mahesh,0,Not out
+18.5,GD McGrath,DS Kulkarni,VY Mahesh,0,caught

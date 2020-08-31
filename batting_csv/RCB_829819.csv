@@ -1,0 +1,126 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,CH Gayle,CH Morris,V Kohli,0,Not out
+0.2,CH Gayle,CH Morris,V Kohli,4,Not out
+0.3,CH Gayle,CH Morris,V Kohli,0,Not out
+0.4,CH Gayle,CH Morris,V Kohli,0,Not out
+0.5,CH Gayle,CH Morris,V Kohli,0,Not out
+0.6,CH Gayle,CH Morris,V Kohli,1,Not out
+1.1,CH Gayle,JP Faulkner,V Kohli,0,Not out
+1.2,CH Gayle,JP Faulkner,V Kohli,1,Not out
+1.3,V Kohli,JP Faulkner,CH Gayle,1,Not out
+1.4,CH Gayle,JP Faulkner,V Kohli,0,Not out
+1.5,CH Gayle,JP Faulkner,V Kohli,1,Not out
+1.6,V Kohli,JP Faulkner,CH Gayle,2,Not out
+2.1,CH Gayle,DS Kulkarni,V Kohli,4,Not out
+2.2,CH Gayle,DS Kulkarni,V Kohli,0,Not out
+2.3,CH Gayle,DS Kulkarni,V Kohli,0,Not out
+2.4,CH Gayle,DS Kulkarni,V Kohli,0,Not out
+2.5,CH Gayle,DS Kulkarni,V Kohli,6,Not out
+2.6,CH Gayle,DS Kulkarni,V Kohli,0,Not out
+3.1,V Kohli,SR Watson,CH Gayle,0,Not out
+3.2,V Kohli,SR Watson,CH Gayle,1,Not out
+3.3,CH Gayle,SR Watson,V Kohli,0,Not out
+3.4,CH Gayle,SR Watson,V Kohli,1,Not out
+3.5,V Kohli,SR Watson,CH Gayle,1,Not out
+3.6,CH Gayle,SR Watson,V Kohli,0,Not out
+3.7,CH Gayle,SR Watson,V Kohli,0,Not out
+4.1,V Kohli,CH Morris,CH Gayle,1,Not out
+4.2,CH Gayle,CH Morris,V Kohli,4,Not out
+4.3,CH Gayle,CH Morris,V Kohli,0,Not out
+4.4,CH Gayle,CH Morris,V Kohli,0,Not out
+4.5,CH Gayle,CH Morris,V Kohli,4,Not out
+4.6,CH Gayle,CH Morris,V Kohli,0,Not out
+4.7,CH Gayle,CH Morris,V Kohli,0,Not out
+5.1,V Kohli,DS Kulkarni,CH Gayle,1,Not out
+5.2,CH Gayle,DS Kulkarni,V Kohli,1,Not out
+5.3,V Kohli,DS Kulkarni,CH Gayle,0,Not out
+5.4,V Kohli,DS Kulkarni,CH Gayle,0,Not out
+5.5,V Kohli,DS Kulkarni,CH Gayle,1,Not out
+5.6,CH Gayle,DS Kulkarni,V Kohli,0,bowled
+6.1,V Kohli,Ankit Sharma,AB de Villiers,0,Not out
+6.2,V Kohli,Ankit Sharma,AB de Villiers,0,Not out
+6.3,V Kohli,Ankit Sharma,AB de Villiers,0,Not out
+6.4,V Kohli,Ankit Sharma,AB de Villiers,1,Not out
+6.5,AB de Villiers,Ankit Sharma,V Kohli,1,Not out
+6.6,V Kohli,Ankit Sharma,AB de Villiers,1,Not out
+7.1,V Kohli,DS Kulkarni,AB de Villiers,0,Not out
+7.2,V Kohli,DS Kulkarni,AB de Villiers,2,Not out
+7.3,V Kohli,DS Kulkarni,AB de Villiers,0,caught and bowled
+7.4,Mandeep Singh,DS Kulkarni,AB de Villiers,0,Not out
+7.5,Mandeep Singh,DS Kulkarni,AB de Villiers,0,Not out
+7.6,Mandeep Singh,DS Kulkarni,AB de Villiers,0,Not out
+8.1,AB de Villiers,STR Binny,Mandeep Singh,0,Not out
+8.2,AB de Villiers,STR Binny,Mandeep Singh,0,Not out
+8.3,AB de Villiers,STR Binny,Mandeep Singh,0,Not out
+8.4,AB de Villiers,STR Binny,Mandeep Singh,1,Not out
+8.5,Mandeep Singh,STR Binny,AB de Villiers,0,Not out
+8.6,Mandeep Singh,STR Binny,AB de Villiers,0,Not out
+9.1,AB de Villiers,DS Kulkarni,Mandeep Singh,1,Not out
+9.2,Mandeep Singh,DS Kulkarni,AB de Villiers,1,Not out
+9.3,AB de Villiers,DS Kulkarni,Mandeep Singh,1,Not out
+9.4,Mandeep Singh,DS Kulkarni,AB de Villiers,0,Not out
+9.5,Mandeep Singh,DS Kulkarni,AB de Villiers,4,Not out
+9.6,Mandeep Singh,DS Kulkarni,AB de Villiers,6,Not out
+10.1,AB de Villiers,SR Watson,Mandeep Singh,2,Not out
+10.2,AB de Villiers,SR Watson,Mandeep Singh,2,Not out
+10.3,AB de Villiers,SR Watson,Mandeep Singh,4,Not out
+10.4,AB de Villiers,SR Watson,Mandeep Singh,1,Not out
+10.5,Mandeep Singh,SR Watson,AB de Villiers,1,Not out
+10.6,AB de Villiers,SR Watson,Mandeep Singh,0,Not out
+11.1,Mandeep Singh,JP Faulkner,AB de Villiers,4,Not out
+11.2,Mandeep Singh,JP Faulkner,AB de Villiers,0,Not out
+11.3,AB de Villiers,JP Faulkner,Mandeep Singh,1,Not out
+11.4,Mandeep Singh,JP Faulkner,AB de Villiers,1,Not out
+11.5,AB de Villiers,JP Faulkner,Mandeep Singh,1,Not out
+11.6,Mandeep Singh,JP Faulkner,AB de Villiers,4,Not out
+12.1,AB de Villiers,Ankit Sharma,Mandeep Singh,1,Not out
+12.2,Mandeep Singh,Ankit Sharma,AB de Villiers,4,Not out
+12.3,Mandeep Singh,Ankit Sharma,AB de Villiers,1,Not out
+12.4,AB de Villiers,Ankit Sharma,Mandeep Singh,0,Not out
+12.5,AB de Villiers,Ankit Sharma,Mandeep Singh,0,Not out
+12.6,AB de Villiers,Ankit Sharma,Mandeep Singh,0,Not out
+13.1,Mandeep Singh,SR Watson,AB de Villiers,0,Not out
+13.2,Mandeep Singh,SR Watson,AB de Villiers,1,Not out
+13.3,AB de Villiers,SR Watson,Mandeep Singh,0,Not out
+13.4,Mandeep Singh,SR Watson,AB de Villiers,0,Not out
+13.5,Mandeep Singh,SR Watson,AB de Villiers,1,Not out
+13.6,AB de Villiers,SR Watson,Mandeep Singh,0,Not out
+13.7,AB de Villiers,SR Watson,Mandeep Singh,0,Not out
+13.8,AB de Villiers,SR Watson,Mandeep Singh,1,Not out
+14.1,AB de Villiers,Ankit Sharma,Mandeep Singh,6,Not out
+14.2,AB de Villiers,Ankit Sharma,Mandeep Singh,1,Not out
+14.3,Mandeep Singh,Ankit Sharma,AB de Villiers,1,Not out
+14.4,AB de Villiers,Ankit Sharma,Mandeep Singh,6,Not out
+14.5,AB de Villiers,Ankit Sharma,Mandeep Singh,4,Not out
+14.6,AB de Villiers,Ankit Sharma,Mandeep Singh,1,Not out
+15.1,AB de Villiers,JP Faulkner,Mandeep Singh,2,Not out
+15.2,AB de Villiers,JP Faulkner,Mandeep Singh,1,Not out
+15.3,Mandeep Singh,JP Faulkner,AB de Villiers,4,Not out
+15.4,Mandeep Singh,JP Faulkner,AB de Villiers,0,Not out
+15.5,Mandeep Singh,JP Faulkner,AB de Villiers,4,Not out
+15.6,Mandeep Singh,JP Faulkner,AB de Villiers,0,Not out
+16.1,AB de Villiers,SR Watson,Mandeep Singh,4,Not out
+16.2,AB de Villiers,SR Watson,Mandeep Singh,0,Not out
+16.3,AB de Villiers,SR Watson,Mandeep Singh,4,Not out
+16.4,AB de Villiers,SR Watson,Mandeep Singh,0,Not out
+16.5,AB de Villiers,SR Watson,Mandeep Singh,2,Not out
+16.6,AB de Villiers,SR Watson,Mandeep Singh,1,Not out
+16.7,Mandeep Singh,SR Watson,AB de Villiers,1,Not out
+17.1,Mandeep Singh,CH Morris,AB de Villiers,0,Not out
+17.2,Mandeep Singh,CH Morris,AB de Villiers,2,Not out
+17.3,Mandeep Singh,CH Morris,AB de Villiers,1,Not out
+17.4,AB de Villiers,CH Morris,Mandeep Singh,6,Not out
+17.5,AB de Villiers,CH Morris,Mandeep Singh,6,Not out
+17.6,AB de Villiers,CH Morris,Mandeep Singh,2,Not out
+18.1,Mandeep Singh,JP Faulkner,AB de Villiers,1,Not out
+18.2,AB de Villiers,JP Faulkner,Mandeep Singh,2,Not out
+18.3,AB de Villiers,JP Faulkner,Mandeep Singh,1,Not out
+18.4,Mandeep Singh,JP Faulkner,AB de Villiers,1,run out
+18.5,Mandeep Singh,JP Faulkner,KD Karthik,6,Not out
+18.6,Mandeep Singh,JP Faulkner,KD Karthik,4,Not out
+19.1,KD Karthik,CH Morris,Mandeep Singh,6,Not out
+19.2,KD Karthik,CH Morris,Mandeep Singh,2,Not out
+19.3,KD Karthik,CH Morris,Mandeep Singh,0,caught
+19.4,Mandeep Singh,CH Morris,SN Khan,1,Not out
+19.5,SN Khan,CH Morris,Mandeep Singh,1,Not out
+19.6,Mandeep Singh,CH Morris,SN Khan,0,Not out

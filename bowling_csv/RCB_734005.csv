@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,M Vijay,M Muralitharan,Q de Kock,0,Not out
+0.2,M Vijay,M Muralitharan,Q de Kock,1,Not out
+0.3,Q de Kock,M Muralitharan,M Vijay,1,Not out
+0.4,M Vijay,M Muralitharan,Q de Kock,0,lbw
+0.5,MA Agarwal,M Muralitharan,Q de Kock,1,Not out
+0.6,Q de Kock,M Muralitharan,MA Agarwal,4,Not out
+1.1,MA Agarwal,MA Starc,Q de Kock,1,Not out
+1.2,Q de Kock,MA Starc,MA Agarwal,0,Not out
+1.3,Q de Kock,MA Starc,MA Agarwal,1,Not out
+1.4,MA Agarwal,MA Starc,Q de Kock,1,Not out
+1.5,Q de Kock,MA Starc,MA Agarwal,0,Not out
+1.6,Q de Kock,MA Starc,MA Agarwal,0,bowled
+2.1,MA Agarwal,M Muralitharan,KP Pietersen,0,Not out
+2.2,MA Agarwal,M Muralitharan,KP Pietersen,1,Not out
+2.3,KP Pietersen,M Muralitharan,MA Agarwal,0,Not out
+2.4,MA Agarwal,M Muralitharan,KP Pietersen,6,Not out
+2.5,MA Agarwal,M Muralitharan,KP Pietersen,0,Not out
+2.6,MA Agarwal,M Muralitharan,KP Pietersen,0,Not out
+3.1,KP Pietersen,MA Starc,MA Agarwal,0,Not out
+3.2,KP Pietersen,MA Starc,MA Agarwal,0,Not out
+3.3,KP Pietersen,MA Starc,MA Agarwal,0,Not out
+3.4,KP Pietersen,MA Starc,MA Agarwal,1,Not out
+3.5,MA Agarwal,MA Starc,KP Pietersen,4,Not out
+3.6,MA Agarwal,MA Starc,KP Pietersen,1,Not out
+3.7,KP Pietersen,MA Starc,MA Agarwal,1,Not out
+4.1,KP Pietersen,AN Ahmed,MA Agarwal,0,Not out
+4.2,KP Pietersen,AN Ahmed,MA Agarwal,0,Not out
+4.3,KP Pietersen,AN Ahmed,MA Agarwal,1,Not out
+4.4,MA Agarwal,AN Ahmed,KP Pietersen,1,Not out
+4.5,KP Pietersen,AN Ahmed,MA Agarwal,1,Not out
+4.6,MA Agarwal,AN Ahmed,KP Pietersen,1,Not out
+4.7,KP Pietersen,AN Ahmed,MA Agarwal,1,Not out
+5.1,KP Pietersen,YS Chahal,MA Agarwal,4,Not out
+5.2,KP Pietersen,YS Chahal,MA Agarwal,1,Not out
+5.3,MA Agarwal,YS Chahal,KP Pietersen,0,Not out
+5.4,MA Agarwal,YS Chahal,KP Pietersen,0,Not out
+5.5,MA Agarwal,YS Chahal,KP Pietersen,4,Not out
+5.6,MA Agarwal,YS Chahal,KP Pietersen,1,Not out
+6.1,MA Agarwal,Yuvraj Singh,KP Pietersen,0,Not out
+6.2,MA Agarwal,Yuvraj Singh,KP Pietersen,1,Not out
+6.3,KP Pietersen,Yuvraj Singh,MA Agarwal,0,Not out
+6.4,KP Pietersen,Yuvraj Singh,MA Agarwal,6,Not out
+6.5,KP Pietersen,Yuvraj Singh,MA Agarwal,1,Not out
+6.6,MA Agarwal,Yuvraj Singh,KP Pietersen,0,Not out
+7.1,KP Pietersen,YS Chahal,MA Agarwal,0,Not out
+7.2,KP Pietersen,YS Chahal,MA Agarwal,2,Not out
+7.3,KP Pietersen,YS Chahal,MA Agarwal,2,Not out
+7.4,KP Pietersen,YS Chahal,MA Agarwal,1,Not out
+7.5,MA Agarwal,YS Chahal,KP Pietersen,6,Not out
+7.6,MA Agarwal,YS Chahal,KP Pietersen,0,Not out
+8.1,KP Pietersen,Yuvraj Singh,MA Agarwal,1,Not out
+8.2,MA Agarwal,Yuvraj Singh,KP Pietersen,1,Not out
+8.3,KP Pietersen,Yuvraj Singh,MA Agarwal,4,Not out
+8.4,KP Pietersen,Yuvraj Singh,MA Agarwal,1,Not out
+8.5,MA Agarwal,Yuvraj Singh,KP Pietersen,1,Not out
+8.6,KP Pietersen,Yuvraj Singh,MA Agarwal,0,Not out
+9.1,MA Agarwal,AN Ahmed,KP Pietersen,0,Not out
+9.2,MA Agarwal,AN Ahmed,KP Pietersen,0,caught
+9.3,KP Pietersen,AN Ahmed,JP Duminy,1,Not out
+9.4,JP Duminy,AN Ahmed,KP Pietersen,0,Not out
+9.5,JP Duminy,AN Ahmed,KP Pietersen,1,Not out
+9.6,KP Pietersen,AN Ahmed,JP Duminy,1,Not out
+10.1,KP Pietersen,M Muralitharan,JP Duminy,1,Not out
+10.2,JP Duminy,M Muralitharan,KP Pietersen,2,Not out
+10.3,JP Duminy,M Muralitharan,KP Pietersen,1,Not out
+10.4,KP Pietersen,M Muralitharan,JP Duminy,1,Not out
+10.5,JP Duminy,M Muralitharan,KP Pietersen,1,Not out
+10.6,KP Pietersen,M Muralitharan,JP Duminy,0,Not out
+11.1,JP Duminy,YS Chahal,KP Pietersen,6,Not out
+11.2,JP Duminy,YS Chahal,KP Pietersen,1,Not out
+11.3,KP Pietersen,YS Chahal,JP Duminy,1,Not out
+11.4,JP Duminy,YS Chahal,KP Pietersen,6,Not out
+11.5,JP Duminy,YS Chahal,KP Pietersen,1,Not out
+11.6,KP Pietersen,YS Chahal,JP Duminy,0,stumped
+12.1,JP Duminy,M Muralitharan,KD Karthik,0,Not out
+12.2,JP Duminy,M Muralitharan,KD Karthik,1,Not out
+12.3,KD Karthik,M Muralitharan,JP Duminy,1,Not out
+12.4,JP Duminy,M Muralitharan,KD Karthik,2,Not out
+12.5,JP Duminy,M Muralitharan,KD Karthik,1,Not out
+12.6,KD Karthik,M Muralitharan,JP Duminy,0,caught
+13.1,JP Duminy,Yuvraj Singh,KM Jadhav,1,Not out
+13.2,KM Jadhav,Yuvraj Singh,JP Duminy,1,Not out
+13.3,JP Duminy,Yuvraj Singh,KM Jadhav,1,Not out
+13.4,KM Jadhav,Yuvraj Singh,JP Duminy,1,Not out
+13.5,JP Duminy,Yuvraj Singh,KM Jadhav,4,Not out
+13.6,JP Duminy,Yuvraj Singh,KM Jadhav,0,Not out
+14.1,KM Jadhav,YS Chahal,JP Duminy,0,Not out
+14.2,KM Jadhav,YS Chahal,JP Duminy,1,Not out
+14.3,JP Duminy,YS Chahal,KM Jadhav,1,Not out
+14.4,KM Jadhav,YS Chahal,JP Duminy,1,Not out
+14.5,JP Duminy,YS Chahal,KM Jadhav,0,Not out
+14.6,JP Duminy,YS Chahal,KM Jadhav,6,Not out
+15.1,KM Jadhav,Yuvraj Singh,JP Duminy,0,Not out
+15.2,KM Jadhav,Yuvraj Singh,JP Duminy,1,Not out
+15.3,JP Duminy,Yuvraj Singh,KM Jadhav,0,Not out
+15.4,JP Duminy,Yuvraj Singh,KM Jadhav,1,Not out
+15.5,KM Jadhav,Yuvraj Singh,JP Duminy,1,Not out
+15.6,JP Duminy,Yuvraj Singh,KM Jadhav,1,Not out
+16.1,JP Duminy,AN Ahmed,KM Jadhav,4,Not out
+16.2,JP Duminy,AN Ahmed,KM Jadhav,0,Not out
+16.3,JP Duminy,AN Ahmed,KM Jadhav,0,Not out
+16.4,KM Jadhav,AN Ahmed,JP Duminy,6,Not out
+16.5,KM Jadhav,AN Ahmed,JP Duminy,4,Not out
+16.6,KM Jadhav,AN Ahmed,JP Duminy,1,Not out
+16.7,JP Duminy,AN Ahmed,KM Jadhav,1,Not out
+17.1,JP Duminy,MA Starc,KM Jadhav,1,Not out
+17.2,KM Jadhav,MA Starc,JP Duminy,1,Not out
+17.3,JP Duminy,MA Starc,KM Jadhav,4,Not out
+17.4,JP Duminy,MA Starc,KM Jadhav,0,bowled
+17.5,R Shukla,MA Starc,KM Jadhav,0,Not out
+17.6,R Shukla,MA Starc,KM Jadhav,0,Not out
+18.1,KM Jadhav,AN Ahmed,R Shukla,4,Not out
+18.2,KM Jadhav,AN Ahmed,R Shukla,4,Not out
+18.3,KM Jadhav,AN Ahmed,R Shukla,0,Not out
+18.4,KM Jadhav,AN Ahmed,R Shukla,2,Not out
+18.5,KM Jadhav,AN Ahmed,R Shukla,1,Not out
+18.6,R Shukla,AN Ahmed,KM Jadhav,1,Not out
+18.7,KM Jadhav,AN Ahmed,R Shukla,1,Not out
+19.1,KM Jadhav,MA Starc,R Shukla,6,Not out
+19.2,KM Jadhav,MA Starc,R Shukla,1,Not out
+19.3,R Shukla,MA Starc,KM Jadhav,0,Not out
+19.4,R Shukla,MA Starc,KM Jadhav,0,run out
+19.5,Mohammed Shami,MA Starc,R Shukla,1,Not out
+19.6,R Shukla,MA Starc,Mohammed Shami,1,Not out

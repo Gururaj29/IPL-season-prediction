@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AC Gilchrist,SL Malinga,HH Gibbs,0,Not out
+0.2,AC Gilchrist,SL Malinga,HH Gibbs,0,Not out
+0.3,AC Gilchrist,SL Malinga,HH Gibbs,4,Not out
+0.4,AC Gilchrist,SL Malinga,HH Gibbs,0,Not out
+0.5,AC Gilchrist,SL Malinga,HH Gibbs,1,Not out
+0.6,HH Gibbs,SL Malinga,AC Gilchrist,0,Not out
+0.7,AC Gilchrist,SL Malinga,HH Gibbs,0,Not out
+1.1,HH Gibbs,DS Kulkarni,AC Gilchrist,0,Not out
+1.2,HH Gibbs,DS Kulkarni,AC Gilchrist,0,Not out
+1.3,HH Gibbs,DS Kulkarni,AC Gilchrist,0,Not out
+1.4,HH Gibbs,DS Kulkarni,AC Gilchrist,0,Not out
+1.5,HH Gibbs,DS Kulkarni,AC Gilchrist,0,caught
+1.6,TL Suman,DS Kulkarni,AC Gilchrist,0,Not out
+1.7,TL Suman,DS Kulkarni,AC Gilchrist,0,Not out
+2.1,AC Gilchrist,SL Malinga,TL Suman,0,Not out
+2.2,AC Gilchrist,SL Malinga,TL Suman,0,Not out
+2.3,AC Gilchrist,SL Malinga,TL Suman,0,Not out
+2.4,AC Gilchrist,SL Malinga,TL Suman,0,Not out
+2.5,AC Gilchrist,SL Malinga,TL Suman,0,Not out
+2.6,AC Gilchrist,SL Malinga,TL Suman,4,Not out
+2.7,AC Gilchrist,SL Malinga,TL Suman,0,Not out
+3.1,TL Suman,DS Kulkarni,AC Gilchrist,2,Not out
+3.2,TL Suman,DS Kulkarni,AC Gilchrist,4,Not out
+3.3,TL Suman,DS Kulkarni,AC Gilchrist,0,Not out
+3.4,TL Suman,DS Kulkarni,AC Gilchrist,0,Not out
+3.5,TL Suman,DS Kulkarni,AC Gilchrist,1,Not out
+3.6,AC Gilchrist,DS Kulkarni,TL Suman,1,Not out
+4.1,AC Gilchrist,Harbhajan Singh,TL Suman,1,Not out
+4.2,TL Suman,Harbhajan Singh,AC Gilchrist,6,Not out
+4.3,TL Suman,Harbhajan Singh,AC Gilchrist,1,Not out
+4.4,AC Gilchrist,Harbhajan Singh,TL Suman,0,Not out
+4.5,TL Suman,Harbhajan Singh,AC Gilchrist,6,Not out
+4.6,TL Suman,Harbhajan Singh,AC Gilchrist,0,Not out
+5.1,AC Gilchrist,DJ Bravo,TL Suman,1,Not out
+5.2,TL Suman,DJ Bravo,AC Gilchrist,0,Not out
+5.3,TL Suman,DJ Bravo,AC Gilchrist,0,caught
+5.4,RG Sharma,DJ Bravo,AC Gilchrist,0,Not out
+5.5,RG Sharma,DJ Bravo,AC Gilchrist,0,Not out
+5.6,RG Sharma,DJ Bravo,AC Gilchrist,0,Not out
+6.1,AC Gilchrist,Harbhajan Singh,RG Sharma,1,Not out
+6.2,RG Sharma,Harbhajan Singh,AC Gilchrist,1,Not out
+6.3,AC Gilchrist,Harbhajan Singh,RG Sharma,0,Not out
+6.4,AC Gilchrist,Harbhajan Singh,RG Sharma,6,Not out
+6.5,AC Gilchrist,Harbhajan Singh,RG Sharma,0,Not out
+6.6,AC Gilchrist,Harbhajan Singh,RG Sharma,1,Not out
+7.1,AC Gilchrist,RR Raje,RG Sharma,1,Not out
+7.2,RG Sharma,RR Raje,AC Gilchrist,0,Not out
+7.3,RG Sharma,RR Raje,AC Gilchrist,6,Not out
+7.4,RG Sharma,RR Raje,AC Gilchrist,1,Not out
+7.5,AC Gilchrist,RR Raje,RG Sharma,1,Not out
+7.6,RG Sharma,RR Raje,AC Gilchrist,1,Not out
+8.1,RG Sharma,DJ Bravo,AC Gilchrist,1,Not out
+8.2,AC Gilchrist,DJ Bravo,RG Sharma,0,Not out
+8.3,AC Gilchrist,DJ Bravo,RG Sharma,0,Not out
+8.4,AC Gilchrist,DJ Bravo,RG Sharma,0,Not out
+8.5,AC Gilchrist,DJ Bravo,RG Sharma,1,Not out
+8.6,RG Sharma,DJ Bravo,AC Gilchrist,1,Not out
+9.1,RG Sharma,RR Raje,AC Gilchrist,1,Not out
+9.2,AC Gilchrist,RR Raje,RG Sharma,0,Not out
+9.3,AC Gilchrist,RR Raje,RG Sharma,2,Not out
+9.4,AC Gilchrist,RR Raje,RG Sharma,0,bowled
+9.5,DR Smith,RR Raje,RG Sharma,0,Not out
+9.6,DR Smith,RR Raje,RG Sharma,1,Not out
+10.1,DR Smith,ST Jayasuriya,RG Sharma,1,Not out
+10.2,RG Sharma,ST Jayasuriya,DR Smith,0,Not out
+10.3,RG Sharma,ST Jayasuriya,DR Smith,1,Not out
+10.4,DR Smith,ST Jayasuriya,RG Sharma,0,Not out
+10.5,DR Smith,ST Jayasuriya,RG Sharma,4,Not out
+10.6,DR Smith,ST Jayasuriya,RG Sharma,0,Not out
+11.1,RG Sharma,RR Raje,DR Smith,1,Not out
+11.2,DR Smith,RR Raje,RG Sharma,6,Not out
+11.3,DR Smith,RR Raje,RG Sharma,1,Not out
+11.4,RG Sharma,RR Raje,DR Smith,1,Not out
+11.5,DR Smith,RR Raje,RG Sharma,1,Not out
+11.6,RG Sharma,RR Raje,DR Smith,1,Not out
+12.1,RG Sharma,ST Jayasuriya,DR Smith,1,Not out
+12.2,DR Smith,ST Jayasuriya,RG Sharma,1,Not out
+12.3,RG Sharma,ST Jayasuriya,DR Smith,0,Not out
+12.4,DR Smith,ST Jayasuriya,RG Sharma,1,Not out
+12.5,RG Sharma,ST Jayasuriya,DR Smith,1,Not out
+12.6,DR Smith,ST Jayasuriya,RG Sharma,0,bowled
+13.1,RG Sharma,DS Kulkarni,Y Venugopal Rao,0,Not out
+13.2,RG Sharma,DS Kulkarni,Y Venugopal Rao,1,Not out
+13.3,Y Venugopal Rao,DS Kulkarni,RG Sharma,1,Not out
+13.4,RG Sharma,DS Kulkarni,Y Venugopal Rao,2,Not out
+13.5,RG Sharma,DS Kulkarni,Y Venugopal Rao,4,Not out
+13.6,RG Sharma,DS Kulkarni,Y Venugopal Rao,0,Not out
+14.1,Y Venugopal Rao,ST Jayasuriya,RG Sharma,0,Not out
+14.2,Y Venugopal Rao,ST Jayasuriya,RG Sharma,1,Not out
+14.3,RG Sharma,ST Jayasuriya,Y Venugopal Rao,2,Not out
+14.4,RG Sharma,ST Jayasuriya,Y Venugopal Rao,1,Not out
+14.5,Y Venugopal Rao,ST Jayasuriya,RG Sharma,1,Not out
+14.6,RG Sharma,ST Jayasuriya,Y Venugopal Rao,1,Not out
+15.1,RG Sharma,DS Kulkarni,Y Venugopal Rao,0,Not out
+15.2,RG Sharma,DS Kulkarni,Y Venugopal Rao,0,Not out
+15.3,RG Sharma,DS Kulkarni,Y Venugopal Rao,1,Not out
+15.4,Y Venugopal Rao,DS Kulkarni,RG Sharma,0,Not out
+15.5,Y Venugopal Rao,DS Kulkarni,RG Sharma,1,Not out
+15.6,RG Sharma,DS Kulkarni,Y Venugopal Rao,0,Not out
+15.7,RG Sharma,DS Kulkarni,Y Venugopal Rao,1,Not out
+16.1,RG Sharma,ST Jayasuriya,Y Venugopal Rao,4,Not out
+16.2,RG Sharma,ST Jayasuriya,Y Venugopal Rao,2,Not out
+16.3,RG Sharma,ST Jayasuriya,Y Venugopal Rao,1,Not out
+16.4,Y Venugopal Rao,ST Jayasuriya,RG Sharma,6,Not out
+16.5,Y Venugopal Rao,ST Jayasuriya,RG Sharma,2,Not out
+16.6,Y Venugopal Rao,ST Jayasuriya,RG Sharma,0,Not out
+17.1,RG Sharma,SL Malinga,Y Venugopal Rao,0,caught
+17.2,Y Venugopal Rao,SL Malinga,DB Ravi Teja,1,Not out
+17.3,DB Ravi Teja,SL Malinga,Y Venugopal Rao,0,Not out
+17.4,Y Venugopal Rao,SL Malinga,DB Ravi Teja,1,Not out
+17.5,DB Ravi Teja,SL Malinga,Y Venugopal Rao,1,Not out
+17.6,Y Venugopal Rao,SL Malinga,DB Ravi Teja,1,Not out
+18.1,Y Venugopal Rao,DJ Bravo,DB Ravi Teja,4,Not out
+18.2,Y Venugopal Rao,DJ Bravo,DB Ravi Teja,1,Not out
+18.3,DB Ravi Teja,DJ Bravo,Y Venugopal Rao,0,Not out
+18.4,Y Venugopal Rao,DJ Bravo,DB Ravi Teja,2,Not out
+18.5,Y Venugopal Rao,DJ Bravo,DB Ravi Teja,4,Not out
+18.6,Y Venugopal Rao,DJ Bravo,DB Ravi Teja,1,Not out
+19.1,Y Venugopal Rao,SL Malinga,DB Ravi Teja,1,run out
+19.2,RJ Harris,SL Malinga,DB Ravi Teja,0,Not out
+19.3,RJ Harris,SL Malinga,DB Ravi Teja,2,Not out
+19.4,RJ Harris,SL Malinga,DB Ravi Teja,1,Not out
+19.5,DB Ravi Teja,SL Malinga,RJ Harris,3,Not out
+19.6,RJ Harris,SL Malinga,DB Ravi Teja,2,Not out

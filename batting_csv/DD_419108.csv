@@ -1,0 +1,122 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,G Gambhir,IK Pathan,V Sehwag,1,Not out
+0.2,V Sehwag,IK Pathan,G Gambhir,0,Not out
+0.3,V Sehwag,IK Pathan,G Gambhir,4,Not out
+0.4,V Sehwag,IK Pathan,G Gambhir,0,Not out
+0.5,V Sehwag,IK Pathan,G Gambhir,0,Not out
+0.6,V Sehwag,IK Pathan,G Gambhir,4,Not out
+1.1,G Gambhir,S Sreesanth,V Sehwag,1,Not out
+1.2,V Sehwag,S Sreesanth,G Gambhir,0,caught
+1.3,TM Dilshan,S Sreesanth,G Gambhir,0,Not out
+1.4,TM Dilshan,S Sreesanth,G Gambhir,0,Not out
+1.5,TM Dilshan,S Sreesanth,G Gambhir,0,caught
+1.6,AB de Villiers,S Sreesanth,G Gambhir,0,Not out
+2.1,G Gambhir,IK Pathan,AB de Villiers,2,Not out
+2.2,G Gambhir,IK Pathan,AB de Villiers,0,Not out
+2.3,G Gambhir,IK Pathan,AB de Villiers,2,Not out
+2.4,G Gambhir,IK Pathan,AB de Villiers,0,Not out
+2.5,G Gambhir,IK Pathan,AB de Villiers,4,Not out
+2.6,G Gambhir,IK Pathan,AB de Villiers,0,Not out
+3.1,AB de Villiers,S Sreesanth,G Gambhir,1,Not out
+3.2,G Gambhir,S Sreesanth,AB de Villiers,4,Not out
+3.3,G Gambhir,S Sreesanth,AB de Villiers,0,Not out
+3.4,G Gambhir,S Sreesanth,AB de Villiers,0,Not out
+3.5,G Gambhir,S Sreesanth,AB de Villiers,0,Not out
+3.6,G Gambhir,S Sreesanth,AB de Villiers,0,Not out
+4.1,AB de Villiers,IK Pathan,G Gambhir,0,Not out
+4.2,AB de Villiers,IK Pathan,G Gambhir,0,Not out
+4.3,AB de Villiers,IK Pathan,G Gambhir,0,Not out
+4.4,AB de Villiers,IK Pathan,G Gambhir,0,Not out
+4.5,AB de Villiers,IK Pathan,G Gambhir,0,Not out
+4.6,AB de Villiers,IK Pathan,G Gambhir,0,Not out
+4.7,AB de Villiers,IK Pathan,G Gambhir,0,Not out
+4.8,AB de Villiers,IK Pathan,G Gambhir,1,Not out
+5.1,AB de Villiers,S Sreesanth,G Gambhir,1,Not out
+5.2,G Gambhir,S Sreesanth,AB de Villiers,1,Not out
+5.3,AB de Villiers,S Sreesanth,G Gambhir,1,Not out
+5.4,G Gambhir,S Sreesanth,AB de Villiers,1,Not out
+5.5,AB de Villiers,S Sreesanth,G Gambhir,1,Not out
+5.6,G Gambhir,S Sreesanth,AB de Villiers,4,Not out
+6.1,AB de Villiers,YA Abdulla,G Gambhir,1,Not out
+6.2,G Gambhir,YA Abdulla,AB de Villiers,0,Not out
+6.3,G Gambhir,YA Abdulla,AB de Villiers,1,Not out
+6.4,AB de Villiers,YA Abdulla,G Gambhir,1,Not out
+6.5,G Gambhir,YA Abdulla,AB de Villiers,0,Not out
+6.6,G Gambhir,YA Abdulla,AB de Villiers,1,Not out
+7.1,G Gambhir,PP Chawla,AB de Villiers,2,Not out
+7.2,G Gambhir,PP Chawla,AB de Villiers,0,Not out
+7.3,G Gambhir,PP Chawla,AB de Villiers,0,run out
+7.4,G Gambhir,PP Chawla,KD Karthik,1,Not out
+7.5,KD Karthik,PP Chawla,G Gambhir,0,Not out
+7.6,KD Karthik,PP Chawla,G Gambhir,1,Not out
+8.1,KD Karthik,YA Abdulla,G Gambhir,4,Not out
+8.2,KD Karthik,YA Abdulla,G Gambhir,0,Not out
+8.3,KD Karthik,YA Abdulla,G Gambhir,0,Not out
+8.4,KD Karthik,YA Abdulla,G Gambhir,2,Not out
+8.5,KD Karthik,YA Abdulla,G Gambhir,0,Not out
+8.6,KD Karthik,YA Abdulla,G Gambhir,1,Not out
+9.1,KD Karthik,PP Chawla,G Gambhir,1,Not out
+9.2,G Gambhir,PP Chawla,KD Karthik,4,Not out
+9.3,G Gambhir,PP Chawla,KD Karthik,1,Not out
+9.4,KD Karthik,PP Chawla,G Gambhir,1,Not out
+9.5,G Gambhir,PP Chawla,KD Karthik,0,Not out
+9.6,G Gambhir,PP Chawla,KD Karthik,0,Not out
+10.1,KD Karthik,Yuvraj Singh,G Gambhir,1,Not out
+10.2,G Gambhir,Yuvraj Singh,KD Karthik,0,Not out
+10.3,G Gambhir,Yuvraj Singh,KD Karthik,1,Not out
+10.4,KD Karthik,Yuvraj Singh,G Gambhir,1,Not out
+10.5,G Gambhir,Yuvraj Singh,KD Karthik,1,Not out
+10.6,KD Karthik,Yuvraj Singh,G Gambhir,0,Not out
+11.1,G Gambhir,PP Chawla,KD Karthik,4,Not out
+11.2,G Gambhir,PP Chawla,KD Karthik,1,Not out
+11.3,KD Karthik,PP Chawla,G Gambhir,0,Not out
+11.4,KD Karthik,PP Chawla,G Gambhir,4,Not out
+11.5,KD Karthik,PP Chawla,G Gambhir,0,Not out
+11.6,KD Karthik,PP Chawla,G Gambhir,4,Not out
+12.1,G Gambhir,YA Abdulla,KD Karthik,0,Not out
+12.2,KD Karthik,YA Abdulla,G Gambhir,0,caught
+12.3,G Gambhir,YA Abdulla,M Manhas,1,Not out
+12.4,M Manhas,YA Abdulla,G Gambhir,1,Not out
+12.5,G Gambhir,YA Abdulla,M Manhas,4,Not out
+12.6,G Gambhir,YA Abdulla,M Manhas,0,Not out
+13.1,M Manhas,RR Powar,G Gambhir,1,Not out
+13.2,G Gambhir,RR Powar,M Manhas,4,Not out
+13.3,G Gambhir,RR Powar,M Manhas,2,Not out
+13.4,G Gambhir,RR Powar,M Manhas,2,Not out
+13.5,G Gambhir,RR Powar,M Manhas,4,Not out
+13.6,G Gambhir,RR Powar,M Manhas,3,Not out
+14.1,G Gambhir,Yuvraj Singh,M Manhas,1,Not out
+14.2,M Manhas,Yuvraj Singh,G Gambhir,0,Not out
+14.3,M Manhas,Yuvraj Singh,G Gambhir,1,Not out
+14.4,G Gambhir,Yuvraj Singh,M Manhas,0,Not out
+14.5,G Gambhir,Yuvraj Singh,M Manhas,1,Not out
+14.6,M Manhas,Yuvraj Singh,G Gambhir,1,Not out
+15.1,M Manhas,PP Chawla,G Gambhir,2,Not out
+15.2,M Manhas,PP Chawla,G Gambhir,2,Not out
+15.3,M Manhas,PP Chawla,G Gambhir,2,Not out
+15.4,M Manhas,PP Chawla,G Gambhir,1,Not out
+15.5,G Gambhir,PP Chawla,M Manhas,1,Not out
+15.6,M Manhas,PP Chawla,G Gambhir,1,Not out
+16.1,M Manhas,Yuvraj Singh,G Gambhir,0,Not out
+16.2,M Manhas,Yuvraj Singh,G Gambhir,1,Not out
+16.3,G Gambhir,Yuvraj Singh,M Manhas,0,Not out
+16.4,G Gambhir,Yuvraj Singh,M Manhas,0,Not out
+16.5,G Gambhir,Yuvraj Singh,M Manhas,1,Not out
+16.6,M Manhas,Yuvraj Singh,G Gambhir,1,Not out
+17.1,M Manhas,S Sreesanth,G Gambhir,1,Not out
+17.2,G Gambhir,S Sreesanth,M Manhas,4,Not out
+17.3,G Gambhir,S Sreesanth,M Manhas,1,Not out
+17.4,M Manhas,S Sreesanth,G Gambhir,0,Not out
+17.5,M Manhas,S Sreesanth,G Gambhir,2,Not out
+17.6,M Manhas,S Sreesanth,G Gambhir,1,Not out
+18.1,M Manhas,YA Abdulla,G Gambhir,2,Not out
+18.2,M Manhas,YA Abdulla,G Gambhir,0,Not out
+18.3,M Manhas,YA Abdulla,G Gambhir,4,Not out
+18.4,M Manhas,YA Abdulla,G Gambhir,1,Not out
+18.5,G Gambhir,YA Abdulla,M Manhas,6,Not out
+18.6,G Gambhir,YA Abdulla,M Manhas,0,Not out
+19.1,M Manhas,IK Pathan,G Gambhir,1,Not out
+19.2,G Gambhir,IK Pathan,M Manhas,0,caught
+19.3,M Manhas,IK Pathan,MF Maharoof,1,Not out
+19.4,MF Maharoof,IK Pathan,M Manhas,1,Not out
+19.5,M Manhas,IK Pathan,MF Maharoof,4,Not out

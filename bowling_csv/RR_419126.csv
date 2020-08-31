@@ -1,0 +1,128 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AC Gilchrist,S Narwal,VVS Laxman,1,Not out
+0.2,VVS Laxman,S Narwal,AC Gilchrist,1,Not out
+0.3,AC Gilchrist,S Narwal,VVS Laxman,0,Not out
+0.4,AC Gilchrist,S Narwal,VVS Laxman,0,caught
+0.5,VVS Laxman,S Narwal,HH Gibbs,0,Not out
+0.6,VVS Laxman,S Narwal,HH Gibbs,0,Not out
+1.1,HH Gibbs,AA Jhunjhunwala,VVS Laxman,0,Not out
+1.2,HH Gibbs,AA Jhunjhunwala,VVS Laxman,1,Not out
+1.3,VVS Laxman,AA Jhunjhunwala,HH Gibbs,1,Not out
+1.4,HH Gibbs,AA Jhunjhunwala,VVS Laxman,0,Not out
+1.5,HH Gibbs,AA Jhunjhunwala,VVS Laxman,6,Not out
+1.6,HH Gibbs,AA Jhunjhunwala,VVS Laxman,0,Not out
+1.7,HH Gibbs,AA Jhunjhunwala,VVS Laxman,0,Not out
+1.8,HH Gibbs,AA Jhunjhunwala,VVS Laxman,6,Not out
+2.1,VVS Laxman,S Narwal,HH Gibbs,1,Not out
+2.2,HH Gibbs,S Narwal,VVS Laxman,2,Not out
+2.3,HH Gibbs,S Narwal,VVS Laxman,1,Not out
+2.4,VVS Laxman,S Narwal,HH Gibbs,0,Not out
+2.5,HH Gibbs,S Narwal,VVS Laxman,0,Not out
+2.6,HH Gibbs,S Narwal,VVS Laxman,0,Not out
+3.1,VVS Laxman,SK Trivedi,HH Gibbs,0,Not out
+3.2,VVS Laxman,SK Trivedi,HH Gibbs,1,Not out
+3.3,HH Gibbs,SK Trivedi,VVS Laxman,4,Not out
+3.4,HH Gibbs,SK Trivedi,VVS Laxman,1,Not out
+3.5,VVS Laxman,SK Trivedi,HH Gibbs,4,Not out
+3.6,VVS Laxman,SK Trivedi,HH Gibbs,1,Not out
+4.1,VVS Laxman,SW Tait,HH Gibbs,1,Not out
+4.2,HH Gibbs,SW Tait,VVS Laxman,4,Not out
+4.3,HH Gibbs,SW Tait,VVS Laxman,0,Not out
+4.4,VVS Laxman,SW Tait,HH Gibbs,0,caught
+4.5,A Symonds,SW Tait,HH Gibbs,0,Not out
+4.6,A Symonds,SW Tait,HH Gibbs,0,Not out
+4.7,A Symonds,SW Tait,HH Gibbs,1,Not out
+5.1,A Symonds,S Narwal,HH Gibbs,4,Not out
+5.2,A Symonds,S Narwal,HH Gibbs,4,Not out
+5.3,A Symonds,S Narwal,HH Gibbs,0,Not out
+5.4,A Symonds,S Narwal,HH Gibbs,0,Not out
+5.5,A Symonds,S Narwal,HH Gibbs,4,Not out
+5.6,A Symonds,S Narwal,HH Gibbs,1,Not out
+6.1,A Symonds,SK Warne,HH Gibbs,0,Not out
+6.2,A Symonds,SK Warne,HH Gibbs,2,Not out
+6.3,A Symonds,SK Warne,HH Gibbs,1,Not out
+6.4,HH Gibbs,SK Warne,A Symonds,0,stumped
+6.5,RG Sharma,SK Warne,A Symonds,1,Not out
+6.6,A Symonds,SK Warne,RG Sharma,1,Not out
+7.1,A Symonds,SK Trivedi,RG Sharma,1,Not out
+7.2,RG Sharma,SK Trivedi,A Symonds,4,Not out
+7.3,RG Sharma,SK Trivedi,A Symonds,1,Not out
+7.4,A Symonds,SK Trivedi,RG Sharma,3,Not out
+7.5,RG Sharma,SK Trivedi,A Symonds,0,Not out
+7.6,RG Sharma,SK Trivedi,A Symonds,1,Not out
+8.1,RG Sharma,SK Warne,A Symonds,1,run out
+8.2,RG Sharma,SK Warne,TL Suman,0,Not out
+8.3,RG Sharma,SK Warne,TL Suman,1,Not out
+8.4,TL Suman,SK Warne,RG Sharma,0,Not out
+8.5,TL Suman,SK Warne,RG Sharma,0,Not out
+8.6,TL Suman,SK Warne,RG Sharma,0,Not out
+9.1,RG Sharma,YK Pathan,TL Suman,1,Not out
+9.2,TL Suman,YK Pathan,RG Sharma,0,Not out
+9.3,TL Suman,YK Pathan,RG Sharma,1,Not out
+9.4,RG Sharma,YK Pathan,TL Suman,1,Not out
+9.5,TL Suman,YK Pathan,RG Sharma,1,Not out
+9.6,RG Sharma,YK Pathan,TL Suman,1,Not out
+9.7,TL Suman,YK Pathan,RG Sharma,1,Not out
+10.1,TL Suman,SK Warne,RG Sharma,0,Not out
+10.2,TL Suman,SK Warne,RG Sharma,1,Not out
+10.3,RG Sharma,SK Warne,TL Suman,1,Not out
+10.4,TL Suman,SK Warne,RG Sharma,2,Not out
+10.5,TL Suman,SK Warne,RG Sharma,0,Not out
+10.6,TL Suman,SK Warne,RG Sharma,1,Not out
+11.1,TL Suman,SK Trivedi,RG Sharma,1,Not out
+11.2,RG Sharma,SK Trivedi,TL Suman,1,Not out
+11.3,TL Suman,SK Trivedi,RG Sharma,1,Not out
+11.4,RG Sharma,SK Trivedi,TL Suman,6,Not out
+11.5,RG Sharma,SK Trivedi,TL Suman,4,Not out
+11.6,RG Sharma,SK Trivedi,TL Suman,1,Not out
+12.1,RG Sharma,SW Tait,TL Suman,1,Not out
+12.2,TL Suman,SW Tait,RG Sharma,0,Not out
+12.3,TL Suman,SW Tait,RG Sharma,0,bowled
+12.4,Y Venugopal Rao,SW Tait,RG Sharma,0,Not out
+12.5,Y Venugopal Rao,SW Tait,RG Sharma,0,Not out
+12.6,Y Venugopal Rao,SW Tait,RG Sharma,0,Not out
+12.7,Y Venugopal Rao,SW Tait,RG Sharma,1,Not out
+13.1,Y Venugopal Rao,AC Voges,RG Sharma,1,Not out
+13.2,RG Sharma,AC Voges,Y Venugopal Rao,1,Not out
+13.3,Y Venugopal Rao,AC Voges,RG Sharma,0,run out
+13.4,RG Sharma,AC Voges,WPUJC Vaas,1,Not out
+13.5,WPUJC Vaas,AC Voges,RG Sharma,0,Not out
+13.6,WPUJC Vaas,AC Voges,RG Sharma,1,Not out
+14.1,WPUJC Vaas,SK Warne,RG Sharma,1,Not out
+14.2,RG Sharma,SK Warne,WPUJC Vaas,0,Not out
+14.3,RG Sharma,SK Warne,WPUJC Vaas,1,Not out
+14.4,WPUJC Vaas,SK Warne,RG Sharma,0,Not out
+14.5,WPUJC Vaas,SK Warne,RG Sharma,0,Not out
+14.6,WPUJC Vaas,SK Warne,RG Sharma,1,Not out
+15.1,WPUJC Vaas,YK Pathan,RG Sharma,1,Not out
+15.2,RG Sharma,YK Pathan,WPUJC Vaas,0,Not out
+15.3,RG Sharma,YK Pathan,WPUJC Vaas,1,Not out
+15.4,WPUJC Vaas,YK Pathan,RG Sharma,1,Not out
+15.5,RG Sharma,YK Pathan,WPUJC Vaas,0,Not out
+15.6,RG Sharma,YK Pathan,WPUJC Vaas,0,Not out
+15.7,RG Sharma,YK Pathan,WPUJC Vaas,1,Not out
+16.1,RG Sharma,AC Voges,WPUJC Vaas,0,Not out
+16.2,RG Sharma,AC Voges,WPUJC Vaas,1,Not out
+16.3,WPUJC Vaas,AC Voges,RG Sharma,1,Not out
+16.4,RG Sharma,AC Voges,WPUJC Vaas,1,Not out
+16.5,WPUJC Vaas,AC Voges,RG Sharma,1,Not out
+16.6,RG Sharma,AC Voges,WPUJC Vaas,1,Not out
+17.1,RG Sharma,SW Tait,WPUJC Vaas,1,Not out
+17.2,WPUJC Vaas,SW Tait,RG Sharma,1,Not out
+17.3,RG Sharma,SW Tait,WPUJC Vaas,6,Not out
+17.4,RG Sharma,SW Tait,WPUJC Vaas,0,Not out
+17.5,RG Sharma,SW Tait,WPUJC Vaas,1,Not out
+17.6,WPUJC Vaas,SW Tait,RG Sharma,0,Not out
+17.7,WPUJC Vaas,SW Tait,RG Sharma,0,run out
+18.1,R Sharma,S Narwal,RG Sharma,2,Not out
+18.2,R Sharma,S Narwal,RG Sharma,0,Not out
+18.3,R Sharma,S Narwal,RG Sharma,6,Not out
+18.4,R Sharma,S Narwal,RG Sharma,2,Not out
+18.5,R Sharma,S Narwal,RG Sharma,0,caught
+18.6,RG Sharma,S Narwal,RP Singh,6,Not out
+19.1,RP Singh,SW Tait,RG Sharma,1,Not out
+19.2,RG Sharma,SW Tait,RP Singh,1,Not out
+19.3,RP Singh,SW Tait,RG Sharma,0,Not out
+19.4,RG Sharma,SW Tait,RP Singh,0,caught
+19.5,RP Singh,SW Tait,PP Ojha,0,Not out
+19.6,RP Singh,SW Tait,PP Ojha,0,Not out

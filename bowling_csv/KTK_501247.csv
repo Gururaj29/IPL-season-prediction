@@ -1,0 +1,83 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,CH Gayle,RP Singh,TM Dilshan,0,Not out
+0.2,CH Gayle,RP Singh,TM Dilshan,0,Not out
+0.3,CH Gayle,RP Singh,TM Dilshan,0,Not out
+0.4,CH Gayle,RP Singh,TM Dilshan,0,Not out
+0.5,CH Gayle,RP Singh,TM Dilshan,2,Not out
+0.6,CH Gayle,RP Singh,TM Dilshan,0,Not out
+0.7,CH Gayle,RP Singh,TM Dilshan,6,Not out
+1.1,TM Dilshan,RR Powar,CH Gayle,4,Not out
+1.2,TM Dilshan,RR Powar,CH Gayle,4,Not out
+1.3,TM Dilshan,RR Powar,CH Gayle,2,Not out
+1.4,TM Dilshan,RR Powar,CH Gayle,0,Not out
+1.5,TM Dilshan,RR Powar,CH Gayle,4,Not out
+1.6,TM Dilshan,RR Powar,CH Gayle,6,Not out
+2.1,CH Gayle,P Parameswaran,TM Dilshan,6,Not out
+2.2,CH Gayle,P Parameswaran,TM Dilshan,6,Not out
+2.3,CH Gayle,P Parameswaran,TM Dilshan,4,Not out
+2.4,CH Gayle,P Parameswaran,TM Dilshan,4,Not out
+2.5,CH Gayle,P Parameswaran,TM Dilshan,6,Not out
+2.6,CH Gayle,P Parameswaran,TM Dilshan,6,Not out
+2.7,CH Gayle,P Parameswaran,TM Dilshan,4,Not out
+3.1,TM Dilshan,R Vinay Kumar,CH Gayle,0,Not out
+3.2,TM Dilshan,R Vinay Kumar,CH Gayle,1,Not out
+3.3,CH Gayle,R Vinay Kumar,TM Dilshan,0,Not out
+3.4,CH Gayle,R Vinay Kumar,TM Dilshan,0,Not out
+3.5,CH Gayle,R Vinay Kumar,TM Dilshan,0,bowled
+3.6,V Kohli,R Vinay Kumar,TM Dilshan,0,Not out
+4.1,TM Dilshan,RP Singh,V Kohli,0,Not out
+4.2,TM Dilshan,RP Singh,V Kohli,1,Not out
+4.3,V Kohli,RP Singh,TM Dilshan,0,Not out
+4.4,V Kohli,RP Singh,TM Dilshan,0,Not out
+4.5,V Kohli,RP Singh,TM Dilshan,1,Not out
+4.6,TM Dilshan,RP Singh,V Kohli,0,Not out
+4.7,V Kohli,RP Singh,TM Dilshan,1,Not out
+5.1,V Kohli,R Vinay Kumar,TM Dilshan,0,Not out
+5.2,V Kohli,R Vinay Kumar,TM Dilshan,0,Not out
+5.3,V Kohli,R Vinay Kumar,TM Dilshan,2,Not out
+5.4,V Kohli,R Vinay Kumar,TM Dilshan,0,Not out
+5.5,V Kohli,R Vinay Kumar,TM Dilshan,1,Not out
+5.6,TM Dilshan,R Vinay Kumar,V Kohli,4,Not out
+6.1,V Kohli,RA Jadeja,TM Dilshan,0,Not out
+6.2,V Kohli,RA Jadeja,TM Dilshan,1,Not out
+6.3,TM Dilshan,RA Jadeja,V Kohli,0,Not out
+6.4,TM Dilshan,RA Jadeja,V Kohli,0,Not out
+6.5,TM Dilshan,RA Jadeja,V Kohli,0,Not out
+6.6,TM Dilshan,RA Jadeja,V Kohli,4,Not out
+7.1,V Kohli,R Vinay Kumar,TM Dilshan,0,Not out
+7.2,V Kohli,R Vinay Kumar,TM Dilshan,1,Not out
+7.3,TM Dilshan,R Vinay Kumar,V Kohli,4,Not out
+7.4,TM Dilshan,R Vinay Kumar,V Kohli,1,Not out
+7.5,V Kohli,R Vinay Kumar,TM Dilshan,4,Not out
+7.6,V Kohli,R Vinay Kumar,TM Dilshan,0,Not out
+8.1,TM Dilshan,RA Jadeja,V Kohli,4,Not out
+8.2,TM Dilshan,RA Jadeja,V Kohli,2,Not out
+8.3,TM Dilshan,RA Jadeja,V Kohli,0,Not out
+8.4,TM Dilshan,RA Jadeja,V Kohli,0,Not out
+8.5,V Kohli,RA Jadeja,TM Dilshan,1,Not out
+8.6,TM Dilshan,RA Jadeja,V Kohli,0,Not out
+9.1,V Kohli,RR Powar,TM Dilshan,0,Not out
+9.2,V Kohli,RR Powar,TM Dilshan,0,Not out
+9.3,V Kohli,RR Powar,TM Dilshan,1,Not out
+9.4,TM Dilshan,RR Powar,V Kohli,4,Not out
+9.5,TM Dilshan,RR Powar,V Kohli,1,Not out
+9.6,V Kohli,RR Powar,TM Dilshan,1,Not out
+10.1,V Kohli,RA Jadeja,TM Dilshan,4,Not out
+10.2,V Kohli,RA Jadeja,TM Dilshan,0,Not out
+10.3,V Kohli,RA Jadeja,TM Dilshan,1,Not out
+10.4,TM Dilshan,RA Jadeja,V Kohli,1,Not out
+10.5,V Kohli,RA Jadeja,TM Dilshan,0,Not out
+10.6,V Kohli,RA Jadeja,TM Dilshan,0,Not out
+11.1,TM Dilshan,P Parameswaran,V Kohli,0,Not out
+11.2,TM Dilshan,P Parameswaran,V Kohli,1,Not out
+11.3,V Kohli,P Parameswaran,TM Dilshan,1,Not out
+11.4,TM Dilshan,P Parameswaran,V Kohli,1,Not out
+11.5,V Kohli,P Parameswaran,TM Dilshan,0,Not out
+11.6,V Kohli,P Parameswaran,TM Dilshan,0,Not out
+12.1,TM Dilshan,RA Jadeja,V Kohli,2,Not out
+12.2,TM Dilshan,RA Jadeja,V Kohli,1,Not out
+12.3,V Kohli,RA Jadeja,TM Dilshan,0,Not out
+12.4,V Kohli,RA Jadeja,TM Dilshan,2,Not out
+12.5,V Kohli,RA Jadeja,TM Dilshan,0,Not out
+12.6,V Kohli,RA Jadeja,TM Dilshan,1,Not out
+13.1,V Kohli,P Parameswaran,TM Dilshan,4,Not out

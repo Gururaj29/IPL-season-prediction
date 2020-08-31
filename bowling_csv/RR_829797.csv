@@ -1,0 +1,124 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DR Smith,CH Morris,BB McCullum,0,Not out
+0.2,DR Smith,CH Morris,BB McCullum,0,Not out
+0.3,DR Smith,CH Morris,BB McCullum,0,Not out
+0.4,DR Smith,CH Morris,BB McCullum,0,Not out
+0.5,DR Smith,CH Morris,BB McCullum,1,Not out
+0.6,BB McCullum,CH Morris,DR Smith,4,Not out
+1.1,DR Smith,SR Watson,BB McCullum,4,Not out
+1.2,DR Smith,SR Watson,BB McCullum,0,Not out
+1.3,DR Smith,SR Watson,BB McCullum,1,Not out
+1.4,BB McCullum,SR Watson,DR Smith,0,Not out
+1.5,BB McCullum,SR Watson,DR Smith,1,Not out
+1.6,DR Smith,SR Watson,BB McCullum,0,Not out
+2.1,BB McCullum,Ankit Sharma,DR Smith,0,Not out
+2.2,BB McCullum,Ankit Sharma,DR Smith,0,Not out
+2.3,BB McCullum,Ankit Sharma,DR Smith,1,Not out
+2.4,DR Smith,Ankit Sharma,BB McCullum,0,caught
+2.5,SK Raina,Ankit Sharma,BB McCullum,2,Not out
+2.6,SK Raina,Ankit Sharma,BB McCullum,1,Not out
+3.1,SK Raina,CH Morris,BB McCullum,0,Not out
+3.2,SK Raina,CH Morris,BB McCullum,0,Not out
+3.3,SK Raina,CH Morris,BB McCullum,0,Not out
+3.4,SK Raina,CH Morris,BB McCullum,0,caught
+3.5,F du Plessis,CH Morris,BB McCullum,0,Not out
+3.6,F du Plessis,CH Morris,BB McCullum,0,Not out
+3.7,F du Plessis,CH Morris,BB McCullum,1,Not out
+4.1,F du Plessis,Ankit Sharma,BB McCullum,0,Not out
+4.2,F du Plessis,Ankit Sharma,BB McCullum,4,Not out
+4.3,F du Plessis,Ankit Sharma,BB McCullum,1,Not out
+4.4,BB McCullum,Ankit Sharma,F du Plessis,0,Not out
+4.5,BB McCullum,Ankit Sharma,F du Plessis,0,Not out
+4.6,BB McCullum,Ankit Sharma,F du Plessis,1,Not out
+5.1,BB McCullum,PV Tambe,F du Plessis,6,Not out
+5.2,BB McCullum,PV Tambe,F du Plessis,0,Not out
+5.3,BB McCullum,PV Tambe,F du Plessis,0,Not out
+5.4,BB McCullum,PV Tambe,F du Plessis,0,Not out
+5.5,BB McCullum,PV Tambe,F du Plessis,6,Not out
+5.6,BB McCullum,PV Tambe,F du Plessis,1,Not out
+6.1,BB McCullum,JP Faulkner,F du Plessis,0,Not out
+6.2,BB McCullum,JP Faulkner,F du Plessis,1,Not out
+6.3,F du Plessis,JP Faulkner,BB McCullum,1,Not out
+6.4,BB McCullum,JP Faulkner,F du Plessis,0,Not out
+6.5,BB McCullum,JP Faulkner,F du Plessis,4,Not out
+6.6,BB McCullum,JP Faulkner,F du Plessis,1,Not out
+7.1,BB McCullum,R Bhatia,F du Plessis,1,Not out
+7.2,F du Plessis,R Bhatia,BB McCullum,1,Not out
+7.3,BB McCullum,R Bhatia,F du Plessis,0,Not out
+7.4,BB McCullum,R Bhatia,F du Plessis,0,Not out
+7.5,BB McCullum,R Bhatia,F du Plessis,2,Not out
+7.6,BB McCullum,R Bhatia,F du Plessis,1,Not out
+8.1,BB McCullum,PV Tambe,F du Plessis,1,Not out
+8.2,F du Plessis,PV Tambe,BB McCullum,1,Not out
+8.3,BB McCullum,PV Tambe,F du Plessis,0,Not out
+8.4,BB McCullum,PV Tambe,F du Plessis,0,Not out
+8.5,BB McCullum,PV Tambe,F du Plessis,0,Not out
+8.6,BB McCullum,PV Tambe,F du Plessis,0,Not out
+9.1,F du Plessis,Ankit Sharma,BB McCullum,1,Not out
+9.2,BB McCullum,Ankit Sharma,F du Plessis,4,Not out
+9.3,BB McCullum,Ankit Sharma,F du Plessis,1,Not out
+9.4,F du Plessis,Ankit Sharma,BB McCullum,3,Not out
+9.5,BB McCullum,Ankit Sharma,F du Plessis,1,Not out
+9.6,F du Plessis,Ankit Sharma,BB McCullum,0,Not out
+10.1,BB McCullum,R Bhatia,F du Plessis,0,Not out
+10.2,F du Plessis,R Bhatia,BB McCullum,1,Not out
+10.3,BB McCullum,R Bhatia,F du Plessis,1,Not out
+10.4,F du Plessis,R Bhatia,BB McCullum,0,Not out
+10.5,F du Plessis,R Bhatia,BB McCullum,1,Not out
+10.6,BB McCullum,R Bhatia,F du Plessis,1,Not out
+11.1,BB McCullum,JP Faulkner,F du Plessis,0,Not out
+11.2,BB McCullum,JP Faulkner,F du Plessis,0,Not out
+11.3,BB McCullum,JP Faulkner,F du Plessis,0,Not out
+11.4,BB McCullum,JP Faulkner,F du Plessis,4,Not out
+11.5,BB McCullum,JP Faulkner,F du Plessis,4,Not out
+11.6,BB McCullum,JP Faulkner,F du Plessis,1,Not out
+12.1,BB McCullum,PV Tambe,F du Plessis,1,Not out
+12.2,F du Plessis,PV Tambe,BB McCullum,0,Not out
+12.3,F du Plessis,PV Tambe,BB McCullum,2,Not out
+12.4,F du Plessis,PV Tambe,BB McCullum,1,Not out
+12.5,BB McCullum,PV Tambe,F du Plessis,1,Not out
+12.6,F du Plessis,PV Tambe,BB McCullum,4,Not out
+13.1,BB McCullum,R Bhatia,F du Plessis,4,Not out
+13.2,BB McCullum,R Bhatia,F du Plessis,1,Not out
+13.3,F du Plessis,R Bhatia,BB McCullum,1,Not out
+13.4,BB McCullum,R Bhatia,F du Plessis,0,Not out
+13.5,BB McCullum,R Bhatia,F du Plessis,6,Not out
+13.6,BB McCullum,R Bhatia,F du Plessis,2,Not out
+14.1,F du Plessis,Ankit Sharma,BB McCullum,0,Not out
+14.2,F du Plessis,Ankit Sharma,BB McCullum,1,Not out
+14.3,BB McCullum,Ankit Sharma,F du Plessis,0,Not out
+14.4,BB McCullum,Ankit Sharma,F du Plessis,1,Not out
+14.5,F du Plessis,Ankit Sharma,BB McCullum,4,Not out
+14.6,F du Plessis,Ankit Sharma,BB McCullum,0,Not out
+14.7,F du Plessis,Ankit Sharma,BB McCullum,0,Not out
+15.1,BB McCullum,JP Faulkner,F du Plessis,0,Not out
+15.2,BB McCullum,JP Faulkner,F du Plessis,1,Not out
+15.3,F du Plessis,JP Faulkner,BB McCullum,1,Not out
+15.4,BB McCullum,JP Faulkner,F du Plessis,2,Not out
+15.5,BB McCullum,JP Faulkner,F du Plessis,2,Not out
+15.6,BB McCullum,JP Faulkner,F du Plessis,1,Not out
+16.1,BB McCullum,SR Watson,F du Plessis,0,Not out
+16.2,BB McCullum,SR Watson,F du Plessis,0,Not out
+16.3,BB McCullum,SR Watson,F du Plessis,0,run out
+16.4,BB McCullum,SR Watson,P Negi,4,Not out
+16.5,BB McCullum,SR Watson,P Negi,1,Not out
+16.6,P Negi,SR Watson,BB McCullum,1,Not out
+16.7,BB McCullum,SR Watson,P Negi,6,Not out
+17.1,P Negi,CH Morris,BB McCullum,1,Not out
+17.2,BB McCullum,CH Morris,P Negi,0,caught
+17.3,P Negi,CH Morris,MS Dhoni,0,caught
+17.4,DJ Bravo,CH Morris,MS Dhoni,1,Not out
+17.5,MS Dhoni,CH Morris,DJ Bravo,1,Not out
+17.6,DJ Bravo,CH Morris,MS Dhoni,1,Not out
+18.1,DJ Bravo,JP Faulkner,MS Dhoni,4,Not out
+18.2,DJ Bravo,JP Faulkner,MS Dhoni,2,Not out
+18.3,DJ Bravo,JP Faulkner,MS Dhoni,1,Not out
+18.4,MS Dhoni,JP Faulkner,DJ Bravo,6,Not out
+18.5,MS Dhoni,JP Faulkner,DJ Bravo,0,Not out
+18.6,MS Dhoni,JP Faulkner,DJ Bravo,4,Not out
+19.1,DJ Bravo,CH Morris,MS Dhoni,4,Not out
+19.2,DJ Bravo,CH Morris,MS Dhoni,1,Not out
+19.3,MS Dhoni,CH Morris,DJ Bravo,0,Not out
+19.4,MS Dhoni,CH Morris,DJ Bravo,1,Not out
+19.5,DJ Bravo,CH Morris,MS Dhoni,1,Not out
+19.6,MS Dhoni,CH Morris,DJ Bravo,1,Not out

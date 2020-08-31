@@ -1,0 +1,119 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,RV Uthappa,B Kumar,G Gambhir,1,Not out
+0.2,G Gambhir,B Kumar,RV Uthappa,0,Not out
+0.3,G Gambhir,B Kumar,RV Uthappa,0,Not out
+0.4,G Gambhir,B Kumar,RV Uthappa,0,Not out
+0.5,G Gambhir,B Kumar,RV Uthappa,4,Not out
+0.6,G Gambhir,B Kumar,RV Uthappa,1,Not out
+1.1,G Gambhir,DW Steyn,RV Uthappa,0,Not out
+1.2,G Gambhir,DW Steyn,RV Uthappa,1,Not out
+1.3,RV Uthappa,DW Steyn,G Gambhir,1,Not out
+1.4,G Gambhir,DW Steyn,RV Uthappa,0,Not out
+1.5,G Gambhir,DW Steyn,RV Uthappa,0,Not out
+1.6,G Gambhir,DW Steyn,RV Uthappa,0,caught
+2.1,RV Uthappa,B Kumar,MK Pandey,0,Not out
+2.2,RV Uthappa,B Kumar,MK Pandey,0,Not out
+2.3,RV Uthappa,B Kumar,MK Pandey,4,Not out
+2.4,RV Uthappa,B Kumar,MK Pandey,0,Not out
+2.5,RV Uthappa,B Kumar,MK Pandey,0,Not out
+2.6,RV Uthappa,B Kumar,MK Pandey,0,Not out
+3.1,MK Pandey,KV Sharma,RV Uthappa,0,Not out
+3.2,MK Pandey,KV Sharma,RV Uthappa,0,Not out
+3.3,MK Pandey,KV Sharma,RV Uthappa,0,Not out
+3.4,MK Pandey,KV Sharma,RV Uthappa,1,Not out
+3.5,RV Uthappa,KV Sharma,MK Pandey,1,Not out
+3.6,MK Pandey,KV Sharma,RV Uthappa,0,Not out
+4.1,RV Uthappa,DJG Sammy,MK Pandey,0,Not out
+4.2,RV Uthappa,DJG Sammy,MK Pandey,1,Not out
+4.3,MK Pandey,DJG Sammy,RV Uthappa,0,Not out
+4.4,MK Pandey,DJG Sammy,RV Uthappa,4,Not out
+4.5,MK Pandey,DJG Sammy,RV Uthappa,1,Not out
+4.6,RV Uthappa,DJG Sammy,MK Pandey,1,Not out
+5.1,RV Uthappa,DW Steyn,MK Pandey,2,Not out
+5.2,RV Uthappa,DW Steyn,MK Pandey,6,Not out
+5.3,RV Uthappa,DW Steyn,MK Pandey,0,Not out
+5.4,RV Uthappa,DW Steyn,MK Pandey,0,Not out
+5.5,RV Uthappa,DW Steyn,MK Pandey,0,Not out
+5.6,RV Uthappa,DW Steyn,MK Pandey,1,Not out
+6.1,RV Uthappa,A Mishra,MK Pandey,0,Not out
+6.2,RV Uthappa,A Mishra,MK Pandey,0,Not out
+6.3,RV Uthappa,A Mishra,MK Pandey,4,Not out
+6.4,RV Uthappa,A Mishra,MK Pandey,0,Not out
+6.5,MK Pandey,A Mishra,RV Uthappa,0,Not out
+6.6,MK Pandey,A Mishra,RV Uthappa,1,Not out
+7.1,MK Pandey,KV Sharma,RV Uthappa,1,Not out
+7.2,RV Uthappa,KV Sharma,MK Pandey,0,Not out
+7.3,RV Uthappa,KV Sharma,MK Pandey,1,Not out
+7.4,MK Pandey,KV Sharma,RV Uthappa,1,Not out
+7.5,RV Uthappa,KV Sharma,MK Pandey,4,Not out
+7.6,RV Uthappa,KV Sharma,MK Pandey,2,Not out
+8.1,MK Pandey,IK Pathan,RV Uthappa,1,Not out
+8.2,RV Uthappa,IK Pathan,MK Pandey,1,Not out
+8.3,MK Pandey,IK Pathan,RV Uthappa,1,Not out
+8.4,RV Uthappa,IK Pathan,MK Pandey,4,Not out
+8.5,RV Uthappa,IK Pathan,MK Pandey,1,Not out
+8.6,MK Pandey,IK Pathan,RV Uthappa,0,Not out
+9.1,RV Uthappa,A Mishra,MK Pandey,1,Not out
+9.2,MK Pandey,A Mishra,RV Uthappa,1,Not out
+9.3,RV Uthappa,A Mishra,MK Pandey,4,Not out
+9.4,RV Uthappa,A Mishra,MK Pandey,0,Not out
+9.5,RV Uthappa,A Mishra,MK Pandey,0,run out
+9.6,YK Pathan,A Mishra,MK Pandey,1,Not out
+10.1,YK Pathan,IK Pathan,MK Pandey,4,Not out
+10.2,YK Pathan,IK Pathan,MK Pandey,0,Not out
+10.3,YK Pathan,IK Pathan,MK Pandey,0,Not out
+10.4,YK Pathan,IK Pathan,MK Pandey,1,Not out
+10.5,MK Pandey,IK Pathan,YK Pathan,1,Not out
+10.6,YK Pathan,IK Pathan,MK Pandey,0,Not out
+11.1,MK Pandey,A Mishra,YK Pathan,0,Not out
+11.2,MK Pandey,A Mishra,YK Pathan,4,Not out
+11.3,MK Pandey,A Mishra,YK Pathan,6,Not out
+11.4,MK Pandey,A Mishra,YK Pathan,0,Not out
+11.5,MK Pandey,A Mishra,YK Pathan,4,Not out
+11.6,MK Pandey,A Mishra,YK Pathan,1,Not out
+12.1,MK Pandey,DW Steyn,YK Pathan,1,Not out
+12.2,YK Pathan,DW Steyn,MK Pandey,4,Not out
+12.3,YK Pathan,DW Steyn,MK Pandey,0,Not out
+12.4,YK Pathan,DW Steyn,MK Pandey,1,Not out
+12.5,MK Pandey,DW Steyn,YK Pathan,0,Not out
+12.6,MK Pandey,DW Steyn,YK Pathan,1,Not out
+13.1,MK Pandey,KV Sharma,YK Pathan,0,Not out
+13.2,MK Pandey,KV Sharma,YK Pathan,1,Not out
+13.3,YK Pathan,KV Sharma,MK Pandey,1,Not out
+13.4,MK Pandey,KV Sharma,YK Pathan,1,Not out
+13.5,YK Pathan,KV Sharma,MK Pandey,0,Not out
+13.6,YK Pathan,KV Sharma,MK Pandey,1,Not out
+14.1,YK Pathan,A Mishra,MK Pandey,1,Not out
+14.2,MK Pandey,A Mishra,YK Pathan,1,Not out
+14.3,YK Pathan,A Mishra,MK Pandey,6,Not out
+14.4,YK Pathan,A Mishra,MK Pandey,0,Not out
+14.5,YK Pathan,A Mishra,MK Pandey,1,Not out
+14.6,MK Pandey,A Mishra,YK Pathan,2,Not out
+15.1,YK Pathan,KV Sharma,MK Pandey,1,Not out
+15.2,MK Pandey,KV Sharma,YK Pathan,0,caught
+15.3,RN ten Doeschate,KV Sharma,YK Pathan,1,Not out
+15.4,YK Pathan,KV Sharma,RN ten Doeschate,1,Not out
+15.5,RN ten Doeschate,KV Sharma,YK Pathan,0,Not out
+15.6,RN ten Doeschate,KV Sharma,YK Pathan,1,Not out
+16.1,RN ten Doeschate,IK Pathan,YK Pathan,1,Not out
+16.2,YK Pathan,IK Pathan,RN ten Doeschate,1,Not out
+16.3,RN ten Doeschate,IK Pathan,YK Pathan,1,Not out
+16.4,YK Pathan,IK Pathan,RN ten Doeschate,1,Not out
+16.5,RN ten Doeschate,IK Pathan,YK Pathan,1,Not out
+16.6,YK Pathan,IK Pathan,RN ten Doeschate,1,Not out
+17.1,YK Pathan,B Kumar,RN ten Doeschate,6,Not out
+17.2,YK Pathan,B Kumar,RN ten Doeschate,1,Not out
+17.3,RN ten Doeschate,B Kumar,YK Pathan,4,Not out
+17.4,RN ten Doeschate,B Kumar,YK Pathan,1,Not out
+17.5,YK Pathan,B Kumar,RN ten Doeschate,1,Not out
+17.6,RN ten Doeschate,B Kumar,YK Pathan,1,Not out
+18.1,RN ten Doeschate,DW Steyn,YK Pathan,1,Not out
+18.2,YK Pathan,DW Steyn,RN ten Doeschate,2,Not out
+18.3,YK Pathan,DW Steyn,RN ten Doeschate,1,Not out
+18.4,RN ten Doeschate,DW Steyn,YK Pathan,0,Not out
+18.5,RN ten Doeschate,DW Steyn,YK Pathan,1,Not out
+18.6,YK Pathan,DW Steyn,RN ten Doeschate,1,Not out
+19.1,YK Pathan,B Kumar,RN ten Doeschate,1,Not out
+19.2,RN ten Doeschate,B Kumar,YK Pathan,6,Not out
+19.3,RN ten Doeschate,B Kumar,YK Pathan,2,Not out
+19.4,RN ten Doeschate,B Kumar,YK Pathan,4,Not out

@@ -1,0 +1,126 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,CH Gayle,MG Johnson,TM Dilshan,0,Not out
+0.2,CH Gayle,MG Johnson,TM Dilshan,0,Not out
+0.3,CH Gayle,MG Johnson,TM Dilshan,1,Not out
+0.4,TM Dilshan,MG Johnson,CH Gayle,0,Not out
+0.5,TM Dilshan,MG Johnson,CH Gayle,0,Not out
+0.6,TM Dilshan,MG Johnson,CH Gayle,0,Not out
+1.1,CH Gayle,MM Patel,TM Dilshan,0,Not out
+1.2,CH Gayle,MM Patel,TM Dilshan,1,Not out
+1.3,TM Dilshan,MM Patel,CH Gayle,0,Not out
+1.4,TM Dilshan,MM Patel,CH Gayle,0,Not out
+1.5,TM Dilshan,MM Patel,CH Gayle,0,Not out
+1.6,TM Dilshan,MM Patel,CH Gayle,0,Not out
+2.1,CH Gayle,MG Johnson,TM Dilshan,1,Not out
+2.2,TM Dilshan,MG Johnson,CH Gayle,0,bowled
+2.3,V Kohli,MG Johnson,CH Gayle,4,Not out
+2.4,V Kohli,MG Johnson,CH Gayle,0,Not out
+2.5,V Kohli,MG Johnson,CH Gayle,1,Not out
+2.6,CH Gayle,MG Johnson,V Kohli,0,Not out
+2.7,CH Gayle,MG Johnson,V Kohli,0,Not out
+3.1,V Kohli,MM Patel,CH Gayle,0,Not out
+3.2,V Kohli,MM Patel,CH Gayle,0,Not out
+3.3,V Kohli,MM Patel,CH Gayle,0,Not out
+3.4,V Kohli,MM Patel,CH Gayle,6,Not out
+3.5,V Kohli,MM Patel,CH Gayle,0,Not out
+3.6,V Kohli,MM Patel,CH Gayle,1,Not out
+4.1,V Kohli,JJ Bumrah,CH Gayle,4,Not out
+4.2,V Kohli,JJ Bumrah,CH Gayle,4,Not out
+4.3,V Kohli,JJ Bumrah,CH Gayle,0,Not out
+4.4,V Kohli,JJ Bumrah,CH Gayle,4,Not out
+4.5,V Kohli,JJ Bumrah,CH Gayle,0,lbw
+4.6,MA Agarwal,JJ Bumrah,CH Gayle,0,Not out
+5.1,CH Gayle,JDP Oram,MA Agarwal,0,Not out
+5.2,CH Gayle,JDP Oram,MA Agarwal,1,Not out
+5.3,MA Agarwal,JDP Oram,CH Gayle,0,Not out
+5.4,MA Agarwal,JDP Oram,CH Gayle,0,Not out
+5.5,MA Agarwal,JDP Oram,CH Gayle,1,Not out
+5.6,CH Gayle,JDP Oram,MA Agarwal,0,Not out
+5.7,CH Gayle,JDP Oram,MA Agarwal,0,Not out
+6.1,MA Agarwal,JJ Bumrah,CH Gayle,0,caught
+6.2,DT Christian,JJ Bumrah,CH Gayle,0,Not out
+6.3,DT Christian,JJ Bumrah,CH Gayle,0,Not out
+6.4,DT Christian,JJ Bumrah,CH Gayle,1,Not out
+6.5,CH Gayle,JJ Bumrah,DT Christian,0,Not out
+6.6,CH Gayle,JJ Bumrah,DT Christian,0,Not out
+7.1,DT Christian,JDP Oram,CH Gayle,0,Not out
+7.2,DT Christian,JDP Oram,CH Gayle,0,Not out
+7.3,DT Christian,JDP Oram,CH Gayle,0,Not out
+7.4,DT Christian,JDP Oram,CH Gayle,1,Not out
+7.5,CH Gayle,JDP Oram,DT Christian,0,Not out
+7.6,CH Gayle,JDP Oram,DT Christian,2,Not out
+7.7,CH Gayle,JDP Oram,DT Christian,4,Not out
+8.1,DT Christian,JJ Bumrah,CH Gayle,1,Not out
+8.2,CH Gayle,JJ Bumrah,DT Christian,0,Not out
+8.3,CH Gayle,JJ Bumrah,DT Christian,0,Not out
+8.4,CH Gayle,JJ Bumrah,DT Christian,4,Not out
+8.5,CH Gayle,JJ Bumrah,DT Christian,6,Not out
+8.6,CH Gayle,JJ Bumrah,DT Christian,1,Not out
+9.1,CH Gayle,Harbhajan Singh,DT Christian,1,Not out
+9.2,DT Christian,Harbhajan Singh,CH Gayle,0,Not out
+9.3,DT Christian,Harbhajan Singh,CH Gayle,0,Not out
+9.4,DT Christian,Harbhajan Singh,CH Gayle,1,Not out
+9.5,CH Gayle,Harbhajan Singh,DT Christian,1,Not out
+9.6,DT Christian,Harbhajan Singh,CH Gayle,0,Not out
+10.1,CH Gayle,KA Pollard,DT Christian,0,Not out
+10.2,CH Gayle,KA Pollard,DT Christian,4,Not out
+10.3,CH Gayle,KA Pollard,DT Christian,6,Not out
+10.4,CH Gayle,KA Pollard,DT Christian,4,Not out
+10.5,CH Gayle,KA Pollard,DT Christian,1,Not out
+10.6,DT Christian,KA Pollard,CH Gayle,0,Not out
+11.1,CH Gayle,Harbhajan Singh,DT Christian,0,Not out
+11.2,CH Gayle,Harbhajan Singh,DT Christian,0,Not out
+11.3,CH Gayle,Harbhajan Singh,DT Christian,1,Not out
+11.4,DT Christian,Harbhajan Singh,CH Gayle,0,caught
+11.5,KK Nair,Harbhajan Singh,CH Gayle,0,Not out
+11.6,KK Nair,Harbhajan Singh,CH Gayle,0,Not out
+12.1,CH Gayle,JJ Bumrah,KK Nair,4,Not out
+12.2,CH Gayle,JJ Bumrah,KK Nair,0,Not out
+12.3,CH Gayle,JJ Bumrah,KK Nair,1,Not out
+12.4,KK Nair,JJ Bumrah,CH Gayle,0,lbw
+12.5,KB Arun Karthik,JJ Bumrah,CH Gayle,1,Not out
+12.6,CH Gayle,JJ Bumrah,KB Arun Karthik,1,Not out
+13.1,CH Gayle,Harbhajan Singh,KB Arun Karthik,0,Not out
+13.2,CH Gayle,Harbhajan Singh,KB Arun Karthik,0,Not out
+13.3,CH Gayle,Harbhajan Singh,KB Arun Karthik,0,Not out
+13.4,CH Gayle,Harbhajan Singh,KB Arun Karthik,4,Not out
+13.5,CH Gayle,Harbhajan Singh,KB Arun Karthik,1,Not out
+13.6,KB Arun Karthik,Harbhajan Singh,CH Gayle,1,Not out
+13.7,CH Gayle,Harbhajan Singh,KB Arun Karthik,4,Not out
+14.1,KB Arun Karthik,MG Johnson,CH Gayle,0,Not out
+14.2,KB Arun Karthik,MG Johnson,CH Gayle,0,Not out
+14.3,KB Arun Karthik,MG Johnson,CH Gayle,1,Not out
+14.4,CH Gayle,MG Johnson,KB Arun Karthik,0,Not out
+14.5,CH Gayle,MG Johnson,KB Arun Karthik,1,Not out
+14.6,KB Arun Karthik,MG Johnson,CH Gayle,4,Not out
+14.7,KB Arun Karthik,MG Johnson,CH Gayle,0,Not out
+15.1,CH Gayle,Harbhajan Singh,KB Arun Karthik,0,Not out
+15.2,CH Gayle,Harbhajan Singh,KB Arun Karthik,6,Not out
+15.3,CH Gayle,Harbhajan Singh,KB Arun Karthik,0,Not out
+15.4,CH Gayle,Harbhajan Singh,KB Arun Karthik,0,Not out
+15.5,CH Gayle,Harbhajan Singh,KB Arun Karthik,0,Not out
+15.6,CH Gayle,Harbhajan Singh,KB Arun Karthik,0,Not out
+16.1,KB Arun Karthik,JDP Oram,CH Gayle,4,Not out
+16.2,KB Arun Karthik,JDP Oram,CH Gayle,0,Not out
+16.3,KB Arun Karthik,JDP Oram,CH Gayle,0,Not out
+16.4,KB Arun Karthik,JDP Oram,CH Gayle,0,Not out
+16.5,KB Arun Karthik,JDP Oram,CH Gayle,0,Not out
+16.6,KB Arun Karthik,JDP Oram,CH Gayle,1,Not out
+17.1,KB Arun Karthik,MM Patel,CH Gayle,1,Not out
+17.2,CH Gayle,MM Patel,KB Arun Karthik,4,Not out
+17.3,CH Gayle,MM Patel,KB Arun Karthik,1,Not out
+17.4,KB Arun Karthik,MM Patel,CH Gayle,1,Not out
+17.5,CH Gayle,MM Patel,KB Arun Karthik,4,Not out
+17.6,CH Gayle,MM Patel,KB Arun Karthik,6,Not out
+18.1,KB Arun Karthik,JDP Oram,CH Gayle,0,Not out
+18.2,KB Arun Karthik,JDP Oram,CH Gayle,4,Not out
+18.3,KB Arun Karthik,JDP Oram,CH Gayle,0,Not out
+18.4,CH Gayle,JDP Oram,KB Arun Karthik,1,Not out
+18.5,KB Arun Karthik,JDP Oram,CH Gayle,1,Not out
+18.6,CH Gayle,JDP Oram,KB Arun Karthik,0,Not out
+19.1,CH Gayle,MM Patel,KB Arun Karthik,0,Not out
+19.2,CH Gayle,MM Patel,KB Arun Karthik,4,Not out
+19.3,CH Gayle,MM Patel,KB Arun Karthik,1,Not out
+19.4,KB Arun Karthik,MM Patel,CH Gayle,0,Not out
+19.5,CH Gayle,MM Patel,KB Arun Karthik,4,Not out
+19.6,CH Gayle,MM Patel,KB Arun Karthik,6,Not out

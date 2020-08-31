@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DA Warner,L Balaji,V Sehwag,0,Not out
+0.2,V Sehwag,L Balaji,DA Warner,4,Not out
+0.3,V Sehwag,L Balaji,DA Warner,1,Not out
+0.4,DA Warner,L Balaji,V Sehwag,1,Not out
+0.5,V Sehwag,L Balaji,DA Warner,1,Not out
+0.6,DA Warner,L Balaji,V Sehwag,0,Not out
+0.7,V Sehwag,L Balaji,DA Warner,1,Not out
+1.1,V Sehwag,Shakib Al Hasan,DA Warner,2,Not out
+1.2,V Sehwag,Shakib Al Hasan,DA Warner,1,Not out
+1.3,DA Warner,Shakib Al Hasan,V Sehwag,0,Not out
+1.4,DA Warner,Shakib Al Hasan,V Sehwag,0,Not out
+1.5,DA Warner,Shakib Al Hasan,V Sehwag,6,Not out
+1.6,DA Warner,Shakib Al Hasan,V Sehwag,0,caught
+2.1,V Sehwag,L Balaji,NV Ojha,0,caught
+2.2,DPMD Jayawardene,L Balaji,NV Ojha,1,Not out
+2.3,NV Ojha,L Balaji,DPMD Jayawardene,0,Not out
+2.4,NV Ojha,L Balaji,DPMD Jayawardene,0,Not out
+2.5,NV Ojha,L Balaji,DPMD Jayawardene,0,Not out
+2.6,NV Ojha,L Balaji,DPMD Jayawardene,0,Not out
+3.1,DPMD Jayawardene,Shakib Al Hasan,NV Ojha,0,Not out
+3.2,DPMD Jayawardene,Shakib Al Hasan,NV Ojha,4,Not out
+3.3,DPMD Jayawardene,Shakib Al Hasan,NV Ojha,0,Not out
+3.4,NV Ojha,Shakib Al Hasan,DPMD Jayawardene,0,Not out
+3.5,NV Ojha,Shakib Al Hasan,DPMD Jayawardene,4,Not out
+3.6,NV Ojha,Shakib Al Hasan,DPMD Jayawardene,6,Not out
+4.1,DPMD Jayawardene,JH Kallis,NV Ojha,1,Not out
+4.2,NV Ojha,JH Kallis,DPMD Jayawardene,0,Not out
+4.3,NV Ojha,JH Kallis,DPMD Jayawardene,1,Not out
+4.4,DPMD Jayawardene,JH Kallis,NV Ojha,4,Not out
+4.5,DPMD Jayawardene,JH Kallis,NV Ojha,0,Not out
+4.6,DPMD Jayawardene,JH Kallis,NV Ojha,0,Not out
+4.7,DPMD Jayawardene,JH Kallis,NV Ojha,0,Not out
+5.1,NV Ojha,SP Narine,DPMD Jayawardene,0,Not out
+5.2,NV Ojha,SP Narine,DPMD Jayawardene,0,Not out
+5.3,NV Ojha,SP Narine,DPMD Jayawardene,1,Not out
+5.4,DPMD Jayawardene,SP Narine,NV Ojha,1,Not out
+5.5,NV Ojha,SP Narine,DPMD Jayawardene,0,Not out
+5.6,NV Ojha,SP Narine,DPMD Jayawardene,0,Not out
+6.1,DPMD Jayawardene,JH Kallis,NV Ojha,1,Not out
+6.2,NV Ojha,JH Kallis,DPMD Jayawardene,1,Not out
+6.3,DPMD Jayawardene,JH Kallis,NV Ojha,0,Not out
+6.4,DPMD Jayawardene,JH Kallis,NV Ojha,0,Not out
+6.5,NV Ojha,JH Kallis,DPMD Jayawardene,0,Not out
+6.6,NV Ojha,JH Kallis,DPMD Jayawardene,0,Not out
+6.7,NV Ojha,JH Kallis,DPMD Jayawardene,4,Not out
+7.1,DPMD Jayawardene,Iqbal Abdulla,NV Ojha,1,Not out
+7.2,NV Ojha,Iqbal Abdulla,DPMD Jayawardene,1,Not out
+7.3,DPMD Jayawardene,Iqbal Abdulla,NV Ojha,1,Not out
+7.4,NV Ojha,Iqbal Abdulla,DPMD Jayawardene,1,Not out
+7.5,DPMD Jayawardene,Iqbal Abdulla,NV Ojha,1,Not out
+7.6,NV Ojha,Iqbal Abdulla,DPMD Jayawardene,0,Not out
+8.1,DPMD Jayawardene,R Bhatia,NV Ojha,1,Not out
+8.2,NV Ojha,R Bhatia,DPMD Jayawardene,0,Not out
+8.3,NV Ojha,R Bhatia,DPMD Jayawardene,4,Not out
+8.4,NV Ojha,R Bhatia,DPMD Jayawardene,4,Not out
+8.5,NV Ojha,R Bhatia,DPMD Jayawardene,1,Not out
+8.6,DPMD Jayawardene,R Bhatia,NV Ojha,1,Not out
+9.1,DPMD Jayawardene,Iqbal Abdulla,NV Ojha,0,Not out
+9.2,DPMD Jayawardene,Iqbal Abdulla,NV Ojha,1,Not out
+9.3,NV Ojha,Iqbal Abdulla,DPMD Jayawardene,0,Not out
+9.4,DPMD Jayawardene,Iqbal Abdulla,NV Ojha,0,Not out
+9.5,DPMD Jayawardene,Iqbal Abdulla,NV Ojha,4,Not out
+9.6,DPMD Jayawardene,Iqbal Abdulla,NV Ojha,4,Not out
+10.1,NV Ojha,R Bhatia,DPMD Jayawardene,0,Not out
+10.2,NV Ojha,R Bhatia,DPMD Jayawardene,0,caught
+10.3,Y Venugopal Rao,R Bhatia,DPMD Jayawardene,0,Not out
+10.4,Y Venugopal Rao,R Bhatia,DPMD Jayawardene,0,Not out
+10.5,Y Venugopal Rao,R Bhatia,DPMD Jayawardene,1,Not out
+10.6,DPMD Jayawardene,R Bhatia,Y Venugopal Rao,4,Not out
+11.1,Y Venugopal Rao,Iqbal Abdulla,DPMD Jayawardene,1,Not out
+11.2,DPMD Jayawardene,Iqbal Abdulla,Y Venugopal Rao,0,Not out
+11.3,DPMD Jayawardene,Iqbal Abdulla,Y Venugopal Rao,4,Not out
+11.4,DPMD Jayawardene,Iqbal Abdulla,Y Venugopal Rao,0,Not out
+11.5,DPMD Jayawardene,Iqbal Abdulla,Y Venugopal Rao,1,Not out
+11.6,Y Venugopal Rao,Iqbal Abdulla,DPMD Jayawardene,0,Not out
+12.1,Y Venugopal Rao,SP Narine,DPMD Jayawardene,0,Not out
+12.2,Y Venugopal Rao,SP Narine,DPMD Jayawardene,2,Not out
+12.3,Y Venugopal Rao,SP Narine,DPMD Jayawardene,1,Not out
+12.4,DPMD Jayawardene,SP Narine,Y Venugopal Rao,2,Not out
+12.5,DPMD Jayawardene,SP Narine,Y Venugopal Rao,0,Not out
+12.6,DPMD Jayawardene,SP Narine,Y Venugopal Rao,0,Not out
+13.1,Y Venugopal Rao,Shakib Al Hasan,DPMD Jayawardene,0,Not out
+13.2,Y Venugopal Rao,Shakib Al Hasan,DPMD Jayawardene,1,Not out
+13.3,DPMD Jayawardene,Shakib Al Hasan,Y Venugopal Rao,1,Not out
+13.4,Y Venugopal Rao,Shakib Al Hasan,DPMD Jayawardene,1,Not out
+13.5,DPMD Jayawardene,Shakib Al Hasan,Y Venugopal Rao,1,Not out
+13.6,Y Venugopal Rao,Shakib Al Hasan,DPMD Jayawardene,1,Not out
+14.1,Y Venugopal Rao,Iqbal Abdulla,DPMD Jayawardene,1,Not out
+14.2,DPMD Jayawardene,Iqbal Abdulla,Y Venugopal Rao,1,Not out
+14.3,Y Venugopal Rao,Iqbal Abdulla,DPMD Jayawardene,1,Not out
+14.4,DPMD Jayawardene,Iqbal Abdulla,Y Venugopal Rao,0,stumped
+14.5,P Negi,Iqbal Abdulla,Y Venugopal Rao,1,Not out
+14.6,Y Venugopal Rao,Iqbal Abdulla,P Negi,0,Not out
+15.1,P Negi,Shakib Al Hasan,Y Venugopal Rao,4,Not out
+15.2,P Negi,Shakib Al Hasan,Y Venugopal Rao,1,Not out
+15.3,Y Venugopal Rao,Shakib Al Hasan,P Negi,1,Not out
+15.4,P Negi,Shakib Al Hasan,Y Venugopal Rao,1,Not out
+15.5,Y Venugopal Rao,Shakib Al Hasan,P Negi,0,Not out
+15.6,Y Venugopal Rao,Shakib Al Hasan,P Negi,1,Not out
+16.1,Y Venugopal Rao,JH Kallis,P Negi,0,Not out
+16.2,Y Venugopal Rao,JH Kallis,P Negi,1,Not out
+16.3,P Negi,JH Kallis,Y Venugopal Rao,1,Not out
+16.4,Y Venugopal Rao,JH Kallis,P Negi,0,Not out
+16.5,Y Venugopal Rao,JH Kallis,P Negi,0,Not out
+16.6,Y Venugopal Rao,JH Kallis,P Negi,0,caught
+16.7,P Negi,JH Kallis,LRPL Taylor,0,Not out
+17.1,LRPL Taylor,SP Narine,P Negi,1,Not out
+17.2,P Negi,SP Narine,LRPL Taylor,0,Not out
+17.3,P Negi,SP Narine,LRPL Taylor,1,Not out
+17.4,LRPL Taylor,SP Narine,P Negi,0,Not out
+17.5,LRPL Taylor,SP Narine,P Negi,6,Not out
+17.6,LRPL Taylor,SP Narine,P Negi,2,Not out
+18.1,P Negi,JH Kallis,LRPL Taylor,1,Not out
+18.2,LRPL Taylor,JH Kallis,P Negi,0,Not out
+18.3,LRPL Taylor,JH Kallis,P Negi,0,Not out
+18.4,LRPL Taylor,JH Kallis,P Negi,2,Not out
+18.5,LRPL Taylor,JH Kallis,P Negi,0,caught
+18.6,P Negi,JH Kallis,IK Pathan,4,Not out
+19.1,IK Pathan,SP Narine,P Negi,4,Not out
+19.2,IK Pathan,SP Narine,P Negi,1,Not out
+19.3,P Negi,SP Narine,IK Pathan,0,stumped
+19.4,M Morkel,SP Narine,IK Pathan,0,caught
+19.5,IK Pathan,SP Narine,UT Yadav,1,Not out
+19.6,UT Yadav,SP Narine,IK Pathan,1,Not out

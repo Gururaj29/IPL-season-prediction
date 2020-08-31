@@ -1,0 +1,121 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AM Rahane,P Kumar,F du Plessis,0,Not out
+0.2,AM Rahane,P Kumar,F du Plessis,4,Not out
+0.3,AM Rahane,P Kumar,F du Plessis,1,Not out
+0.4,F du Plessis,P Kumar,AM Rahane,0,Not out
+0.5,F du Plessis,P Kumar,AM Rahane,0,Not out
+0.6,F du Plessis,P Kumar,AM Rahane,0,Not out
+1.1,AM Rahane,SB Jakati,F du Plessis,0,Not out
+1.2,AM Rahane,SB Jakati,F du Plessis,1,Not out
+1.3,F du Plessis,SB Jakati,AM Rahane,1,Not out
+1.4,AM Rahane,SB Jakati,F du Plessis,4,Not out
+1.5,AM Rahane,SB Jakati,F du Plessis,4,Not out
+1.6,AM Rahane,SB Jakati,F du Plessis,1,Not out
+2.1,AM Rahane,P Kumar,F du Plessis,0,Not out
+2.2,AM Rahane,P Kumar,F du Plessis,0,Not out
+2.3,AM Rahane,P Kumar,F du Plessis,1,Not out
+2.4,F du Plessis,P Kumar,AM Rahane,4,Not out
+2.5,F du Plessis,P Kumar,AM Rahane,1,Not out
+2.6,AM Rahane,P Kumar,F du Plessis,1,Not out
+3.1,AM Rahane,PV Tambe,F du Plessis,0,Not out
+3.2,AM Rahane,PV Tambe,F du Plessis,0,Not out
+3.3,AM Rahane,PV Tambe,F du Plessis,4,Not out
+3.4,AM Rahane,PV Tambe,F du Plessis,0,Not out
+3.5,AM Rahane,PV Tambe,F du Plessis,0,lbw
+3.6,KP Pietersen,PV Tambe,F du Plessis,1,Not out
+4.1,KP Pietersen,SB Jakati,F du Plessis,1,Not out
+4.2,F du Plessis,SB Jakati,KP Pietersen,6,Not out
+4.3,F du Plessis,SB Jakati,KP Pietersen,0,Not out
+4.4,KP Pietersen,SB Jakati,F du Plessis,4,Not out
+4.5,KP Pietersen,SB Jakati,F du Plessis,1,Not out
+4.6,F du Plessis,SB Jakati,KP Pietersen,0,Not out
+5.1,KP Pietersen,DJ Bravo,F du Plessis,6,Not out
+5.2,KP Pietersen,DJ Bravo,F du Plessis,1,Not out
+5.3,F du Plessis,DJ Bravo,KP Pietersen,1,Not out
+5.4,KP Pietersen,DJ Bravo,F du Plessis,1,Not out
+5.5,F du Plessis,DJ Bravo,KP Pietersen,6,Not out
+5.6,F du Plessis,DJ Bravo,KP Pietersen,1,Not out
+6.1,F du Plessis,RA Jadeja,KP Pietersen,1,Not out
+6.2,KP Pietersen,RA Jadeja,F du Plessis,0,Not out
+6.3,KP Pietersen,RA Jadeja,F du Plessis,1,Not out
+6.4,F du Plessis,RA Jadeja,KP Pietersen,0,Not out
+6.5,F du Plessis,RA Jadeja,KP Pietersen,6,Not out
+6.6,F du Plessis,RA Jadeja,KP Pietersen,1,Not out
+7.1,F du Plessis,PV Tambe,KP Pietersen,1,Not out
+7.2,KP Pietersen,PV Tambe,F du Plessis,1,Not out
+7.3,F du Plessis,PV Tambe,KP Pietersen,1,Not out
+7.4,KP Pietersen,PV Tambe,F du Plessis,2,Not out
+7.5,KP Pietersen,PV Tambe,F du Plessis,1,Not out
+7.6,F du Plessis,PV Tambe,KP Pietersen,4,Not out
+8.1,KP Pietersen,RA Jadeja,F du Plessis,2,Not out
+8.2,KP Pietersen,RA Jadeja,F du Plessis,0,Not out
+8.3,KP Pietersen,RA Jadeja,F du Plessis,1,Not out
+8.4,F du Plessis,RA Jadeja,KP Pietersen,2,Not out
+8.5,F du Plessis,RA Jadeja,KP Pietersen,1,Not out
+8.6,KP Pietersen,RA Jadeja,F du Plessis,0,Not out
+9.1,F du Plessis,PV Tambe,KP Pietersen,0,Not out
+9.2,F du Plessis,PV Tambe,KP Pietersen,1,Not out
+9.3,KP Pietersen,PV Tambe,F du Plessis,1,Not out
+9.4,F du Plessis,PV Tambe,KP Pietersen,1,Not out
+9.5,KP Pietersen,PV Tambe,F du Plessis,0,Not out
+9.6,KP Pietersen,PV Tambe,F du Plessis,2,Not out
+10.1,F du Plessis,SB Jakati,KP Pietersen,0,Not out
+10.2,F du Plessis,SB Jakati,KP Pietersen,2,Not out
+10.3,F du Plessis,SB Jakati,KP Pietersen,1,Not out
+10.4,KP Pietersen,SB Jakati,F du Plessis,1,Not out
+10.5,F du Plessis,SB Jakati,KP Pietersen,1,Not out
+10.6,KP Pietersen,SB Jakati,F du Plessis,1,Not out
+11.1,KP Pietersen,JP Faulkner,F du Plessis,4,Not out
+11.2,KP Pietersen,JP Faulkner,F du Plessis,0,Not out
+11.3,KP Pietersen,JP Faulkner,F du Plessis,1,Not out
+11.4,F du Plessis,JP Faulkner,KP Pietersen,1,Not out
+11.5,KP Pietersen,JP Faulkner,F du Plessis,1,Not out
+11.6,F du Plessis,JP Faulkner,KP Pietersen,0,Not out
+12.1,KP Pietersen,SB Jakati,F du Plessis,1,Not out
+12.2,F du Plessis,SB Jakati,KP Pietersen,4,Not out
+12.3,F du Plessis,SB Jakati,KP Pietersen,1,Not out
+12.4,KP Pietersen,SB Jakati,F du Plessis,0,Not out
+12.5,KP Pietersen,SB Jakati,F du Plessis,1,Not out
+12.6,F du Plessis,SB Jakati,KP Pietersen,4,Not out
+13.1,KP Pietersen,DJ Bravo,F du Plessis,1,Not out
+13.2,F du Plessis,DJ Bravo,KP Pietersen,0,Not out
+13.3,F du Plessis,DJ Bravo,KP Pietersen,0,Not out
+13.4,F du Plessis,DJ Bravo,KP Pietersen,1,Not out
+13.5,KP Pietersen,DJ Bravo,F du Plessis,0,Not out
+13.6,KP Pietersen,DJ Bravo,F du Plessis,0,bowled
+14.1,F du Plessis,JP Faulkner,SPD Smith,0,Not out
+14.2,F du Plessis,JP Faulkner,SPD Smith,1,Not out
+14.3,SPD Smith,JP Faulkner,F du Plessis,2,Not out
+14.4,SPD Smith,JP Faulkner,F du Plessis,1,Not out
+14.5,F du Plessis,JP Faulkner,SPD Smith,2,Not out
+14.6,F du Plessis,JP Faulkner,SPD Smith,2,Not out
+15.1,SPD Smith,PV Tambe,F du Plessis,1,Not out
+15.2,F du Plessis,PV Tambe,SPD Smith,4,Not out
+15.3,F du Plessis,PV Tambe,SPD Smith,6,Not out
+15.4,F du Plessis,PV Tambe,SPD Smith,0,stumped
+15.5,MS Dhoni,PV Tambe,SPD Smith,1,Not out
+15.6,SPD Smith,PV Tambe,MS Dhoni,1,Not out
+16.1,SPD Smith,RA Jadeja,MS Dhoni,0,Not out
+16.2,SPD Smith,RA Jadeja,MS Dhoni,0,caught
+16.3,MS Dhoni,RA Jadeja,MR Marsh,0,Not out
+16.4,MR Marsh,RA Jadeja,MS Dhoni,0,Not out
+16.5,MR Marsh,RA Jadeja,MS Dhoni,1,Not out
+16.6,MS Dhoni,RA Jadeja,MR Marsh,0,Not out
+17.1,MR Marsh,DJ Bravo,MS Dhoni,0,Not out
+17.2,MR Marsh,DJ Bravo,MS Dhoni,0,Not out
+17.3,MR Marsh,DJ Bravo,MS Dhoni,1,Not out
+17.4,MS Dhoni,DJ Bravo,MR Marsh,1,Not out
+17.5,MR Marsh,DJ Bravo,MS Dhoni,2,Not out
+17.6,MR Marsh,DJ Bravo,MS Dhoni,1,Not out
+18.1,MR Marsh,RA Jadeja,MS Dhoni,0,Not out
+18.2,MR Marsh,RA Jadeja,MS Dhoni,2,Not out
+18.3,MR Marsh,RA Jadeja,MS Dhoni,0,Not out
+18.4,MR Marsh,RA Jadeja,MS Dhoni,0,bowled
+18.5,R Bhatia,RA Jadeja,MS Dhoni,0,Not out
+18.6,R Bhatia,RA Jadeja,MS Dhoni,0,Not out
+19.1,MS Dhoni,DJ Bravo,R Bhatia,4,Not out
+19.2,MS Dhoni,DJ Bravo,R Bhatia,2,Not out
+19.3,MS Dhoni,DJ Bravo,R Bhatia,2,Not out
+19.4,MS Dhoni,DJ Bravo,R Bhatia,6,Not out
+19.5,MS Dhoni,DJ Bravo,R Bhatia,2,Not out
+19.6,MS Dhoni,DJ Bravo,R Bhatia,4,Not out

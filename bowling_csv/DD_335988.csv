@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AC Gilchrist,GD McGrath,Y Venugopal Rao,0,Not out
+0.2,AC Gilchrist,GD McGrath,Y Venugopal Rao,0,Not out
+0.3,AC Gilchrist,GD McGrath,Y Venugopal Rao,0,Not out
+0.4,Y Venugopal Rao,GD McGrath,AC Gilchrist,0,Not out
+0.5,Y Venugopal Rao,GD McGrath,AC Gilchrist,0,Not out
+0.6,Y Venugopal Rao,GD McGrath,AC Gilchrist,0,Not out
+1.1,AC Gilchrist,Mohammad Asif,Y Venugopal Rao,0,Not out
+1.2,AC Gilchrist,Mohammad Asif,Y Venugopal Rao,0,Not out
+1.3,AC Gilchrist,Mohammad Asif,Y Venugopal Rao,6,Not out
+1.4,AC Gilchrist,Mohammad Asif,Y Venugopal Rao,0,Not out
+1.5,AC Gilchrist,Mohammad Asif,Y Venugopal Rao,2,Not out
+1.6,AC Gilchrist,Mohammad Asif,Y Venugopal Rao,0,bowled
+2.1,Y Venugopal Rao,GD McGrath,VVS Laxman,0,Not out
+2.2,Y Venugopal Rao,GD McGrath,VVS Laxman,2,Not out
+2.3,Y Venugopal Rao,GD McGrath,VVS Laxman,0,Not out
+2.4,Y Venugopal Rao,GD McGrath,VVS Laxman,0,Not out
+2.5,Y Venugopal Rao,GD McGrath,VVS Laxman,0,Not out
+2.6,Y Venugopal Rao,GD McGrath,VVS Laxman,4,Not out
+3.1,VVS Laxman,Mohammad Asif,Y Venugopal Rao,0,Not out
+3.2,VVS Laxman,Mohammad Asif,Y Venugopal Rao,0,Not out
+3.3,VVS Laxman,Mohammad Asif,Y Venugopal Rao,0,Not out
+3.4,VVS Laxman,Mohammad Asif,Y Venugopal Rao,1,Not out
+3.5,Y Venugopal Rao,Mohammad Asif,VVS Laxman,0,Not out
+3.6,Y Venugopal Rao,Mohammad Asif,VVS Laxman,0,Not out
+4.1,VVS Laxman,GD McGrath,Y Venugopal Rao,1,Not out
+4.2,Y Venugopal Rao,GD McGrath,VVS Laxman,2,Not out
+4.3,Y Venugopal Rao,GD McGrath,VVS Laxman,4,Not out
+4.4,Y Venugopal Rao,GD McGrath,VVS Laxman,0,Not out
+4.5,Y Venugopal Rao,GD McGrath,VVS Laxman,0,Not out
+4.6,Y Venugopal Rao,GD McGrath,VVS Laxman,0,Not out
+5.1,VVS Laxman,Mohammad Asif,Y Venugopal Rao,0,bowled
+5.2,A Symonds,Mohammad Asif,Y Venugopal Rao,0,Not out
+5.3,A Symonds,Mohammad Asif,Y Venugopal Rao,0,Not out
+5.4,A Symonds,Mohammad Asif,Y Venugopal Rao,0,Not out
+5.5,A Symonds,Mohammad Asif,Y Venugopal Rao,2,Not out
+5.6,A Symonds,Mohammad Asif,Y Venugopal Rao,0,Not out
+6.1,Y Venugopal Rao,GD McGrath,A Symonds,1,Not out
+6.2,A Symonds,GD McGrath,Y Venugopal Rao,4,Not out
+6.3,A Symonds,GD McGrath,Y Venugopal Rao,4,Not out
+6.4,A Symonds,GD McGrath,Y Venugopal Rao,0,Not out
+6.5,A Symonds,GD McGrath,Y Venugopal Rao,0,Not out
+6.6,A Symonds,GD McGrath,Y Venugopal Rao,0,Not out
+7.1,Y Venugopal Rao,MF Maharoof,A Symonds,1,Not out
+7.2,A Symonds,MF Maharoof,Y Venugopal Rao,1,Not out
+7.3,Y Venugopal Rao,MF Maharoof,A Symonds,0,Not out
+7.4,Y Venugopal Rao,MF Maharoof,A Symonds,0,Not out
+7.5,Y Venugopal Rao,MF Maharoof,A Symonds,0,Not out
+7.6,Y Venugopal Rao,MF Maharoof,A Symonds,0,caught
+8.1,RG Sharma,VY Mahesh,A Symonds,4,Not out
+8.2,RG Sharma,VY Mahesh,A Symonds,0,Not out
+8.3,RG Sharma,VY Mahesh,A Symonds,1,Not out
+8.4,A Symonds,VY Mahesh,RG Sharma,1,Not out
+8.5,RG Sharma,VY Mahesh,A Symonds,0,Not out
+8.6,RG Sharma,VY Mahesh,A Symonds,1,Not out
+9.1,RG Sharma,MF Maharoof,A Symonds,0,Not out
+9.2,RG Sharma,MF Maharoof,A Symonds,1,Not out
+9.3,A Symonds,MF Maharoof,RG Sharma,0,caught
+9.4,Shahid Afridi,MF Maharoof,RG Sharma,0,Not out
+9.5,Shahid Afridi,MF Maharoof,RG Sharma,0,Not out
+9.6,Shahid Afridi,MF Maharoof,RG Sharma,0,Not out
+9.7,Shahid Afridi,MF Maharoof,RG Sharma,0,Not out
+10.1,RG Sharma,VY Mahesh,Shahid Afridi,0,Not out
+10.2,RG Sharma,VY Mahesh,Shahid Afridi,0,Not out
+10.3,RG Sharma,VY Mahesh,Shahid Afridi,0,Not out
+10.4,RG Sharma,VY Mahesh,Shahid Afridi,4,Not out
+10.5,RG Sharma,VY Mahesh,Shahid Afridi,4,Not out
+10.6,RG Sharma,VY Mahesh,Shahid Afridi,1,Not out
+11.1,RG Sharma,MF Maharoof,Shahid Afridi,2,Not out
+11.2,RG Sharma,MF Maharoof,Shahid Afridi,0,Not out
+11.3,RG Sharma,MF Maharoof,Shahid Afridi,1,Not out
+11.4,Shahid Afridi,MF Maharoof,RG Sharma,1,Not out
+11.5,RG Sharma,MF Maharoof,Shahid Afridi,1,Not out
+11.6,Shahid Afridi,MF Maharoof,RG Sharma,1,Not out
+12.1,Shahid Afridi,R Bhatia,RG Sharma,0,lbw
+12.2,SB Bangar,R Bhatia,RG Sharma,0,Not out
+12.3,SB Bangar,R Bhatia,RG Sharma,0,Not out
+12.4,SB Bangar,R Bhatia,RG Sharma,1,Not out
+12.5,RG Sharma,R Bhatia,SB Bangar,1,Not out
+12.6,SB Bangar,R Bhatia,RG Sharma,0,Not out
+13.1,RG Sharma,VY Mahesh,SB Bangar,1,Not out
+13.2,SB Bangar,VY Mahesh,RG Sharma,1,Not out
+13.3,RG Sharma,VY Mahesh,SB Bangar,1,Not out
+13.4,SB Bangar,VY Mahesh,RG Sharma,1,Not out
+13.5,RG Sharma,VY Mahesh,SB Bangar,1,Not out
+13.6,SB Bangar,VY Mahesh,RG Sharma,1,Not out
+14.1,SB Bangar,R Bhatia,RG Sharma,1,Not out
+14.2,RG Sharma,R Bhatia,SB Bangar,1,Not out
+14.3,SB Bangar,R Bhatia,RG Sharma,1,Not out
+14.4,RG Sharma,R Bhatia,SB Bangar,0,Not out
+14.5,RG Sharma,R Bhatia,SB Bangar,1,Not out
+14.6,SB Bangar,R Bhatia,RG Sharma,1,Not out
+15.1,SB Bangar,Mohammad Asif,RG Sharma,0,Not out
+15.2,SB Bangar,Mohammad Asif,RG Sharma,0,Not out
+15.3,RG Sharma,Mohammad Asif,SB Bangar,6,Not out
+15.4,RG Sharma,Mohammad Asif,SB Bangar,1,Not out
+15.5,SB Bangar,Mohammad Asif,RG Sharma,1,Not out
+15.6,RG Sharma,Mohammad Asif,SB Bangar,0,Not out
+16.1,SB Bangar,R Bhatia,RG Sharma,0,run out
+16.2,AS Yadav,R Bhatia,RG Sharma,1,Not out
+16.3,RG Sharma,R Bhatia,AS Yadav,0,Not out
+16.4,RG Sharma,R Bhatia,AS Yadav,6,Not out
+16.5,RG Sharma,R Bhatia,AS Yadav,1,Not out
+16.6,AS Yadav,R Bhatia,RG Sharma,0,Not out
+17.1,RG Sharma,MF Maharoof,AS Yadav,6,Not out
+17.2,RG Sharma,MF Maharoof,AS Yadav,6,Not out
+17.3,RG Sharma,MF Maharoof,AS Yadav,4,Not out
+17.4,RG Sharma,MF Maharoof,AS Yadav,4,Not out
+17.5,RG Sharma,MF Maharoof,AS Yadav,4,Not out
+17.6,RG Sharma,MF Maharoof,AS Yadav,2,Not out
+18.1,AS Yadav,R Bhatia,RG Sharma,2,Not out
+18.2,AS Yadav,R Bhatia,RG Sharma,4,Not out
+18.3,AS Yadav,R Bhatia,RG Sharma,1,Not out
+18.4,RG Sharma,R Bhatia,AS Yadav,0,caught
+18.5,WPUJC Vaas,R Bhatia,AS Yadav,1,Not out
+18.6,AS Yadav,R Bhatia,WPUJC Vaas,4,Not out
+19.1,WPUJC Vaas,VY Mahesh,AS Yadav,0,Not out
+19.2,AS Yadav,VY Mahesh,WPUJC Vaas,0,caught
+19.3,WPUJC Vaas,VY Mahesh,RP Singh,1,Not out
+19.4,RP Singh,VY Mahesh,WPUJC Vaas,1,Not out
+19.5,WPUJC Vaas,VY Mahesh,RP Singh,2,Not out
+19.6,WPUJC Vaas,VY Mahesh,RP Singh,6,Not out
+19.7,WPUJC Vaas,VY Mahesh,RP Singh,2,Not out

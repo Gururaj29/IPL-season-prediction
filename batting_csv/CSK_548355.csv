@@ -1,0 +1,126 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,M Vijay,RJ Peterson,F du Plessis,4,Not out
+0.2,M Vijay,RJ Peterson,F du Plessis,0,Not out
+0.3,M Vijay,RJ Peterson,F du Plessis,0,Not out
+0.4,M Vijay,RJ Peterson,F du Plessis,2,Not out
+0.5,M Vijay,RJ Peterson,F du Plessis,0,Not out
+0.6,M Vijay,RJ Peterson,F du Plessis,1,Not out
+1.1,M Vijay,RP Singh,F du Plessis,4,Not out
+1.2,M Vijay,RP Singh,F du Plessis,0,Not out
+1.3,M Vijay,RP Singh,F du Plessis,0,Not out
+1.4,M Vijay,RP Singh,F du Plessis,1,Not out
+1.5,F du Plessis,RP Singh,M Vijay,0,Not out
+1.6,F du Plessis,RP Singh,M Vijay,3,Not out
+2.1,F du Plessis,MM Patel,M Vijay,0,Not out
+2.2,F du Plessis,MM Patel,M Vijay,1,Not out
+2.3,M Vijay,MM Patel,F du Plessis,0,Not out
+2.4,M Vijay,MM Patel,F du Plessis,1,Not out
+2.5,F du Plessis,MM Patel,M Vijay,1,Not out
+2.6,M Vijay,MM Patel,F du Plessis,0,Not out
+3.1,F du Plessis,SL Malinga,M Vijay,0,Not out
+3.2,F du Plessis,SL Malinga,M Vijay,0,Not out
+3.3,F du Plessis,SL Malinga,M Vijay,0,Not out
+3.4,F du Plessis,SL Malinga,M Vijay,1,Not out
+3.5,M Vijay,SL Malinga,F du Plessis,0,Not out
+3.6,M Vijay,SL Malinga,F du Plessis,1,Not out
+3.7,F du Plessis,SL Malinga,M Vijay,1,Not out
+4.1,F du Plessis,MM Patel,M Vijay,1,Not out
+4.2,M Vijay,MM Patel,F du Plessis,0,Not out
+4.3,M Vijay,MM Patel,F du Plessis,6,Not out
+4.4,M Vijay,MM Patel,F du Plessis,4,Not out
+4.5,M Vijay,MM Patel,F du Plessis,6,Not out
+4.6,M Vijay,MM Patel,F du Plessis,6,Not out
+4.7,M Vijay,MM Patel,F du Plessis,0,Not out
+5.1,F du Plessis,SL Malinga,M Vijay,1,Not out
+5.2,M Vijay,SL Malinga,F du Plessis,0,run out
+5.3,M Vijay,SL Malinga,SK Raina,4,Not out
+5.4,M Vijay,SL Malinga,SK Raina,0,Not out
+5.5,M Vijay,SL Malinga,SK Raina,0,Not out
+5.6,M Vijay,SL Malinga,SK Raina,1,Not out
+6.1,M Vijay,RP Singh,SK Raina,0,Not out
+6.2,M Vijay,RP Singh,SK Raina,0,Not out
+6.3,M Vijay,RP Singh,SK Raina,0,Not out
+6.4,M Vijay,RP Singh,SK Raina,0,bowled
+6.5,DJ Bravo,RP Singh,SK Raina,4,Not out
+6.6,DJ Bravo,RP Singh,SK Raina,0,Not out
+7.1,DJ Bravo,Harbhajan Singh,SK Raina,0,Not out
+7.2,DJ Bravo,Harbhajan Singh,SK Raina,0,Not out
+7.3,DJ Bravo,Harbhajan Singh,SK Raina,0,Not out
+7.4,DJ Bravo,Harbhajan Singh,SK Raina,0,Not out
+7.5,DJ Bravo,Harbhajan Singh,SK Raina,1,Not out
+7.6,SK Raina,Harbhajan Singh,DJ Bravo,0,Not out
+7.7,SK Raina,Harbhajan Singh,DJ Bravo,1,Not out
+8.1,SK Raina,RP Singh,DJ Bravo,0,Not out
+8.2,SK Raina,RP Singh,DJ Bravo,4,Not out
+8.3,SK Raina,RP Singh,DJ Bravo,0,Not out
+8.4,SK Raina,RP Singh,DJ Bravo,1,Not out
+8.5,DJ Bravo,RP Singh,SK Raina,2,Not out
+8.6,DJ Bravo,RP Singh,SK Raina,0,Not out
+8.7,DJ Bravo,RP Singh,SK Raina,0,Not out
+9.1,SK Raina,Harbhajan Singh,DJ Bravo,0,Not out
+9.2,SK Raina,Harbhajan Singh,DJ Bravo,1,Not out
+9.3,DJ Bravo,Harbhajan Singh,SK Raina,0,Not out
+9.4,DJ Bravo,Harbhajan Singh,SK Raina,1,Not out
+9.5,SK Raina,Harbhajan Singh,DJ Bravo,1,Not out
+9.6,DJ Bravo,Harbhajan Singh,SK Raina,1,Not out
+10.1,DJ Bravo,DR Smith,SK Raina,1,Not out
+10.2,SK Raina,DR Smith,DJ Bravo,4,Not out
+10.3,SK Raina,DR Smith,DJ Bravo,1,Not out
+10.4,DJ Bravo,DR Smith,SK Raina,0,Not out
+10.5,DJ Bravo,DR Smith,SK Raina,0,Not out
+10.6,SK Raina,DR Smith,DJ Bravo,6,Not out
+11.1,DJ Bravo,Harbhajan Singh,SK Raina,0,Not out
+11.2,DJ Bravo,Harbhajan Singh,SK Raina,1,Not out
+11.3,SK Raina,Harbhajan Singh,DJ Bravo,1,Not out
+11.4,DJ Bravo,Harbhajan Singh,SK Raina,2,Not out
+11.5,DJ Bravo,Harbhajan Singh,SK Raina,1,Not out
+11.6,SK Raina,Harbhajan Singh,DJ Bravo,0,Not out
+11.7,SK Raina,Harbhajan Singh,DJ Bravo,1,Not out
+12.1,SK Raina,DR Smith,DJ Bravo,6,Not out
+12.2,SK Raina,DR Smith,DJ Bravo,1,Not out
+12.3,DJ Bravo,DR Smith,SK Raina,1,Not out
+12.4,SK Raina,DR Smith,DJ Bravo,0,Not out
+12.5,SK Raina,DR Smith,DJ Bravo,2,Not out
+12.6,SK Raina,DR Smith,DJ Bravo,4,Not out
+13.1,DJ Bravo,MM Patel,SK Raina,0,Not out
+13.2,DJ Bravo,MM Patel,SK Raina,4,Not out
+13.3,DJ Bravo,MM Patel,SK Raina,1,Not out
+13.4,SK Raina,MM Patel,DJ Bravo,1,Not out
+13.5,DJ Bravo,MM Patel,SK Raina,1,Not out
+13.6,SK Raina,MM Patel,DJ Bravo,1,Not out
+14.1,SK Raina,JEC Franklin,DJ Bravo,0,caught
+14.2,MS Dhoni,JEC Franklin,DJ Bravo,1,Not out
+14.3,DJ Bravo,JEC Franklin,MS Dhoni,1,Not out
+14.4,MS Dhoni,JEC Franklin,DJ Bravo,4,Not out
+14.5,MS Dhoni,JEC Franklin,DJ Bravo,0,Not out
+14.6,DJ Bravo,JEC Franklin,MS Dhoni,2,Not out
+15.1,MS Dhoni,RJ Peterson,DJ Bravo,0,Not out
+15.2,MS Dhoni,RJ Peterson,DJ Bravo,2,Not out
+15.3,MS Dhoni,RJ Peterson,DJ Bravo,2,Not out
+15.4,MS Dhoni,RJ Peterson,DJ Bravo,6,Not out
+15.5,MS Dhoni,RJ Peterson,DJ Bravo,4,Not out
+15.6,MS Dhoni,RJ Peterson,DJ Bravo,1,Not out
+16.1,MS Dhoni,MM Patel,DJ Bravo,1,Not out
+16.2,DJ Bravo,MM Patel,MS Dhoni,1,Not out
+16.3,MS Dhoni,MM Patel,DJ Bravo,1,Not out
+16.4,DJ Bravo,MM Patel,MS Dhoni,6,Not out
+16.5,DJ Bravo,MM Patel,MS Dhoni,1,Not out
+16.6,MS Dhoni,MM Patel,DJ Bravo,1,Not out
+17.1,MS Dhoni,SL Malinga,DJ Bravo,1,Not out
+17.2,DJ Bravo,SL Malinga,MS Dhoni,0,Not out
+17.3,DJ Bravo,SL Malinga,MS Dhoni,4,Not out
+17.4,DJ Bravo,SL Malinga,MS Dhoni,4,Not out
+17.5,DJ Bravo,SL Malinga,MS Dhoni,0,bowled
+17.6,JA Morkel,SL Malinga,MS Dhoni,2,Not out
+18.1,MS Dhoni,RP Singh,JA Morkel,1,Not out
+18.2,JA Morkel,RP Singh,MS Dhoni,1,Not out
+18.3,MS Dhoni,RP Singh,JA Morkel,0,caught
+18.4,RA Jadeja,RP Singh,JA Morkel,6,Not out
+18.5,RA Jadeja,RP Singh,JA Morkel,0,Not out
+18.6,JA Morkel,RP Singh,RA Jadeja,0,bowled
+19.1,RA Jadeja,SL Malinga,S Badrinath,0,Not out
+19.2,RA Jadeja,SL Malinga,S Badrinath,2,Not out
+19.3,RA Jadeja,SL Malinga,S Badrinath,1,Not out
+19.4,S Badrinath,SL Malinga,RA Jadeja,1,Not out
+19.5,RA Jadeja,SL Malinga,S Badrinath,0,caught
+19.6,R Ashwin,SL Malinga,S Badrinath,0,caught

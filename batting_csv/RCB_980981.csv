@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,V Kohli,TG Southee,CH Gayle,0,Not out
+0.2,V Kohli,TG Southee,CH Gayle,0,Not out
+0.3,V Kohli,TG Southee,CH Gayle,0,Not out
+0.4,V Kohli,TG Southee,CH Gayle,0,Not out
+0.5,V Kohli,TG Southee,CH Gayle,6,Not out
+0.6,V Kohli,TG Southee,CH Gayle,0,Not out
+0.7,V Kohli,TG Southee,CH Gayle,1,Not out
+1.1,V Kohli,MJ McClenaghan,CH Gayle,0,caught
+1.2,AB de Villiers,MJ McClenaghan,CH Gayle,1,Not out
+1.3,CH Gayle,MJ McClenaghan,AB de Villiers,0,Not out
+1.4,CH Gayle,MJ McClenaghan,AB de Villiers,1,Not out
+1.5,AB de Villiers,MJ McClenaghan,CH Gayle,1,Not out
+1.6,CH Gayle,MJ McClenaghan,AB de Villiers,0,Not out
+2.1,AB de Villiers,JJ Bumrah,CH Gayle,0,Not out
+2.2,AB de Villiers,JJ Bumrah,CH Gayle,0,Not out
+2.3,AB de Villiers,JJ Bumrah,CH Gayle,0,Not out
+2.4,AB de Villiers,JJ Bumrah,CH Gayle,0,Not out
+2.5,AB de Villiers,JJ Bumrah,CH Gayle,0,Not out
+2.6,AB de Villiers,JJ Bumrah,CH Gayle,1,Not out
+3.1,AB de Villiers,TG Southee,CH Gayle,1,Not out
+3.2,CH Gayle,TG Southee,AB de Villiers,0,Not out
+3.3,CH Gayle,TG Southee,AB de Villiers,4,Not out
+3.4,CH Gayle,TG Southee,AB de Villiers,0,caught
+3.5,AB de Villiers,TG Southee,KL Rahul,0,Not out
+3.6,AB de Villiers,TG Southee,KL Rahul,0,Not out
+4.1,KL Rahul,KH Pandya,AB de Villiers,0,Not out
+4.2,KL Rahul,KH Pandya,AB de Villiers,0,Not out
+4.3,KL Rahul,KH Pandya,AB de Villiers,0,Not out
+4.4,KL Rahul,KH Pandya,AB de Villiers,0,Not out
+4.5,KL Rahul,KH Pandya,AB de Villiers,1,Not out
+4.6,AB de Villiers,KH Pandya,KL Rahul,1,Not out
+5.1,AB de Villiers,MJ McClenaghan,KL Rahul,4,Not out
+5.2,AB de Villiers,MJ McClenaghan,KL Rahul,1,Not out
+5.3,KL Rahul,MJ McClenaghan,AB de Villiers,0,Not out
+5.4,KL Rahul,MJ McClenaghan,AB de Villiers,0,Not out
+5.5,KL Rahul,MJ McClenaghan,AB de Villiers,1,Not out
+5.6,AB de Villiers,MJ McClenaghan,KL Rahul,0,Not out
+6.1,KL Rahul,KH Pandya,AB de Villiers,3,Not out
+6.2,AB de Villiers,KH Pandya,KL Rahul,1,Not out
+6.3,KL Rahul,KH Pandya,AB de Villiers,1,Not out
+6.4,AB de Villiers,KH Pandya,KL Rahul,1,Not out
+6.5,KL Rahul,KH Pandya,AB de Villiers,1,Not out
+6.6,AB de Villiers,KH Pandya,KL Rahul,1,Not out
+7.1,AB de Villiers,Harbhajan Singh,KL Rahul,0,Not out
+7.2,AB de Villiers,Harbhajan Singh,KL Rahul,1,Not out
+7.3,KL Rahul,Harbhajan Singh,AB de Villiers,1,Not out
+7.4,AB de Villiers,Harbhajan Singh,KL Rahul,1,Not out
+7.5,KL Rahul,Harbhajan Singh,AB de Villiers,0,Not out
+7.6,KL Rahul,Harbhajan Singh,AB de Villiers,1,Not out
+8.1,KL Rahul,JJ Bumrah,AB de Villiers,0,Not out
+8.2,KL Rahul,JJ Bumrah,AB de Villiers,6,Not out
+8.3,KL Rahul,JJ Bumrah,AB de Villiers,0,Not out
+8.4,KL Rahul,JJ Bumrah,AB de Villiers,1,Not out
+8.5,AB de Villiers,JJ Bumrah,KL Rahul,1,Not out
+8.6,KL Rahul,JJ Bumrah,AB de Villiers,4,Not out
+9.1,AB de Villiers,Harbhajan Singh,KL Rahul,6,Not out
+9.2,AB de Villiers,Harbhajan Singh,KL Rahul,0,Not out
+9.3,AB de Villiers,Harbhajan Singh,KL Rahul,1,Not out
+9.4,KL Rahul,Harbhajan Singh,AB de Villiers,1,Not out
+9.5,AB de Villiers,Harbhajan Singh,KL Rahul,1,Not out
+9.6,KL Rahul,Harbhajan Singh,AB de Villiers,2,Not out
+10.1,AB de Villiers,KH Pandya,KL Rahul,0,caught
+10.2,KL Rahul,KH Pandya,SR Watson,1,Not out
+10.3,SR Watson,KH Pandya,KL Rahul,0,Not out
+10.4,SR Watson,KH Pandya,KL Rahul,0,Not out
+10.5,SR Watson,KH Pandya,KL Rahul,0,Not out
+10.6,SR Watson,KH Pandya,KL Rahul,1,Not out
+11.1,SR Watson,Harbhajan Singh,KL Rahul,0,Not out
+11.2,SR Watson,Harbhajan Singh,KL Rahul,1,Not out
+11.3,KL Rahul,Harbhajan Singh,SR Watson,1,Not out
+11.4,SR Watson,Harbhajan Singh,KL Rahul,1,Not out
+11.5,KL Rahul,Harbhajan Singh,SR Watson,0,Not out
+11.6,KL Rahul,Harbhajan Singh,SR Watson,1,Not out
+12.1,KL Rahul,KH Pandya,SR Watson,1,Not out
+12.2,SR Watson,KH Pandya,KL Rahul,0,Not out
+12.3,SR Watson,KH Pandya,KL Rahul,0,Not out
+12.4,SR Watson,KH Pandya,KL Rahul,1,Not out
+12.5,KL Rahul,KH Pandya,SR Watson,0,Not out
+12.6,KL Rahul,KH Pandya,SR Watson,1,Not out
+13.1,KL Rahul,TG Southee,SR Watson,1,Not out
+13.2,SR Watson,TG Southee,KL Rahul,4,Not out
+13.3,SR Watson,TG Southee,KL Rahul,1,Not out
+13.4,KL Rahul,TG Southee,SR Watson,0,Not out
+13.5,KL Rahul,TG Southee,SR Watson,0,Not out
+13.6,KL Rahul,TG Southee,SR Watson,1,Not out
+14.1,KL Rahul,MJ McClenaghan,SR Watson,0,Not out
+14.2,KL Rahul,MJ McClenaghan,SR Watson,4,Not out
+14.3,KL Rahul,MJ McClenaghan,SR Watson,0,Not out
+14.4,KL Rahul,MJ McClenaghan,SR Watson,6,Not out
+14.5,KL Rahul,MJ McClenaghan,SR Watson,4,Not out
+14.6,KL Rahul,MJ McClenaghan,SR Watson,1,Not out
+15.1,KL Rahul,JJ Bumrah,SR Watson,1,Not out
+15.2,SR Watson,JJ Bumrah,KL Rahul,6,Not out
+15.3,SR Watson,JJ Bumrah,KL Rahul,0,run out
+15.4,KL Rahul,JJ Bumrah,Sachin Baby,2,Not out
+15.5,KL Rahul,JJ Bumrah,Sachin Baby,1,Not out
+15.6,Sachin Baby,JJ Bumrah,KL Rahul,0,Not out
+16.1,KL Rahul,TG Southee,Sachin Baby,1,Not out
+16.2,Sachin Baby,TG Southee,KL Rahul,4,Not out
+16.3,Sachin Baby,TG Southee,KL Rahul,1,Not out
+16.4,KL Rahul,TG Southee,Sachin Baby,1,Not out
+16.5,Sachin Baby,TG Southee,KL Rahul,0,Not out
+16.6,Sachin Baby,TG Southee,KL Rahul,0,Not out
+17.1,KL Rahul,KA Pollard,Sachin Baby,6,Not out
+17.2,KL Rahul,KA Pollard,Sachin Baby,0,Not out
+17.3,Sachin Baby,KA Pollard,KL Rahul,0,Not out
+17.4,Sachin Baby,KA Pollard,KL Rahul,6,Not out
+17.5,Sachin Baby,KA Pollard,KL Rahul,6,Not out
+17.6,Sachin Baby,KA Pollard,KL Rahul,4,Not out
+18.1,KL Rahul,JJ Bumrah,Sachin Baby,0,Not out
+18.2,Sachin Baby,JJ Bumrah,KL Rahul,1,Not out
+18.3,KL Rahul,JJ Bumrah,Sachin Baby,1,Not out
+18.4,Sachin Baby,JJ Bumrah,KL Rahul,1,Not out
+18.5,KL Rahul,JJ Bumrah,Sachin Baby,2,Not out
+18.6,KL Rahul,JJ Bumrah,Sachin Baby,0,Not out
+19.1,KL Rahul,MJ McClenaghan,Sachin Baby,0,Not out
+19.2,Sachin Baby,MJ McClenaghan,KL Rahul,1,Not out
+19.3,KL Rahul,MJ McClenaghan,Sachin Baby,6,Not out
+19.4,KL Rahul,MJ McClenaghan,Sachin Baby,0,Not out
+19.5,KL Rahul,MJ McClenaghan,Sachin Baby,0,Not out
+19.6,Sachin Baby,MJ McClenaghan,KL Rahul,1,Not out
+19.7,KL Rahul,MJ McClenaghan,Sachin Baby,2,Not out

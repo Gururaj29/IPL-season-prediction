@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,SV Samson,Avesh Khan,KK Nair,0,Not out
+0.2,SV Samson,Avesh Khan,KK Nair,0,caught
+0.3,SS Iyer,Avesh Khan,KK Nair,1,Not out
+0.4,KK Nair,Avesh Khan,SS Iyer,0,Not out
+0.5,KK Nair,Avesh Khan,SS Iyer,1,Not out
+0.6,SS Iyer,Avesh Khan,KK Nair,0,Not out
+1.1,KK Nair,YS Chahal,SS Iyer,0,Not out
+1.2,KK Nair,YS Chahal,SS Iyer,4,Not out
+1.3,KK Nair,YS Chahal,SS Iyer,0,Not out
+1.4,KK Nair,YS Chahal,SS Iyer,2,Not out
+1.5,KK Nair,YS Chahal,SS Iyer,0,Not out
+1.6,KK Nair,YS Chahal,SS Iyer,1,Not out
+2.1,KK Nair,Avesh Khan,SS Iyer,0,Not out
+2.2,KK Nair,Avesh Khan,SS Iyer,0,Not out
+2.3,KK Nair,Avesh Khan,SS Iyer,0,Not out
+2.4,KK Nair,Avesh Khan,SS Iyer,0,Not out
+2.5,KK Nair,Avesh Khan,SS Iyer,0,Not out
+2.6,KK Nair,Avesh Khan,SS Iyer,4,Not out
+3.1,SS Iyer,YS Chahal,KK Nair,0,Not out
+3.2,SS Iyer,YS Chahal,KK Nair,1,Not out
+3.3,KK Nair,YS Chahal,SS Iyer,0,Not out
+3.4,KK Nair,YS Chahal,SS Iyer,1,Not out
+3.5,SS Iyer,YS Chahal,KK Nair,6,Not out
+3.6,SS Iyer,YS Chahal,KK Nair,0,Not out
+4.1,KK Nair,HV Patel,SS Iyer,4,Not out
+4.2,KK Nair,HV Patel,SS Iyer,0,Not out
+4.3,KK Nair,HV Patel,SS Iyer,4,Not out
+4.4,KK Nair,HV Patel,SS Iyer,4,Not out
+4.5,KK Nair,HV Patel,SS Iyer,1,Not out
+4.6,SS Iyer,HV Patel,KK Nair,0,Not out
+4.7,SS Iyer,HV Patel,KK Nair,1,Not out
+5.1,SS Iyer,SR Watson,KK Nair,1,Not out
+5.2,KK Nair,SR Watson,SS Iyer,0,caught
+5.3,RR Pant,SR Watson,SS Iyer,1,Not out
+5.4,SS Iyer,SR Watson,RR Pant,0,Not out
+5.5,SS Iyer,SR Watson,RR Pant,0,Not out
+5.6,SS Iyer,SR Watson,RR Pant,0,Not out
+6.1,RR Pant,TM Head,SS Iyer,0,Not out
+6.2,RR Pant,TM Head,SS Iyer,2,Not out
+6.3,RR Pant,TM Head,SS Iyer,1,Not out
+6.4,SS Iyer,TM Head,RR Pant,0,Not out
+6.5,SS Iyer,TM Head,RR Pant,2,Not out
+6.6,SS Iyer,TM Head,RR Pant,0,Not out
+7.1,RR Pant,Avesh Khan,SS Iyer,1,Not out
+7.2,SS Iyer,Avesh Khan,RR Pant,1,Not out
+7.3,RR Pant,Avesh Khan,SS Iyer,0,Not out
+7.4,RR Pant,Avesh Khan,SS Iyer,1,Not out
+7.5,SS Iyer,Avesh Khan,RR Pant,0,Not out
+7.6,SS Iyer,Avesh Khan,RR Pant,1,Not out
+8.1,SS Iyer,TM Head,RR Pant,2,Not out
+8.2,SS Iyer,TM Head,RR Pant,4,Not out
+8.3,SS Iyer,TM Head,RR Pant,1,Not out
+8.4,RR Pant,TM Head,SS Iyer,6,Not out
+8.5,RR Pant,TM Head,SS Iyer,1,Not out
+8.6,SS Iyer,TM Head,RR Pant,2,Not out
+9.1,RR Pant,YS Chahal,SS Iyer,1,Not out
+9.2,SS Iyer,YS Chahal,RR Pant,0,Not out
+9.3,SS Iyer,YS Chahal,RR Pant,1,Not out
+9.4,RR Pant,YS Chahal,SS Iyer,0,Not out
+9.5,RR Pant,YS Chahal,SS Iyer,1,Not out
+9.6,SS Iyer,YS Chahal,RR Pant,4,Not out
+9.7,SS Iyer,YS Chahal,RR Pant,1,Not out
+10.1,SS Iyer,SR Watson,RR Pant,1,Not out
+10.2,RR Pant,SR Watson,SS Iyer,1,Not out
+10.3,SS Iyer,SR Watson,RR Pant,0,Not out
+10.4,SS Iyer,SR Watson,RR Pant,1,Not out
+10.5,RR Pant,SR Watson,SS Iyer,4,Not out
+10.6,RR Pant,SR Watson,SS Iyer,1,Not out
+11.1,RR Pant,HV Patel,SS Iyer,1,Not out
+11.2,SS Iyer,HV Patel,RR Pant,1,Not out
+11.3,RR Pant,HV Patel,SS Iyer,1,Not out
+11.4,SS Iyer,HV Patel,RR Pant,0,caught
+11.5,MN Samuels,HV Patel,RR Pant,0,bowled
+11.6,CJ Anderson,HV Patel,RR Pant,0,Not out
+12.1,RR Pant,SR Watson,CJ Anderson,1,Not out
+12.2,CJ Anderson,SR Watson,RR Pant,0,Not out
+12.3,CJ Anderson,SR Watson,RR Pant,1,Not out
+12.4,RR Pant,SR Watson,CJ Anderson,1,Not out
+12.5,CJ Anderson,SR Watson,RR Pant,0,Not out
+12.6,CJ Anderson,SR Watson,RR Pant,0,Not out
+13.1,RR Pant,HV Patel,CJ Anderson,4,Not out
+13.2,RR Pant,HV Patel,CJ Anderson,0,Not out
+13.3,RR Pant,HV Patel,CJ Anderson,4,Not out
+13.4,RR Pant,HV Patel,CJ Anderson,1,Not out
+13.5,CJ Anderson,HV Patel,RR Pant,1,Not out
+13.6,RR Pant,HV Patel,CJ Anderson,1,Not out
+14.1,RR Pant,SR Watson,CJ Anderson,0,Not out
+14.2,RR Pant,SR Watson,CJ Anderson,0,Not out
+14.3,RR Pant,SR Watson,CJ Anderson,1,Not out
+14.4,CJ Anderson,SR Watson,RR Pant,0,Not out
+14.5,CJ Anderson,SR Watson,RR Pant,1,Not out
+14.6,RR Pant,SR Watson,CJ Anderson,1,Not out
+15.1,RR Pant,TM Head,CJ Anderson,1,Not out
+15.2,CJ Anderson,TM Head,RR Pant,0,stumped
+15.3,PJ Cummins,TM Head,RR Pant,1,Not out
+15.4,RR Pant,TM Head,PJ Cummins,1,Not out
+15.5,PJ Cummins,TM Head,RR Pant,6,Not out
+15.6,PJ Cummins,TM Head,RR Pant,0,caught
+16.1,RR Pant,HV Patel,A Mishra,6,Not out
+16.2,RR Pant,HV Patel,A Mishra,0,Not out
+16.3,RR Pant,HV Patel,A Mishra,0,Not out
+16.4,RR Pant,HV Patel,A Mishra,0,bowled
+16.5,Mohammed Shami,HV Patel,A Mishra,4,Not out
+16.6,Mohammed Shami,HV Patel,A Mishra,4,Not out
+17.1,A Mishra,P Negi,Mohammed Shami,1,Not out
+17.2,Mohammed Shami,P Negi,A Mishra,0,Not out
+17.3,Mohammed Shami,P Negi,A Mishra,1,Not out
+17.4,A Mishra,P Negi,Mohammed Shami,6,Not out
+17.5,A Mishra,P Negi,Mohammed Shami,0,Not out
+17.6,A Mishra,P Negi,Mohammed Shami,0,bowled
+18.1,Mohammed Shami,Avesh Khan,S Nadeem,1,Not out
+18.2,S Nadeem,Avesh Khan,Mohammed Shami,1,Not out
+18.3,Mohammed Shami,Avesh Khan,S Nadeem,6,Not out
+18.4,Mohammed Shami,Avesh Khan,S Nadeem,1,Not out
+18.5,S Nadeem,Avesh Khan,Mohammed Shami,0,Not out
+18.6,Mohammed Shami,Avesh Khan,S Nadeem,4,Not out
+19.1,S Nadeem,P Negi,Mohammed Shami,1,Not out
+19.2,Mohammed Shami,P Negi,S Nadeem,0,stumped
+19.3,Z Khan,P Negi,S Nadeem,1,Not out
+19.4,S Nadeem,P Negi,Z Khan,0,Not out
+19.5,S Nadeem,P Negi,Z Khan,0,Not out
+19.6,S Nadeem,P Negi,Z Khan,0,caught

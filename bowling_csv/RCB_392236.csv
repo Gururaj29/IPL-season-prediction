@@ -1,0 +1,127 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AC Gilchrist,A Kumble,HH Gibbs,0,Not out
+0.2,AC Gilchrist,A Kumble,HH Gibbs,0,Not out
+0.3,AC Gilchrist,A Kumble,HH Gibbs,4,Not out
+0.4,AC Gilchrist,A Kumble,HH Gibbs,0,Not out
+0.5,AC Gilchrist,A Kumble,HH Gibbs,0,Not out
+0.6,AC Gilchrist,A Kumble,HH Gibbs,0,Not out
+1.1,HH Gibbs,JH Kallis,AC Gilchrist,0,Not out
+1.2,HH Gibbs,JH Kallis,AC Gilchrist,4,Not out
+1.3,HH Gibbs,JH Kallis,AC Gilchrist,2,Not out
+1.4,HH Gibbs,JH Kallis,AC Gilchrist,1,Not out
+1.5,AC Gilchrist,JH Kallis,HH Gibbs,0,Not out
+1.6,AC Gilchrist,JH Kallis,HH Gibbs,1,Not out
+2.1,AC Gilchrist,P Kumar,HH Gibbs,1,Not out
+2.2,HH Gibbs,P Kumar,AC Gilchrist,0,Not out
+2.3,HH Gibbs,P Kumar,AC Gilchrist,2,Not out
+2.4,HH Gibbs,P Kumar,AC Gilchrist,0,Not out
+2.5,HH Gibbs,P Kumar,AC Gilchrist,0,Not out
+2.6,HH Gibbs,P Kumar,AC Gilchrist,0,Not out
+3.1,HH Gibbs,A Kumble,AC Gilchrist,0,Not out
+3.2,HH Gibbs,A Kumble,AC Gilchrist,4,Not out
+3.3,HH Gibbs,A Kumble,AC Gilchrist,1,Not out
+3.4,AC Gilchrist,A Kumble,HH Gibbs,0,Not out
+3.5,AC Gilchrist,A Kumble,HH Gibbs,1,Not out
+3.6,HH Gibbs,A Kumble,AC Gilchrist,0,Not out
+4.1,HH Gibbs,P Kumar,AC Gilchrist,6,Not out
+4.2,HH Gibbs,P Kumar,AC Gilchrist,6,Not out
+4.3,HH Gibbs,P Kumar,AC Gilchrist,4,Not out
+4.4,HH Gibbs,P Kumar,AC Gilchrist,1,Not out
+4.5,AC Gilchrist,P Kumar,HH Gibbs,0,Not out
+4.6,AC Gilchrist,P Kumar,HH Gibbs,4,Not out
+4.7,AC Gilchrist,P Kumar,HH Gibbs,0,Not out
+5.1,HH Gibbs,RE van der Merwe,AC Gilchrist,1,Not out
+5.2,AC Gilchrist,RE van der Merwe,HH Gibbs,1,Not out
+5.3,HH Gibbs,RE van der Merwe,AC Gilchrist,0,Not out
+5.4,HH Gibbs,RE van der Merwe,AC Gilchrist,6,Not out
+5.5,HH Gibbs,RE van der Merwe,AC Gilchrist,6,Not out
+5.6,HH Gibbs,RE van der Merwe,AC Gilchrist,0,Not out
+5.7,HH Gibbs,RE van der Merwe,AC Gilchrist,0,Not out
+6.1,AC Gilchrist,B Akhil,HH Gibbs,0,Not out
+6.2,AC Gilchrist,B Akhil,HH Gibbs,1,Not out
+6.3,HH Gibbs,B Akhil,AC Gilchrist,1,Not out
+6.4,AC Gilchrist,B Akhil,HH Gibbs,2,Not out
+6.5,AC Gilchrist,B Akhil,HH Gibbs,0,caught
+6.6,HH Gibbs,B Akhil,TL Suman,1,Not out
+7.1,HH Gibbs,RE van der Merwe,TL Suman,1,Not out
+7.2,TL Suman,RE van der Merwe,HH Gibbs,1,Not out
+7.3,HH Gibbs,RE van der Merwe,TL Suman,0,Not out
+7.4,TL Suman,RE van der Merwe,HH Gibbs,1,Not out
+7.5,HH Gibbs,RE van der Merwe,TL Suman,1,Not out
+7.6,TL Suman,RE van der Merwe,HH Gibbs,0,Not out
+8.1,HH Gibbs,B Akhil,TL Suman,0,Not out
+8.2,HH Gibbs,B Akhil,TL Suman,1,Not out
+8.3,TL Suman,B Akhil,HH Gibbs,1,Not out
+8.4,HH Gibbs,B Akhil,TL Suman,0,Not out
+8.5,HH Gibbs,B Akhil,TL Suman,0,Not out
+8.6,HH Gibbs,B Akhil,TL Suman,0,Not out
+8.7,HH Gibbs,B Akhil,TL Suman,1,Not out
+9.1,HH Gibbs,V Kohli,TL Suman,0,Not out
+9.2,HH Gibbs,V Kohli,TL Suman,1,Not out
+9.3,TL Suman,V Kohli,HH Gibbs,1,Not out
+9.4,HH Gibbs,V Kohli,TL Suman,0,Not out
+9.5,HH Gibbs,V Kohli,TL Suman,1,Not out
+9.6,TL Suman,V Kohli,HH Gibbs,2,Not out
+9.7,TL Suman,V Kohli,HH Gibbs,1,Not out
+10.1,TL Suman,A Kumble,HH Gibbs,0,Not out
+10.2,TL Suman,A Kumble,HH Gibbs,0,Not out
+10.3,TL Suman,A Kumble,HH Gibbs,4,Not out
+10.4,TL Suman,A Kumble,HH Gibbs,1,Not out
+10.5,HH Gibbs,A Kumble,TL Suman,1,Not out
+10.6,TL Suman,A Kumble,HH Gibbs,0,caught
+11.1,HH Gibbs,V Kohli,A Symonds,1,Not out
+11.2,A Symonds,V Kohli,HH Gibbs,2,Not out
+11.3,A Symonds,V Kohli,HH Gibbs,0,Not out
+11.4,A Symonds,V Kohli,HH Gibbs,0,Not out
+11.5,A Symonds,V Kohli,HH Gibbs,1,Not out
+11.6,HH Gibbs,V Kohli,A Symonds,1,Not out
+11.7,A Symonds,V Kohli,HH Gibbs,1,Not out
+12.1,A Symonds,RE van der Merwe,HH Gibbs,0,Not out
+12.2,A Symonds,RE van der Merwe,HH Gibbs,0,Not out
+12.3,A Symonds,RE van der Merwe,HH Gibbs,0,Not out
+12.4,A Symonds,RE van der Merwe,HH Gibbs,0,Not out
+12.5,A Symonds,RE van der Merwe,HH Gibbs,4,Not out
+12.6,A Symonds,RE van der Merwe,HH Gibbs,1,Not out
+12.7,HH Gibbs,RE van der Merwe,A Symonds,1,Not out
+13.1,HH Gibbs,V Kohli,A Symonds,2,Not out
+13.2,HH Gibbs,V Kohli,A Symonds,1,Not out
+13.3,A Symonds,V Kohli,HH Gibbs,6,Not out
+13.4,A Symonds,V Kohli,HH Gibbs,1,Not out
+13.5,HH Gibbs,V Kohli,A Symonds,1,Not out
+13.6,A Symonds,V Kohli,HH Gibbs,0,Not out
+14.1,HH Gibbs,B Akhil,A Symonds,0,caught
+14.2,A Symonds,B Akhil,RG Sharma,1,Not out
+14.3,RG Sharma,B Akhil,A Symonds,0,Not out
+14.4,RG Sharma,B Akhil,A Symonds,1,Not out
+14.5,A Symonds,B Akhil,RG Sharma,1,Not out
+14.6,RG Sharma,B Akhil,A Symonds,0,Not out
+15.1,A Symonds,RE van der Merwe,RG Sharma,0,bowled
+15.2,Y Venugopal Rao,RE van der Merwe,RG Sharma,1,Not out
+15.3,RG Sharma,RE van der Merwe,Y Venugopal Rao,1,Not out
+15.4,Y Venugopal Rao,RE van der Merwe,RG Sharma,2,Not out
+15.5,Y Venugopal Rao,RE van der Merwe,RG Sharma,1,Not out
+15.6,RG Sharma,RE van der Merwe,Y Venugopal Rao,1,Not out
+16.1,RG Sharma,B Akhil,Y Venugopal Rao,1,Not out
+16.2,Y Venugopal Rao,B Akhil,RG Sharma,1,Not out
+16.3,RG Sharma,B Akhil,Y Venugopal Rao,1,Not out
+16.4,Y Venugopal Rao,B Akhil,RG Sharma,1,Not out
+16.5,RG Sharma,B Akhil,Y Venugopal Rao,1,Not out
+16.6,Y Venugopal Rao,B Akhil,RG Sharma,1,Not out
+17.1,Y Venugopal Rao,P Kumar,RG Sharma,1,Not out
+17.2,RG Sharma,P Kumar,Y Venugopal Rao,4,Not out
+17.3,RG Sharma,P Kumar,Y Venugopal Rao,1,Not out
+17.4,Y Venugopal Rao,P Kumar,RG Sharma,0,Not out
+17.5,Y Venugopal Rao,P Kumar,RG Sharma,0,run out
+17.6,RG Sharma,P Kumar,AA Bilakhia,1,Not out
+18.1,RG Sharma,A Kumble,AA Bilakhia,0,caught
+18.2,AA Bilakhia,A Kumble,RJ Harris,1,Not out
+18.3,RJ Harris,A Kumble,AA Bilakhia,1,Not out
+18.4,AA Bilakhia,A Kumble,RJ Harris,4,Not out
+18.5,AA Bilakhia,A Kumble,RJ Harris,1,Not out
+18.6,RJ Harris,A Kumble,AA Bilakhia,0,Not out
+19.1,AA Bilakhia,P Kumar,RJ Harris,2,Not out
+19.2,AA Bilakhia,P Kumar,RJ Harris,4,Not out
+19.3,AA Bilakhia,P Kumar,RJ Harris,2,Not out
+19.4,AA Bilakhia,P Kumar,RJ Harris,1,Not out
+19.5,RJ Harris,P Kumar,AA Bilakhia,3,Not out
+19.6,AA Bilakhia,P Kumar,RJ Harris,1,Not out

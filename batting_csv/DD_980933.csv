@@ -1,0 +1,130 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,Q de Kock,TG Southee,SS Iyer,4,Not out
+0.2,Q de Kock,TG Southee,SS Iyer,4,Not out
+0.3,Q de Kock,TG Southee,SS Iyer,1,Not out
+0.4,SS Iyer,TG Southee,Q de Kock,0,Not out
+0.5,SS Iyer,TG Southee,Q de Kock,1,Not out
+0.6,Q de Kock,TG Southee,SS Iyer,0,Not out
+1.1,SS Iyer,MJ McClenaghan,Q de Kock,0,Not out
+1.2,SS Iyer,MJ McClenaghan,Q de Kock,0,Not out
+1.3,SS Iyer,MJ McClenaghan,Q de Kock,1,Not out
+1.4,Q de Kock,MJ McClenaghan,SS Iyer,0,Not out
+1.5,Q de Kock,MJ McClenaghan,SS Iyer,0,Not out
+1.6,Q de Kock,MJ McClenaghan,SS Iyer,0,caught
+2.1,SS Iyer,TG Southee,SV Samson,0,Not out
+2.2,SS Iyer,TG Southee,SV Samson,0,Not out
+2.3,SS Iyer,TG Southee,SV Samson,0,Not out
+2.4,SV Samson,TG Southee,SS Iyer,0,Not out
+2.5,SV Samson,TG Southee,SS Iyer,0,Not out
+2.6,SV Samson,TG Southee,SS Iyer,1,Not out
+2.7,SS Iyer,TG Southee,SV Samson,0,Not out
+2.8,SS Iyer,TG Southee,SV Samson,1,Not out
+3.1,SS Iyer,MJ McClenaghan,SV Samson,1,Not out
+3.2,SV Samson,MJ McClenaghan,SS Iyer,1,Not out
+3.3,SS Iyer,MJ McClenaghan,SV Samson,0,Not out
+3.4,SS Iyer,MJ McClenaghan,SV Samson,0,Not out
+3.5,SS Iyer,MJ McClenaghan,SV Samson,4,Not out
+3.6,SS Iyer,MJ McClenaghan,SV Samson,6,Not out
+4.1,SV Samson,JJ Bumrah,SS Iyer,0,Not out
+4.2,SV Samson,JJ Bumrah,SS Iyer,4,Not out
+4.3,SV Samson,JJ Bumrah,SS Iyer,0,Not out
+4.4,SV Samson,JJ Bumrah,SS Iyer,0,Not out
+4.5,SV Samson,JJ Bumrah,SS Iyer,1,Not out
+4.6,SS Iyer,JJ Bumrah,SV Samson,2,Not out
+5.1,SV Samson,KH Pandya,SS Iyer,0,Not out
+5.2,SV Samson,KH Pandya,SS Iyer,1,Not out
+5.3,SS Iyer,KH Pandya,SV Samson,0,Not out
+5.4,SS Iyer,KH Pandya,SV Samson,1,Not out
+5.5,SV Samson,KH Pandya,SS Iyer,1,Not out
+5.6,SS Iyer,KH Pandya,SV Samson,1,Not out
+5.7,SV Samson,KH Pandya,SS Iyer,1,Not out
+6.1,SV Samson,HH Pandya,SS Iyer,1,Not out
+6.2,SS Iyer,HH Pandya,SV Samson,1,Not out
+6.3,SV Samson,HH Pandya,SS Iyer,4,Not out
+6.4,SV Samson,HH Pandya,SS Iyer,1,Not out
+6.5,SS Iyer,HH Pandya,SV Samson,0,Not out
+6.6,SS Iyer,HH Pandya,SV Samson,0,caught
+7.1,KK Nair,Harbhajan Singh,SV Samson,4,Not out
+7.2,KK Nair,Harbhajan Singh,SV Samson,0,Not out
+7.3,KK Nair,Harbhajan Singh,SV Samson,1,Not out
+7.4,SV Samson,Harbhajan Singh,KK Nair,1,Not out
+7.5,KK Nair,Harbhajan Singh,SV Samson,0,Not out
+7.6,KK Nair,Harbhajan Singh,SV Samson,0,caught
+8.1,JP Duminy,KH Pandya,SV Samson,1,Not out
+8.2,SV Samson,KH Pandya,JP Duminy,1,Not out
+8.3,JP Duminy,KH Pandya,SV Samson,1,Not out
+8.4,SV Samson,KH Pandya,JP Duminy,1,Not out
+8.5,JP Duminy,KH Pandya,SV Samson,1,Not out
+8.6,SV Samson,KH Pandya,JP Duminy,1,Not out
+9.1,SV Samson,Harbhajan Singh,JP Duminy,0,Not out
+9.2,SV Samson,Harbhajan Singh,JP Duminy,1,Not out
+9.3,JP Duminy,Harbhajan Singh,SV Samson,0,Not out
+9.4,SV Samson,Harbhajan Singh,JP Duminy,1,Not out
+9.5,JP Duminy,Harbhajan Singh,SV Samson,1,Not out
+9.6,SV Samson,Harbhajan Singh,JP Duminy,1,Not out
+10.1,SV Samson,KH Pandya,JP Duminy,1,Not out
+10.2,JP Duminy,KH Pandya,SV Samson,1,Not out
+10.3,SV Samson,KH Pandya,JP Duminy,0,Not out
+10.4,SV Samson,KH Pandya,JP Duminy,1,Not out
+10.5,JP Duminy,KH Pandya,SV Samson,1,Not out
+10.6,SV Samson,KH Pandya,JP Duminy,1,Not out
+11.1,SV Samson,Harbhajan Singh,JP Duminy,6,Not out
+11.2,SV Samson,Harbhajan Singh,JP Duminy,0,Not out
+11.3,SV Samson,Harbhajan Singh,JP Duminy,4,Not out
+11.4,SV Samson,Harbhajan Singh,JP Duminy,2,Not out
+11.5,SV Samson,Harbhajan Singh,JP Duminy,1,Not out
+11.6,JP Duminy,Harbhajan Singh,SV Samson,1,Not out
+12.1,JP Duminy,KH Pandya,SV Samson,1,Not out
+12.2,SV Samson,KH Pandya,JP Duminy,1,Not out
+12.3,JP Duminy,KH Pandya,SV Samson,1,Not out
+12.4,SV Samson,KH Pandya,JP Duminy,4,Not out
+12.5,SV Samson,KH Pandya,JP Duminy,0,Not out
+12.6,SV Samson,KH Pandya,JP Duminy,1,Not out
+13.1,SV Samson,KA Pollard,JP Duminy,1,Not out
+13.2,JP Duminy,KA Pollard,SV Samson,0,Not out
+13.3,JP Duminy,KA Pollard,SV Samson,6,Not out
+13.4,JP Duminy,KA Pollard,SV Samson,1,Not out
+13.5,SV Samson,KA Pollard,JP Duminy,2,Not out
+13.6,SV Samson,KA Pollard,JP Duminy,1,Not out
+14.1,SV Samson,TG Southee,JP Duminy,1,Not out
+14.2,JP Duminy,TG Southee,SV Samson,1,Not out
+14.3,SV Samson,TG Southee,JP Duminy,1,Not out
+14.4,JP Duminy,TG Southee,SV Samson,1,Not out
+14.5,SV Samson,TG Southee,JP Duminy,0,Not out
+14.6,SV Samson,TG Southee,JP Duminy,1,Not out
+14.7,JP Duminy,TG Southee,SV Samson,1,Not out
+15.1,JP Duminy,JJ Bumrah,SV Samson,1,Not out
+15.2,SV Samson,JJ Bumrah,JP Duminy,0,Not out
+15.3,SV Samson,JJ Bumrah,JP Duminy,1,Not out
+15.4,JP Duminy,JJ Bumrah,SV Samson,1,Not out
+15.5,SV Samson,JJ Bumrah,JP Duminy,1,Not out
+15.6,JP Duminy,JJ Bumrah,SV Samson,4,Not out
+16.1,SV Samson,MJ McClenaghan,JP Duminy,0,Not out
+16.2,SV Samson,MJ McClenaghan,JP Duminy,6,Not out
+16.3,SV Samson,MJ McClenaghan,JP Duminy,0,Not out
+16.4,SV Samson,MJ McClenaghan,JP Duminy,0,caught
+16.5,JP Duminy,MJ McClenaghan,P Negi,4,Not out
+16.6,JP Duminy,MJ McClenaghan,P Negi,1,Not out
+16.7,P Negi,MJ McClenaghan,JP Duminy,0,Not out
+17.1,JP Duminy,JJ Bumrah,P Negi,4,Not out
+17.2,JP Duminy,JJ Bumrah,P Negi,0,Not out
+17.3,JP Duminy,JJ Bumrah,P Negi,1,Not out
+17.4,P Negi,JJ Bumrah,JP Duminy,0,Not out
+17.5,P Negi,JJ Bumrah,JP Duminy,1,Not out
+17.6,JP Duminy,JJ Bumrah,P Negi,2,Not out
+17.7,JP Duminy,JJ Bumrah,P Negi,2,Not out
+18.1,P Negi,MJ McClenaghan,JP Duminy,0,Not out
+18.2,P Negi,MJ McClenaghan,JP Duminy,0,Not out
+18.3,P Negi,MJ McClenaghan,JP Duminy,0,Not out
+18.4,P Negi,MJ McClenaghan,JP Duminy,0,Not out
+18.5,P Negi,MJ McClenaghan,JP Duminy,0,Not out
+18.6,JP Duminy,MJ McClenaghan,P Negi,1,Not out
+18.7,P Negi,MJ McClenaghan,JP Duminy,1,Not out
+18.8,JP Duminy,MJ McClenaghan,P Negi,2,Not out
+19.1,P Negi,JJ Bumrah,JP Duminy,1,Not out
+19.2,JP Duminy,JJ Bumrah,P Negi,1,Not out
+19.3,P Negi,JJ Bumrah,JP Duminy,4,Not out
+19.4,P Negi,JJ Bumrah,JP Duminy,1,Not out
+19.5,JP Duminy,JJ Bumrah,P Negi,6,Not out
+19.6,JP Duminy,JJ Bumrah,P Negi,0,Not out
+19.7,P Negi,JJ Bumrah,JP Duminy,2,Not out

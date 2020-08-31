@@ -1,0 +1,127 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MJ Guptill,UT Yadav,M Vohra,2,Not out
+0.2,MJ Guptill,UT Yadav,M Vohra,0,Not out
+0.3,MJ Guptill,UT Yadav,M Vohra,0,Not out
+0.4,MJ Guptill,UT Yadav,M Vohra,4,Not out
+0.5,MJ Guptill,UT Yadav,M Vohra,0,Not out
+0.6,MJ Guptill,UT Yadav,M Vohra,2,Not out
+1.1,M Vohra,C de Grandhomme,MJ Guptill,0,Not out
+1.2,M Vohra,C de Grandhomme,MJ Guptill,1,Not out
+1.3,MJ Guptill,C de Grandhomme,M Vohra,0,Not out
+1.4,MJ Guptill,C de Grandhomme,M Vohra,1,Not out
+1.5,M Vohra,C de Grandhomme,MJ Guptill,1,Not out
+1.6,MJ Guptill,C de Grandhomme,M Vohra,0,Not out
+2.1,M Vohra,UT Yadav,MJ Guptill,2,Not out
+2.2,M Vohra,UT Yadav,MJ Guptill,0,Not out
+2.3,M Vohra,UT Yadav,MJ Guptill,1,Not out
+2.4,MJ Guptill,UT Yadav,M Vohra,1,Not out
+2.5,M Vohra,UT Yadav,MJ Guptill,0,Not out
+2.6,MJ Guptill,UT Yadav,M Vohra,1,Not out
+2.7,M Vohra,UT Yadav,MJ Guptill,1,Not out
+3.1,M Vohra,SP Narine,MJ Guptill,0,Not out
+3.2,M Vohra,SP Narine,MJ Guptill,4,Not out
+3.3,M Vohra,SP Narine,MJ Guptill,4,Not out
+3.4,M Vohra,SP Narine,MJ Guptill,1,Not out
+3.5,MJ Guptill,SP Narine,M Vohra,0,Not out
+3.6,MJ Guptill,SP Narine,M Vohra,0,Not out
+4.1,M Vohra,UT Yadav,MJ Guptill,2,Not out
+4.2,M Vohra,UT Yadav,MJ Guptill,4,Not out
+4.3,M Vohra,UT Yadav,MJ Guptill,0,Not out
+4.4,M Vohra,UT Yadav,MJ Guptill,4,Not out
+4.5,M Vohra,UT Yadav,MJ Guptill,0,Not out
+4.6,M Vohra,UT Yadav,MJ Guptill,0,caught
+4.7,SE Marsh,UT Yadav,MJ Guptill,0,Not out
+5.1,MJ Guptill,SP Narine,SE Marsh,1,Not out
+5.2,SE Marsh,SP Narine,MJ Guptill,0,Not out
+5.3,SE Marsh,SP Narine,MJ Guptill,1,Not out
+5.4,MJ Guptill,SP Narine,SE Marsh,0,Not out
+5.5,MJ Guptill,SP Narine,SE Marsh,0,lbw
+5.6,WP Saha,SP Narine,SE Marsh,0,Not out
+6.1,SE Marsh,CR Woakes,WP Saha,1,Not out
+6.2,WP Saha,CR Woakes,SE Marsh,1,Not out
+6.3,SE Marsh,CR Woakes,WP Saha,1,Not out
+6.4,WP Saha,CR Woakes,SE Marsh,0,Not out
+6.5,WP Saha,CR Woakes,SE Marsh,0,Not out
+6.6,WP Saha,CR Woakes,SE Marsh,1,Not out
+7.1,WP Saha,C de Grandhomme,SE Marsh,0,Not out
+7.2,WP Saha,C de Grandhomme,SE Marsh,0,Not out
+7.3,WP Saha,C de Grandhomme,SE Marsh,1,Not out
+7.4,SE Marsh,C de Grandhomme,WP Saha,0,Not out
+7.5,SE Marsh,C de Grandhomme,WP Saha,4,Not out
+7.6,SE Marsh,C de Grandhomme,WP Saha,4,Not out
+8.1,WP Saha,CR Woakes,SE Marsh,1,Not out
+8.2,SE Marsh,CR Woakes,WP Saha,0,Not out
+8.3,SE Marsh,CR Woakes,WP Saha,0,Not out
+8.4,SE Marsh,CR Woakes,WP Saha,0,bowled
+8.5,GJ Maxwell,CR Woakes,WP Saha,0,Not out
+8.6,GJ Maxwell,CR Woakes,WP Saha,0,Not out
+8.7,GJ Maxwell,CR Woakes,WP Saha,1,Not out
+9.1,GJ Maxwell,C de Grandhomme,WP Saha,0,Not out
+9.2,GJ Maxwell,C de Grandhomme,WP Saha,1,Not out
+9.3,WP Saha,C de Grandhomme,GJ Maxwell,1,Not out
+9.4,GJ Maxwell,C de Grandhomme,WP Saha,0,Not out
+9.5,GJ Maxwell,C de Grandhomme,WP Saha,2,Not out
+9.6,GJ Maxwell,C de Grandhomme,WP Saha,1,Not out
+9.7,WP Saha,C de Grandhomme,GJ Maxwell,0,Not out
+10.1,GJ Maxwell,CR Woakes,WP Saha,1,Not out
+10.2,WP Saha,CR Woakes,GJ Maxwell,0,Not out
+10.3,WP Saha,CR Woakes,GJ Maxwell,0,Not out
+10.4,WP Saha,CR Woakes,GJ Maxwell,2,Not out
+10.5,WP Saha,CR Woakes,GJ Maxwell,0,Not out
+10.6,GJ Maxwell,CR Woakes,WP Saha,0,Not out
+11.1,WP Saha,C de Grandhomme,GJ Maxwell,1,Not out
+11.2,GJ Maxwell,C de Grandhomme,WP Saha,2,Not out
+11.3,GJ Maxwell,C de Grandhomme,WP Saha,6,Not out
+11.4,GJ Maxwell,C de Grandhomme,WP Saha,0,Not out
+11.5,GJ Maxwell,C de Grandhomme,WP Saha,6,Not out
+11.6,GJ Maxwell,C de Grandhomme,WP Saha,1,Not out
+11.7,WP Saha,C de Grandhomme,GJ Maxwell,2,Not out
+12.1,GJ Maxwell,AS Rajpoot,WP Saha,0,Not out
+12.2,WP Saha,AS Rajpoot,GJ Maxwell,4,Not out
+12.3,WP Saha,AS Rajpoot,GJ Maxwell,1,Not out
+12.4,GJ Maxwell,AS Rajpoot,WP Saha,0,Not out
+12.5,GJ Maxwell,AS Rajpoot,WP Saha,4,Not out
+12.6,GJ Maxwell,AS Rajpoot,WP Saha,1,Not out
+13.1,GJ Maxwell,Kuldeep Yadav,WP Saha,1,Not out
+13.2,WP Saha,Kuldeep Yadav,GJ Maxwell,2,Not out
+13.3,WP Saha,Kuldeep Yadav,GJ Maxwell,2,Not out
+13.4,WP Saha,Kuldeep Yadav,GJ Maxwell,1,Not out
+13.5,GJ Maxwell,Kuldeep Yadav,WP Saha,1,Not out
+13.6,WP Saha,Kuldeep Yadav,GJ Maxwell,0,Not out
+14.1,WP Saha,SP Narine,GJ Maxwell,1,Not out
+14.2,GJ Maxwell,SP Narine,WP Saha,1,Not out
+14.3,WP Saha,SP Narine,GJ Maxwell,4,Not out
+14.4,WP Saha,SP Narine,GJ Maxwell,1,Not out
+14.5,GJ Maxwell,SP Narine,WP Saha,2,Not out
+14.6,GJ Maxwell,SP Narine,WP Saha,1,Not out
+15.1,GJ Maxwell,Kuldeep Yadav,WP Saha,6,Not out
+15.2,GJ Maxwell,Kuldeep Yadav,WP Saha,6,Not out
+15.3,GJ Maxwell,Kuldeep Yadav,WP Saha,0,caught
+15.4,WP Saha,Kuldeep Yadav,AR Patel,0,Not out
+15.5,WP Saha,Kuldeep Yadav,AR Patel,1,Not out
+15.6,AR Patel,Kuldeep Yadav,WP Saha,0,Not out
+16.1,WP Saha,SP Narine,AR Patel,1,Not out
+16.2,AR Patel,SP Narine,WP Saha,2,Not out
+16.3,AR Patel,SP Narine,WP Saha,1,Not out
+16.4,WP Saha,SP Narine,AR Patel,1,Not out
+16.5,AR Patel,SP Narine,WP Saha,0,Not out
+16.6,AR Patel,SP Narine,WP Saha,1,Not out
+17.1,AR Patel,Kuldeep Yadav,WP Saha,1,Not out
+17.2,WP Saha,Kuldeep Yadav,AR Patel,1,Not out
+17.3,AR Patel,Kuldeep Yadav,WP Saha,1,Not out
+17.4,WP Saha,Kuldeep Yadav,AR Patel,6,Not out
+17.5,WP Saha,Kuldeep Yadav,AR Patel,2,Not out
+17.6,WP Saha,Kuldeep Yadav,AR Patel,0,stumped
+17.7,Swapnil Singh,Kuldeep Yadav,AR Patel,2,Not out
+18.1,AR Patel,CR Woakes,Swapnil Singh,1,Not out
+18.2,Swapnil Singh,CR Woakes,AR Patel,0,bowled
+18.3,R Tewatia,CR Woakes,AR Patel,0,Not out
+18.4,R Tewatia,CR Woakes,AR Patel,4,Not out
+18.5,R Tewatia,CR Woakes,AR Patel,4,Not out
+18.6,R Tewatia,CR Woakes,AR Patel,1,Not out
+19.1,R Tewatia,AS Rajpoot,AR Patel,1,Not out
+19.2,AR Patel,AS Rajpoot,R Tewatia,1,Not out
+19.3,R Tewatia,AS Rajpoot,AR Patel,0,Not out
+19.4,AR Patel,AS Rajpoot,R Tewatia,0,Not out
+19.5,R Tewatia,AS Rajpoot,AR Patel,4,Not out
+19.6,R Tewatia,AS Rajpoot,AR Patel,1,Not out

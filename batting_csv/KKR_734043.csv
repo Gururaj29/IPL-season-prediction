@@ -1,0 +1,124 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,RV Uthappa,P Awana,G Gambhir,0,Not out
+0.2,RV Uthappa,P Awana,G Gambhir,1,Not out
+0.3,G Gambhir,P Awana,RV Uthappa,1,Not out
+0.4,RV Uthappa,P Awana,G Gambhir,0,Not out
+0.5,RV Uthappa,P Awana,G Gambhir,0,Not out
+0.6,RV Uthappa,P Awana,G Gambhir,0,Not out
+1.1,G Gambhir,MG Johnson,RV Uthappa,0,Not out
+1.2,G Gambhir,MG Johnson,RV Uthappa,0,caught
+1.3,MK Pandey,MG Johnson,RV Uthappa,1,Not out
+1.4,RV Uthappa,MG Johnson,MK Pandey,1,Not out
+1.5,MK Pandey,MG Johnson,RV Uthappa,1,Not out
+1.6,RV Uthappa,MG Johnson,MK Pandey,0,Not out
+2.1,MK Pandey,AR Patel,RV Uthappa,0,Not out
+2.2,RV Uthappa,AR Patel,MK Pandey,1,Not out
+2.3,MK Pandey,AR Patel,RV Uthappa,1,Not out
+2.4,RV Uthappa,AR Patel,MK Pandey,1,Not out
+2.5,MK Pandey,AR Patel,RV Uthappa,0,Not out
+2.6,RV Uthappa,AR Patel,MK Pandey,4,Not out
+3.1,MK Pandey,MG Johnson,RV Uthappa,4,Not out
+3.2,MK Pandey,MG Johnson,RV Uthappa,0,Not out
+3.3,MK Pandey,MG Johnson,RV Uthappa,1,Not out
+3.4,RV Uthappa,MG Johnson,MK Pandey,6,Not out
+3.5,RV Uthappa,MG Johnson,MK Pandey,4,Not out
+3.6,RV Uthappa,MG Johnson,MK Pandey,1,Not out
+3.7,MK Pandey,MG Johnson,RV Uthappa,0,Not out
+4.1,RV Uthappa,P Awana,MK Pandey,0,Not out
+4.2,RV Uthappa,P Awana,MK Pandey,4,Not out
+4.3,RV Uthappa,P Awana,MK Pandey,1,Not out
+4.4,MK Pandey,P Awana,RV Uthappa,1,Not out
+4.5,RV Uthappa,P Awana,MK Pandey,4,Not out
+4.6,RV Uthappa,P Awana,MK Pandey,1,Not out
+5.1,RV Uthappa,R Dhawan,MK Pandey,6,Not out
+5.2,RV Uthappa,R Dhawan,MK Pandey,1,Not out
+5.3,MK Pandey,R Dhawan,RV Uthappa,0,Not out
+5.4,MK Pandey,R Dhawan,RV Uthappa,4,Not out
+5.5,MK Pandey,R Dhawan,RV Uthappa,1,Not out
+5.6,RV Uthappa,R Dhawan,MK Pandey,1,Not out
+6.1,RV Uthappa,AR Patel,MK Pandey,0,Not out
+6.2,RV Uthappa,AR Patel,MK Pandey,1,Not out
+6.3,MK Pandey,AR Patel,RV Uthappa,0,Not out
+6.4,MK Pandey,AR Patel,RV Uthappa,1,Not out
+6.5,RV Uthappa,AR Patel,MK Pandey,0,Not out
+6.6,RV Uthappa,AR Patel,MK Pandey,1,Not out
+7.1,RV Uthappa,Karanveer Singh,MK Pandey,1,Not out
+7.2,MK Pandey,Karanveer Singh,RV Uthappa,1,Not out
+7.3,RV Uthappa,Karanveer Singh,MK Pandey,1,Not out
+7.4,MK Pandey,Karanveer Singh,RV Uthappa,4,Not out
+7.5,MK Pandey,Karanveer Singh,RV Uthappa,1,Not out
+7.6,RV Uthappa,Karanveer Singh,MK Pandey,1,Not out
+8.1,RV Uthappa,AR Patel,MK Pandey,0,Not out
+8.2,RV Uthappa,AR Patel,MK Pandey,0,caught
+8.3,MK Pandey,AR Patel,Shakib Al Hasan,0,Not out
+8.4,MK Pandey,AR Patel,Shakib Al Hasan,0,Not out
+8.5,MK Pandey,AR Patel,Shakib Al Hasan,0,bowled
+8.6,YK Pathan,AR Patel,Shakib Al Hasan,0,Not out
+9.1,Shakib Al Hasan,Karanveer Singh,YK Pathan,0,Not out
+9.2,Shakib Al Hasan,Karanveer Singh,YK Pathan,1,Not out
+9.3,YK Pathan,Karanveer Singh,Shakib Al Hasan,1,Not out
+9.4,Shakib Al Hasan,Karanveer Singh,YK Pathan,1,Not out
+9.5,YK Pathan,Karanveer Singh,Shakib Al Hasan,1,Not out
+9.6,Shakib Al Hasan,Karanveer Singh,YK Pathan,0,Not out
+9.7,Shakib Al Hasan,Karanveer Singh,YK Pathan,1,Not out
+10.1,Shakib Al Hasan,MG Johnson,YK Pathan,0,Not out
+10.2,Shakib Al Hasan,MG Johnson,YK Pathan,0,Not out
+10.3,Shakib Al Hasan,MG Johnson,YK Pathan,2,Not out
+10.4,Shakib Al Hasan,MG Johnson,YK Pathan,1,Not out
+10.5,YK Pathan,MG Johnson,Shakib Al Hasan,0,Not out
+10.6,YK Pathan,MG Johnson,Shakib Al Hasan,4,Not out
+10.7,YK Pathan,MG Johnson,Shakib Al Hasan,0,Not out
+11.1,Shakib Al Hasan,R Dhawan,YK Pathan,1,Not out
+11.2,YK Pathan,R Dhawan,Shakib Al Hasan,1,Not out
+11.3,Shakib Al Hasan,R Dhawan,YK Pathan,1,Not out
+11.4,YK Pathan,R Dhawan,Shakib Al Hasan,4,Not out
+11.5,YK Pathan,R Dhawan,Shakib Al Hasan,0,Not out
+11.6,YK Pathan,R Dhawan,Shakib Al Hasan,2,Not out
+12.1,Shakib Al Hasan,P Awana,YK Pathan,0,Not out
+12.2,Shakib Al Hasan,P Awana,YK Pathan,4,Not out
+12.3,Shakib Al Hasan,P Awana,YK Pathan,1,Not out
+12.4,YK Pathan,P Awana,Shakib Al Hasan,0,Not out
+12.5,YK Pathan,P Awana,Shakib Al Hasan,0,Not out
+12.6,Shakib Al Hasan,P Awana,YK Pathan,0,Not out
+13.1,YK Pathan,R Dhawan,Shakib Al Hasan,0,Not out
+13.2,YK Pathan,R Dhawan,Shakib Al Hasan,0,Not out
+13.3,YK Pathan,R Dhawan,Shakib Al Hasan,6,Not out
+13.4,YK Pathan,R Dhawan,Shakib Al Hasan,1,Not out
+13.5,Shakib Al Hasan,R Dhawan,YK Pathan,1,Not out
+13.6,YK Pathan,R Dhawan,Shakib Al Hasan,0,Not out
+14.1,Shakib Al Hasan,Karanveer Singh,YK Pathan,4,Not out
+14.2,Shakib Al Hasan,Karanveer Singh,YK Pathan,0,caught
+14.3,YK Pathan,Karanveer Singh,RN ten Doeschate,0,caught
+14.4,SA Yadav,Karanveer Singh,RN ten Doeschate,0,Not out
+14.5,SA Yadav,Karanveer Singh,RN ten Doeschate,4,Not out
+14.6,SA Yadav,Karanveer Singh,RN ten Doeschate,0,Not out
+15.1,RN ten Doeschate,AR Patel,SA Yadav,0,Not out
+15.2,RN ten Doeschate,AR Patel,SA Yadav,0,Not out
+15.3,SA Yadav,AR Patel,RN ten Doeschate,0,Not out
+15.4,SA Yadav,AR Patel,RN ten Doeschate,0,Not out
+15.5,SA Yadav,AR Patel,RN ten Doeschate,0,Not out
+15.6,SA Yadav,AR Patel,RN ten Doeschate,1,Not out
+16.1,SA Yadav,R Dhawan,RN ten Doeschate,6,Not out
+16.2,SA Yadav,R Dhawan,RN ten Doeschate,4,Not out
+16.3,SA Yadav,R Dhawan,RN ten Doeschate,0,Not out
+16.4,SA Yadav,R Dhawan,RN ten Doeschate,1,Not out
+16.5,RN ten Doeschate,R Dhawan,SA Yadav,2,Not out
+16.6,RN ten Doeschate,R Dhawan,SA Yadav,1,Not out
+17.1,RN ten Doeschate,Karanveer Singh,SA Yadav,6,Not out
+17.2,RN ten Doeschate,Karanveer Singh,SA Yadav,6,Not out
+17.3,RN ten Doeschate,Karanveer Singh,SA Yadav,1,Not out
+17.4,SA Yadav,Karanveer Singh,RN ten Doeschate,0,Not out
+17.5,SA Yadav,Karanveer Singh,RN ten Doeschate,4,Not out
+17.6,SA Yadav,Karanveer Singh,RN ten Doeschate,0,bowled
+18.1,RN ten Doeschate,MG Johnson,PP Chawla,1,Not out
+18.2,PP Chawla,MG Johnson,RN ten Doeschate,1,Not out
+18.3,RN ten Doeschate,MG Johnson,PP Chawla,0,Not out
+18.4,RN ten Doeschate,MG Johnson,PP Chawla,0,caught
+18.5,PP Chawla,MG Johnson,SP Narine,0,Not out
+18.6,PP Chawla,MG Johnson,SP Narine,1,Not out
+19.1,PP Chawla,P Awana,SP Narine,4,Not out
+19.2,PP Chawla,P Awana,SP Narine,4,Not out
+19.3,PP Chawla,P Awana,SP Narine,2,Not out
+19.4,PP Chawla,P Awana,SP Narine,0,Not out
+19.5,PP Chawla,P Awana,SP Narine,1,run out
+19.6,PP Chawla,P Awana,M Morkel,4,Not out

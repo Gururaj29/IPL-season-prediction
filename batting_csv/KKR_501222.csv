@@ -1,0 +1,130 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,JH Kallis,Z Khan,BJ Haddin,4,Not out
+0.2,JH Kallis,Z Khan,BJ Haddin,0,Not out
+0.3,JH Kallis,Z Khan,BJ Haddin,0,Not out
+0.4,JH Kallis,Z Khan,BJ Haddin,0,Not out
+0.5,JH Kallis,Z Khan,BJ Haddin,0,Not out
+0.6,JH Kallis,Z Khan,BJ Haddin,0,Not out
+0.7,JH Kallis,Z Khan,BJ Haddin,4,Not out
+0.8,JH Kallis,Z Khan,BJ Haddin,4,Not out
+0.9,JH Kallis,Z Khan,BJ Haddin,0,Not out
+1.1,BJ Haddin,S Aravind,JH Kallis,0,Not out
+1.2,BJ Haddin,S Aravind,JH Kallis,1,Not out
+1.3,JH Kallis,S Aravind,BJ Haddin,1,Not out
+1.4,BJ Haddin,S Aravind,JH Kallis,2,Not out
+1.5,BJ Haddin,S Aravind,JH Kallis,6,Not out
+1.6,BJ Haddin,S Aravind,JH Kallis,4,Not out
+2.1,JH Kallis,J Syed Mohammad,BJ Haddin,0,Not out
+2.2,JH Kallis,J Syed Mohammad,BJ Haddin,0,Not out
+2.3,JH Kallis,J Syed Mohammad,BJ Haddin,0,Not out
+2.4,JH Kallis,J Syed Mohammad,BJ Haddin,1,Not out
+2.5,BJ Haddin,J Syed Mohammad,JH Kallis,0,Not out
+2.6,BJ Haddin,J Syed Mohammad,JH Kallis,0,Not out
+3.1,JH Kallis,TM Dilshan,BJ Haddin,2,Not out
+3.2,JH Kallis,TM Dilshan,BJ Haddin,1,Not out
+3.3,BJ Haddin,TM Dilshan,JH Kallis,1,Not out
+3.4,JH Kallis,TM Dilshan,BJ Haddin,0,Not out
+3.5,JH Kallis,TM Dilshan,BJ Haddin,1,Not out
+3.6,BJ Haddin,TM Dilshan,JH Kallis,4,Not out
+4.1,JH Kallis,J Syed Mohammad,BJ Haddin,0,Not out
+4.2,JH Kallis,J Syed Mohammad,BJ Haddin,0,Not out
+4.3,JH Kallis,J Syed Mohammad,BJ Haddin,1,Not out
+4.4,BJ Haddin,J Syed Mohammad,JH Kallis,0,Not out
+4.5,BJ Haddin,J Syed Mohammad,JH Kallis,0,caught
+4.6,JH Kallis,J Syed Mohammad,G Gambhir,0,Not out
+5.1,G Gambhir,TM Dilshan,JH Kallis,0,Not out
+5.2,G Gambhir,TM Dilshan,JH Kallis,1,Not out
+5.3,JH Kallis,TM Dilshan,G Gambhir,1,Not out
+5.4,G Gambhir,TM Dilshan,JH Kallis,0,Not out
+5.5,G Gambhir,TM Dilshan,JH Kallis,0,Not out
+5.6,G Gambhir,TM Dilshan,JH Kallis,1,Not out
+5.7,JH Kallis,TM Dilshan,G Gambhir,2,Not out
+6.1,G Gambhir,V Kohli,JH Kallis,1,Not out
+6.2,JH Kallis,V Kohli,G Gambhir,1,Not out
+6.3,G Gambhir,V Kohli,JH Kallis,1,Not out
+6.4,JH Kallis,V Kohli,G Gambhir,1,Not out
+6.5,G Gambhir,V Kohli,JH Kallis,4,Not out
+6.6,G Gambhir,V Kohli,JH Kallis,1,Not out
+7.1,G Gambhir,DL Vettori,JH Kallis,0,Not out
+7.2,G Gambhir,DL Vettori,JH Kallis,0,Not out
+7.3,G Gambhir,DL Vettori,JH Kallis,1,Not out
+7.4,JH Kallis,DL Vettori,G Gambhir,1,Not out
+7.5,G Gambhir,DL Vettori,JH Kallis,1,Not out
+7.6,JH Kallis,DL Vettori,G Gambhir,1,Not out
+8.1,JH Kallis,CH Gayle,G Gambhir,1,Not out
+8.2,G Gambhir,CH Gayle,JH Kallis,1,Not out
+8.3,JH Kallis,CH Gayle,G Gambhir,1,Not out
+8.4,G Gambhir,CH Gayle,JH Kallis,1,Not out
+8.5,JH Kallis,CH Gayle,G Gambhir,0,Not out
+8.6,JH Kallis,CH Gayle,G Gambhir,1,Not out
+8.7,G Gambhir,CH Gayle,JH Kallis,0,Not out
+9.1,JH Kallis,DL Vettori,G Gambhir,1,Not out
+9.2,G Gambhir,DL Vettori,JH Kallis,0,Not out
+9.3,G Gambhir,DL Vettori,JH Kallis,0,Not out
+9.4,G Gambhir,DL Vettori,JH Kallis,1,Not out
+9.5,JH Kallis,DL Vettori,G Gambhir,0,Not out
+9.6,JH Kallis,DL Vettori,G Gambhir,4,Not out
+9.7,JH Kallis,DL Vettori,G Gambhir,0,Not out
+10.1,G Gambhir,Z Khan,JH Kallis,4,Not out
+10.2,G Gambhir,Z Khan,JH Kallis,3,Not out
+10.3,JH Kallis,Z Khan,G Gambhir,1,Not out
+10.4,G Gambhir,Z Khan,JH Kallis,1,Not out
+10.5,JH Kallis,Z Khan,G Gambhir,1,Not out
+10.6,G Gambhir,Z Khan,JH Kallis,4,Not out
+11.1,JH Kallis,CH Gayle,G Gambhir,1,Not out
+11.2,G Gambhir,CH Gayle,JH Kallis,1,Not out
+11.3,JH Kallis,CH Gayle,G Gambhir,0,Not out
+11.4,JH Kallis,CH Gayle,G Gambhir,1,Not out
+11.5,G Gambhir,CH Gayle,JH Kallis,0,Not out
+11.6,G Gambhir,CH Gayle,JH Kallis,0,Not out
+12.1,JH Kallis,J Syed Mohammad,G Gambhir,1,Not out
+12.2,G Gambhir,J Syed Mohammad,JH Kallis,4,Not out
+12.3,G Gambhir,J Syed Mohammad,JH Kallis,1,Not out
+12.4,JH Kallis,J Syed Mohammad,G Gambhir,0,Not out
+12.5,JH Kallis,J Syed Mohammad,G Gambhir,1,Not out
+12.6,G Gambhir,J Syed Mohammad,JH Kallis,1,Not out
+13.1,G Gambhir,DL Vettori,JH Kallis,1,Not out
+13.2,JH Kallis,DL Vettori,G Gambhir,0,caught
+13.3,YK Pathan,DL Vettori,G Gambhir,2,Not out
+13.4,YK Pathan,DL Vettori,G Gambhir,0,Not out
+13.5,YK Pathan,DL Vettori,G Gambhir,0,Not out
+13.6,YK Pathan,DL Vettori,G Gambhir,0,Not out
+14.1,G Gambhir,J Syed Mohammad,YK Pathan,1,Not out
+14.2,YK Pathan,J Syed Mohammad,G Gambhir,1,Not out
+14.3,G Gambhir,J Syed Mohammad,YK Pathan,1,Not out
+14.4,YK Pathan,J Syed Mohammad,G Gambhir,6,Not out
+14.5,YK Pathan,J Syed Mohammad,G Gambhir,0,Not out
+14.6,YK Pathan,J Syed Mohammad,G Gambhir,1,Not out
+15.1,YK Pathan,DL Vettori,G Gambhir,2,Not out
+15.2,YK Pathan,DL Vettori,G Gambhir,1,Not out
+15.3,G Gambhir,DL Vettori,YK Pathan,4,Not out
+15.4,G Gambhir,DL Vettori,YK Pathan,1,Not out
+15.5,YK Pathan,DL Vettori,G Gambhir,0,Not out
+15.6,YK Pathan,DL Vettori,G Gambhir,6,Not out
+16.1,G Gambhir,Z Khan,YK Pathan,2,Not out
+16.2,G Gambhir,Z Khan,YK Pathan,4,Not out
+16.3,G Gambhir,Z Khan,YK Pathan,0,Not out
+16.4,G Gambhir,Z Khan,YK Pathan,0,Not out
+16.5,G Gambhir,Z Khan,YK Pathan,0,Not out
+16.6,G Gambhir,Z Khan,YK Pathan,1,Not out
+16.7,YK Pathan,Z Khan,G Gambhir,0,Not out
+16.8,YK Pathan,Z Khan,G Gambhir,1,Not out
+17.1,YK Pathan,S Aravind,G Gambhir,1,Not out
+17.2,G Gambhir,S Aravind,YK Pathan,0,caught
+17.3,EJG Morgan,S Aravind,YK Pathan,1,Not out
+17.4,YK Pathan,S Aravind,EJG Morgan,4,Not out
+17.5,YK Pathan,S Aravind,EJG Morgan,6,Not out
+17.6,YK Pathan,S Aravind,EJG Morgan,4,Not out
+18.1,EJG Morgan,Z Khan,YK Pathan,1,Not out
+18.2,YK Pathan,Z Khan,EJG Morgan,1,Not out
+18.3,EJG Morgan,Z Khan,YK Pathan,1,Not out
+18.4,YK Pathan,Z Khan,EJG Morgan,4,Not out
+18.5,YK Pathan,Z Khan,EJG Morgan,2,Not out
+18.6,YK Pathan,Z Khan,EJG Morgan,1,Not out
+19.1,YK Pathan,S Aravind,EJG Morgan,0,Not out
+19.2,YK Pathan,S Aravind,EJG Morgan,2,Not out
+19.3,YK Pathan,S Aravind,EJG Morgan,1,Not out
+19.4,EJG Morgan,S Aravind,YK Pathan,1,Not out
+19.5,YK Pathan,S Aravind,EJG Morgan,0,caught
+19.6,EJG Morgan,S Aravind,MK Tiwary,2,Not out
+19.7,EJG Morgan,S Aravind,MK Tiwary,0,run out

@@ -1,0 +1,126 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,PA Reddy,RP Singh,PA Patel,0,Not out
+0.2,PA Reddy,RP Singh,PA Patel,2,Not out
+0.3,PA Reddy,RP Singh,PA Patel,4,Not out
+0.4,PA Reddy,RP Singh,PA Patel,0,Not out
+0.5,PA Reddy,RP Singh,PA Patel,0,Not out
+0.6,PA Reddy,RP Singh,PA Patel,1,Not out
+1.1,PA Reddy,R Vinay Kumar,PA Patel,0,Not out
+1.2,PA Reddy,R Vinay Kumar,PA Patel,4,Not out
+1.3,PA Reddy,R Vinay Kumar,PA Patel,0,Not out
+1.4,PA Reddy,R Vinay Kumar,PA Patel,1,Not out
+1.5,PA Patel,R Vinay Kumar,PA Reddy,0,Not out
+1.6,PA Patel,R Vinay Kumar,PA Reddy,0,Not out
+2.1,PA Reddy,RP Singh,PA Patel,0,caught
+2.2,KC Sangakkara,RP Singh,PA Patel,0,Not out
+2.3,KC Sangakkara,RP Singh,PA Patel,4,Not out
+2.4,KC Sangakkara,RP Singh,PA Patel,0,Not out
+2.5,KC Sangakkara,RP Singh,PA Patel,1,Not out
+2.6,PA Patel,RP Singh,KC Sangakkara,0,Not out
+3.1,KC Sangakkara,R Vinay Kumar,PA Patel,1,Not out
+3.2,PA Patel,R Vinay Kumar,KC Sangakkara,1,Not out
+3.3,KC Sangakkara,R Vinay Kumar,PA Patel,1,Not out
+3.4,PA Patel,R Vinay Kumar,KC Sangakkara,1,Not out
+3.5,KC Sangakkara,R Vinay Kumar,PA Patel,0,Not out
+3.6,KC Sangakkara,R Vinay Kumar,PA Patel,4,Not out
+4.1,PA Patel,JD Unadkat,KC Sangakkara,0,Not out
+4.2,PA Patel,JD Unadkat,KC Sangakkara,4,Not out
+4.3,PA Patel,JD Unadkat,KC Sangakkara,1,Not out
+4.4,KC Sangakkara,JD Unadkat,PA Patel,1,Not out
+4.5,PA Patel,JD Unadkat,KC Sangakkara,1,Not out
+4.6,KC Sangakkara,JD Unadkat,PA Patel,0,Not out
+5.1,PA Patel,M Muralitharan,KC Sangakkara,1,Not out
+5.2,KC Sangakkara,M Muralitharan,PA Patel,0,Not out
+5.3,KC Sangakkara,M Muralitharan,PA Patel,1,Not out
+5.4,PA Patel,M Muralitharan,KC Sangakkara,4,Not out
+5.5,PA Patel,M Muralitharan,KC Sangakkara,0,Not out
+5.6,PA Patel,M Muralitharan,KC Sangakkara,2,Not out
+6.1,KC Sangakkara,JD Unadkat,PA Patel,1,Not out
+6.2,PA Patel,JD Unadkat,KC Sangakkara,0,Not out
+6.3,PA Patel,JD Unadkat,KC Sangakkara,1,Not out
+6.4,KC Sangakkara,JD Unadkat,PA Patel,1,Not out
+6.5,PA Patel,JD Unadkat,KC Sangakkara,1,Not out
+6.6,KC Sangakkara,JD Unadkat,PA Patel,1,Not out
+7.1,KC Sangakkara,M Muralitharan,PA Patel,1,Not out
+7.2,PA Patel,M Muralitharan,KC Sangakkara,1,Not out
+7.3,KC Sangakkara,M Muralitharan,PA Patel,1,Not out
+7.4,PA Patel,M Muralitharan,KC Sangakkara,2,Not out
+7.5,PA Patel,M Muralitharan,KC Sangakkara,0,bowled
+7.6,CL White,M Muralitharan,KC Sangakkara,0,Not out
+8.1,KC Sangakkara,M Kartik,CL White,1,Not out
+8.2,CL White,M Kartik,KC Sangakkara,1,Not out
+8.3,KC Sangakkara,M Kartik,CL White,2,Not out
+8.4,KC Sangakkara,M Kartik,CL White,0,Not out
+8.5,KC Sangakkara,M Kartik,CL White,1,Not out
+8.6,CL White,M Kartik,KC Sangakkara,1,Not out
+9.1,CL White,M Muralitharan,KC Sangakkara,1,Not out
+9.2,KC Sangakkara,M Muralitharan,CL White,1,Not out
+9.3,CL White,M Muralitharan,KC Sangakkara,4,Not out
+9.4,CL White,M Muralitharan,KC Sangakkara,0,Not out
+9.5,CL White,M Muralitharan,KC Sangakkara,0,Not out
+9.6,CL White,M Muralitharan,KC Sangakkara,0,Not out
+10.1,KC Sangakkara,M Kartik,CL White,0,Not out
+10.2,KC Sangakkara,M Kartik,CL White,0,caught
+10.3,CL White,M Kartik,NLTC Perera,1,Not out
+10.4,NLTC Perera,M Kartik,CL White,0,Not out
+10.5,NLTC Perera,M Kartik,CL White,1,Not out
+10.6,CL White,M Kartik,NLTC Perera,0,Not out
+11.1,NLTC Perera,JD Unadkat,CL White,0,Not out
+11.2,NLTC Perera,JD Unadkat,CL White,0,Not out
+11.3,NLTC Perera,JD Unadkat,CL White,1,Not out
+11.4,CL White,JD Unadkat,NLTC Perera,0,Not out
+11.5,CL White,JD Unadkat,NLTC Perera,1,Not out
+11.6,NLTC Perera,JD Unadkat,CL White,1,Not out
+12.1,NLTC Perera,M Kartik,CL White,0,Not out
+12.2,NLTC Perera,M Kartik,CL White,1,Not out
+12.3,CL White,M Kartik,NLTC Perera,2,Not out
+12.4,CL White,M Kartik,NLTC Perera,2,Not out
+12.5,CL White,M Kartik,NLTC Perera,1,Not out
+12.6,NLTC Perera,M Kartik,CL White,0,Not out
+12.7,NLTC Perera,M Kartik,CL White,6,Not out
+13.1,CL White,M Muralitharan,NLTC Perera,0,Not out
+13.2,CL White,M Muralitharan,NLTC Perera,2,Not out
+13.3,CL White,M Muralitharan,NLTC Perera,1,Not out
+13.4,NLTC Perera,M Muralitharan,CL White,0,Not out
+13.5,NLTC Perera,M Muralitharan,CL White,0,Not out
+13.6,NLTC Perera,M Muralitharan,CL White,1,Not out
+14.1,NLTC Perera,JD Unadkat,CL White,1,Not out
+14.2,CL White,JD Unadkat,NLTC Perera,4,Not out
+14.3,CL White,JD Unadkat,NLTC Perera,1,Not out
+14.4,NLTC Perera,JD Unadkat,CL White,6,Not out
+14.5,NLTC Perera,JD Unadkat,CL White,1,Not out
+14.6,CL White,JD Unadkat,NLTC Perera,1,Not out
+15.1,CL White,MC Henriques,NLTC Perera,4,Not out
+15.2,CL White,MC Henriques,NLTC Perera,1,Not out
+15.3,NLTC Perera,MC Henriques,CL White,6,Not out
+15.4,NLTC Perera,MC Henriques,CL White,1,Not out
+15.5,CL White,MC Henriques,NLTC Perera,6,Not out
+15.6,CL White,MC Henriques,NLTC Perera,0,Not out
+16.1,NLTC Perera,R Vinay Kumar,CL White,6,Not out
+16.2,NLTC Perera,R Vinay Kumar,CL White,1,Not out
+16.3,CL White,R Vinay Kumar,NLTC Perera,6,Not out
+16.4,CL White,R Vinay Kumar,NLTC Perera,1,Not out
+16.5,NLTC Perera,R Vinay Kumar,CL White,2,Not out
+16.6,NLTC Perera,R Vinay Kumar,CL White,1,Not out
+16.7,CL White,R Vinay Kumar,NLTC Perera,1,Not out
+17.1,CL White,RP Singh,NLTC Perera,1,Not out
+17.2,NLTC Perera,RP Singh,CL White,0,Not out
+17.3,NLTC Perera,RP Singh,CL White,0,Not out
+17.4,NLTC Perera,RP Singh,CL White,4,Not out
+17.5,NLTC Perera,RP Singh,CL White,0,Not out
+17.6,NLTC Perera,RP Singh,CL White,0,bowled
+17.7,A Ashish Reddy,RP Singh,CL White,1,Not out
+17.8,CL White,RP Singh,A Ashish Reddy,1,Not out
+18.1,CL White,R Vinay Kumar,A Ashish Reddy,0,Not out
+18.2,CL White,R Vinay Kumar,A Ashish Reddy,1,Not out
+18.3,A Ashish Reddy,R Vinay Kumar,CL White,1,Not out
+18.4,CL White,R Vinay Kumar,A Ashish Reddy,6,Not out
+18.5,CL White,R Vinay Kumar,A Ashish Reddy,1,Not out
+18.6,A Ashish Reddy,R Vinay Kumar,CL White,1,Not out
+18.7,CL White,R Vinay Kumar,A Ashish Reddy,0,caught
+19.1,A Ashish Reddy,RP Singh,GH Vihari,0,bowled
+19.2,BB Samantray,RP Singh,GH Vihari,1,Not out
+19.3,GH Vihari,RP Singh,BB Samantray,2,Not out
+19.4,GH Vihari,RP Singh,BB Samantray,1,Not out
+19.5,BB Samantray,RP Singh,GH Vihari,1,Not out
+19.6,GH Vihari,RP Singh,BB Samantray,1,Not out

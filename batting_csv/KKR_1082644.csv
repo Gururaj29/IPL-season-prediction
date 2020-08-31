@@ -1,0 +1,126 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,SP Narine,TG Southee,CA Lynn,0,Not out
+0.2,SP Narine,TG Southee,CA Lynn,0,Not out
+0.3,SP Narine,TG Southee,CA Lynn,0,Not out
+0.4,SP Narine,TG Southee,CA Lynn,0,caught
+0.5,CA Lynn,TG Southee,G Gambhir,0,Not out
+0.6,CA Lynn,TG Southee,G Gambhir,0,Not out
+1.1,G Gambhir,MG Johnson,CA Lynn,0,Not out
+1.2,G Gambhir,MG Johnson,CA Lynn,1,Not out
+1.3,CA Lynn,MG Johnson,G Gambhir,0,Not out
+1.4,CA Lynn,MG Johnson,G Gambhir,0,Not out
+1.5,G Gambhir,MG Johnson,CA Lynn,4,Not out
+1.6,G Gambhir,MG Johnson,CA Lynn,0,Not out
+1.7,G Gambhir,MG Johnson,CA Lynn,4,Not out
+2.1,CA Lynn,TG Southee,G Gambhir,6,Not out
+2.2,CA Lynn,TG Southee,G Gambhir,0,Not out
+2.3,G Gambhir,TG Southee,CA Lynn,0,Not out
+2.4,G Gambhir,TG Southee,CA Lynn,0,Not out
+2.5,G Gambhir,TG Southee,CA Lynn,1,Not out
+2.6,CA Lynn,TG Southee,G Gambhir,6,Not out
+2.7,CA Lynn,TG Southee,G Gambhir,4,Not out
+3.1,G Gambhir,KV Sharma,CA Lynn,0,Not out
+3.2,G Gambhir,KV Sharma,CA Lynn,0,Not out
+3.3,G Gambhir,KV Sharma,CA Lynn,0,Not out
+3.4,G Gambhir,KV Sharma,CA Lynn,4,Not out
+3.5,G Gambhir,KV Sharma,CA Lynn,0,Not out
+3.6,G Gambhir,KV Sharma,CA Lynn,1,Not out
+4.1,G Gambhir,MG Johnson,CA Lynn,6,Not out
+4.2,G Gambhir,MG Johnson,CA Lynn,0,Not out
+4.3,G Gambhir,MG Johnson,CA Lynn,0,caught
+4.4,CA Lynn,MG Johnson,RV Uthappa,0,Not out
+4.5,CA Lynn,MG Johnson,RV Uthappa,4,Not out
+4.6,CA Lynn,MG Johnson,RV Uthappa,4,Not out
+5.1,RV Uthappa,KV Sharma,CA Lynn,1,Not out
+5.2,CA Lynn,KV Sharma,RV Uthappa,1,Not out
+5.3,RV Uthappa,KV Sharma,CA Lynn,1,Not out
+5.4,CA Lynn,KV Sharma,RV Uthappa,1,Not out
+5.5,RV Uthappa,KV Sharma,CA Lynn,0,Not out
+5.6,RV Uthappa,KV Sharma,CA Lynn,0,caught
+6.1,CA Lynn,R Vinay Kumar,MK Pandey,0,Not out
+6.2,CA Lynn,R Vinay Kumar,MK Pandey,0,caught
+6.3,YK Pathan,R Vinay Kumar,MK Pandey,6,Not out
+6.4,YK Pathan,R Vinay Kumar,MK Pandey,1,Not out
+6.5,MK Pandey,R Vinay Kumar,YK Pathan,0,Not out
+6.6,MK Pandey,R Vinay Kumar,YK Pathan,3,Not out
+7.1,MK Pandey,KV Sharma,YK Pathan,0,Not out
+7.2,MK Pandey,KV Sharma,YK Pathan,0,Not out
+7.3,MK Pandey,KV Sharma,YK Pathan,4,Not out
+7.4,MK Pandey,KV Sharma,YK Pathan,1,Not out
+7.5,YK Pathan,KV Sharma,MK Pandey,6,Not out
+7.6,YK Pathan,KV Sharma,MK Pandey,6,Not out
+8.1,MK Pandey,R Vinay Kumar,YK Pathan,1,Not out
+8.2,YK Pathan,R Vinay Kumar,MK Pandey,0,Not out
+8.3,YK Pathan,R Vinay Kumar,MK Pandey,0,Not out
+8.4,MK Pandey,R Vinay Kumar,YK Pathan,1,Not out
+8.5,YK Pathan,R Vinay Kumar,MK Pandey,0,Not out
+8.6,YK Pathan,R Vinay Kumar,MK Pandey,1,Not out
+8.7,MK Pandey,R Vinay Kumar,YK Pathan,1,Not out
+8.8,YK Pathan,R Vinay Kumar,MK Pandey,0,caught
+9.1,C de Grandhomme,KH Pandya,MK Pandey,1,Not out
+9.2,MK Pandey,KH Pandya,C de Grandhomme,0,Not out
+9.3,MK Pandey,KH Pandya,C de Grandhomme,2,Not out
+9.4,MK Pandey,KH Pandya,C de Grandhomme,1,Not out
+9.5,C de Grandhomme,KH Pandya,MK Pandey,0,Not out
+9.6,C de Grandhomme,KH Pandya,MK Pandey,1,Not out
+10.1,C de Grandhomme,R Vinay Kumar,MK Pandey,4,Not out
+10.2,C de Grandhomme,R Vinay Kumar,MK Pandey,4,Not out
+10.3,C de Grandhomme,R Vinay Kumar,MK Pandey,1,Not out
+10.4,MK Pandey,R Vinay Kumar,C de Grandhomme,1,Not out
+10.5,C de Grandhomme,R Vinay Kumar,MK Pandey,0,Not out
+10.6,C de Grandhomme,R Vinay Kumar,MK Pandey,4,Not out
+11.1,MK Pandey,KH Pandya,C de Grandhomme,1,Not out
+11.2,C de Grandhomme,KH Pandya,MK Pandey,1,Not out
+11.3,MK Pandey,KH Pandya,C de Grandhomme,1,Not out
+11.4,C de Grandhomme,KH Pandya,MK Pandey,4,Not out
+11.5,C de Grandhomme,KH Pandya,MK Pandey,1,Not out
+11.6,MK Pandey,KH Pandya,C de Grandhomme,1,Not out
+12.1,MK Pandey,HH Pandya,C de Grandhomme,2,Not out
+12.2,MK Pandey,HH Pandya,C de Grandhomme,1,Not out
+12.3,C de Grandhomme,HH Pandya,MK Pandey,0,Not out
+12.4,C de Grandhomme,HH Pandya,MK Pandey,6,Not out
+12.5,C de Grandhomme,HH Pandya,MK Pandey,1,Not out
+12.6,MK Pandey,HH Pandya,C de Grandhomme,1,Not out
+13.1,MK Pandey,MG Johnson,C de Grandhomme,0,Not out
+13.2,MK Pandey,MG Johnson,C de Grandhomme,0,Not out
+13.3,MK Pandey,MG Johnson,C de Grandhomme,0,Not out
+13.4,MK Pandey,MG Johnson,C de Grandhomme,0,Not out
+13.5,MK Pandey,MG Johnson,C de Grandhomme,1,Not out
+13.6,C de Grandhomme,MG Johnson,MK Pandey,1,Not out
+14.1,C de Grandhomme,HH Pandya,MK Pandey,0,bowled
+14.2,Kuldeep Yadav,HH Pandya,MK Pandey,1,Not out
+14.3,MK Pandey,HH Pandya,Kuldeep Yadav,0,Not out
+14.4,MK Pandey,HH Pandya,Kuldeep Yadav,1,Not out
+14.5,Kuldeep Yadav,HH Pandya,MK Pandey,0,Not out
+14.6,Kuldeep Yadav,HH Pandya,MK Pandey,1,Not out
+15.1,Kuldeep Yadav,MG Johnson,MK Pandey,1,Not out
+15.2,MK Pandey,MG Johnson,Kuldeep Yadav,1,Not out
+15.3,Kuldeep Yadav,MG Johnson,MK Pandey,0,Not out
+15.4,Kuldeep Yadav,MG Johnson,MK Pandey,1,Not out
+15.5,MK Pandey,MG Johnson,Kuldeep Yadav,1,Not out
+15.6,Kuldeep Yadav,MG Johnson,MK Pandey,0,Not out
+16.1,MK Pandey,TG Southee,Kuldeep Yadav,4,Not out
+16.2,MK Pandey,TG Southee,Kuldeep Yadav,1,Not out
+16.3,Kuldeep Yadav,TG Southee,MK Pandey,4,Not out
+16.4,Kuldeep Yadav,TG Southee,MK Pandey,1,Not out
+16.5,MK Pandey,TG Southee,Kuldeep Yadav,1,Not out
+16.6,Kuldeep Yadav,TG Southee,MK Pandey,1,Not out
+16.7,MK Pandey,TG Southee,Kuldeep Yadav,1,Not out
+17.1,MK Pandey,HH Pandya,Kuldeep Yadav,0,caught
+17.2,Kuldeep Yadav,HH Pandya,UT Yadav,0,Not out
+17.3,Kuldeep Yadav,HH Pandya,UT Yadav,1,Not out
+17.4,UT Yadav,HH Pandya,Kuldeep Yadav,1,Not out
+17.5,Kuldeep Yadav,HH Pandya,UT Yadav,1,Not out
+17.6,UT Yadav,HH Pandya,Kuldeep Yadav,1,Not out
+18.1,UT Yadav,TG Southee,Kuldeep Yadav,1,Not out
+18.2,Kuldeep Yadav,TG Southee,UT Yadav,4,Not out
+18.3,Kuldeep Yadav,TG Southee,UT Yadav,0,caught
+18.4,TA Boult,TG Southee,UT Yadav,2,Not out
+18.5,TA Boult,TG Southee,UT Yadav,0,Not out
+18.6,TA Boult,TG Southee,UT Yadav,0,Not out
+19.1,UT Yadav,HH Pandya,TA Boult,1,Not out
+19.2,TA Boult,HH Pandya,UT Yadav,2,Not out
+19.3,TA Boult,HH Pandya,UT Yadav,0,Not out
+19.4,TA Boult,HH Pandya,UT Yadav,0,Not out
+19.5,TA Boult,HH Pandya,UT Yadav,0,Not out
+19.6,TA Boult,HH Pandya,UT Yadav,1,Not out

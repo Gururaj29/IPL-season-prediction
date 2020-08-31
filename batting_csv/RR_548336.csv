@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,R Dravid,Z Khan,AM Rahane,0,Not out
+0.2,R Dravid,Z Khan,AM Rahane,0,Not out
+0.3,R Dravid,Z Khan,AM Rahane,0,Not out
+0.4,R Dravid,Z Khan,AM Rahane,4,Not out
+0.5,R Dravid,Z Khan,AM Rahane,0,Not out
+0.6,AM Rahane,Z Khan,R Dravid,0,Not out
+0.7,AM Rahane,Z Khan,R Dravid,0,Not out
+0.8,AM Rahane,Z Khan,R Dravid,1,Not out
+1.1,AM Rahane,R Vinay Kumar,R Dravid,1,Not out
+1.2,R Dravid,R Vinay Kumar,AM Rahane,4,Not out
+1.3,R Dravid,R Vinay Kumar,AM Rahane,0,Not out
+1.4,R Dravid,R Vinay Kumar,AM Rahane,0,Not out
+1.5,R Dravid,R Vinay Kumar,AM Rahane,0,Not out
+1.6,R Dravid,R Vinay Kumar,AM Rahane,5,Not out
+2.1,R Dravid,Z Khan,AM Rahane,1,Not out
+2.2,AM Rahane,Z Khan,R Dravid,0,Not out
+2.3,AM Rahane,Z Khan,R Dravid,1,Not out
+2.4,R Dravid,Z Khan,AM Rahane,4,Not out
+2.5,R Dravid,Z Khan,AM Rahane,0,Not out
+2.6,R Dravid,Z Khan,AM Rahane,1,Not out
+3.1,R Dravid,R Vinay Kumar,AM Rahane,1,Not out
+3.2,AM Rahane,R Vinay Kumar,R Dravid,0,Not out
+3.3,R Dravid,R Vinay Kumar,AM Rahane,2,Not out
+3.4,R Dravid,R Vinay Kumar,AM Rahane,1,Not out
+3.5,AM Rahane,R Vinay Kumar,R Dravid,1,Not out
+3.6,R Dravid,R Vinay Kumar,AM Rahane,0,Not out
+4.1,AM Rahane,DL Vettori,R Dravid,0,Not out
+4.2,AM Rahane,DL Vettori,R Dravid,0,Not out
+4.3,AM Rahane,DL Vettori,R Dravid,1,Not out
+4.4,R Dravid,DL Vettori,AM Rahane,1,Not out
+4.5,AM Rahane,DL Vettori,R Dravid,1,Not out
+4.6,R Dravid,DL Vettori,AM Rahane,1,Not out
+5.1,R Dravid,R Vinay Kumar,AM Rahane,4,Not out
+5.2,R Dravid,R Vinay Kumar,AM Rahane,4,Not out
+5.3,R Dravid,R Vinay Kumar,AM Rahane,1,Not out
+5.4,AM Rahane,R Vinay Kumar,R Dravid,4,Not out
+5.5,AM Rahane,R Vinay Kumar,R Dravid,0,Not out
+5.6,AM Rahane,R Vinay Kumar,R Dravid,0,Not out
+6.1,R Dravid,DL Vettori,AM Rahane,2,Not out
+6.2,R Dravid,DL Vettori,AM Rahane,0,Not out
+6.3,R Dravid,DL Vettori,AM Rahane,2,Not out
+6.4,R Dravid,DL Vettori,AM Rahane,1,Not out
+6.5,AM Rahane,DL Vettori,R Dravid,2,Not out
+6.6,AM Rahane,DL Vettori,R Dravid,1,Not out
+7.1,AM Rahane,KP Appanna,R Dravid,0,Not out
+7.2,AM Rahane,KP Appanna,R Dravid,0,caught
+7.3,OA Shah,KP Appanna,R Dravid,0,Not out
+7.4,OA Shah,KP Appanna,R Dravid,0,Not out
+7.5,OA Shah,KP Appanna,R Dravid,0,Not out
+7.6,OA Shah,KP Appanna,R Dravid,1,Not out
+8.1,OA Shah,HV Patel,R Dravid,0,Not out
+8.2,OA Shah,HV Patel,R Dravid,0,Not out
+8.3,OA Shah,HV Patel,R Dravid,1,Not out
+8.4,R Dravid,HV Patel,OA Shah,0,Not out
+8.5,R Dravid,HV Patel,OA Shah,1,Not out
+8.6,OA Shah,HV Patel,R Dravid,0,Not out
+9.1,R Dravid,KP Appanna,OA Shah,0,Not out
+9.2,R Dravid,KP Appanna,OA Shah,2,Not out
+9.3,R Dravid,KP Appanna,OA Shah,1,Not out
+9.4,OA Shah,KP Appanna,R Dravid,0,Not out
+9.5,OA Shah,KP Appanna,R Dravid,1,Not out
+9.6,R Dravid,KP Appanna,OA Shah,4,Not out
+10.1,OA Shah,HV Patel,R Dravid,1,Not out
+10.2,R Dravid,HV Patel,OA Shah,1,Not out
+10.3,OA Shah,HV Patel,R Dravid,6,Not out
+10.4,OA Shah,HV Patel,R Dravid,0,Not out
+10.5,OA Shah,HV Patel,R Dravid,0,Not out
+10.6,R Dravid,HV Patel,OA Shah,4,Not out
+11.1,OA Shah,KP Appanna,R Dravid,0,stumped
+11.2,SP Goswami,KP Appanna,R Dravid,1,Not out
+11.3,R Dravid,KP Appanna,SP Goswami,0,Not out
+11.4,R Dravid,KP Appanna,SP Goswami,4,Not out
+11.5,R Dravid,KP Appanna,SP Goswami,0,Not out
+11.6,SP Goswami,KP Appanna,R Dravid,0,caught
+11.7,R Dravid,KP Appanna,BJ Hodge,1,Not out
+12.1,R Dravid,DL Vettori,BJ Hodge,0,Not out
+12.2,BJ Hodge,DL Vettori,R Dravid,1,Not out
+12.3,R Dravid,DL Vettori,BJ Hodge,0,Not out
+12.4,R Dravid,DL Vettori,BJ Hodge,0,Not out
+12.5,R Dravid,DL Vettori,BJ Hodge,1,Not out
+12.6,BJ Hodge,DL Vettori,R Dravid,0,Not out
+13.1,R Dravid,KP Appanna,BJ Hodge,0,caught
+13.2,STR Binny,KP Appanna,BJ Hodge,0,Not out
+13.3,STR Binny,KP Appanna,BJ Hodge,0,Not out
+13.4,STR Binny,KP Appanna,BJ Hodge,0,Not out
+13.5,STR Binny,KP Appanna,BJ Hodge,1,Not out
+13.6,BJ Hodge,KP Appanna,STR Binny,1,Not out
+14.1,BJ Hodge,HV Patel,STR Binny,2,Not out
+14.2,BJ Hodge,HV Patel,STR Binny,4,Not out
+14.3,BJ Hodge,HV Patel,STR Binny,2,Not out
+14.4,BJ Hodge,HV Patel,STR Binny,0,Not out
+14.5,BJ Hodge,HV Patel,STR Binny,0,caught
+14.6,STR Binny,HV Patel,KK Cooper,0,Not out
+14.7,STR Binny,HV Patel,KK Cooper,1,Not out
+15.1,STR Binny,DL Vettori,KK Cooper,0,Not out
+15.2,STR Binny,DL Vettori,KK Cooper,2,Not out
+15.3,STR Binny,DL Vettori,KK Cooper,4,Not out
+15.4,STR Binny,DL Vettori,KK Cooper,0,Not out
+15.5,KK Cooper,DL Vettori,STR Binny,0,Not out
+15.6,KK Cooper,DL Vettori,STR Binny,0,Not out
+16.1,STR Binny,Z Khan,KK Cooper,1,Not out
+16.2,KK Cooper,Z Khan,STR Binny,4,Not out
+16.3,KK Cooper,Z Khan,STR Binny,0,Not out
+16.4,KK Cooper,Z Khan,STR Binny,4,Not out
+16.5,KK Cooper,Z Khan,STR Binny,0,caught
+16.6,STR Binny,Z Khan,GB Hogg,2,Not out
+17.1,GB Hogg,R Vinay Kumar,STR Binny,1,Not out
+17.2,STR Binny,R Vinay Kumar,GB Hogg,1,Not out
+17.3,GB Hogg,R Vinay Kumar,STR Binny,1,Not out
+17.4,STR Binny,R Vinay Kumar,GB Hogg,4,Not out
+17.5,STR Binny,R Vinay Kumar,GB Hogg,1,Not out
+17.6,GB Hogg,R Vinay Kumar,STR Binny,1,Not out
+18.1,GB Hogg,Z Khan,STR Binny,1,Not out
+18.2,STR Binny,Z Khan,GB Hogg,0,Not out
+18.3,STR Binny,Z Khan,GB Hogg,1,Not out
+18.4,GB Hogg,Z Khan,STR Binny,1,Not out
+18.5,STR Binny,Z Khan,GB Hogg,1,Not out
+18.6,GB Hogg,Z Khan,STR Binny,1,Not out
+19.1,GB Hogg,HV Patel,STR Binny,4,Not out
+19.2,GB Hogg,HV Patel,STR Binny,1,Not out
+19.3,STR Binny,HV Patel,GB Hogg,1,Not out
+19.4,GB Hogg,HV Patel,STR Binny,0,Not out
+19.5,GB Hogg,HV Patel,STR Binny,2,Not out
+19.6,GB Hogg,HV Patel,STR Binny,0,caught

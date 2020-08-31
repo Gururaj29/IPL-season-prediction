@@ -1,0 +1,110 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,JD Ryder,AG Murtaza,TD Paine,0,Not out
+0.2,JD Ryder,AG Murtaza,TD Paine,0,Not out
+0.3,JD Ryder,AG Murtaza,TD Paine,0,Not out
+0.4,JD Ryder,AG Murtaza,TD Paine,2,Not out
+0.5,JD Ryder,AG Murtaza,TD Paine,0,Not out
+0.6,JD Ryder,AG Murtaza,TD Paine,1,Not out
+1.1,JD Ryder,SL Malinga,TD Paine,0,Not out
+1.2,JD Ryder,SL Malinga,TD Paine,0,Not out
+1.3,JD Ryder,SL Malinga,TD Paine,4,Not out
+1.4,JD Ryder,SL Malinga,TD Paine,0,Not out
+1.5,TD Paine,SL Malinga,JD Ryder,0,Not out
+1.6,TD Paine,SL Malinga,JD Ryder,0,Not out
+1.7,TD Paine,SL Malinga,JD Ryder,1,Not out
+2.1,TD Paine,AG Murtaza,JD Ryder,1,Not out
+2.2,JD Ryder,AG Murtaza,TD Paine,4,Not out
+2.3,JD Ryder,AG Murtaza,TD Paine,0,Not out
+2.4,JD Ryder,AG Murtaza,TD Paine,1,Not out
+2.5,TD Paine,AG Murtaza,JD Ryder,0,Not out
+2.6,TD Paine,AG Murtaza,JD Ryder,0,Not out
+3.1,JD Ryder,AN Ahmed,TD Paine,0,Not out
+3.2,JD Ryder,AN Ahmed,TD Paine,0,Not out
+3.3,JD Ryder,AN Ahmed,TD Paine,0,caught
+3.4,TD Paine,AN Ahmed,M Manhas,0,Not out
+3.5,M Manhas,AN Ahmed,TD Paine,0,caught
+3.6,RV Uthappa,AN Ahmed,TD Paine,0,Not out
+4.1,TD Paine,MM Patel,RV Uthappa,0,Not out
+4.2,TD Paine,MM Patel,RV Uthappa,0,bowled
+4.3,Yuvraj Singh,MM Patel,RV Uthappa,0,Not out
+4.4,Yuvraj Singh,MM Patel,RV Uthappa,0,caught
+4.5,MD Mishra,MM Patel,RV Uthappa,2,Not out
+4.6,MD Mishra,MM Patel,RV Uthappa,4,Not out
+5.1,RV Uthappa,AN Ahmed,MD Mishra,0,Not out
+5.2,RV Uthappa,AN Ahmed,MD Mishra,0,Not out
+5.3,RV Uthappa,AN Ahmed,MD Mishra,0,Not out
+5.4,RV Uthappa,AN Ahmed,MD Mishra,1,Not out
+5.5,MD Mishra,AN Ahmed,RV Uthappa,0,Not out
+5.6,RV Uthappa,AN Ahmed,MD Mishra,4,Not out
+6.1,MD Mishra,MM Patel,RV Uthappa,1,Not out
+6.2,RV Uthappa,MM Patel,MD Mishra,0,Not out
+6.3,RV Uthappa,MM Patel,MD Mishra,0,Not out
+6.4,RV Uthappa,MM Patel,MD Mishra,0,Not out
+6.5,RV Uthappa,MM Patel,MD Mishra,1,Not out
+6.6,MD Mishra,MM Patel,RV Uthappa,0,Not out
+7.1,RV Uthappa,KA Pollard,MD Mishra,4,Not out
+7.2,RV Uthappa,KA Pollard,MD Mishra,0,Not out
+7.3,RV Uthappa,KA Pollard,MD Mishra,6,Not out
+7.4,RV Uthappa,KA Pollard,MD Mishra,1,Not out
+7.5,MD Mishra,KA Pollard,RV Uthappa,0,Not out
+7.6,MD Mishra,KA Pollard,RV Uthappa,1,Not out
+7.7,RV Uthappa,KA Pollard,MD Mishra,0,Not out
+8.1,MD Mishra,AG Murtaza,RV Uthappa,0,Not out
+8.2,MD Mishra,AG Murtaza,RV Uthappa,4,Not out
+8.3,MD Mishra,AG Murtaza,RV Uthappa,0,caught
+8.4,M Kartik,AG Murtaza,RV Uthappa,0,Not out
+8.5,M Kartik,AG Murtaza,RV Uthappa,1,Not out
+8.6,RV Uthappa,AG Murtaza,M Kartik,1,Not out
+9.1,RV Uthappa,SL Malinga,M Kartik,1,Not out
+9.2,M Kartik,SL Malinga,RV Uthappa,0,Not out
+9.3,M Kartik,SL Malinga,RV Uthappa,0,Not out
+9.4,M Kartik,SL Malinga,RV Uthappa,1,Not out
+9.5,RV Uthappa,SL Malinga,M Kartik,4,Not out
+9.6,RV Uthappa,SL Malinga,M Kartik,0,Not out
+10.1,M Kartik,AN Ahmed,RV Uthappa,1,Not out
+10.2,RV Uthappa,AN Ahmed,M Kartik,1,Not out
+10.3,M Kartik,AN Ahmed,RV Uthappa,4,Not out
+10.4,M Kartik,AN Ahmed,RV Uthappa,1,Not out
+10.5,RV Uthappa,AN Ahmed,M Kartik,0,Not out
+10.6,RV Uthappa,AN Ahmed,M Kartik,1,Not out
+11.1,RV Uthappa,JEC Franklin,M Kartik,4,Not out
+11.2,RV Uthappa,JEC Franklin,M Kartik,1,Not out
+11.3,M Kartik,JEC Franklin,RV Uthappa,1,Not out
+11.4,RV Uthappa,JEC Franklin,M Kartik,0,Not out
+11.5,RV Uthappa,JEC Franklin,M Kartik,1,Not out
+11.6,M Kartik,JEC Franklin,RV Uthappa,0,Not out
+11.7,M Kartik,JEC Franklin,RV Uthappa,1,Not out
+11.8,RV Uthappa,JEC Franklin,M Kartik,1,Not out
+12.1,RV Uthappa,SL Malinga,M Kartik,0,Not out
+12.2,RV Uthappa,SL Malinga,M Kartik,4,Not out
+12.3,RV Uthappa,SL Malinga,M Kartik,1,Not out
+12.4,M Kartik,SL Malinga,RV Uthappa,1,Not out
+12.5,RV Uthappa,SL Malinga,M Kartik,0,Not out
+12.6,RV Uthappa,SL Malinga,M Kartik,1,Not out
+12.7,M Kartik,SL Malinga,RV Uthappa,0,caught
+13.1,RV Uthappa,JEC Franklin,WD Parnell,1,Not out
+13.2,WD Parnell,JEC Franklin,RV Uthappa,2,Not out
+13.3,WD Parnell,JEC Franklin,RV Uthappa,1,Not out
+13.4,RV Uthappa,JEC Franklin,WD Parnell,2,Not out
+13.5,RV Uthappa,JEC Franklin,WD Parnell,4,Not out
+13.6,RV Uthappa,JEC Franklin,WD Parnell,0,Not out
+14.1,WD Parnell,AG Murtaza,RV Uthappa,1,Not out
+14.2,RV Uthappa,AG Murtaza,WD Parnell,0,caught
+14.3,WD Parnell,AG Murtaza,R Sharma,0,Not out
+14.4,WD Parnell,AG Murtaza,R Sharma,1,Not out
+14.5,R Sharma,AG Murtaza,WD Parnell,0,Not out
+14.6,R Sharma,AG Murtaza,WD Parnell,1,Not out
+15.1,R Sharma,JEC Franklin,WD Parnell,0,Not out
+15.2,R Sharma,JEC Franklin,WD Parnell,6,Not out
+15.3,R Sharma,JEC Franklin,WD Parnell,1,Not out
+15.4,WD Parnell,JEC Franklin,R Sharma,0,Not out
+15.5,WD Parnell,JEC Franklin,R Sharma,4,Not out
+15.6,WD Parnell,JEC Franklin,R Sharma,0,bowled
+16.1,R Sharma,SL Malinga,SB Wagh,4,Not out
+16.2,R Sharma,SL Malinga,SB Wagh,1,Not out
+16.3,SB Wagh,SL Malinga,R Sharma,2,Not out
+16.4,SB Wagh,SL Malinga,R Sharma,0,caught
+16.5,AC Thomas,SL Malinga,R Sharma,0,Not out
+16.6,AC Thomas,SL Malinga,R Sharma,0,Not out
+17.1,R Sharma,MM Patel,AC Thomas,0,Not out
+17.2,R Sharma,MM Patel,AC Thomas,0,caught

@@ -1,0 +1,119 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AC Gilchrist,AB Dinda,Y Venugopal Rao,1,Not out
+0.2,Y Venugopal Rao,AB Dinda,AC Gilchrist,0,Not out
+0.3,Y Venugopal Rao,AB Dinda,AC Gilchrist,2,Not out
+0.4,Y Venugopal Rao,AB Dinda,AC Gilchrist,0,Not out
+0.5,Y Venugopal Rao,AB Dinda,AC Gilchrist,0,Not out
+0.6,Y Venugopal Rao,AB Dinda,AC Gilchrist,0,Not out
+0.7,Y Venugopal Rao,AB Dinda,AC Gilchrist,5,Not out
+1.1,Y Venugopal Rao,I Sharma,AC Gilchrist,0,Not out
+1.2,AC Gilchrist,I Sharma,Y Venugopal Rao,1,Not out
+1.3,Y Venugopal Rao,I Sharma,AC Gilchrist,0,Not out
+1.4,Y Venugopal Rao,I Sharma,AC Gilchrist,1,Not out
+1.5,AC Gilchrist,I Sharma,Y Venugopal Rao,0,Not out
+1.6,AC Gilchrist,I Sharma,Y Venugopal Rao,0,Not out
+1.7,AC Gilchrist,I Sharma,Y Venugopal Rao,0,Not out
+1.8,AC Gilchrist,I Sharma,Y Venugopal Rao,0,Not out
+2.1,Y Venugopal Rao,AB Dinda,AC Gilchrist,1,Not out
+2.2,AC Gilchrist,AB Dinda,Y Venugopal Rao,0,Not out
+2.3,AC Gilchrist,AB Dinda,Y Venugopal Rao,0,Not out
+2.4,AC Gilchrist,AB Dinda,Y Venugopal Rao,1,Not out
+2.5,Y Venugopal Rao,AB Dinda,AC Gilchrist,4,Not out
+2.6,Y Venugopal Rao,AB Dinda,AC Gilchrist,1,Not out
+3.1,Y Venugopal Rao,I Sharma,AC Gilchrist,0,Not out
+3.2,Y Venugopal Rao,I Sharma,AC Gilchrist,0,caught
+3.3,VVS Laxman,I Sharma,AC Gilchrist,0,Not out
+3.4,VVS Laxman,I Sharma,AC Gilchrist,0,Not out
+3.5,VVS Laxman,I Sharma,AC Gilchrist,0,Not out
+3.6,VVS Laxman,I Sharma,AC Gilchrist,0,Not out
+4.1,AC Gilchrist,AB Dinda,VVS Laxman,1,Not out
+4.2,VVS Laxman,AB Dinda,AC Gilchrist,0,Not out
+4.3,VVS Laxman,AB Dinda,AC Gilchrist,0,caught
+4.4,AC Gilchrist,AB Dinda,A Symonds,1,Not out
+4.5,A Symonds,AB Dinda,AC Gilchrist,0,Not out
+4.6,A Symonds,AB Dinda,AC Gilchrist,0,Not out
+5.1,AC Gilchrist,AB Agarkar,A Symonds,6,Not out
+5.2,AC Gilchrist,AB Agarkar,A Symonds,0,Not out
+5.3,AC Gilchrist,AB Agarkar,A Symonds,6,Not out
+5.4,AC Gilchrist,AB Agarkar,A Symonds,4,Not out
+5.5,AC Gilchrist,AB Agarkar,A Symonds,0,Not out
+5.6,AC Gilchrist,AB Agarkar,A Symonds,0,Not out
+6.1,A Symonds,M Kartik,AC Gilchrist,1,Not out
+6.2,AC Gilchrist,M Kartik,A Symonds,0,Not out
+6.3,AC Gilchrist,M Kartik,A Symonds,1,Not out
+6.4,A Symonds,M Kartik,AC Gilchrist,4,Not out
+6.5,A Symonds,M Kartik,AC Gilchrist,0,Not out
+6.6,A Symonds,M Kartik,AC Gilchrist,0,Not out
+7.1,AC Gilchrist,Mohammad Hafeez,A Symonds,0,Not out
+7.2,AC Gilchrist,Mohammad Hafeez,A Symonds,0,Not out
+7.3,AC Gilchrist,Mohammad Hafeez,A Symonds,0,Not out
+7.4,AC Gilchrist,Mohammad Hafeez,A Symonds,1,Not out
+7.5,A Symonds,Mohammad Hafeez,AC Gilchrist,0,Not out
+7.6,A Symonds,Mohammad Hafeez,AC Gilchrist,0,Not out
+7.7,A Symonds,Mohammad Hafeez,AC Gilchrist,0,Not out
+8.1,AC Gilchrist,M Kartik,A Symonds,0,caught
+8.2,RG Sharma,M Kartik,A Symonds,0,Not out
+8.3,RG Sharma,M Kartik,A Symonds,0,Not out
+8.4,RG Sharma,M Kartik,A Symonds,0,caught
+8.5,SB Styris,M Kartik,A Symonds,0,Not out
+8.6,SB Styris,M Kartik,A Symonds,1,Not out
+9.1,SB Styris,Mohammad Hafeez,A Symonds,1,Not out
+9.2,A Symonds,Mohammad Hafeez,SB Styris,1,Not out
+9.3,SB Styris,Mohammad Hafeez,A Symonds,0,Not out
+9.4,A Symonds,Mohammad Hafeez,SB Styris,0,Not out
+9.5,A Symonds,Mohammad Hafeez,SB Styris,0,Not out
+9.6,SB Styris,Mohammad Hafeez,A Symonds,0,Not out
+10.1,A Symonds,M Kartik,SB Styris,0,Not out
+10.2,A Symonds,M Kartik,SB Styris,0,Not out
+10.3,A Symonds,M Kartik,SB Styris,0,Not out
+10.4,A Symonds,M Kartik,SB Styris,0,Not out
+10.5,A Symonds,M Kartik,SB Styris,1,Not out
+10.6,SB Styris,M Kartik,A Symonds,4,Not out
+11.1,A Symonds,Mohammad Hafeez,SB Styris,0,Not out
+11.2,A Symonds,Mohammad Hafeez,SB Styris,0,Not out
+11.3,A Symonds,Mohammad Hafeez,SB Styris,1,Not out
+11.4,SB Styris,Mohammad Hafeez,A Symonds,0,bowled
+11.5,AS Yadav,Mohammad Hafeez,A Symonds,1,Not out
+11.6,A Symonds,Mohammad Hafeez,AS Yadav,0,Not out
+12.1,AS Yadav,DJ Hussey,A Symonds,1,Not out
+12.2,A Symonds,DJ Hussey,AS Yadav,1,Not out
+12.3,AS Yadav,DJ Hussey,A Symonds,0,Not out
+12.4,AS Yadav,DJ Hussey,A Symonds,1,Not out
+12.5,A Symonds,DJ Hussey,AS Yadav,0,Not out
+12.6,A Symonds,DJ Hussey,AS Yadav,0,Not out
+13.1,AS Yadav,Mohammad Hafeez,A Symonds,0,Not out
+13.2,AS Yadav,Mohammad Hafeez,A Symonds,0,Not out
+13.3,A Symonds,Mohammad Hafeez,AS Yadav,0,Not out
+13.4,A Symonds,Mohammad Hafeez,AS Yadav,0,Not out
+13.5,A Symonds,Mohammad Hafeez,AS Yadav,1,Not out
+13.6,AS Yadav,Mohammad Hafeez,A Symonds,1,Not out
+14.1,AS Yadav,DJ Hussey,A Symonds,6,Not out
+14.2,AS Yadav,DJ Hussey,A Symonds,0,Not out
+14.3,AS Yadav,DJ Hussey,A Symonds,0,caught
+14.4,A Symonds,DJ Hussey,SB Bangar,1,Not out
+14.5,SB Bangar,DJ Hussey,A Symonds,1,Not out
+14.6,A Symonds,DJ Hussey,SB Bangar,4,Not out
+15.1,SB Bangar,I Sharma,A Symonds,0,Not out
+15.2,SB Bangar,I Sharma,A Symonds,1,Not out
+15.3,A Symonds,I Sharma,SB Bangar,0,Not out
+15.4,A Symonds,I Sharma,SB Bangar,0,Not out
+15.5,A Symonds,I Sharma,SB Bangar,0,Not out
+15.6,A Symonds,I Sharma,SB Bangar,2,Not out
+15.7,A Symonds,I Sharma,SB Bangar,1,Not out
+16.1,A Symonds,DJ Hussey,SB Bangar,0,Not out
+16.2,A Symonds,DJ Hussey,SB Bangar,0,Not out
+16.3,A Symonds,DJ Hussey,SB Bangar,6,Not out
+16.4,A Symonds,DJ Hussey,SB Bangar,6,Not out
+16.5,A Symonds,DJ Hussey,SB Bangar,1,Not out
+16.6,SB Bangar,DJ Hussey,A Symonds,6,Not out
+16.7,SB Bangar,DJ Hussey,A Symonds,0,Not out
+17.1,A Symonds,AB Agarkar,SB Bangar,1,Not out
+17.2,SB Bangar,AB Agarkar,A Symonds,0,Not out
+17.3,SB Bangar,AB Agarkar,A Symonds,1,Not out
+17.4,A Symonds,AB Agarkar,SB Bangar,0,caught
+17.5,SB Bangar,AB Agarkar,WPUJC Vaas,1,Not out
+17.6,WPUJC Vaas,AB Agarkar,SB Bangar,0,caught
+18.1,RP Singh,M Kartik,SB Bangar,1,Not out
+18.2,SB Bangar,M Kartik,RP Singh,4,Not out
+18.3,SB Bangar,M Kartik,RP Singh,0,caught
+18.4,RP Singh,M Kartik,PP Ojha,0,run out

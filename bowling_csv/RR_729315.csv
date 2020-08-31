@@ -1,0 +1,140 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,G Gambhir,STR Binny,MS Bisla,1,Not out
+0.2,MS Bisla,STR Binny,G Gambhir,1,Not out
+0.3,G Gambhir,STR Binny,MS Bisla,1,Not out
+0.4,MS Bisla,STR Binny,G Gambhir,1,Not out
+0.5,G Gambhir,STR Binny,MS Bisla,3,Not out
+0.6,MS Bisla,STR Binny,G Gambhir,0,Not out
+1.1,G Gambhir,KW Richardson,MS Bisla,0,Not out
+1.2,G Gambhir,KW Richardson,MS Bisla,4,Not out
+1.3,G Gambhir,KW Richardson,MS Bisla,1,Not out
+1.4,MS Bisla,KW Richardson,G Gambhir,0,Not out
+1.5,MS Bisla,KW Richardson,G Gambhir,0,Not out
+1.6,MS Bisla,KW Richardson,G Gambhir,0,Not out
+2.1,G Gambhir,JP Faulkner,MS Bisla,0,Not out
+2.2,MS Bisla,JP Faulkner,G Gambhir,1,Not out
+2.3,G Gambhir,JP Faulkner,MS Bisla,0,Not out
+2.4,G Gambhir,JP Faulkner,MS Bisla,0,Not out
+2.5,G Gambhir,JP Faulkner,MS Bisla,4,Not out
+2.6,G Gambhir,JP Faulkner,MS Bisla,0,Not out
+2.7,G Gambhir,JP Faulkner,MS Bisla,0,Not out
+3.1,G Gambhir,KW Richardson,MS Bisla,0,Not out
+3.2,G Gambhir,KW Richardson,MS Bisla,1,Not out
+3.3,MS Bisla,KW Richardson,G Gambhir,0,Not out
+3.4,MS Bisla,KW Richardson,G Gambhir,0,caught
+3.5,JH Kallis,KW Richardson,G Gambhir,0,Not out
+3.6,JH Kallis,KW Richardson,G Gambhir,0,Not out
+4.1,G Gambhir,Iqbal Abdulla,JH Kallis,1,Not out
+4.2,JH Kallis,Iqbal Abdulla,G Gambhir,1,Not out
+4.3,G Gambhir,Iqbal Abdulla,JH Kallis,2,Not out
+4.4,G Gambhir,Iqbal Abdulla,JH Kallis,4,Not out
+4.5,G Gambhir,Iqbal Abdulla,JH Kallis,1,Not out
+4.6,JH Kallis,Iqbal Abdulla,G Gambhir,0,Not out
+5.1,G Gambhir,SR Watson,JH Kallis,0,Not out
+5.2,G Gambhir,SR Watson,JH Kallis,1,Not out
+5.3,JH Kallis,SR Watson,G Gambhir,0,Not out
+5.4,JH Kallis,SR Watson,G Gambhir,1,Not out
+5.5,G Gambhir,SR Watson,JH Kallis,0,Not out
+5.6,G Gambhir,SR Watson,JH Kallis,0,Not out
+5.7,G Gambhir,SR Watson,JH Kallis,0,Not out
+6.1,JH Kallis,R Bhatia,G Gambhir,0,Not out
+6.2,JH Kallis,R Bhatia,G Gambhir,2,Not out
+6.3,JH Kallis,R Bhatia,G Gambhir,0,Not out
+6.4,JH Kallis,R Bhatia,G Gambhir,1,Not out
+6.5,G Gambhir,R Bhatia,JH Kallis,2,Not out
+6.6,G Gambhir,R Bhatia,JH Kallis,0,Not out
+7.1,JH Kallis,SR Watson,G Gambhir,0,Not out
+7.2,JH Kallis,SR Watson,G Gambhir,2,Not out
+7.3,JH Kallis,SR Watson,G Gambhir,1,Not out
+7.4,G Gambhir,SR Watson,JH Kallis,0,Not out
+7.5,G Gambhir,SR Watson,JH Kallis,1,Not out
+7.6,JH Kallis,SR Watson,G Gambhir,4,Not out
+8.1,G Gambhir,PV Tambe,JH Kallis,1,Not out
+8.2,JH Kallis,PV Tambe,G Gambhir,0,Not out
+8.3,JH Kallis,PV Tambe,G Gambhir,1,Not out
+8.4,G Gambhir,PV Tambe,JH Kallis,1,Not out
+8.5,JH Kallis,PV Tambe,G Gambhir,0,caught
+8.6,G Gambhir,PV Tambe,MK Pandey,1,Not out
+9.1,G Gambhir,R Bhatia,MK Pandey,1,Not out
+9.2,MK Pandey,R Bhatia,G Gambhir,1,Not out
+9.3,G Gambhir,R Bhatia,MK Pandey,4,Not out
+9.4,G Gambhir,R Bhatia,MK Pandey,1,Not out
+9.5,MK Pandey,R Bhatia,G Gambhir,0,Not out
+9.6,MK Pandey,R Bhatia,G Gambhir,2,Not out
+10.1,G Gambhir,PV Tambe,MK Pandey,0,Not out
+10.2,G Gambhir,PV Tambe,MK Pandey,0,Not out
+10.3,G Gambhir,PV Tambe,MK Pandey,1,Not out
+10.4,MK Pandey,PV Tambe,G Gambhir,0,Not out
+10.5,MK Pandey,PV Tambe,G Gambhir,1,Not out
+10.6,G Gambhir,PV Tambe,MK Pandey,2,Not out
+10.7,G Gambhir,PV Tambe,MK Pandey,1,Not out
+11.1,G Gambhir,R Bhatia,MK Pandey,1,Not out
+11.2,MK Pandey,R Bhatia,G Gambhir,1,Not out
+11.3,G Gambhir,R Bhatia,MK Pandey,2,Not out
+11.4,G Gambhir,R Bhatia,MK Pandey,1,Not out
+11.5,MK Pandey,R Bhatia,G Gambhir,2,Not out
+11.6,MK Pandey,R Bhatia,G Gambhir,1,Not out
+12.1,MK Pandey,PV Tambe,G Gambhir,1,Not out
+12.2,G Gambhir,PV Tambe,MK Pandey,0,Not out
+12.3,G Gambhir,PV Tambe,MK Pandey,0,Not out
+12.4,MK Pandey,PV Tambe,G Gambhir,6,Not out
+12.5,MK Pandey,PV Tambe,G Gambhir,4,Not out
+12.6,MK Pandey,PV Tambe,G Gambhir,0,lbw
+13.1,G Gambhir,R Bhatia,SA Yadav,1,Not out
+13.2,SA Yadav,R Bhatia,G Gambhir,0,Not out
+13.3,SA Yadav,R Bhatia,G Gambhir,0,Not out
+13.4,SA Yadav,R Bhatia,G Gambhir,1,Not out
+13.5,G Gambhir,R Bhatia,SA Yadav,0,caught
+13.6,Shakib Al Hasan,R Bhatia,SA Yadav,2,Not out
+13.7,Shakib Al Hasan,R Bhatia,SA Yadav,2,Not out
+14.1,SA Yadav,Iqbal Abdulla,Shakib Al Hasan,2,Not out
+14.2,SA Yadav,Iqbal Abdulla,Shakib Al Hasan,4,Not out
+14.3,SA Yadav,Iqbal Abdulla,Shakib Al Hasan,1,Not out
+14.4,Shakib Al Hasan,Iqbal Abdulla,SA Yadav,0,Not out
+14.5,Shakib Al Hasan,Iqbal Abdulla,SA Yadav,1,Not out
+14.6,SA Yadav,Iqbal Abdulla,Shakib Al Hasan,0,Not out
+15.1,SA Yadav,PV Tambe,Shakib Al Hasan,2,Not out
+15.2,SA Yadav,PV Tambe,Shakib Al Hasan,0,Not out
+15.3,SA Yadav,PV Tambe,Shakib Al Hasan,4,Not out
+15.4,SA Yadav,PV Tambe,Shakib Al Hasan,1,Not out
+15.5,Shakib Al Hasan,PV Tambe,SA Yadav,1,Not out
+15.6,SA Yadav,PV Tambe,Shakib Al Hasan,2,Not out
+16.1,Shakib Al Hasan,SR Watson,SA Yadav,1,Not out
+16.2,SA Yadav,SR Watson,Shakib Al Hasan,0,Not out
+16.3,SA Yadav,SR Watson,Shakib Al Hasan,1,Not out
+16.4,Shakib Al Hasan,SR Watson,SA Yadav,1,Not out
+16.5,SA Yadav,SR Watson,Shakib Al Hasan,6,Not out
+16.6,SA Yadav,SR Watson,Shakib Al Hasan,4,Not out
+16.7,SA Yadav,SR Watson,Shakib Al Hasan,1,Not out
+17.1,SA Yadav,KW Richardson,Shakib Al Hasan,1,Not out
+17.2,Shakib Al Hasan,KW Richardson,SA Yadav,4,Not out
+17.3,Shakib Al Hasan,KW Richardson,SA Yadav,4,Not out
+17.4,Shakib Al Hasan,KW Richardson,SA Yadav,0,Not out
+17.5,Shakib Al Hasan,KW Richardson,SA Yadav,1,Not out
+17.6,SA Yadav,KW Richardson,Shakib Al Hasan,1,Not out
+18.1,SA Yadav,JP Faulkner,Shakib Al Hasan,0,caught
+18.2,Shakib Al Hasan,JP Faulkner,RV Uthappa,2,Not out
+18.3,Shakib Al Hasan,JP Faulkner,RV Uthappa,0,Not out
+18.4,Shakib Al Hasan,JP Faulkner,RV Uthappa,1,Not out
+18.5,RV Uthappa,JP Faulkner,Shakib Al Hasan,0,bowled
+18.6,R Vinay Kumar,JP Faulkner,Shakib Al Hasan,0,bowled
+18.7,PP Chawla,JP Faulkner,Shakib Al Hasan,0,Not out
+19.1,Shakib Al Hasan,KW Richardson,PP Chawla,4,Not out
+19.2,Shakib Al Hasan,KW Richardson,PP Chawla,1,run out
+19.3,SP Narine,KW Richardson,Shakib Al Hasan,0,Not out
+19.4,SP Narine,KW Richardson,Shakib Al Hasan,1,Not out
+19.5,Shakib Al Hasan,KW Richardson,SP Narine,0,Not out
+19.6,Shakib Al Hasan,KW Richardson,SP Narine,2,Not out
+19.7,Shakib Al Hasan,KW Richardson,SP Narine,2,Not out
+0.1,SA Yadav,JP Faulkner,Shakib Al Hasan,0,run out
+0.2,MK Pandey,JP Faulkner,Shakib Al Hasan,1,Not out
+0.3,Shakib Al Hasan,JP Faulkner,MK Pandey,1,Not out
+0.4,MK Pandey,JP Faulkner,Shakib Al Hasan,6,Not out
+0.5,MK Pandey,JP Faulkner,Shakib Al Hasan,1,Not out
+0.6,Shakib Al Hasan,JP Faulkner,MK Pandey,1,run out
+0.1,SR Watson,SP Narine,SPD Smith,1,Not out
+0.2,SPD Smith,SP Narine,SR Watson,2,Not out
+0.3,SPD Smith,SP Narine,SR Watson,1,Not out
+0.4,SR Watson,SP Narine,SPD Smith,4,Not out
+0.5,SR Watson,SP Narine,SPD Smith,1,Not out
+0.6,SPD Smith,SP Narine,SR Watson,2,Not out

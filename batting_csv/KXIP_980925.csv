@@ -1,0 +1,126 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,M Vijay,M Morkel,M Vohra,0,Not out
+0.2,M Vijay,M Morkel,M Vohra,0,Not out
+0.3,M Vijay,M Morkel,M Vohra,0,Not out
+0.4,M Vijay,M Morkel,M Vohra,4,Not out
+0.5,M Vijay,M Morkel,M Vohra,1,Not out
+0.6,M Vohra,M Morkel,M Vijay,0,Not out
+1.1,M Vijay,UT Yadav,M Vohra,0,Not out
+1.2,M Vijay,UT Yadav,M Vohra,2,Not out
+1.3,M Vijay,UT Yadav,M Vohra,1,Not out
+1.4,M Vohra,UT Yadav,M Vijay,0,Not out
+1.5,M Vohra,UT Yadav,M Vijay,2,Not out
+1.6,M Vohra,UT Yadav,M Vijay,1,Not out
+2.1,M Vohra,Shakib Al Hasan,M Vijay,0,Not out
+2.2,M Vohra,Shakib Al Hasan,M Vijay,0,Not out
+2.3,M Vohra,Shakib Al Hasan,M Vijay,0,Not out
+2.4,M Vohra,Shakib Al Hasan,M Vijay,0,Not out
+2.5,M Vohra,Shakib Al Hasan,M Vijay,1,Not out
+2.6,M Vijay,Shakib Al Hasan,M Vohra,4,Not out
+2.7,M Vijay,Shakib Al Hasan,M Vohra,0,Not out
+3.1,M Vohra,M Morkel,M Vijay,2,Not out
+3.2,M Vohra,M Morkel,M Vijay,0,Not out
+3.3,M Vohra,M Morkel,M Vijay,2,Not out
+3.4,M Vohra,M Morkel,M Vijay,0,caught
+3.5,M Vijay,M Morkel,SE Marsh,1,Not out
+3.6,SE Marsh,M Morkel,M Vijay,4,Not out
+4.1,M Vijay,Shakib Al Hasan,SE Marsh,1,Not out
+4.2,SE Marsh,Shakib Al Hasan,M Vijay,0,Not out
+4.3,SE Marsh,Shakib Al Hasan,M Vijay,1,Not out
+4.4,M Vijay,Shakib Al Hasan,SE Marsh,4,Not out
+4.5,M Vijay,Shakib Al Hasan,SE Marsh,1,Not out
+4.6,SE Marsh,Shakib Al Hasan,M Vijay,2,Not out
+5.1,M Vijay,M Morkel,SE Marsh,0,Not out
+5.2,M Vijay,M Morkel,SE Marsh,4,Not out
+5.3,M Vijay,M Morkel,SE Marsh,1,Not out
+5.4,SE Marsh,M Morkel,M Vijay,0,Not out
+5.5,SE Marsh,M Morkel,M Vijay,0,Not out
+5.6,SE Marsh,M Morkel,M Vijay,1,Not out
+6.1,SE Marsh,SP Narine,M Vijay,0,Not out
+6.2,SE Marsh,SP Narine,M Vijay,1,Not out
+6.3,M Vijay,SP Narine,SE Marsh,0,Not out
+6.4,M Vijay,SP Narine,SE Marsh,1,Not out
+6.5,SE Marsh,SP Narine,M Vijay,0,Not out
+6.6,SE Marsh,SP Narine,M Vijay,1,Not out
+7.1,SE Marsh,PP Chawla,M Vijay,1,Not out
+7.2,M Vijay,PP Chawla,SE Marsh,1,Not out
+7.3,SE Marsh,PP Chawla,M Vijay,1,Not out
+7.4,M Vijay,PP Chawla,SE Marsh,0,Not out
+7.5,M Vijay,PP Chawla,SE Marsh,0,bowled
+7.6,WP Saha,PP Chawla,SE Marsh,1,Not out
+8.1,WP Saha,SP Narine,SE Marsh,0,Not out
+8.2,WP Saha,SP Narine,SE Marsh,0,Not out
+8.3,WP Saha,SP Narine,SE Marsh,0,Not out
+8.4,WP Saha,SP Narine,SE Marsh,0,Not out
+8.5,WP Saha,SP Narine,SE Marsh,2,Not out
+8.6,WP Saha,SP Narine,SE Marsh,0,Not out
+8.7,WP Saha,SP Narine,SE Marsh,1,Not out
+9.1,WP Saha,PP Chawla,SE Marsh,0,Not out
+9.2,WP Saha,PP Chawla,SE Marsh,0,Not out
+9.3,WP Saha,PP Chawla,SE Marsh,1,Not out
+9.4,SE Marsh,PP Chawla,WP Saha,1,Not out
+9.5,WP Saha,PP Chawla,SE Marsh,0,Not out
+9.6,WP Saha,PP Chawla,SE Marsh,2,Not out
+10.1,SE Marsh,SP Narine,WP Saha,1,Not out
+10.2,WP Saha,SP Narine,SE Marsh,1,Not out
+10.3,SE Marsh,SP Narine,WP Saha,0,Not out
+10.4,WP Saha,SP Narine,SE Marsh,0,caught
+10.5,DA Miller,SP Narine,SE Marsh,1,Not out
+10.6,SE Marsh,SP Narine,DA Miller,2,Not out
+11.1,DA Miller,PP Chawla,SE Marsh,4,Not out
+11.2,DA Miller,PP Chawla,SE Marsh,0,Not out
+11.3,DA Miller,PP Chawla,SE Marsh,0,Not out
+11.4,DA Miller,PP Chawla,SE Marsh,0,Not out
+11.5,DA Miller,PP Chawla,SE Marsh,1,Not out
+11.6,SE Marsh,PP Chawla,DA Miller,0,Not out
+11.7,SE Marsh,PP Chawla,DA Miller,4,Not out
+12.1,DA Miller,YK Pathan,SE Marsh,0,caught
+12.2,GJ Maxwell,YK Pathan,SE Marsh,0,Not out
+12.3,GJ Maxwell,YK Pathan,SE Marsh,1,Not out
+12.4,SE Marsh,YK Pathan,GJ Maxwell,1,Not out
+12.5,GJ Maxwell,YK Pathan,SE Marsh,0,Not out
+12.6,GJ Maxwell,YK Pathan,SE Marsh,0,Not out
+12.7,GJ Maxwell,YK Pathan,SE Marsh,1,Not out
+12.8,SE Marsh,YK Pathan,GJ Maxwell,1,Not out
+13.1,SE Marsh,Shakib Al Hasan,GJ Maxwell,0,Not out
+13.2,SE Marsh,Shakib Al Hasan,GJ Maxwell,4,Not out
+13.3,SE Marsh,Shakib Al Hasan,GJ Maxwell,0,Not out
+13.4,GJ Maxwell,Shakib Al Hasan,SE Marsh,0,Not out
+13.5,GJ Maxwell,Shakib Al Hasan,SE Marsh,1,Not out
+13.6,SE Marsh,Shakib Al Hasan,GJ Maxwell,1,Not out
+14.1,SE Marsh,SP Narine,GJ Maxwell,1,Not out
+14.2,GJ Maxwell,SP Narine,SE Marsh,1,Not out
+14.3,SE Marsh,SP Narine,GJ Maxwell,4,Not out
+14.4,SE Marsh,SP Narine,GJ Maxwell,3,Not out
+14.5,GJ Maxwell,SP Narine,SE Marsh,0,caught
+14.6,AR Patel,SP Narine,SE Marsh,1,Not out
+15.1,AR Patel,Shakib Al Hasan,SE Marsh,2,Not out
+15.2,AR Patel,Shakib Al Hasan,SE Marsh,1,Not out
+15.3,SE Marsh,Shakib Al Hasan,AR Patel,1,Not out
+15.4,AR Patel,Shakib Al Hasan,SE Marsh,1,Not out
+15.5,SE Marsh,Shakib Al Hasan,AR Patel,0,Not out
+15.6,SE Marsh,Shakib Al Hasan,AR Patel,2,Not out
+16.1,AR Patel,UT Yadav,SE Marsh,1,Not out
+16.2,SE Marsh,UT Yadav,AR Patel,1,Not out
+16.3,AR Patel,UT Yadav,SE Marsh,2,Not out
+16.4,AR Patel,UT Yadav,SE Marsh,1,Not out
+16.5,SE Marsh,UT Yadav,AR Patel,1,Not out
+16.6,AR Patel,UT Yadav,SE Marsh,0,caught
+17.1,SE Marsh,M Morkel,MM Sharma,4,Not out
+17.2,SE Marsh,M Morkel,MM Sharma,1,Not out
+17.3,MM Sharma,M Morkel,SE Marsh,0,Not out
+17.4,MM Sharma,M Morkel,SE Marsh,1,Not out
+17.5,SE Marsh,M Morkel,MM Sharma,1,Not out
+17.6,MM Sharma,M Morkel,SE Marsh,0,caught
+18.1,SE Marsh,UT Yadav,P Sahu,1,Not out
+18.2,P Sahu,UT Yadav,SE Marsh,1,Not out
+18.3,SE Marsh,UT Yadav,P Sahu,1,run out
+18.4,KJ Abbott,UT Yadav,SE Marsh,2,Not out
+18.5,KJ Abbott,UT Yadav,SE Marsh,0,Not out
+18.6,KJ Abbott,UT Yadav,SE Marsh,0,Not out
+19.1,SE Marsh,AD Russell,KJ Abbott,1,Not out
+19.2,KJ Abbott,AD Russell,SE Marsh,1,Not out
+19.3,SE Marsh,AD Russell,KJ Abbott,6,Not out
+19.4,SE Marsh,AD Russell,KJ Abbott,1,Not out
+19.5,KJ Abbott,AD Russell,SE Marsh,6,Not out
+19.6,KJ Abbott,AD Russell,SE Marsh,3,Not out

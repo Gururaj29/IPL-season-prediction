@@ -1,0 +1,118 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DR Smith,PP Ojha,BB McCullum,0,Not out
+0.2,DR Smith,PP Ojha,BB McCullum,0,Not out
+0.3,DR Smith,PP Ojha,BB McCullum,0,Not out
+0.4,DR Smith,PP Ojha,BB McCullum,0,Not out
+0.5,DR Smith,PP Ojha,BB McCullum,0,Not out
+0.6,DR Smith,PP Ojha,BB McCullum,0,Not out
+1.1,BB McCullum,Z Khan,DR Smith,0,Not out
+1.2,BB McCullum,Z Khan,DR Smith,1,Not out
+1.3,DR Smith,Z Khan,BB McCullum,0,Not out
+1.4,DR Smith,Z Khan,BB McCullum,0,Not out
+1.5,DR Smith,Z Khan,BB McCullum,0,Not out
+1.6,DR Smith,Z Khan,BB McCullum,1,Not out
+2.1,DR Smith,PP Ojha,BB McCullum,6,Not out
+2.2,DR Smith,PP Ojha,BB McCullum,0,Not out
+2.3,DR Smith,PP Ojha,BB McCullum,0,Not out
+2.4,DR Smith,PP Ojha,BB McCullum,6,Not out
+2.5,DR Smith,PP Ojha,BB McCullum,0,Not out
+2.6,DR Smith,PP Ojha,BB McCullum,1,Not out
+3.1,DR Smith,Z Khan,BB McCullum,6,Not out
+3.2,DR Smith,Z Khan,BB McCullum,1,Not out
+3.3,BB McCullum,Z Khan,DR Smith,0,Not out
+3.4,BB McCullum,Z Khan,DR Smith,2,Not out
+3.5,BB McCullum,Z Khan,DR Smith,4,Not out
+3.6,BB McCullum,Z Khan,DR Smith,4,Not out
+4.1,DR Smith,SL Malinga,BB McCullum,1,Not out
+4.2,BB McCullum,SL Malinga,DR Smith,0,Not out
+4.3,BB McCullum,SL Malinga,DR Smith,0,Not out
+4.4,DR Smith,SL Malinga,BB McCullum,1,Not out
+4.5,BB McCullum,SL Malinga,DR Smith,0,Not out
+4.6,BB McCullum,SL Malinga,DR Smith,0,Not out
+4.7,BB McCullum,SL Malinga,DR Smith,1,Not out
+5.1,BB McCullum,CJ Anderson,DR Smith,4,Not out
+5.2,BB McCullum,CJ Anderson,DR Smith,0,Not out
+5.3,BB McCullum,CJ Anderson,DR Smith,0,Not out
+5.4,BB McCullum,CJ Anderson,DR Smith,4,Not out
+5.5,BB McCullum,CJ Anderson,DR Smith,2,Not out
+5.6,BB McCullum,CJ Anderson,DR Smith,4,Not out
+6.1,DR Smith,PP Ojha,BB McCullum,6,Not out
+6.2,DR Smith,PP Ojha,BB McCullum,0,caught
+6.3,BB McCullum,PP Ojha,SK Raina,1,Not out
+6.4,SK Raina,PP Ojha,BB McCullum,1,Not out
+6.5,BB McCullum,PP Ojha,SK Raina,1,Not out
+6.6,SK Raina,PP Ojha,BB McCullum,0,Not out
+7.1,BB McCullum,Harbhajan Singh,SK Raina,0,Not out
+7.2,BB McCullum,Harbhajan Singh,SK Raina,1,Not out
+7.3,SK Raina,Harbhajan Singh,BB McCullum,0,Not out
+7.4,SK Raina,Harbhajan Singh,BB McCullum,0,stumped
+7.5,F du Plessis,Harbhajan Singh,BB McCullum,0,Not out
+7.6,F du Plessis,Harbhajan Singh,BB McCullum,1,Not out
+8.1,F du Plessis,PP Ojha,BB McCullum,0,Not out
+8.2,F du Plessis,PP Ojha,BB McCullum,0,Not out
+8.3,F du Plessis,PP Ojha,BB McCullum,1,Not out
+8.4,BB McCullum,PP Ojha,F du Plessis,0,Not out
+8.5,BB McCullum,PP Ojha,F du Plessis,1,Not out
+8.6,F du Plessis,PP Ojha,BB McCullum,1,Not out
+9.1,F du Plessis,Harbhajan Singh,BB McCullum,0,Not out
+9.2,F du Plessis,Harbhajan Singh,BB McCullum,2,Not out
+9.3,F du Plessis,Harbhajan Singh,BB McCullum,1,Not out
+9.4,BB McCullum,Harbhajan Singh,F du Plessis,6,Not out
+9.5,BB McCullum,Harbhajan Singh,F du Plessis,0,Not out
+9.6,BB McCullum,Harbhajan Singh,F du Plessis,0,Not out
+9.7,BB McCullum,Harbhajan Singh,F du Plessis,1,Not out
+10.1,BB McCullum,SL Malinga,F du Plessis,0,Not out
+10.2,BB McCullum,SL Malinga,F du Plessis,0,Not out
+10.3,BB McCullum,SL Malinga,F du Plessis,0,Not out
+10.4,BB McCullum,SL Malinga,F du Plessis,0,Not out
+10.5,BB McCullum,SL Malinga,F du Plessis,1,Not out
+10.6,F du Plessis,SL Malinga,BB McCullum,1,Not out
+11.1,F du Plessis,Harbhajan Singh,BB McCullum,0,Not out
+11.2,F du Plessis,Harbhajan Singh,BB McCullum,0,Not out
+11.3,F du Plessis,Harbhajan Singh,BB McCullum,0,Not out
+11.4,F du Plessis,Harbhajan Singh,BB McCullum,1,Not out
+11.5,BB McCullum,Harbhajan Singh,F du Plessis,4,Not out
+11.6,BB McCullum,Harbhajan Singh,F du Plessis,2,Not out
+12.1,F du Plessis,KA Pollard,BB McCullum,1,Not out
+12.2,BB McCullum,KA Pollard,F du Plessis,4,Not out
+12.3,BB McCullum,KA Pollard,F du Plessis,1,Not out
+12.4,F du Plessis,KA Pollard,BB McCullum,1,Not out
+12.5,BB McCullum,KA Pollard,F du Plessis,1,Not out
+12.6,F du Plessis,KA Pollard,BB McCullum,2,Not out
+13.1,BB McCullum,Z Khan,F du Plessis,0,Not out
+13.2,BB McCullum,Z Khan,F du Plessis,6,Not out
+13.3,BB McCullum,Z Khan,F du Plessis,0,Not out
+13.4,BB McCullum,Z Khan,F du Plessis,1,Not out
+13.5,F du Plessis,Z Khan,BB McCullum,0,Not out
+13.6,F du Plessis,Z Khan,BB McCullum,2,Not out
+14.1,BB McCullum,SL Malinga,F du Plessis,1,Not out
+14.2,F du Plessis,SL Malinga,BB McCullum,0,Not out
+14.3,F du Plessis,SL Malinga,BB McCullum,0,Not out
+14.4,F du Plessis,SL Malinga,BB McCullum,1,Not out
+14.5,BB McCullum,SL Malinga,F du Plessis,0,Not out
+14.6,BB McCullum,SL Malinga,F du Plessis,1,Not out
+15.1,BB McCullum,Harbhajan Singh,F du Plessis,1,Not out
+15.2,F du Plessis,Harbhajan Singh,BB McCullum,2,Not out
+15.3,F du Plessis,Harbhajan Singh,BB McCullum,2,Not out
+15.4,F du Plessis,Harbhajan Singh,BB McCullum,1,Not out
+15.5,BB McCullum,Harbhajan Singh,F du Plessis,1,Not out
+15.6,F du Plessis,Harbhajan Singh,BB McCullum,0,stumped
+16.1,BB McCullum,Z Khan,MS Dhoni,1,Not out
+16.2,MS Dhoni,Z Khan,BB McCullum,0,Not out
+16.3,MS Dhoni,Z Khan,BB McCullum,0,Not out
+16.4,MS Dhoni,Z Khan,BB McCullum,0,Not out
+16.5,BB McCullum,Z Khan,MS Dhoni,1,Not out
+16.6,MS Dhoni,Z Khan,BB McCullum,1,Not out
+17.1,MS Dhoni,SL Malinga,BB McCullum,0,Not out
+17.2,MS Dhoni,SL Malinga,BB McCullum,0,Not out
+17.3,MS Dhoni,SL Malinga,BB McCullum,6,Not out
+17.4,MS Dhoni,SL Malinga,BB McCullum,1,Not out
+17.5,BB McCullum,SL Malinga,MS Dhoni,4,Not out
+17.6,BB McCullum,SL Malinga,MS Dhoni,0,Not out
+17.7,BB McCullum,SL Malinga,MS Dhoni,1,Not out
+18.1,BB McCullum,CJ Anderson,MS Dhoni,1,Not out
+18.2,MS Dhoni,CJ Anderson,BB McCullum,4,Not out
+18.3,MS Dhoni,CJ Anderson,BB McCullum,1,Not out
+18.4,BB McCullum,CJ Anderson,MS Dhoni,1,Not out
+18.5,MS Dhoni,CJ Anderson,BB McCullum,1,Not out
+18.6,BB McCullum,CJ Anderson,MS Dhoni,1,Not out

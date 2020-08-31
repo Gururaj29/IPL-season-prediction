@@ -1,0 +1,124 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DR Smith,R Rampaul,SR Tendulkar,0,Not out
+0.2,DR Smith,R Rampaul,SR Tendulkar,0,Not out
+0.3,DR Smith,R Rampaul,SR Tendulkar,1,Not out
+0.4,SR Tendulkar,R Rampaul,DR Smith,2,Not out
+0.5,SR Tendulkar,R Rampaul,DR Smith,4,Not out
+0.6,SR Tendulkar,R Rampaul,DR Smith,0,Not out
+1.1,DR Smith,RP Singh,SR Tendulkar,0,Not out
+1.2,DR Smith,RP Singh,SR Tendulkar,0,Not out
+1.3,DR Smith,RP Singh,SR Tendulkar,0,Not out
+1.4,SR Tendulkar,RP Singh,DR Smith,1,Not out
+1.5,DR Smith,RP Singh,SR Tendulkar,0,Not out
+1.6,DR Smith,RP Singh,SR Tendulkar,2,Not out
+1.7,DR Smith,RP Singh,SR Tendulkar,0,Not out
+2.1,SR Tendulkar,R Rampaul,DR Smith,4,Not out
+2.2,SR Tendulkar,R Rampaul,DR Smith,0,Not out
+2.3,SR Tendulkar,R Rampaul,DR Smith,0,Not out
+2.4,SR Tendulkar,R Rampaul,DR Smith,4,Not out
+2.5,SR Tendulkar,R Rampaul,DR Smith,4,Not out
+2.6,SR Tendulkar,R Rampaul,DR Smith,4,Not out
+3.1,DR Smith,RP Singh,SR Tendulkar,1,Not out
+3.2,SR Tendulkar,RP Singh,DR Smith,0,Not out
+3.3,SR Tendulkar,RP Singh,DR Smith,0,Not out
+3.4,SR Tendulkar,RP Singh,DR Smith,0,lbw
+3.5,KD Karthik,RP Singh,DR Smith,1,Not out
+3.6,DR Smith,RP Singh,KD Karthik,1,Not out
+4.1,DR Smith,JD Unadkat,KD Karthik,1,Not out
+4.2,KD Karthik,JD Unadkat,DR Smith,0,Not out
+4.3,KD Karthik,JD Unadkat,DR Smith,1,Not out
+4.4,DR Smith,JD Unadkat,KD Karthik,4,Not out
+4.5,DR Smith,JD Unadkat,KD Karthik,0,Not out
+4.6,DR Smith,JD Unadkat,KD Karthik,1,Not out
+5.1,DR Smith,R Vinay Kumar,KD Karthik,0,Not out
+5.2,DR Smith,R Vinay Kumar,KD Karthik,4,Not out
+5.3,DR Smith,R Vinay Kumar,KD Karthik,0,Not out
+5.4,DR Smith,R Vinay Kumar,KD Karthik,0,Not out
+5.5,DR Smith,R Vinay Kumar,KD Karthik,2,Not out
+5.6,DR Smith,R Vinay Kumar,KD Karthik,4,Not out
+6.1,KD Karthik,J Syed Mohammad,DR Smith,1,Not out
+6.2,DR Smith,J Syed Mohammad,KD Karthik,1,Not out
+6.3,KD Karthik,J Syed Mohammad,DR Smith,1,Not out
+6.4,DR Smith,J Syed Mohammad,KD Karthik,1,Not out
+6.5,KD Karthik,J Syed Mohammad,DR Smith,1,Not out
+6.6,DR Smith,J Syed Mohammad,KD Karthik,2,Not out
+7.1,KD Karthik,JD Unadkat,DR Smith,6,Not out
+7.2,KD Karthik,JD Unadkat,DR Smith,1,Not out
+7.3,DR Smith,JD Unadkat,KD Karthik,0,Not out
+7.4,DR Smith,JD Unadkat,KD Karthik,0,Not out
+7.5,DR Smith,JD Unadkat,KD Karthik,0,Not out
+7.6,DR Smith,JD Unadkat,KD Karthik,1,Not out
+8.1,DR Smith,R Vinay Kumar,KD Karthik,6,Not out
+8.2,DR Smith,R Vinay Kumar,KD Karthik,4,Not out
+8.3,DR Smith,R Vinay Kumar,KD Karthik,0,Not out
+8.4,DR Smith,R Vinay Kumar,KD Karthik,6,Not out
+8.5,DR Smith,R Vinay Kumar,KD Karthik,0,Not out
+8.6,KD Karthik,R Vinay Kumar,DR Smith,2,Not out
+9.1,DR Smith,JD Unadkat,KD Karthik,6,Not out
+9.2,DR Smith,JD Unadkat,KD Karthik,1,Not out
+9.3,KD Karthik,JD Unadkat,DR Smith,0,Not out
+9.4,KD Karthik,JD Unadkat,DR Smith,1,Not out
+9.5,DR Smith,JD Unadkat,KD Karthik,1,Not out
+9.6,KD Karthik,JD Unadkat,DR Smith,2,Not out
+10.1,DR Smith,J Syed Mohammad,KD Karthik,0,bowled
+10.2,RG Sharma,J Syed Mohammad,KD Karthik,4,Not out
+10.3,RG Sharma,J Syed Mohammad,KD Karthik,1,Not out
+10.4,KD Karthik,J Syed Mohammad,RG Sharma,1,Not out
+10.5,RG Sharma,J Syed Mohammad,KD Karthik,1,Not out
+10.6,KD Karthik,J Syed Mohammad,RG Sharma,2,Not out
+11.1,RG Sharma,R Rampaul,KD Karthik,1,Not out
+11.2,KD Karthik,R Rampaul,RG Sharma,0,Not out
+11.3,KD Karthik,R Rampaul,RG Sharma,1,Not out
+11.4,RG Sharma,R Rampaul,KD Karthik,0,Not out
+11.5,RG Sharma,R Rampaul,KD Karthik,1,Not out
+11.6,KD Karthik,R Rampaul,RG Sharma,1,Not out
+12.1,KD Karthik,J Syed Mohammad,RG Sharma,1,Not out
+12.2,RG Sharma,J Syed Mohammad,KD Karthik,1,Not out
+12.3,KD Karthik,J Syed Mohammad,RG Sharma,4,Not out
+12.4,KD Karthik,J Syed Mohammad,RG Sharma,1,Not out
+12.5,RG Sharma,J Syed Mohammad,KD Karthik,1,run out
+12.6,KD Karthik,J Syed Mohammad,KA Pollard,1,Not out
+13.1,KD Karthik,JD Unadkat,KA Pollard,0,Not out
+13.2,KD Karthik,JD Unadkat,KA Pollard,1,Not out
+13.3,KA Pollard,JD Unadkat,KD Karthik,0,Not out
+13.4,KA Pollard,JD Unadkat,KD Karthik,0,Not out
+13.5,KA Pollard,JD Unadkat,KD Karthik,1,Not out
+13.6,KD Karthik,JD Unadkat,KA Pollard,4,Not out
+14.1,KA Pollard,J Syed Mohammad,KD Karthik,6,Not out
+14.2,KA Pollard,J Syed Mohammad,KD Karthik,2,Not out
+14.3,KA Pollard,J Syed Mohammad,KD Karthik,2,Not out
+14.4,KA Pollard,J Syed Mohammad,KD Karthik,1,Not out
+14.5,KD Karthik,J Syed Mohammad,KA Pollard,1,Not out
+14.6,KA Pollard,J Syed Mohammad,KD Karthik,6,Not out
+15.1,KD Karthik,R Vinay Kumar,KA Pollard,4,Not out
+15.2,KD Karthik,R Vinay Kumar,KA Pollard,0,Not out
+15.3,KD Karthik,R Vinay Kumar,KA Pollard,2,Not out
+15.4,KD Karthik,R Vinay Kumar,KA Pollard,0,Not out
+15.5,KD Karthik,R Vinay Kumar,KA Pollard,0,Not out
+15.6,KD Karthik,R Vinay Kumar,KA Pollard,0,Not out
+15.7,KD Karthik,R Vinay Kumar,KA Pollard,1,Not out
+16.1,KD Karthik,RP Singh,KA Pollard,1,Not out
+16.2,KA Pollard,RP Singh,KD Karthik,0,Not out
+16.3,KA Pollard,RP Singh,KD Karthik,4,Not out
+16.4,KA Pollard,RP Singh,KD Karthik,6,Not out
+16.5,KA Pollard,RP Singh,KD Karthik,0,Not out
+16.6,KA Pollard,RP Singh,KD Karthik,4,Not out
+16.7,KA Pollard,RP Singh,KD Karthik,1,Not out
+17.1,KA Pollard,R Vinay Kumar,KD Karthik,1,Not out
+17.2,KD Karthik,R Vinay Kumar,KA Pollard,0,run out
+17.3,KA Pollard,R Vinay Kumar,AT Rayudu,0,run out
+17.4,KA Pollard,R Vinay Kumar,Harbhajan Singh,0,caught
+17.5,Harbhajan Singh,R Vinay Kumar,MG Johnson,0,Not out
+17.6,Harbhajan Singh,R Vinay Kumar,MG Johnson,1,Not out
+18.1,Harbhajan Singh,RP Singh,MG Johnson,2,Not out
+18.2,Harbhajan Singh,RP Singh,MG Johnson,4,Not out
+18.3,Harbhajan Singh,RP Singh,MG Johnson,1,Not out
+18.4,MG Johnson,RP Singh,Harbhajan Singh,1,Not out
+18.5,Harbhajan Singh,RP Singh,MG Johnson,4,Not out
+18.6,Harbhajan Singh,RP Singh,MG Johnson,4,Not out
+19.1,MG Johnson,R Rampaul,Harbhajan Singh,1,Not out
+19.2,Harbhajan Singh,R Rampaul,MG Johnson,0,caught
+19.3,MG Johnson,R Rampaul,SL Malinga,0,Not out
+19.4,MG Johnson,R Rampaul,SL Malinga,6,Not out
+19.5,MG Johnson,R Rampaul,SL Malinga,1,Not out
+19.6,SL Malinga,R Rampaul,MG Johnson,0,Not out

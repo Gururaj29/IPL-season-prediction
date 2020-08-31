@@ -1,0 +1,117 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,PA Patel,Sohail Tanvir,SP Fleming,0,lbw
+0.2,S Vidyut,Sohail Tanvir,SP Fleming,0,Not out
+0.3,S Vidyut,Sohail Tanvir,SP Fleming,1,Not out
+0.4,SP Fleming,Sohail Tanvir,S Vidyut,0,Not out
+0.5,SP Fleming,Sohail Tanvir,S Vidyut,0,lbw
+0.6,SK Raina,Sohail Tanvir,S Vidyut,0,Not out
+1.1,S Vidyut,SR Watson,SK Raina,4,Not out
+1.2,S Vidyut,SR Watson,SK Raina,0,Not out
+1.3,S Vidyut,SR Watson,SK Raina,0,Not out
+1.4,S Vidyut,SR Watson,SK Raina,0,Not out
+1.5,S Vidyut,SR Watson,SK Raina,0,Not out
+1.6,S Vidyut,SR Watson,SK Raina,0,Not out
+1.7,S Vidyut,SR Watson,SK Raina,0,Not out
+2.1,SK Raina,Sohail Tanvir,S Vidyut,0,Not out
+2.2,SK Raina,Sohail Tanvir,S Vidyut,0,Not out
+2.3,SK Raina,Sohail Tanvir,S Vidyut,1,Not out
+2.4,S Vidyut,Sohail Tanvir,SK Raina,0,Not out
+2.5,S Vidyut,Sohail Tanvir,SK Raina,0,caught
+2.6,S Badrinath,Sohail Tanvir,SK Raina,0,Not out
+3.1,S Badrinath,MM Patel,SK Raina,0,Not out
+3.2,S Badrinath,MM Patel,SK Raina,0,Not out
+3.3,S Badrinath,MM Patel,SK Raina,0,Not out
+3.4,S Badrinath,MM Patel,SK Raina,0,Not out
+3.5,S Badrinath,MM Patel,SK Raina,4,Not out
+3.6,S Badrinath,MM Patel,SK Raina,0,Not out
+4.1,SK Raina,SK Trivedi,S Badrinath,4,Not out
+4.2,SK Raina,SK Trivedi,S Badrinath,1,Not out
+4.3,S Badrinath,SK Trivedi,SK Raina,0,Not out
+4.4,S Badrinath,SK Trivedi,SK Raina,3,Not out
+4.5,SK Raina,SK Trivedi,S Badrinath,4,Not out
+4.6,SK Raina,SK Trivedi,S Badrinath,2,Not out
+5.1,S Badrinath,SR Watson,SK Raina,4,Not out
+5.2,S Badrinath,SR Watson,SK Raina,0,Not out
+5.3,S Badrinath,SR Watson,SK Raina,0,Not out
+5.4,S Badrinath,SR Watson,SK Raina,4,Not out
+5.5,S Badrinath,SR Watson,SK Raina,0,caught and bowled
+5.6,MS Dhoni,SR Watson,SK Raina,0,Not out
+6.1,SK Raina,MM Patel,MS Dhoni,1,Not out
+6.2,MS Dhoni,MM Patel,SK Raina,1,Not out
+6.3,SK Raina,MM Patel,MS Dhoni,0,Not out
+6.4,SK Raina,MM Patel,MS Dhoni,1,Not out
+6.5,MS Dhoni,MM Patel,SK Raina,0,Not out
+6.6,MS Dhoni,MM Patel,SK Raina,0,Not out
+7.1,SK Raina,SK Warne,MS Dhoni,2,Not out
+7.2,SK Raina,SK Warne,MS Dhoni,1,Not out
+7.3,MS Dhoni,SK Warne,SK Raina,0,Not out
+7.4,MS Dhoni,SK Warne,SK Raina,0,Not out
+7.5,MS Dhoni,SK Warne,SK Raina,0,caught
+7.6,JA Morkel,SK Warne,SK Raina,2,Not out
+8.1,SK Raina,MM Patel,JA Morkel,1,Not out
+8.2,JA Morkel,MM Patel,SK Raina,0,Not out
+8.3,JA Morkel,MM Patel,SK Raina,1,Not out
+8.4,SK Raina,MM Patel,JA Morkel,1,Not out
+8.5,JA Morkel,MM Patel,SK Raina,1,Not out
+8.6,SK Raina,MM Patel,JA Morkel,1,Not out
+9.1,SK Raina,SK Warne,JA Morkel,1,Not out
+9.2,JA Morkel,SK Warne,SK Raina,0,Not out
+9.3,JA Morkel,SK Warne,SK Raina,1,Not out
+9.4,SK Raina,SK Warne,JA Morkel,0,Not out
+9.5,SK Raina,SK Warne,JA Morkel,1,Not out
+9.6,JA Morkel,SK Warne,SK Raina,4,Not out
+10.1,SK Raina,YK Pathan,JA Morkel,0,Not out
+10.2,SK Raina,YK Pathan,JA Morkel,1,Not out
+10.3,JA Morkel,YK Pathan,SK Raina,0,Not out
+10.4,JA Morkel,YK Pathan,SK Raina,0,Not out
+10.5,JA Morkel,YK Pathan,SK Raina,0,Not out
+10.6,JA Morkel,YK Pathan,SK Raina,0,Not out
+11.1,SK Raina,SK Warne,JA Morkel,1,Not out
+11.2,JA Morkel,SK Warne,SK Raina,4,Not out
+11.3,JA Morkel,SK Warne,SK Raina,0,Not out
+11.4,JA Morkel,SK Warne,SK Raina,6,Not out
+11.5,JA Morkel,SK Warne,SK Raina,4,Not out
+11.6,JA Morkel,SK Warne,SK Raina,2,Not out
+12.1,SK Raina,YK Pathan,JA Morkel,1,Not out
+12.2,JA Morkel,YK Pathan,SK Raina,4,Not out
+12.3,JA Morkel,YK Pathan,SK Raina,1,Not out
+12.4,SK Raina,YK Pathan,JA Morkel,1,Not out
+12.5,JA Morkel,YK Pathan,SK Raina,1,Not out
+12.6,SK Raina,YK Pathan,JA Morkel,0,Not out
+13.1,JA Morkel,SK Trivedi,SK Raina,0,Not out
+13.2,JA Morkel,SK Trivedi,SK Raina,0,Not out
+13.3,JA Morkel,SK Trivedi,SK Raina,1,Not out
+13.4,SK Raina,SK Trivedi,JA Morkel,1,Not out
+13.5,JA Morkel,SK Trivedi,SK Raina,0,Not out
+13.6,JA Morkel,SK Trivedi,SK Raina,1,Not out
+14.1,JA Morkel,MM Patel,SK Raina,1,Not out
+14.2,SK Raina,MM Patel,JA Morkel,0,caught
+14.3,JA Morkel,MM Patel,Joginder Sharma,2,Not out
+14.4,JA Morkel,MM Patel,Joginder Sharma,1,Not out
+14.5,Joginder Sharma,MM Patel,JA Morkel,0,caught
+14.6,MS Gony,MM Patel,JA Morkel,0,Not out
+15.1,JA Morkel,SR Watson,MS Gony,2,Not out
+15.2,JA Morkel,SR Watson,MS Gony,2,Not out
+15.3,JA Morkel,SR Watson,MS Gony,0,Not out
+15.4,JA Morkel,SR Watson,MS Gony,0,Not out
+15.5,JA Morkel,SR Watson,MS Gony,1,Not out
+15.6,MS Gony,SR Watson,JA Morkel,0,Not out
+16.1,JA Morkel,Sohail Tanvir,MS Gony,0,bowled
+16.2,M Muralitharan,Sohail Tanvir,MS Gony,0,Not out
+16.3,M Muralitharan,Sohail Tanvir,MS Gony,0,Not out
+16.4,M Muralitharan,Sohail Tanvir,MS Gony,0,bowled
+16.5,M Ntini,Sohail Tanvir,MS Gony,0,Not out
+16.6,M Ntini,Sohail Tanvir,MS Gony,1,Not out
+17.1,M Ntini,SR Watson,MS Gony,0,Not out
+17.2,M Ntini,SR Watson,MS Gony,0,Not out
+17.3,M Ntini,SR Watson,MS Gony,0,Not out
+17.4,M Ntini,SR Watson,MS Gony,0,Not out
+17.5,M Ntini,SR Watson,MS Gony,0,Not out
+17.6,M Ntini,SR Watson,MS Gony,0,Not out
+17.7,M Ntini,SR Watson,MS Gony,0,Not out
+18.1,MS Gony,Sohail Tanvir,M Ntini,0,Not out
+18.2,MS Gony,Sohail Tanvir,M Ntini,1,Not out
+18.3,M Ntini,Sohail Tanvir,MS Gony,4,Not out
+18.4,M Ntini,Sohail Tanvir,MS Gony,4,Not out
+18.5,M Ntini,Sohail Tanvir,MS Gony,2,Not out
+18.6,M Ntini,Sohail Tanvir,MS Gony,0,bowled

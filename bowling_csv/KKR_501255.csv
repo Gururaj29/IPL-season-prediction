@@ -1,0 +1,80 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,CH Gayle,B Lee,LA Pomersbach,4,Not out
+0.2,CH Gayle,B Lee,LA Pomersbach,4,Not out
+0.3,CH Gayle,B Lee,LA Pomersbach,0,Not out
+0.4,CH Gayle,B Lee,LA Pomersbach,4,Not out
+0.5,CH Gayle,B Lee,LA Pomersbach,4,Not out
+0.6,CH Gayle,B Lee,LA Pomersbach,0,Not out
+1.1,LA Pomersbach,JD Unadkat,CH Gayle,4,Not out
+1.2,LA Pomersbach,JD Unadkat,CH Gayle,1,Not out
+1.3,CH Gayle,JD Unadkat,LA Pomersbach,6,Not out
+1.4,CH Gayle,JD Unadkat,LA Pomersbach,6,Not out
+1.5,CH Gayle,JD Unadkat,LA Pomersbach,2,Not out
+1.6,CH Gayle,JD Unadkat,LA Pomersbach,4,Not out
+2.1,LA Pomersbach,B Lee,CH Gayle,0,Not out
+2.2,LA Pomersbach,B Lee,CH Gayle,1,Not out
+2.3,CH Gayle,B Lee,LA Pomersbach,4,Not out
+2.4,CH Gayle,B Lee,LA Pomersbach,0,caught
+2.5,LA Pomersbach,B Lee,V Kohli,2,Not out
+2.6,LA Pomersbach,B Lee,V Kohli,0,Not out
+3.1,V Kohli,JH Kallis,LA Pomersbach,0,Not out
+3.2,V Kohli,JH Kallis,LA Pomersbach,0,Not out
+3.3,V Kohli,JH Kallis,LA Pomersbach,0,Not out
+3.4,V Kohli,JH Kallis,LA Pomersbach,0,Not out
+3.5,V Kohli,JH Kallis,LA Pomersbach,1,Not out
+3.6,LA Pomersbach,JH Kallis,V Kohli,0,Not out
+3.7,LA Pomersbach,JH Kallis,V Kohli,2,Not out
+4.1,V Kohli,B Lee,LA Pomersbach,4,Not out
+4.2,V Kohli,B Lee,LA Pomersbach,1,Not out
+4.3,LA Pomersbach,B Lee,V Kohli,0,Not out
+4.4,LA Pomersbach,B Lee,V Kohli,0,Not out
+4.5,LA Pomersbach,B Lee,V Kohli,0,Not out
+4.6,LA Pomersbach,B Lee,V Kohli,1,Not out
+4.7,V Kohli,B Lee,LA Pomersbach,1,Not out
+5.1,V Kohli,JH Kallis,LA Pomersbach,1,Not out
+5.2,LA Pomersbach,JH Kallis,V Kohli,1,Not out
+5.3,V Kohli,JH Kallis,LA Pomersbach,1,Not out
+5.4,LA Pomersbach,JH Kallis,V Kohli,4,Not out
+5.5,LA Pomersbach,JH Kallis,V Kohli,0,caught
+5.6,AB de Villiers,JH Kallis,V Kohli,0,Not out
+6.1,V Kohli,Iqbal Abdulla,AB de Villiers,0,Not out
+6.2,V Kohli,Iqbal Abdulla,AB de Villiers,4,Not out
+6.3,V Kohli,Iqbal Abdulla,AB de Villiers,0,Not out
+6.4,V Kohli,Iqbal Abdulla,AB de Villiers,1,Not out
+6.5,AB de Villiers,Iqbal Abdulla,V Kohli,0,Not out
+6.6,AB de Villiers,Iqbal Abdulla,V Kohli,0,Not out
+7.1,V Kohli,JH Kallis,AB de Villiers,1,Not out
+7.2,AB de Villiers,JH Kallis,V Kohli,1,Not out
+7.3,V Kohli,JH Kallis,AB de Villiers,0,caught
+7.4,M Kaif,JH Kallis,AB de Villiers,0,Not out
+7.5,M Kaif,JH Kallis,AB de Villiers,2,Not out
+7.6,M Kaif,JH Kallis,AB de Villiers,1,Not out
+8.1,M Kaif,Iqbal Abdulla,AB de Villiers,2,Not out
+8.2,M Kaif,Iqbal Abdulla,AB de Villiers,2,Not out
+8.3,M Kaif,Iqbal Abdulla,AB de Villiers,0,Not out
+8.4,M Kaif,Iqbal Abdulla,AB de Villiers,1,Not out
+8.5,AB de Villiers,Iqbal Abdulla,M Kaif,4,Not out
+8.6,AB de Villiers,Iqbal Abdulla,M Kaif,1,Not out
+9.1,AB de Villiers,L Balaji,M Kaif,1,Not out
+9.2,M Kaif,L Balaji,AB de Villiers,0,Not out
+9.3,M Kaif,L Balaji,AB de Villiers,0,Not out
+9.4,M Kaif,L Balaji,AB de Villiers,0,Not out
+9.5,M Kaif,L Balaji,AB de Villiers,1,Not out
+9.6,AB de Villiers,L Balaji,M Kaif,0,Not out
+9.7,AB de Villiers,L Balaji,M Kaif,0,Not out
+10.1,M Kaif,JD Unadkat,AB de Villiers,0,Not out
+10.2,M Kaif,JD Unadkat,AB de Villiers,4,Not out
+10.3,M Kaif,JD Unadkat,AB de Villiers,2,Not out
+10.4,M Kaif,JD Unadkat,AB de Villiers,0,caught
+10.5,KB Arun Karthik,JD Unadkat,AB de Villiers,1,Not out
+10.6,AB de Villiers,JD Unadkat,KB Arun Karthik,0,Not out
+11.1,KB Arun Karthik,Iqbal Abdulla,AB de Villiers,0,caught
+11.2,AB de Villiers,Iqbal Abdulla,SS Tiwary,1,Not out
+11.3,SS Tiwary,Iqbal Abdulla,AB de Villiers,0,Not out
+11.4,SS Tiwary,Iqbal Abdulla,AB de Villiers,1,Not out
+11.5,AB de Villiers,Iqbal Abdulla,SS Tiwary,1,Not out
+11.6,SS Tiwary,Iqbal Abdulla,AB de Villiers,0,Not out
+12.1,AB de Villiers,L Balaji,SS Tiwary,0,Not out
+12.2,SS Tiwary,L Balaji,AB de Villiers,0,Not out
+12.3,SS Tiwary,L Balaji,AB de Villiers,0,run out
+12.4,AB de Villiers,L Balaji,A Mithun,4,Not out

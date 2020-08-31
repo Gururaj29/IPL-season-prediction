@@ -1,0 +1,122 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MD Mishra,Z Khan,MJ Clarke,0,Not out
+0.2,MD Mishra,Z Khan,MJ Clarke,0,Not out
+0.3,MD Mishra,Z Khan,MJ Clarke,4,Not out
+0.4,MD Mishra,Z Khan,MJ Clarke,0,lbw
+0.5,MK Pandey,Z Khan,MJ Clarke,0,Not out
+0.6,MK Pandey,Z Khan,MJ Clarke,0,bowled
+1.1,MJ Clarke,R Vinay Kumar,RV Uthappa,1,Not out
+1.2,RV Uthappa,R Vinay Kumar,MJ Clarke,0,Not out
+1.3,RV Uthappa,R Vinay Kumar,MJ Clarke,1,Not out
+1.4,MJ Clarke,R Vinay Kumar,RV Uthappa,4,Not out
+1.5,MJ Clarke,R Vinay Kumar,RV Uthappa,0,Not out
+1.6,MJ Clarke,R Vinay Kumar,RV Uthappa,0,Not out
+2.1,RV Uthappa,Z Khan,MJ Clarke,0,Not out
+2.2,RV Uthappa,Z Khan,MJ Clarke,0,Not out
+2.3,RV Uthappa,Z Khan,MJ Clarke,3,Not out
+2.4,MJ Clarke,Z Khan,RV Uthappa,0,Not out
+2.5,MJ Clarke,Z Khan,RV Uthappa,1,Not out
+2.6,RV Uthappa,Z Khan,MJ Clarke,0,Not out
+3.1,MJ Clarke,R Vinay Kumar,RV Uthappa,2,Not out
+3.2,MJ Clarke,R Vinay Kumar,RV Uthappa,4,Not out
+3.3,MJ Clarke,R Vinay Kumar,RV Uthappa,1,Not out
+3.4,RV Uthappa,R Vinay Kumar,MJ Clarke,1,Not out
+3.5,MJ Clarke,R Vinay Kumar,RV Uthappa,0,caught
+3.6,RV Uthappa,R Vinay Kumar,AP Majumdar,4,Not out
+4.1,AP Majumdar,HV Patel,RV Uthappa,0,Not out
+4.2,AP Majumdar,HV Patel,RV Uthappa,1,Not out
+4.3,AP Majumdar,HV Patel,RV Uthappa,1,Not out
+4.4,RV Uthappa,HV Patel,AP Majumdar,4,Not out
+4.5,RV Uthappa,HV Patel,AP Majumdar,2,Not out
+4.6,RV Uthappa,HV Patel,AP Majumdar,4,Not out
+5.1,AP Majumdar,KP Appanna,RV Uthappa,0,Not out
+5.2,RV Uthappa,KP Appanna,AP Majumdar,0,Not out
+5.3,RV Uthappa,KP Appanna,AP Majumdar,1,Not out
+5.4,AP Majumdar,KP Appanna,RV Uthappa,4,Not out
+5.5,AP Majumdar,KP Appanna,RV Uthappa,2,Not out
+5.6,AP Majumdar,KP Appanna,RV Uthappa,4,Not out
+6.1,RV Uthappa,M Muralitharan,AP Majumdar,0,Not out
+6.2,RV Uthappa,M Muralitharan,AP Majumdar,0,Not out
+6.3,RV Uthappa,M Muralitharan,AP Majumdar,4,Not out
+6.4,RV Uthappa,M Muralitharan,AP Majumdar,1,Not out
+6.5,AP Majumdar,M Muralitharan,RV Uthappa,1,Not out
+6.6,RV Uthappa,M Muralitharan,AP Majumdar,0,Not out
+7.1,AP Majumdar,HV Patel,RV Uthappa,1,Not out
+7.2,RV Uthappa,HV Patel,AP Majumdar,4,Not out
+7.3,RV Uthappa,HV Patel,AP Majumdar,6,Not out
+7.4,RV Uthappa,HV Patel,AP Majumdar,2,Not out
+7.5,RV Uthappa,HV Patel,AP Majumdar,1,Not out
+7.6,AP Majumdar,HV Patel,RV Uthappa,1,Not out
+8.1,AP Majumdar,M Muralitharan,RV Uthappa,0,Not out
+8.2,AP Majumdar,M Muralitharan,RV Uthappa,1,Not out
+8.3,RV Uthappa,M Muralitharan,AP Majumdar,0,stumped
+8.4,AD Mathews,M Muralitharan,AP Majumdar,0,Not out
+8.5,AD Mathews,M Muralitharan,AP Majumdar,0,Not out
+8.6,AD Mathews,M Muralitharan,AP Majumdar,1,Not out
+9.1,AD Mathews,KP Appanna,AP Majumdar,0,Not out
+9.2,AD Mathews,KP Appanna,AP Majumdar,0,Not out
+9.3,AD Mathews,KP Appanna,AP Majumdar,1,Not out
+9.4,AP Majumdar,KP Appanna,AD Mathews,0,Not out
+9.5,AP Majumdar,KP Appanna,AD Mathews,4,Not out
+9.6,AP Majumdar,KP Appanna,AD Mathews,0,Not out
+9.7,AP Majumdar,KP Appanna,AD Mathews,1,Not out
+10.1,AP Majumdar,M Muralitharan,AD Mathews,1,Not out
+10.2,AD Mathews,M Muralitharan,AP Majumdar,1,Not out
+10.3,AP Majumdar,M Muralitharan,AD Mathews,0,Not out
+10.4,AP Majumdar,M Muralitharan,AD Mathews,1,Not out
+10.5,AD Mathews,M Muralitharan,AP Majumdar,0,Not out
+10.6,AD Mathews,M Muralitharan,AP Majumdar,1,Not out
+11.1,AD Mathews,KP Appanna,AP Majumdar,0,stumped
+11.2,SPD Smith,KP Appanna,AP Majumdar,2,Not out
+11.3,SPD Smith,KP Appanna,AP Majumdar,0,Not out
+11.4,SPD Smith,KP Appanna,AP Majumdar,0,Not out
+11.5,SPD Smith,KP Appanna,AP Majumdar,1,Not out
+11.6,AP Majumdar,KP Appanna,SPD Smith,1,Not out
+12.1,AP Majumdar,HV Patel,SPD Smith,0,Not out
+12.2,AP Majumdar,HV Patel,SPD Smith,4,Not out
+12.3,AP Majumdar,HV Patel,SPD Smith,0,Not out
+12.4,AP Majumdar,HV Patel,SPD Smith,1,Not out
+12.5,SPD Smith,HV Patel,AP Majumdar,0,Not out
+12.6,SPD Smith,HV Patel,AP Majumdar,1,Not out
+13.1,SPD Smith,KP Appanna,AP Majumdar,1,Not out
+13.2,AP Majumdar,KP Appanna,SPD Smith,1,Not out
+13.3,SPD Smith,KP Appanna,AP Majumdar,1,Not out
+13.4,AP Majumdar,KP Appanna,SPD Smith,1,Not out
+13.5,SPD Smith,KP Appanna,AP Majumdar,4,Not out
+13.6,SPD Smith,KP Appanna,AP Majumdar,0,Not out
+14.1,AP Majumdar,HV Patel,SPD Smith,0,caught
+14.2,SPD Smith,HV Patel,B Kumar,1,Not out
+14.3,B Kumar,HV Patel,SPD Smith,1,Not out
+14.4,SPD Smith,HV Patel,B Kumar,0,Not out
+14.5,SPD Smith,HV Patel,B Kumar,1,Not out
+14.6,B Kumar,HV Patel,SPD Smith,0,Not out
+15.1,SPD Smith,M Muralitharan,B Kumar,1,Not out
+15.2,B Kumar,M Muralitharan,SPD Smith,1,Not out
+15.3,SPD Smith,M Muralitharan,B Kumar,0,Not out
+15.4,SPD Smith,M Muralitharan,B Kumar,1,Not out
+15.5,B Kumar,M Muralitharan,SPD Smith,0,bowled
+15.6,AC Thomas,M Muralitharan,SPD Smith,1,Not out
+16.1,AC Thomas,Z Khan,SPD Smith,1,Not out
+16.2,SPD Smith,Z Khan,AC Thomas,1,Not out
+16.3,AC Thomas,Z Khan,SPD Smith,1,Not out
+16.4,SPD Smith,Z Khan,AC Thomas,0,Not out
+16.5,AC Thomas,Z Khan,SPD Smith,0,Not out
+16.6,AC Thomas,Z Khan,SPD Smith,4,Not out
+17.1,SPD Smith,R Vinay Kumar,AC Thomas,1,Not out
+17.2,AC Thomas,R Vinay Kumar,SPD Smith,0,bowled
+17.3,R Sharma,R Vinay Kumar,SPD Smith,0,Not out
+17.4,SPD Smith,R Vinay Kumar,R Sharma,2,Not out
+17.5,SPD Smith,R Vinay Kumar,R Sharma,1,Not out
+17.6,R Sharma,R Vinay Kumar,SPD Smith,0,bowled
+18.1,SPD Smith,Z Khan,K Upadhyay,1,Not out
+18.2,K Upadhyay,Z Khan,SPD Smith,2,Not out
+18.3,K Upadhyay,Z Khan,SPD Smith,0,Not out
+18.4,K Upadhyay,Z Khan,SPD Smith,1,Not out
+18.5,SPD Smith,Z Khan,K Upadhyay,1,Not out
+18.6,K Upadhyay,Z Khan,SPD Smith,1,Not out
+19.1,K Upadhyay,R Vinay Kumar,SPD Smith,6,Not out
+19.2,K Upadhyay,R Vinay Kumar,SPD Smith,0,Not out
+19.3,K Upadhyay,R Vinay Kumar,SPD Smith,0,Not out
+19.4,K Upadhyay,R Vinay Kumar,SPD Smith,1,Not out
+19.5,SPD Smith,R Vinay Kumar,K Upadhyay,2,Not out
+19.6,SPD Smith,R Vinay Kumar,K Upadhyay,1,Not out

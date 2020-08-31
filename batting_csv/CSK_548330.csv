@@ -1,0 +1,122 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,F du Plessis,M Kartik,S Badrinath,0,Not out
+0.2,F du Plessis,M Kartik,S Badrinath,1,Not out
+0.3,S Badrinath,M Kartik,F du Plessis,0,Not out
+0.4,S Badrinath,M Kartik,F du Plessis,4,Not out
+0.5,S Badrinath,M Kartik,F du Plessis,1,Not out
+0.6,F du Plessis,M Kartik,S Badrinath,0,Not out
+1.1,S Badrinath,A Nehra,F du Plessis,0,Not out
+1.2,S Badrinath,A Nehra,F du Plessis,0,Not out
+1.3,S Badrinath,A Nehra,F du Plessis,0,Not out
+1.4,S Badrinath,A Nehra,F du Plessis,0,Not out
+1.5,S Badrinath,A Nehra,F du Plessis,1,Not out
+1.6,F du Plessis,A Nehra,S Badrinath,1,Not out
+2.1,F du Plessis,M Kartik,S Badrinath,1,Not out
+2.2,S Badrinath,M Kartik,F du Plessis,0,Not out
+2.3,S Badrinath,M Kartik,F du Plessis,0,Not out
+2.4,S Badrinath,M Kartik,F du Plessis,0,Not out
+2.5,S Badrinath,M Kartik,F du Plessis,0,Not out
+2.6,S Badrinath,M Kartik,F du Plessis,0,Not out
+3.1,F du Plessis,B Kumar,S Badrinath,0,Not out
+3.2,F du Plessis,B Kumar,S Badrinath,2,Not out
+3.3,F du Plessis,B Kumar,S Badrinath,0,Not out
+3.4,F du Plessis,B Kumar,S Badrinath,2,Not out
+3.5,F du Plessis,B Kumar,S Badrinath,0,Not out
+3.6,F du Plessis,B Kumar,S Badrinath,4,Not out
+4.1,S Badrinath,MN Samuels,F du Plessis,4,Not out
+4.2,S Badrinath,MN Samuels,F du Plessis,4,Not out
+4.3,S Badrinath,MN Samuels,F du Plessis,1,Not out
+4.4,F du Plessis,MN Samuels,S Badrinath,1,Not out
+4.5,S Badrinath,MN Samuels,F du Plessis,1,Not out
+4.6,F du Plessis,MN Samuels,S Badrinath,0,Not out
+5.1,S Badrinath,B Kumar,F du Plessis,0,Not out
+5.2,S Badrinath,B Kumar,F du Plessis,1,Not out
+5.3,F du Plessis,B Kumar,S Badrinath,6,Not out
+5.4,F du Plessis,B Kumar,S Badrinath,0,Not out
+5.5,F du Plessis,B Kumar,S Badrinath,4,Not out
+5.6,F du Plessis,B Kumar,S Badrinath,1,Not out
+5.7,S Badrinath,B Kumar,F du Plessis,1,Not out
+6.1,S Badrinath,R Sharma,F du Plessis,1,Not out
+6.2,F du Plessis,R Sharma,S Badrinath,0,Not out
+6.3,F du Plessis,R Sharma,S Badrinath,0,Not out
+6.4,F du Plessis,R Sharma,S Badrinath,0,Not out
+6.5,F du Plessis,R Sharma,S Badrinath,0,Not out
+6.6,F du Plessis,R Sharma,S Badrinath,0,Not out
+7.1,S Badrinath,AD Mathews,F du Plessis,4,Not out
+7.2,S Badrinath,AD Mathews,F du Plessis,0,Not out
+7.3,S Badrinath,AD Mathews,F du Plessis,1,Not out
+7.4,F du Plessis,AD Mathews,S Badrinath,2,Not out
+7.5,F du Plessis,AD Mathews,S Badrinath,1,Not out
+7.6,S Badrinath,AD Mathews,F du Plessis,4,Not out
+8.1,F du Plessis,R Sharma,S Badrinath,0,Not out
+8.2,F du Plessis,R Sharma,S Badrinath,1,Not out
+8.3,S Badrinath,R Sharma,F du Plessis,1,Not out
+8.4,F du Plessis,R Sharma,S Badrinath,4,Not out
+8.5,F du Plessis,R Sharma,S Badrinath,2,Not out
+8.6,F du Plessis,R Sharma,S Badrinath,1,Not out
+9.1,F du Plessis,A Nehra,S Badrinath,1,Not out
+9.2,S Badrinath,A Nehra,F du Plessis,0,Not out
+9.3,S Badrinath,A Nehra,F du Plessis,1,Not out
+9.4,F du Plessis,A Nehra,S Badrinath,1,Not out
+9.5,S Badrinath,A Nehra,F du Plessis,1,Not out
+9.6,F du Plessis,A Nehra,S Badrinath,0,Not out
+10.1,S Badrinath,M Kartik,F du Plessis,1,Not out
+10.2,F du Plessis,M Kartik,S Badrinath,1,Not out
+10.3,S Badrinath,M Kartik,F du Plessis,1,Not out
+10.4,F du Plessis,M Kartik,S Badrinath,1,Not out
+10.5,S Badrinath,M Kartik,F du Plessis,1,Not out
+10.6,F du Plessis,M Kartik,S Badrinath,1,Not out
+11.1,F du Plessis,MN Samuels,S Badrinath,0,Not out
+11.2,F du Plessis,MN Samuels,S Badrinath,1,Not out
+11.3,S Badrinath,MN Samuels,F du Plessis,1,Not out
+11.4,F du Plessis,MN Samuels,S Badrinath,4,Not out
+11.5,F du Plessis,MN Samuels,S Badrinath,2,Not out
+11.6,F du Plessis,MN Samuels,S Badrinath,1,Not out
+12.1,F du Plessis,R Sharma,S Badrinath,1,Not out
+12.2,S Badrinath,R Sharma,F du Plessis,1,Not out
+12.3,F du Plessis,R Sharma,S Badrinath,2,Not out
+12.4,F du Plessis,R Sharma,S Badrinath,1,Not out
+12.5,S Badrinath,R Sharma,F du Plessis,1,Not out
+12.6,F du Plessis,R Sharma,S Badrinath,0,Not out
+13.1,S Badrinath,M Kartik,F du Plessis,0,Not out
+13.2,S Badrinath,M Kartik,F du Plessis,2,Not out
+13.3,S Badrinath,M Kartik,F du Plessis,1,Not out
+13.4,F du Plessis,M Kartik,S Badrinath,6,Not out
+13.5,F du Plessis,M Kartik,S Badrinath,1,Not out
+13.6,S Badrinath,M Kartik,F du Plessis,1,Not out
+14.1,S Badrinath,B Kumar,F du Plessis,2,Not out
+14.2,S Badrinath,B Kumar,F du Plessis,4,Not out
+14.3,S Badrinath,B Kumar,F du Plessis,4,Not out
+14.4,S Badrinath,B Kumar,F du Plessis,4,Not out
+14.5,S Badrinath,B Kumar,F du Plessis,0,Not out
+14.6,S Badrinath,B Kumar,F du Plessis,1,Not out
+15.1,S Badrinath,MN Samuels,F du Plessis,1,Not out
+15.2,F du Plessis,MN Samuels,S Badrinath,0,Not out
+15.3,F du Plessis,MN Samuels,S Badrinath,0,caught
+15.4,S Badrinath,MN Samuels,SK Raina,0,Not out
+15.5,S Badrinath,MN Samuels,SK Raina,0,caught
+15.6,SK Raina,MN Samuels,MS Dhoni,0,Not out
+16.1,MS Dhoni,A Nehra,SK Raina,2,Not out
+16.2,MS Dhoni,A Nehra,SK Raina,1,Not out
+16.3,SK Raina,A Nehra,MS Dhoni,0,caught
+16.4,MS Dhoni,A Nehra,DJ Bravo,1,Not out
+16.5,DJ Bravo,A Nehra,MS Dhoni,1,Not out
+16.6,MS Dhoni,A Nehra,DJ Bravo,4,Not out
+17.1,DJ Bravo,R Sharma,MS Dhoni,3,Not out
+17.2,MS Dhoni,R Sharma,DJ Bravo,1,Not out
+17.3,DJ Bravo,R Sharma,MS Dhoni,0,Not out
+17.4,DJ Bravo,R Sharma,MS Dhoni,2,Not out
+17.5,DJ Bravo,R Sharma,MS Dhoni,0,Not out
+17.6,DJ Bravo,R Sharma,MS Dhoni,6,Not out
+18.1,MS Dhoni,A Nehra,DJ Bravo,1,Not out
+18.2,DJ Bravo,A Nehra,MS Dhoni,0,Not out
+18.3,MS Dhoni,A Nehra,DJ Bravo,2,Not out
+18.4,MS Dhoni,A Nehra,DJ Bravo,1,Not out
+18.5,DJ Bravo,A Nehra,MS Dhoni,0,caught
+18.6,MS Dhoni,A Nehra,RA Jadeja,4,Not out
+19.1,RA Jadeja,MN Samuels,MS Dhoni,6,Not out
+19.2,RA Jadeja,MN Samuels,MS Dhoni,1,Not out
+19.3,MS Dhoni,MN Samuels,RA Jadeja,6,Not out
+19.4,MS Dhoni,MN Samuels,RA Jadeja,4,Not out
+19.5,MS Dhoni,MN Samuels,RA Jadeja,1,Not out
+19.6,RA Jadeja,MN Samuels,MS Dhoni,0,caught

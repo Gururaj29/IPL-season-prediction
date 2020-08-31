@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DA Warner,SL Malinga,S Dhawan,1,Not out
+0.2,S Dhawan,SL Malinga,DA Warner,1,Not out
+0.3,DA Warner,SL Malinga,S Dhawan,4,Not out
+0.4,DA Warner,SL Malinga,S Dhawan,0,Not out
+0.5,DA Warner,SL Malinga,S Dhawan,1,Not out
+0.6,S Dhawan,SL Malinga,DA Warner,0,bowled
+1.1,DA Warner,MJ McClenaghan,MC Henriques,0,caught
+1.2,EJG Morgan,MJ McClenaghan,MC Henriques,0,Not out
+1.3,EJG Morgan,MJ McClenaghan,MC Henriques,0,Not out
+1.4,EJG Morgan,MJ McClenaghan,MC Henriques,0,Not out
+1.5,EJG Morgan,MJ McClenaghan,MC Henriques,0,Not out
+1.6,EJG Morgan,MJ McClenaghan,MC Henriques,0,Not out
+1.7,EJG Morgan,MJ McClenaghan,MC Henriques,0,Not out
+2.1,MC Henriques,SL Malinga,EJG Morgan,0,Not out
+2.2,MC Henriques,SL Malinga,EJG Morgan,0,Not out
+2.3,MC Henriques,SL Malinga,EJG Morgan,0,Not out
+2.4,MC Henriques,SL Malinga,EJG Morgan,0,Not out
+2.5,MC Henriques,SL Malinga,EJG Morgan,1,Not out
+2.6,EJG Morgan,SL Malinga,MC Henriques,0,Not out
+2.7,EJG Morgan,SL Malinga,MC Henriques,0,Not out
+3.1,MC Henriques,MJ McClenaghan,EJG Morgan,0,Not out
+3.2,MC Henriques,MJ McClenaghan,EJG Morgan,0,Not out
+3.3,MC Henriques,MJ McClenaghan,EJG Morgan,0,Not out
+3.4,MC Henriques,MJ McClenaghan,EJG Morgan,1,Not out
+3.5,EJG Morgan,MJ McClenaghan,MC Henriques,1,Not out
+3.6,MC Henriques,MJ McClenaghan,EJG Morgan,1,Not out
+4.1,MC Henriques,R Vinay Kumar,EJG Morgan,0,Not out
+4.2,MC Henriques,R Vinay Kumar,EJG Morgan,1,Not out
+4.3,EJG Morgan,R Vinay Kumar,MC Henriques,4,Not out
+4.4,EJG Morgan,R Vinay Kumar,MC Henriques,1,Not out
+4.5,MC Henriques,R Vinay Kumar,EJG Morgan,1,Not out
+4.6,EJG Morgan,R Vinay Kumar,MC Henriques,1,Not out
+5.1,EJG Morgan,MJ McClenaghan,MC Henriques,2,Not out
+5.2,EJG Morgan,MJ McClenaghan,MC Henriques,0,Not out
+5.3,EJG Morgan,MJ McClenaghan,MC Henriques,0,caught
+5.4,MC Henriques,MJ McClenaghan,KL Rahul,4,Not out
+5.5,MC Henriques,MJ McClenaghan,KL Rahul,0,Not out
+5.6,KL Rahul,MJ McClenaghan,MC Henriques,1,Not out
+6.1,KL Rahul,R Vinay Kumar,MC Henriques,1,Not out
+6.2,MC Henriques,R Vinay Kumar,KL Rahul,0,Not out
+6.3,MC Henriques,R Vinay Kumar,KL Rahul,1,Not out
+6.4,KL Rahul,R Vinay Kumar,MC Henriques,0,Not out
+6.5,KL Rahul,R Vinay Kumar,MC Henriques,0,Not out
+6.6,KL Rahul,R Vinay Kumar,MC Henriques,1,Not out
+7.1,KL Rahul,J Suchith,MC Henriques,4,Not out
+7.2,KL Rahul,J Suchith,MC Henriques,1,Not out
+7.3,MC Henriques,J Suchith,KL Rahul,0,Not out
+7.4,MC Henriques,J Suchith,KL Rahul,1,Not out
+7.5,KL Rahul,J Suchith,MC Henriques,0,Not out
+7.6,KL Rahul,J Suchith,MC Henriques,1,Not out
+8.1,KL Rahul,HH Pandya,MC Henriques,0,Not out
+8.2,KL Rahul,HH Pandya,MC Henriques,0,Not out
+8.3,KL Rahul,HH Pandya,MC Henriques,2,Not out
+8.4,KL Rahul,HH Pandya,MC Henriques,0,Not out
+8.5,KL Rahul,HH Pandya,MC Henriques,0,Not out
+8.6,KL Rahul,HH Pandya,MC Henriques,4,Not out
+8.7,KL Rahul,HH Pandya,MC Henriques,2,Not out
+8.8,KL Rahul,HH Pandya,MC Henriques,1,Not out
+9.1,KL Rahul,J Suchith,MC Henriques,1,Not out
+9.2,MC Henriques,J Suchith,KL Rahul,0,stumped
+9.3,NV Ojha,J Suchith,KL Rahul,0,caught
+9.4,KV Sharma,J Suchith,KL Rahul,1,Not out
+9.5,KL Rahul,J Suchith,KV Sharma,2,Not out
+9.6,KL Rahul,J Suchith,KV Sharma,0,Not out
+10.1,KV Sharma,Harbhajan Singh,KL Rahul,1,Not out
+10.2,KL Rahul,Harbhajan Singh,KV Sharma,1,Not out
+10.3,KV Sharma,Harbhajan Singh,KL Rahul,0,Not out
+10.4,KV Sharma,Harbhajan Singh,KL Rahul,1,Not out
+10.5,KL Rahul,Harbhajan Singh,KV Sharma,1,Not out
+10.6,KV Sharma,Harbhajan Singh,KL Rahul,0,Not out
+11.1,KL Rahul,J Suchith,KV Sharma,0,Not out
+11.2,KL Rahul,J Suchith,KV Sharma,1,Not out
+11.3,KV Sharma,J Suchith,KL Rahul,1,Not out
+11.4,KL Rahul,J Suchith,KV Sharma,1,Not out
+11.5,KV Sharma,J Suchith,KL Rahul,0,Not out
+11.6,KV Sharma,J Suchith,KL Rahul,0,Not out
+12.1,KL Rahul,Harbhajan Singh,KV Sharma,0,bowled
+12.2,A Ashish Reddy,Harbhajan Singh,KV Sharma,2,Not out
+12.3,A Ashish Reddy,Harbhajan Singh,KV Sharma,0,Not out
+12.4,A Ashish Reddy,Harbhajan Singh,KV Sharma,0,Not out
+12.5,A Ashish Reddy,Harbhajan Singh,KV Sharma,1,Not out
+12.6,KV Sharma,Harbhajan Singh,A Ashish Reddy,1,Not out
+13.1,KV Sharma,SL Malinga,A Ashish Reddy,1,Not out
+13.2,A Ashish Reddy,SL Malinga,KV Sharma,1,Not out
+13.3,KV Sharma,SL Malinga,A Ashish Reddy,1,Not out
+13.4,A Ashish Reddy,SL Malinga,KV Sharma,2,Not out
+13.5,A Ashish Reddy,SL Malinga,KV Sharma,0,Not out
+13.6,A Ashish Reddy,SL Malinga,KV Sharma,0,Not out
+14.1,KV Sharma,Harbhajan Singh,A Ashish Reddy,1,Not out
+14.2,A Ashish Reddy,Harbhajan Singh,KV Sharma,0,Not out
+14.3,A Ashish Reddy,Harbhajan Singh,KV Sharma,1,Not out
+14.4,KV Sharma,Harbhajan Singh,A Ashish Reddy,1,Not out
+14.5,A Ashish Reddy,Harbhajan Singh,KV Sharma,6,Not out
+14.6,A Ashish Reddy,Harbhajan Singh,KV Sharma,1,Not out
+15.1,A Ashish Reddy,KA Pollard,KV Sharma,1,Not out
+15.2,KV Sharma,KA Pollard,A Ashish Reddy,1,Not out
+15.3,A Ashish Reddy,KA Pollard,KV Sharma,2,Not out
+15.4,A Ashish Reddy,KA Pollard,KV Sharma,0,caught
+15.5,KV Sharma,KA Pollard,B Kumar,1,Not out
+15.6,B Kumar,KA Pollard,KV Sharma,0,Not out
+16.1,KV Sharma,MJ McClenaghan,B Kumar,0,Not out
+16.2,KV Sharma,MJ McClenaghan,B Kumar,1,Not out
+16.3,B Kumar,MJ McClenaghan,KV Sharma,0,caught
+16.4,KV Sharma,MJ McClenaghan,P Kumar,1,Not out
+16.5,P Kumar,MJ McClenaghan,KV Sharma,1,Not out
+16.6,KV Sharma,MJ McClenaghan,P Kumar,2,Not out
+17.1,P Kumar,SL Malinga,KV Sharma,1,Not out
+17.2,KV Sharma,SL Malinga,P Kumar,0,Not out
+17.3,KV Sharma,SL Malinga,P Kumar,0,caught
+17.4,P Kumar,SL Malinga,DW Steyn,0,Not out
+17.5,P Kumar,SL Malinga,DW Steyn,1,Not out
+17.6,DW Steyn,SL Malinga,P Kumar,1,Not out
+18.1,DW Steyn,R Vinay Kumar,P Kumar,0,Not out
+18.2,DW Steyn,R Vinay Kumar,P Kumar,4,Not out
+18.3,DW Steyn,R Vinay Kumar,P Kumar,4,Not out
+18.4,DW Steyn,R Vinay Kumar,P Kumar,1,Not out
+18.5,P Kumar,R Vinay Kumar,DW Steyn,0,Not out
+18.6,DW Steyn,R Vinay Kumar,P Kumar,1,Not out
+19.1,DW Steyn,KA Pollard,P Kumar,0,Not out
+19.2,DW Steyn,KA Pollard,P Kumar,4,Not out
+19.3,DW Steyn,KA Pollard,P Kumar,2,Not out
+19.4,DW Steyn,KA Pollard,P Kumar,1,Not out
+19.5,P Kumar,KA Pollard,DW Steyn,1,Not out
+19.6,DW Steyn,KA Pollard,P Kumar,1,run out

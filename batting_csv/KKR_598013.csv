@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MS Bisla,DW Steyn,G Gambhir,0,Not out
+0.2,MS Bisla,DW Steyn,G Gambhir,0,Not out
+0.3,MS Bisla,DW Steyn,G Gambhir,0,Not out
+0.4,MS Bisla,DW Steyn,G Gambhir,1,Not out
+0.5,G Gambhir,DW Steyn,MS Bisla,1,Not out
+0.6,MS Bisla,DW Steyn,G Gambhir,1,Not out
+1.1,MS Bisla,GH Vihari,G Gambhir,4,Not out
+1.2,MS Bisla,GH Vihari,G Gambhir,4,Not out
+1.3,MS Bisla,GH Vihari,G Gambhir,0,Not out
+1.4,G Gambhir,GH Vihari,MS Bisla,2,Not out
+1.5,G Gambhir,GH Vihari,MS Bisla,0,Not out
+1.6,G Gambhir,GH Vihari,MS Bisla,4,Not out
+2.1,MS Bisla,DW Steyn,G Gambhir,0,Not out
+2.2,MS Bisla,DW Steyn,G Gambhir,1,Not out
+2.3,G Gambhir,DW Steyn,MS Bisla,3,Not out
+2.4,MS Bisla,DW Steyn,G Gambhir,1,Not out
+2.5,G Gambhir,DW Steyn,MS Bisla,0,Not out
+2.6,G Gambhir,DW Steyn,MS Bisla,1,Not out
+3.1,G Gambhir,I Sharma,MS Bisla,2,Not out
+3.2,G Gambhir,I Sharma,MS Bisla,0,Not out
+3.3,G Gambhir,I Sharma,MS Bisla,0,Not out
+3.4,MS Bisla,I Sharma,G Gambhir,0,Not out
+3.5,MS Bisla,I Sharma,G Gambhir,4,Not out
+3.6,MS Bisla,I Sharma,G Gambhir,0,Not out
+4.1,G Gambhir,NLTC Perera,MS Bisla,0,Not out
+4.2,MS Bisla,NLTC Perera,G Gambhir,4,Not out
+4.3,MS Bisla,NLTC Perera,G Gambhir,4,Not out
+4.4,MS Bisla,NLTC Perera,G Gambhir,0,Not out
+4.5,MS Bisla,NLTC Perera,G Gambhir,1,Not out
+4.6,G Gambhir,NLTC Perera,MS Bisla,1,Not out
+5.1,G Gambhir,I Sharma,MS Bisla,4,Not out
+5.2,G Gambhir,I Sharma,MS Bisla,1,Not out
+5.3,MS Bisla,I Sharma,G Gambhir,0,Not out
+5.4,MS Bisla,I Sharma,G Gambhir,0,Not out
+5.5,MS Bisla,I Sharma,G Gambhir,1,Not out
+5.6,G Gambhir,I Sharma,MS Bisla,0,Not out
+6.1,MS Bisla,A Mishra,G Gambhir,1,Not out
+6.2,G Gambhir,A Mishra,MS Bisla,0,Not out
+6.3,G Gambhir,A Mishra,MS Bisla,0,Not out
+6.4,G Gambhir,A Mishra,MS Bisla,4,Not out
+6.5,G Gambhir,A Mishra,MS Bisla,4,Not out
+6.6,G Gambhir,A Mishra,MS Bisla,0,Not out
+7.1,MS Bisla,KV Sharma,G Gambhir,1,Not out
+7.2,G Gambhir,KV Sharma,MS Bisla,0,Not out
+7.3,G Gambhir,KV Sharma,MS Bisla,1,Not out
+7.4,MS Bisla,KV Sharma,G Gambhir,0,caught
+7.5,G Gambhir,KV Sharma,JH Kallis,2,Not out
+7.6,G Gambhir,KV Sharma,JH Kallis,1,Not out
+8.1,G Gambhir,A Mishra,JH Kallis,1,Not out
+8.2,JH Kallis,A Mishra,G Gambhir,1,Not out
+8.3,G Gambhir,A Mishra,JH Kallis,0,Not out
+8.4,G Gambhir,A Mishra,JH Kallis,0,Not out
+8.5,G Gambhir,A Mishra,JH Kallis,0,Not out
+8.6,G Gambhir,A Mishra,JH Kallis,4,Not out
+9.1,JH Kallis,KV Sharma,G Gambhir,1,Not out
+9.2,G Gambhir,KV Sharma,JH Kallis,0,Not out
+9.3,G Gambhir,KV Sharma,JH Kallis,0,Not out
+9.4,G Gambhir,KV Sharma,JH Kallis,6,Not out
+9.5,G Gambhir,KV Sharma,JH Kallis,1,Not out
+9.6,JH Kallis,KV Sharma,G Gambhir,0,Not out
+10.1,G Gambhir,NLTC Perera,JH Kallis,0,Not out
+10.2,G Gambhir,NLTC Perera,JH Kallis,1,Not out
+10.3,JH Kallis,NLTC Perera,G Gambhir,1,Not out
+10.4,G Gambhir,NLTC Perera,JH Kallis,0,Not out
+10.5,G Gambhir,NLTC Perera,JH Kallis,0,Not out
+10.6,G Gambhir,NLTC Perera,JH Kallis,1,Not out
+10.7,JH Kallis,NLTC Perera,G Gambhir,1,Not out
+11.1,JH Kallis,A Ashish Reddy,G Gambhir,0,Not out
+11.2,JH Kallis,A Ashish Reddy,G Gambhir,1,Not out
+11.3,G Gambhir,A Ashish Reddy,JH Kallis,1,Not out
+11.4,JH Kallis,A Ashish Reddy,G Gambhir,1,Not out
+11.5,G Gambhir,A Ashish Reddy,JH Kallis,4,Not out
+11.6,G Gambhir,A Ashish Reddy,JH Kallis,0,Not out
+12.1,JH Kallis,NLTC Perera,G Gambhir,1,Not out
+12.2,G Gambhir,NLTC Perera,JH Kallis,1,Not out
+12.3,JH Kallis,NLTC Perera,G Gambhir,1,Not out
+12.4,G Gambhir,NLTC Perera,JH Kallis,0,Not out
+12.5,G Gambhir,NLTC Perera,JH Kallis,1,Not out
+12.6,JH Kallis,NLTC Perera,G Gambhir,4,Not out
+13.1,G Gambhir,A Ashish Reddy,JH Kallis,1,Not out
+13.2,JH Kallis,A Ashish Reddy,G Gambhir,4,Not out
+13.3,JH Kallis,A Ashish Reddy,G Gambhir,1,Not out
+13.4,G Gambhir,A Ashish Reddy,JH Kallis,0,bowled
+13.5,EJG Morgan,A Ashish Reddy,JH Kallis,2,Not out
+13.6,EJG Morgan,A Ashish Reddy,JH Kallis,0,Not out
+14.1,JH Kallis,DW Steyn,EJG Morgan,1,Not out
+14.2,EJG Morgan,DW Steyn,JH Kallis,0,Not out
+14.3,EJG Morgan,DW Steyn,JH Kallis,0,Not out
+14.4,EJG Morgan,DW Steyn,JH Kallis,0,Not out
+14.5,EJG Morgan,DW Steyn,JH Kallis,0,Not out
+14.6,EJG Morgan,DW Steyn,JH Kallis,4,Not out
+15.1,JH Kallis,A Mishra,EJG Morgan,1,Not out
+15.2,EJG Morgan,A Mishra,JH Kallis,0,Not out
+15.3,EJG Morgan,A Mishra,JH Kallis,6,Not out
+15.4,EJG Morgan,A Mishra,JH Kallis,4,Not out
+15.5,EJG Morgan,A Mishra,JH Kallis,1,Not out
+15.6,JH Kallis,A Mishra,EJG Morgan,1,Not out
+16.1,JH Kallis,I Sharma,EJG Morgan,0,Not out
+16.2,JH Kallis,I Sharma,EJG Morgan,1,Not out
+16.3,EJG Morgan,I Sharma,JH Kallis,0,Not out
+16.4,EJG Morgan,I Sharma,JH Kallis,2,Not out
+16.5,EJG Morgan,I Sharma,JH Kallis,1,Not out
+16.6,JH Kallis,I Sharma,EJG Morgan,4,Not out
+16.7,JH Kallis,I Sharma,EJG Morgan,4,Not out
+17.1,EJG Morgan,NLTC Perera,JH Kallis,2,Not out
+17.2,EJG Morgan,NLTC Perera,JH Kallis,4,Not out
+17.3,EJG Morgan,NLTC Perera,JH Kallis,6,Not out
+17.4,EJG Morgan,NLTC Perera,JH Kallis,4,Not out
+17.5,EJG Morgan,NLTC Perera,JH Kallis,0,Not out
+17.6,EJG Morgan,NLTC Perera,JH Kallis,4,Not out
+17.7,EJG Morgan,NLTC Perera,JH Kallis,0,Not out
+18.1,EJG Morgan,DW Steyn,JH Kallis,0,Not out
+18.2,EJG Morgan,DW Steyn,JH Kallis,6,Not out
+18.3,EJG Morgan,DW Steyn,JH Kallis,1,Not out
+18.4,JH Kallis,DW Steyn,EJG Morgan,4,Not out
+18.5,JH Kallis,DW Steyn,EJG Morgan,0,run out
+18.6,YK Pathan,DW Steyn,JH Kallis,1,Not out
+18.7,JH Kallis,DW Steyn,YK Pathan,2,Not out
+19.1,YK Pathan,I Sharma,JH Kallis,1,Not out
+19.2,JH Kallis,I Sharma,YK Pathan,4,Not out
+19.3,JH Kallis,I Sharma,YK Pathan,1,Not out
+19.4,YK Pathan,I Sharma,JH Kallis,1,Not out
+19.5,JH Kallis,I Sharma,YK Pathan,0,Not out
+19.6,JH Kallis,I Sharma,YK Pathan,1,run out

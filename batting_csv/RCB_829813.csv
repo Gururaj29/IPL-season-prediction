@@ -1,0 +1,8 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,V Kohli,J Yadav,CH Gayle,0,Not out
+0.2,V Kohli,J Yadav,CH Gayle,1,Not out
+0.3,CH Gayle,J Yadav,V Kohli,0,Not out
+0.4,CH Gayle,J Yadav,V Kohli,0,Not out
+0.5,CH Gayle,J Yadav,V Kohli,0,Not out
+0.6,CH Gayle,J Yadav,V Kohli,1,Not out
+1.1,CH Gayle,Z Khan,V Kohli,0,Not out

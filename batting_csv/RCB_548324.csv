@@ -1,0 +1,121 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MA Agarwal,J Botha,CH Gayle,6,Not out
+0.2,MA Agarwal,J Botha,CH Gayle,0,Not out
+0.3,MA Agarwal,J Botha,CH Gayle,0,Not out
+0.4,MA Agarwal,J Botha,CH Gayle,1,Not out
+0.5,CH Gayle,J Botha,MA Agarwal,0,Not out
+0.6,CH Gayle,J Botha,MA Agarwal,0,Not out
+1.1,MA Agarwal,Pankaj Singh,CH Gayle,0,Not out
+1.2,MA Agarwal,Pankaj Singh,CH Gayle,4,Not out
+1.3,MA Agarwal,Pankaj Singh,CH Gayle,0,Not out
+1.4,MA Agarwal,Pankaj Singh,CH Gayle,0,Not out
+1.5,MA Agarwal,Pankaj Singh,CH Gayle,0,Not out
+1.6,MA Agarwal,Pankaj Singh,CH Gayle,0,Not out
+2.1,CH Gayle,J Botha,MA Agarwal,1,Not out
+2.2,MA Agarwal,J Botha,CH Gayle,0,Not out
+2.3,MA Agarwal,J Botha,CH Gayle,0,Not out
+2.4,MA Agarwal,J Botha,CH Gayle,6,Not out
+2.5,MA Agarwal,J Botha,CH Gayle,4,Not out
+2.6,MA Agarwal,J Botha,CH Gayle,6,Not out
+3.1,CH Gayle,A Singh,MA Agarwal,0,Not out
+3.2,CH Gayle,A Singh,MA Agarwal,6,Not out
+3.3,CH Gayle,A Singh,MA Agarwal,1,Not out
+3.4,MA Agarwal,A Singh,CH Gayle,2,Not out
+3.5,MA Agarwal,A Singh,CH Gayle,1,Not out
+3.6,CH Gayle,A Singh,MA Agarwal,0,Not out
+4.1,MA Agarwal,Pankaj Singh,CH Gayle,0,Not out
+4.2,MA Agarwal,Pankaj Singh,CH Gayle,0,Not out
+4.3,MA Agarwal,Pankaj Singh,CH Gayle,4,Not out
+4.4,MA Agarwal,Pankaj Singh,CH Gayle,0,caught
+4.5,CH Gayle,Pankaj Singh,V Kohli,0,Not out
+4.6,CH Gayle,Pankaj Singh,V Kohli,0,bowled
+5.1,V Kohli,A Singh,AB de Villiers,0,Not out
+5.2,V Kohli,A Singh,AB de Villiers,0,Not out
+5.3,V Kohli,A Singh,AB de Villiers,2,Not out
+5.4,V Kohli,A Singh,AB de Villiers,4,Not out
+5.5,V Kohli,A Singh,AB de Villiers,2,Not out
+5.6,V Kohli,A Singh,AB de Villiers,4,Not out
+6.1,AB de Villiers,Pankaj Singh,V Kohli,1,Not out
+6.2,V Kohli,Pankaj Singh,AB de Villiers,1,Not out
+6.3,AB de Villiers,Pankaj Singh,V Kohli,1,Not out
+6.4,V Kohli,Pankaj Singh,AB de Villiers,0,Not out
+6.5,V Kohli,Pankaj Singh,AB de Villiers,1,Not out
+6.6,AB de Villiers,Pankaj Singh,V Kohli,0,Not out
+7.1,AB de Villiers,GB Hogg,V Kohli,1,Not out
+7.2,V Kohli,GB Hogg,AB de Villiers,1,Not out
+7.3,AB de Villiers,GB Hogg,V Kohli,0,Not out
+7.4,AB de Villiers,GB Hogg,V Kohli,0,Not out
+7.5,AB de Villiers,GB Hogg,V Kohli,1,Not out
+7.6,V Kohli,GB Hogg,AB de Villiers,1,Not out
+8.1,V Kohli,SK Trivedi,AB de Villiers,1,Not out
+8.2,AB de Villiers,SK Trivedi,V Kohli,0,Not out
+8.3,V Kohli,SK Trivedi,AB de Villiers,1,Not out
+8.4,AB de Villiers,SK Trivedi,V Kohli,2,Not out
+8.5,AB de Villiers,SK Trivedi,V Kohli,0,bowled
+8.6,SS Tiwary,SK Trivedi,V Kohli,0,Not out
+8.7,SS Tiwary,SK Trivedi,V Kohli,2,Not out
+9.1,V Kohli,GB Hogg,SS Tiwary,1,Not out
+9.2,SS Tiwary,GB Hogg,V Kohli,1,Not out
+9.3,V Kohli,GB Hogg,SS Tiwary,1,Not out
+9.4,SS Tiwary,GB Hogg,V Kohli,1,Not out
+9.5,V Kohli,GB Hogg,SS Tiwary,1,Not out
+9.6,SS Tiwary,GB Hogg,V Kohli,0,Not out
+10.1,V Kohli,SK Trivedi,SS Tiwary,1,Not out
+10.2,SS Tiwary,SK Trivedi,V Kohli,1,Not out
+10.3,V Kohli,SK Trivedi,SS Tiwary,0,bowled
+10.4,M Kaif,SK Trivedi,SS Tiwary,0,Not out
+10.5,M Kaif,SK Trivedi,SS Tiwary,1,Not out
+10.6,SS Tiwary,SK Trivedi,M Kaif,0,Not out
+11.1,M Kaif,J Botha,SS Tiwary,0,Not out
+11.2,M Kaif,J Botha,SS Tiwary,0,Not out
+11.3,M Kaif,J Botha,SS Tiwary,0,Not out
+11.4,M Kaif,J Botha,SS Tiwary,1,Not out
+11.5,SS Tiwary,J Botha,M Kaif,1,Not out
+11.6,M Kaif,J Botha,SS Tiwary,1,Not out
+12.1,M Kaif,SK Trivedi,SS Tiwary,1,Not out
+12.2,SS Tiwary,SK Trivedi,M Kaif,6,Not out
+12.3,SS Tiwary,SK Trivedi,M Kaif,0,Not out
+12.4,SS Tiwary,SK Trivedi,M Kaif,1,Not out
+12.5,M Kaif,SK Trivedi,SS Tiwary,1,Not out
+12.6,SS Tiwary,SK Trivedi,M Kaif,1,Not out
+13.1,SS Tiwary,GB Hogg,M Kaif,1,Not out
+13.2,M Kaif,GB Hogg,SS Tiwary,1,Not out
+13.3,SS Tiwary,GB Hogg,M Kaif,1,Not out
+13.4,M Kaif,GB Hogg,SS Tiwary,1,Not out
+13.5,SS Tiwary,GB Hogg,M Kaif,1,Not out
+13.6,M Kaif,GB Hogg,SS Tiwary,4,Not out
+14.1,SS Tiwary,SK Trivedi,M Kaif,0,bowled
+14.2,DL Vettori,SK Trivedi,M Kaif,1,Not out
+14.3,M Kaif,SK Trivedi,DL Vettori,1,Not out
+14.4,DL Vettori,SK Trivedi,M Kaif,0,bowled
+14.5,R Vinay Kumar,SK Trivedi,M Kaif,1,Not out
+14.6,M Kaif,SK Trivedi,R Vinay Kumar,1,Not out
+15.1,M Kaif,J Botha,R Vinay Kumar,1,Not out
+15.2,R Vinay Kumar,J Botha,M Kaif,0,Not out
+15.3,R Vinay Kumar,J Botha,M Kaif,1,Not out
+15.4,M Kaif,J Botha,R Vinay Kumar,0,caught
+15.5,R Vinay Kumar,J Botha,Z Khan,1,Not out
+15.6,Z Khan,J Botha,R Vinay Kumar,0,Not out
+16.1,R Vinay Kumar,A Singh,Z Khan,2,Not out
+16.2,R Vinay Kumar,A Singh,Z Khan,4,Not out
+16.3,R Vinay Kumar,A Singh,Z Khan,2,Not out
+16.4,R Vinay Kumar,A Singh,Z Khan,0,Not out
+16.5,R Vinay Kumar,A Singh,Z Khan,0,bowled
+16.6,S Aravind,A Singh,Z Khan,4,Not out
+17.1,Z Khan,GB Hogg,S Aravind,0,Not out
+17.2,Z Khan,GB Hogg,S Aravind,0,caught
+17.3,M Muralitharan,GB Hogg,S Aravind,0,Not out
+17.4,M Muralitharan,GB Hogg,S Aravind,1,Not out
+17.5,S Aravind,GB Hogg,M Muralitharan,0,Not out
+17.6,S Aravind,GB Hogg,M Muralitharan,0,Not out
+18.1,M Muralitharan,Pankaj Singh,S Aravind,0,Not out
+18.2,M Muralitharan,Pankaj Singh,S Aravind,2,Not out
+18.3,M Muralitharan,Pankaj Singh,S Aravind,3,Not out
+18.4,S Aravind,Pankaj Singh,M Muralitharan,1,Not out
+18.5,M Muralitharan,Pankaj Singh,S Aravind,0,Not out
+18.6,M Muralitharan,Pankaj Singh,S Aravind,0,Not out
+19.1,S Aravind,A Singh,M Muralitharan,4,Not out
+19.2,S Aravind,A Singh,M Muralitharan,4,Not out
+19.3,S Aravind,A Singh,M Muralitharan,0,Not out
+19.4,S Aravind,A Singh,M Muralitharan,1,Not out
+19.5,M Muralitharan,A Singh,S Aravind,0,caught

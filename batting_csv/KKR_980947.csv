@@ -1,0 +1,121 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,RV Uthappa,TG Southee,G Gambhir,1,Not out
+0.2,G Gambhir,TG Southee,RV Uthappa,0,Not out
+0.3,G Gambhir,TG Southee,RV Uthappa,0,Not out
+0.4,G Gambhir,TG Southee,RV Uthappa,0,Not out
+0.5,G Gambhir,TG Southee,RV Uthappa,1,Not out
+0.6,RV Uthappa,TG Southee,G Gambhir,2,Not out
+1.1,G Gambhir,MJ McClenaghan,RV Uthappa,4,Not out
+1.2,G Gambhir,MJ McClenaghan,RV Uthappa,1,Not out
+1.3,RV Uthappa,MJ McClenaghan,G Gambhir,3,Not out
+1.4,G Gambhir,MJ McClenaghan,RV Uthappa,0,Not out
+1.5,G Gambhir,MJ McClenaghan,RV Uthappa,2,Not out
+1.6,G Gambhir,MJ McClenaghan,RV Uthappa,1,Not out
+2.1,G Gambhir,TG Southee,RV Uthappa,4,Not out
+2.2,G Gambhir,TG Southee,RV Uthappa,1,Not out
+2.3,RV Uthappa,TG Southee,G Gambhir,4,Not out
+2.4,RV Uthappa,TG Southee,G Gambhir,3,Not out
+2.5,G Gambhir,TG Southee,RV Uthappa,4,Not out
+2.6,G Gambhir,TG Southee,RV Uthappa,1,Not out
+3.1,G Gambhir,MJ McClenaghan,RV Uthappa,1,Not out
+3.2,RV Uthappa,MJ McClenaghan,G Gambhir,1,Not out
+3.3,G Gambhir,MJ McClenaghan,RV Uthappa,1,Not out
+3.4,RV Uthappa,MJ McClenaghan,G Gambhir,2,Not out
+3.5,RV Uthappa,MJ McClenaghan,G Gambhir,1,Not out
+3.6,G Gambhir,MJ McClenaghan,RV Uthappa,0,Not out
+4.1,RV Uthappa,JJ Bumrah,G Gambhir,0,Not out
+4.2,RV Uthappa,JJ Bumrah,G Gambhir,6,Not out
+4.3,RV Uthappa,JJ Bumrah,G Gambhir,2,Not out
+4.4,RV Uthappa,JJ Bumrah,G Gambhir,0,Not out
+4.5,RV Uthappa,JJ Bumrah,G Gambhir,1,Not out
+4.6,G Gambhir,JJ Bumrah,RV Uthappa,0,Not out
+5.1,G Gambhir,Harbhajan Singh,RV Uthappa,1,Not out
+5.2,RV Uthappa,Harbhajan Singh,G Gambhir,6,Not out
+5.3,RV Uthappa,Harbhajan Singh,G Gambhir,1,Not out
+5.4,G Gambhir,Harbhajan Singh,RV Uthappa,0,Not out
+5.5,G Gambhir,Harbhajan Singh,RV Uthappa,2,Not out
+5.6,G Gambhir,Harbhajan Singh,RV Uthappa,1,Not out
+6.1,G Gambhir,HH Pandya,RV Uthappa,1,Not out
+6.2,RV Uthappa,HH Pandya,G Gambhir,1,Not out
+6.3,G Gambhir,HH Pandya,RV Uthappa,4,Not out
+6.4,G Gambhir,HH Pandya,RV Uthappa,1,Not out
+6.5,RV Uthappa,HH Pandya,G Gambhir,1,Not out
+6.6,G Gambhir,HH Pandya,RV Uthappa,0,Not out
+7.1,RV Uthappa,Harbhajan Singh,G Gambhir,0,Not out
+7.2,RV Uthappa,Harbhajan Singh,G Gambhir,1,Not out
+7.3,G Gambhir,Harbhajan Singh,RV Uthappa,1,Not out
+7.4,RV Uthappa,Harbhajan Singh,G Gambhir,0,caught
+7.5,G Gambhir,Harbhajan Singh,Shakib Al Hasan,1,Not out
+7.6,Shakib Al Hasan,Harbhajan Singh,G Gambhir,1,Not out
+8.1,Shakib Al Hasan,HH Pandya,G Gambhir,4,Not out
+8.2,Shakib Al Hasan,HH Pandya,G Gambhir,1,Not out
+8.3,G Gambhir,HH Pandya,Shakib Al Hasan,0,Not out
+8.4,G Gambhir,HH Pandya,Shakib Al Hasan,1,Not out
+8.5,Shakib Al Hasan,HH Pandya,G Gambhir,0,caught
+8.6,SA Yadav,HH Pandya,G Gambhir,1,Not out
+9.1,SA Yadav,Harbhajan Singh,G Gambhir,1,Not out
+9.2,G Gambhir,Harbhajan Singh,SA Yadav,1,Not out
+9.3,SA Yadav,Harbhajan Singh,G Gambhir,1,Not out
+9.4,G Gambhir,Harbhajan Singh,SA Yadav,1,Not out
+9.5,SA Yadav,Harbhajan Singh,G Gambhir,4,Not out
+9.6,SA Yadav,Harbhajan Singh,G Gambhir,1,Not out
+10.1,SA Yadav,KH Pandya,G Gambhir,0,Not out
+10.2,SA Yadav,KH Pandya,G Gambhir,1,Not out
+10.3,G Gambhir,KH Pandya,SA Yadav,1,Not out
+10.4,SA Yadav,KH Pandya,G Gambhir,1,Not out
+10.5,G Gambhir,KH Pandya,SA Yadav,2,Not out
+10.6,G Gambhir,KH Pandya,SA Yadav,1,Not out
+11.1,G Gambhir,Harbhajan Singh,SA Yadav,0,Not out
+11.2,G Gambhir,Harbhajan Singh,SA Yadav,1,Not out
+11.3,SA Yadav,Harbhajan Singh,G Gambhir,1,Not out
+11.4,G Gambhir,Harbhajan Singh,SA Yadav,1,Not out
+11.5,SA Yadav,Harbhajan Singh,G Gambhir,4,Not out
+11.6,SA Yadav,Harbhajan Singh,G Gambhir,1,Not out
+12.1,SA Yadav,KH Pandya,G Gambhir,1,Not out
+12.2,G Gambhir,KH Pandya,SA Yadav,6,Not out
+12.3,G Gambhir,KH Pandya,SA Yadav,4,Not out
+12.4,G Gambhir,KH Pandya,SA Yadav,1,Not out
+12.5,SA Yadav,KH Pandya,G Gambhir,1,Not out
+12.6,G Gambhir,KH Pandya,SA Yadav,2,Not out
+13.1,SA Yadav,MJ McClenaghan,G Gambhir,1,Not out
+13.2,G Gambhir,MJ McClenaghan,SA Yadav,4,Not out
+13.3,G Gambhir,MJ McClenaghan,SA Yadav,0,Not out
+13.4,G Gambhir,MJ McClenaghan,SA Yadav,0,Not out
+13.5,G Gambhir,MJ McClenaghan,SA Yadav,0,caught
+13.6,AD Russell,MJ McClenaghan,SA Yadav,1,Not out
+14.1,AD Russell,JJ Bumrah,SA Yadav,0,Not out
+14.2,AD Russell,JJ Bumrah,SA Yadav,0,Not out
+14.3,AD Russell,JJ Bumrah,SA Yadav,1,Not out
+14.4,SA Yadav,JJ Bumrah,AD Russell,1,Not out
+14.5,AD Russell,JJ Bumrah,SA Yadav,2,Not out
+14.6,AD Russell,JJ Bumrah,SA Yadav,0,Not out
+15.1,SA Yadav,TG Southee,AD Russell,1,Not out
+15.2,AD Russell,TG Southee,SA Yadav,2,Not out
+15.3,AD Russell,TG Southee,SA Yadav,0,Not out
+15.4,AD Russell,TG Southee,SA Yadav,1,Not out
+15.5,SA Yadav,TG Southee,AD Russell,0,caught and bowled
+15.6,CA Lynn,TG Southee,AD Russell,0,Not out
+16.1,AD Russell,JJ Bumrah,CA Lynn,4,Not out
+16.2,AD Russell,JJ Bumrah,CA Lynn,4,Not out
+16.3,AD Russell,JJ Bumrah,CA Lynn,0,Not out
+16.4,AD Russell,JJ Bumrah,CA Lynn,4,Not out
+16.5,AD Russell,JJ Bumrah,CA Lynn,1,Not out
+16.6,CA Lynn,JJ Bumrah,AD Russell,0,Not out
+17.1,AD Russell,TG Southee,CA Lynn,2,Not out
+17.2,AD Russell,TG Southee,CA Lynn,0,bowled
+17.3,YK Pathan,TG Southee,CA Lynn,4,Not out
+17.4,YK Pathan,TG Southee,CA Lynn,4,Not out
+17.5,YK Pathan,TG Southee,CA Lynn,1,Not out
+17.6,CA Lynn,TG Southee,YK Pathan,2,Not out
+18.1,YK Pathan,MJ McClenaghan,CA Lynn,1,Not out
+18.2,CA Lynn,MJ McClenaghan,YK Pathan,0,Not out
+18.3,CA Lynn,MJ McClenaghan,YK Pathan,1,Not out
+18.4,YK Pathan,MJ McClenaghan,CA Lynn,4,Not out
+18.5,YK Pathan,MJ McClenaghan,CA Lynn,0,Not out
+18.6,YK Pathan,MJ McClenaghan,CA Lynn,4,Not out
+19.1,CA Lynn,JJ Bumrah,YK Pathan,2,Not out
+19.2,CA Lynn,JJ Bumrah,YK Pathan,2,Not out
+19.3,CA Lynn,JJ Bumrah,YK Pathan,2,Not out
+19.4,CA Lynn,JJ Bumrah,YK Pathan,0,Not out
+19.5,CA Lynn,JJ Bumrah,YK Pathan,1,Not out
+19.6,YK Pathan,JJ Bumrah,CA Lynn,1,Not out

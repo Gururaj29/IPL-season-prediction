@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,JD Ryder,AD Mascarenhas,RV Uthappa,0,Not out
+0.2,JD Ryder,AD Mascarenhas,RV Uthappa,0,caught
+0.3,LRPL Taylor,AD Mascarenhas,RV Uthappa,0,bowled
+0.4,KP Pietersen,AD Mascarenhas,RV Uthappa,0,Not out
+0.5,KP Pietersen,AD Mascarenhas,RV Uthappa,4,Not out
+0.6,KP Pietersen,AD Mascarenhas,RV Uthappa,0,Not out
+1.1,RV Uthappa,Kamran Khan,KP Pietersen,0,Not out
+1.2,RV Uthappa,Kamran Khan,KP Pietersen,0,Not out
+1.3,KP Pietersen,Kamran Khan,RV Uthappa,1,Not out
+1.4,RV Uthappa,Kamran Khan,KP Pietersen,0,Not out
+1.5,RV Uthappa,Kamran Khan,KP Pietersen,1,Not out
+1.6,KP Pietersen,Kamran Khan,RV Uthappa,2,Not out
+2.1,RV Uthappa,AD Mascarenhas,KP Pietersen,1,Not out
+2.2,KP Pietersen,AD Mascarenhas,RV Uthappa,2,Not out
+2.3,KP Pietersen,AD Mascarenhas,RV Uthappa,0,Not out
+2.4,KP Pietersen,AD Mascarenhas,RV Uthappa,0,Not out
+2.5,KP Pietersen,AD Mascarenhas,RV Uthappa,0,Not out
+2.6,KP Pietersen,AD Mascarenhas,RV Uthappa,0,Not out
+3.1,RV Uthappa,MM Patel,KP Pietersen,0,Not out
+3.2,RV Uthappa,MM Patel,KP Pietersen,0,Not out
+3.3,RV Uthappa,MM Patel,KP Pietersen,0,Not out
+3.4,RV Uthappa,MM Patel,KP Pietersen,1,Not out
+3.5,KP Pietersen,MM Patel,RV Uthappa,0,Not out
+3.6,KP Pietersen,MM Patel,RV Uthappa,1,Not out
+4.1,KP Pietersen,AD Mascarenhas,RV Uthappa,2,Not out
+4.2,KP Pietersen,AD Mascarenhas,RV Uthappa,0,Not out
+4.3,KP Pietersen,AD Mascarenhas,RV Uthappa,0,Not out
+4.4,KP Pietersen,AD Mascarenhas,RV Uthappa,1,Not out
+4.5,RV Uthappa,AD Mascarenhas,KP Pietersen,0,caught
+4.6,R Dravid,AD Mascarenhas,KP Pietersen,0,Not out
+5.1,KP Pietersen,Kamran Khan,R Dravid,2,Not out
+5.2,KP Pietersen,Kamran Khan,R Dravid,4,Not out
+5.3,KP Pietersen,Kamran Khan,R Dravid,1,Not out
+5.4,R Dravid,Kamran Khan,KP Pietersen,4,Not out
+5.5,R Dravid,Kamran Khan,KP Pietersen,1,Not out
+5.6,KP Pietersen,Kamran Khan,R Dravid,0,Not out
+6.1,R Dravid,AD Mascarenhas,KP Pietersen,4,Not out
+6.2,R Dravid,AD Mascarenhas,KP Pietersen,0,Not out
+6.3,R Dravid,AD Mascarenhas,KP Pietersen,1,Not out
+6.4,KP Pietersen,AD Mascarenhas,R Dravid,0,Not out
+6.5,KP Pietersen,AD Mascarenhas,R Dravid,1,Not out
+6.6,R Dravid,AD Mascarenhas,KP Pietersen,4,Not out
+7.1,KP Pietersen,MM Patel,R Dravid,1,Not out
+7.2,R Dravid,MM Patel,KP Pietersen,1,Not out
+7.3,KP Pietersen,MM Patel,R Dravid,0,Not out
+7.4,KP Pietersen,MM Patel,R Dravid,4,Not out
+7.5,KP Pietersen,MM Patel,R Dravid,1,Not out
+7.6,R Dravid,MM Patel,KP Pietersen,0,Not out
+8.1,KP Pietersen,T Henderson,R Dravid,4,Not out
+8.2,KP Pietersen,T Henderson,R Dravid,1,Not out
+8.3,R Dravid,T Henderson,KP Pietersen,1,Not out
+8.4,KP Pietersen,T Henderson,R Dravid,0,Not out
+8.5,KP Pietersen,T Henderson,R Dravid,0,caught
+8.6,V Kohli,T Henderson,R Dravid,0,Not out
+9.1,R Dravid,Kamran Khan,V Kohli,1,Not out
+9.2,V Kohli,Kamran Khan,R Dravid,1,Not out
+9.3,R Dravid,Kamran Khan,V Kohli,1,Not out
+9.4,V Kohli,Kamran Khan,R Dravid,1,Not out
+9.5,R Dravid,Kamran Khan,V Kohli,1,Not out
+9.6,V Kohli,Kamran Khan,R Dravid,0,Not out
+10.1,R Dravid,T Henderson,V Kohli,0,Not out
+10.2,R Dravid,T Henderson,V Kohli,0,Not out
+10.3,R Dravid,T Henderson,V Kohli,0,Not out
+10.4,R Dravid,T Henderson,V Kohli,1,Not out
+10.5,V Kohli,T Henderson,R Dravid,1,Not out
+10.6,R Dravid,T Henderson,V Kohli,1,Not out
+11.1,R Dravid,SK Warne,V Kohli,2,Not out
+11.2,R Dravid,SK Warne,V Kohli,1,Not out
+11.3,V Kohli,SK Warne,R Dravid,0,Not out
+11.4,V Kohli,SK Warne,R Dravid,0,Not out
+11.5,V Kohli,SK Warne,R Dravid,0,bowled
+11.6,B Akhil,SK Warne,R Dravid,0,Not out
+12.1,R Dravid,YK Pathan,B Akhil,0,Not out
+12.2,R Dravid,YK Pathan,B Akhil,0,Not out
+12.3,R Dravid,YK Pathan,B Akhil,2,Not out
+12.4,R Dravid,YK Pathan,B Akhil,1,Not out
+12.5,B Akhil,YK Pathan,R Dravid,2,Not out
+12.6,B Akhil,YK Pathan,R Dravid,2,Not out
+13.1,R Dravid,SK Warne,B Akhil,0,Not out
+13.2,R Dravid,SK Warne,B Akhil,4,Not out
+13.3,R Dravid,SK Warne,B Akhil,0,Not out
+13.4,B Akhil,SK Warne,R Dravid,1,Not out
+13.5,R Dravid,SK Warne,B Akhil,0,Not out
+13.6,R Dravid,SK Warne,B Akhil,1,Not out
+14.1,R Dravid,YK Pathan,B Akhil,0,Not out
+14.2,R Dravid,YK Pathan,B Akhil,4,Not out
+14.3,R Dravid,YK Pathan,B Akhil,0,Not out
+14.4,R Dravid,YK Pathan,B Akhil,1,Not out
+14.5,B Akhil,YK Pathan,R Dravid,0,Not out
+14.6,B Akhil,YK Pathan,R Dravid,0,Not out
+14.7,B Akhil,YK Pathan,R Dravid,4,Not out
+15.1,R Dravid,SK Warne,B Akhil,0,Not out
+15.2,R Dravid,SK Warne,B Akhil,1,Not out
+15.3,B Akhil,SK Warne,R Dravid,0,Not out
+15.4,B Akhil,SK Warne,R Dravid,0,bowled
+15.5,P Kumar,SK Warne,R Dravid,0,Not out
+15.6,P Kumar,SK Warne,R Dravid,0,Not out
+16.1,R Dravid,T Henderson,P Kumar,0,Not out
+16.2,R Dravid,T Henderson,P Kumar,4,Not out
+16.3,R Dravid,T Henderson,P Kumar,1,Not out
+16.4,P Kumar,T Henderson,R Dravid,1,Not out
+16.5,R Dravid,T Henderson,P Kumar,2,Not out
+16.6,R Dravid,T Henderson,P Kumar,2,Not out
+17.1,P Kumar,SK Warne,R Dravid,0,Not out
+17.2,P Kumar,SK Warne,R Dravid,0,Not out
+17.3,P Kumar,SK Warne,R Dravid,0,Not out
+17.4,P Kumar,SK Warne,R Dravid,6,Not out
+17.5,P Kumar,SK Warne,R Dravid,1,Not out
+17.6,R Dravid,SK Warne,P Kumar,1,Not out
+18.1,R Dravid,T Henderson,P Kumar,0,Not out
+18.2,R Dravid,T Henderson,P Kumar,4,Not out
+18.3,R Dravid,T Henderson,P Kumar,2,Not out
+18.4,R Dravid,T Henderson,P Kumar,4,Not out
+18.5,R Dravid,T Henderson,P Kumar,1,Not out
+18.6,P Kumar,T Henderson,R Dravid,0,Not out
+19.1,R Dravid,MM Patel,P Kumar,0,Not out
+19.2,R Dravid,MM Patel,P Kumar,1,Not out
+19.3,P Kumar,MM Patel,R Dravid,0,caught and bowled
+19.4,R Dravid,MM Patel,R Vinay Kumar,6,Not out
+19.5,R Dravid,MM Patel,R Vinay Kumar,0,caught
+19.6,R Vinay Kumar,MM Patel,DW Steyn,4,Not out
+19.7,R Vinay Kumar,MM Patel,DW Steyn,4,Not out

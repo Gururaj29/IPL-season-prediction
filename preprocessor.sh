@@ -1,0 +1,12 @@
+mkdir batting_csv
+mkdir p2p
+touch p2p/players_list
+mkdir clusters_batsmen
+mkdir clusters_bowlers
+mkdir bowling_csv
+mkdir csv_data
+mkdir pvv
+mkdir pvi
+mkdir seasons_batsmen
+mkdir seasons_bowlers
+python3 ipl_data.py

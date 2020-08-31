@@ -1,0 +1,110 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,RV Uthappa,BW Hilfenhaus,G Gambhir,4,Not out
+0.2,RV Uthappa,BW Hilfenhaus,G Gambhir,2,Not out
+0.3,RV Uthappa,BW Hilfenhaus,G Gambhir,0,Not out
+0.4,RV Uthappa,BW Hilfenhaus,G Gambhir,0,Not out
+0.5,RV Uthappa,BW Hilfenhaus,G Gambhir,0,Not out
+0.6,RV Uthappa,BW Hilfenhaus,G Gambhir,4,Not out
+0.7,RV Uthappa,BW Hilfenhaus,G Gambhir,1,Not out
+1.1,RV Uthappa,IC Pandey,G Gambhir,4,Not out
+1.2,RV Uthappa,IC Pandey,G Gambhir,4,Not out
+1.3,RV Uthappa,IC Pandey,G Gambhir,1,Not out
+1.4,G Gambhir,IC Pandey,RV Uthappa,0,Not out
+1.5,G Gambhir,IC Pandey,RV Uthappa,0,Not out
+1.6,G Gambhir,IC Pandey,RV Uthappa,0,Not out
+2.1,RV Uthappa,MM Sharma,G Gambhir,4,Not out
+2.2,RV Uthappa,MM Sharma,G Gambhir,4,Not out
+2.3,RV Uthappa,MM Sharma,G Gambhir,1,Not out
+2.4,G Gambhir,MM Sharma,RV Uthappa,0,Not out
+2.5,G Gambhir,MM Sharma,RV Uthappa,4,Not out
+2.6,G Gambhir,MM Sharma,RV Uthappa,0,Not out
+3.1,RV Uthappa,IC Pandey,G Gambhir,0,Not out
+3.2,RV Uthappa,IC Pandey,G Gambhir,0,Not out
+3.3,RV Uthappa,IC Pandey,G Gambhir,0,Not out
+3.4,RV Uthappa,IC Pandey,G Gambhir,1,Not out
+3.5,G Gambhir,IC Pandey,RV Uthappa,0,Not out
+3.6,G Gambhir,IC Pandey,RV Uthappa,1,Not out
+4.1,G Gambhir,BW Hilfenhaus,RV Uthappa,2,Not out
+4.2,G Gambhir,BW Hilfenhaus,RV Uthappa,0,Not out
+4.3,G Gambhir,BW Hilfenhaus,RV Uthappa,1,Not out
+4.4,RV Uthappa,BW Hilfenhaus,G Gambhir,2,Not out
+4.5,RV Uthappa,BW Hilfenhaus,G Gambhir,0,Not out
+4.6,RV Uthappa,BW Hilfenhaus,G Gambhir,4,Not out
+5.1,G Gambhir,R Ashwin,RV Uthappa,1,Not out
+5.2,RV Uthappa,R Ashwin,G Gambhir,4,Not out
+5.3,RV Uthappa,R Ashwin,G Gambhir,1,Not out
+5.4,G Gambhir,R Ashwin,RV Uthappa,0,Not out
+5.5,G Gambhir,R Ashwin,RV Uthappa,0,Not out
+5.6,G Gambhir,R Ashwin,RV Uthappa,1,Not out
+6.1,G Gambhir,IC Pandey,RV Uthappa,4,Not out
+6.2,G Gambhir,IC Pandey,RV Uthappa,2,Not out
+6.3,G Gambhir,IC Pandey,RV Uthappa,4,Not out
+6.4,G Gambhir,IC Pandey,RV Uthappa,1,Not out
+6.5,RV Uthappa,IC Pandey,G Gambhir,1,Not out
+6.6,G Gambhir,IC Pandey,RV Uthappa,0,bowled
+7.1,RV Uthappa,MM Sharma,MK Pandey,1,Not out
+7.2,MK Pandey,MM Sharma,RV Uthappa,0,Not out
+7.3,MK Pandey,MM Sharma,RV Uthappa,1,Not out
+7.4,RV Uthappa,MM Sharma,MK Pandey,2,Not out
+7.5,RV Uthappa,MM Sharma,MK Pandey,0,Not out
+7.6,MK Pandey,MM Sharma,RV Uthappa,0,Not out
+8.1,RV Uthappa,RA Jadeja,MK Pandey,2,Not out
+8.2,RV Uthappa,RA Jadeja,MK Pandey,0,Not out
+8.3,RV Uthappa,RA Jadeja,MK Pandey,1,Not out
+8.4,MK Pandey,RA Jadeja,RV Uthappa,1,Not out
+8.5,RV Uthappa,RA Jadeja,MK Pandey,4,Not out
+8.6,RV Uthappa,RA Jadeja,MK Pandey,1,Not out
+9.1,RV Uthappa,R Ashwin,MK Pandey,0,Not out
+9.2,RV Uthappa,R Ashwin,MK Pandey,0,Not out
+9.3,MK Pandey,R Ashwin,RV Uthappa,0,Not out
+9.4,RV Uthappa,R Ashwin,MK Pandey,1,Not out
+9.5,MK Pandey,R Ashwin,RV Uthappa,1,Not out
+9.6,RV Uthappa,R Ashwin,MK Pandey,6,Not out
+10.1,MK Pandey,IC Pandey,RV Uthappa,0,Not out
+10.2,MK Pandey,IC Pandey,RV Uthappa,1,Not out
+10.3,RV Uthappa,IC Pandey,MK Pandey,4,Not out
+10.4,RV Uthappa,IC Pandey,MK Pandey,1,Not out
+10.5,MK Pandey,IC Pandey,RV Uthappa,1,Not out
+10.6,RV Uthappa,IC Pandey,MK Pandey,1,Not out
+11.1,RV Uthappa,RA Jadeja,MK Pandey,1,Not out
+11.2,MK Pandey,RA Jadeja,RV Uthappa,0,Not out
+11.3,MK Pandey,RA Jadeja,RV Uthappa,1,Not out
+11.4,RV Uthappa,RA Jadeja,MK Pandey,0,caught
+11.5,Shakib Al Hasan,RA Jadeja,MK Pandey,0,Not out
+11.6,Shakib Al Hasan,RA Jadeja,MK Pandey,1,Not out
+12.1,Shakib Al Hasan,R Ashwin,MK Pandey,0,Not out
+12.2,Shakib Al Hasan,R Ashwin,MK Pandey,0,Not out
+12.3,Shakib Al Hasan,R Ashwin,MK Pandey,1,Not out
+12.4,MK Pandey,R Ashwin,Shakib Al Hasan,0,Not out
+12.5,MK Pandey,R Ashwin,Shakib Al Hasan,1,Not out
+12.6,Shakib Al Hasan,R Ashwin,MK Pandey,0,Not out
+13.1,MK Pandey,RA Jadeja,Shakib Al Hasan,0,Not out
+13.2,MK Pandey,RA Jadeja,Shakib Al Hasan,1,Not out
+13.3,Shakib Al Hasan,RA Jadeja,MK Pandey,2,Not out
+13.4,Shakib Al Hasan,RA Jadeja,MK Pandey,6,Not out
+13.5,Shakib Al Hasan,RA Jadeja,MK Pandey,1,Not out
+13.6,MK Pandey,RA Jadeja,Shakib Al Hasan,1,Not out
+14.1,MK Pandey,R Ashwin,Shakib Al Hasan,0,Not out
+14.2,MK Pandey,R Ashwin,Shakib Al Hasan,1,Not out
+14.3,Shakib Al Hasan,R Ashwin,MK Pandey,4,Not out
+14.4,Shakib Al Hasan,R Ashwin,MK Pandey,1,Not out
+14.5,MK Pandey,R Ashwin,Shakib Al Hasan,0,Not out
+14.6,MK Pandey,R Ashwin,Shakib Al Hasan,1,Not out
+15.1,MK Pandey,SK Raina,Shakib Al Hasan,1,Not out
+15.2,Shakib Al Hasan,SK Raina,MK Pandey,4,Not out
+15.3,Shakib Al Hasan,SK Raina,MK Pandey,1,Not out
+15.4,MK Pandey,SK Raina,Shakib Al Hasan,1,Not out
+15.5,Shakib Al Hasan,SK Raina,MK Pandey,1,Not out
+15.6,MK Pandey,SK Raina,Shakib Al Hasan,1,Not out
+16.1,MK Pandey,BW Hilfenhaus,Shakib Al Hasan,1,Not out
+16.2,Shakib Al Hasan,BW Hilfenhaus,MK Pandey,1,Not out
+16.3,MK Pandey,BW Hilfenhaus,Shakib Al Hasan,1,Not out
+16.4,Shakib Al Hasan,BW Hilfenhaus,MK Pandey,6,Not out
+16.5,Shakib Al Hasan,BW Hilfenhaus,MK Pandey,4,Not out
+16.6,Shakib Al Hasan,BW Hilfenhaus,MK Pandey,4,Not out
+17.1,MK Pandey,MM Sharma,Shakib Al Hasan,0,Not out
+17.2,MK Pandey,MM Sharma,Shakib Al Hasan,1,Not out
+17.3,Shakib Al Hasan,MM Sharma,MK Pandey,4,Not out
+17.4,Shakib Al Hasan,MM Sharma,MK Pandey,1,Not out
+17.5,MK Pandey,MM Sharma,Shakib Al Hasan,1,Not out
+17.6,Shakib Al Hasan,MM Sharma,MK Pandey,4,Not out

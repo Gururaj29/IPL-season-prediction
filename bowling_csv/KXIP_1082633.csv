@@ -1,0 +1,118 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,Mandeep Singh,Sandeep Sharma,CH Gayle,0,Not out
+0.2,Mandeep Singh,Sandeep Sharma,CH Gayle,1,Not out
+0.3,CH Gayle,Sandeep Sharma,Mandeep Singh,0,Not out
+0.4,CH Gayle,Sandeep Sharma,Mandeep Singh,0,caught
+0.5,V Kohli,Sandeep Sharma,Mandeep Singh,4,Not out
+0.6,V Kohli,Sandeep Sharma,Mandeep Singh,2,Not out
+1.1,Mandeep Singh,T Natarajan,V Kohli,6,Not out
+1.2,Mandeep Singh,T Natarajan,V Kohli,4,Not out
+1.3,Mandeep Singh,T Natarajan,V Kohli,4,Not out
+1.4,Mandeep Singh,T Natarajan,V Kohli,1,Not out
+1.5,V Kohli,T Natarajan,Mandeep Singh,0,Not out
+1.6,V Kohli,T Natarajan,Mandeep Singh,0,Not out
+2.1,Mandeep Singh,Sandeep Sharma,V Kohli,0,Not out
+2.2,Mandeep Singh,Sandeep Sharma,V Kohli,0,Not out
+2.3,Mandeep Singh,Sandeep Sharma,V Kohli,1,Not out
+2.4,V Kohli,Sandeep Sharma,Mandeep Singh,0,Not out
+2.5,V Kohli,Sandeep Sharma,Mandeep Singh,0,bowled
+2.6,AB de Villiers,Sandeep Sharma,Mandeep Singh,0,Not out
+3.1,Mandeep Singh,VR Aaron,AB de Villiers,0,Not out
+3.2,Mandeep Singh,VR Aaron,AB de Villiers,0,Not out
+3.3,Mandeep Singh,VR Aaron,AB de Villiers,0,Not out
+3.4,Mandeep Singh,VR Aaron,AB de Villiers,4,Not out
+3.5,Mandeep Singh,VR Aaron,AB de Villiers,0,Not out
+3.6,Mandeep Singh,VR Aaron,AB de Villiers,0,Not out
+4.1,AB de Villiers,Sandeep Sharma,Mandeep Singh,0,Not out
+4.2,AB de Villiers,Sandeep Sharma,Mandeep Singh,4,Not out
+4.3,AB de Villiers,Sandeep Sharma,Mandeep Singh,0,Not out
+4.4,AB de Villiers,Sandeep Sharma,Mandeep Singh,6,Not out
+4.5,AB de Villiers,Sandeep Sharma,Mandeep Singh,0,caught
+4.6,KM Jadhav,Sandeep Sharma,Mandeep Singh,0,Not out
+5.1,Mandeep Singh,VR Aaron,KM Jadhav,0,Not out
+5.2,Mandeep Singh,VR Aaron,KM Jadhav,0,Not out
+5.3,Mandeep Singh,VR Aaron,KM Jadhav,4,Not out
+5.4,Mandeep Singh,VR Aaron,KM Jadhav,1,Not out
+5.5,KM Jadhav,VR Aaron,Mandeep Singh,0,Not out
+5.6,KM Jadhav,VR Aaron,Mandeep Singh,4,Not out
+6.1,Mandeep Singh,Sandeep Sharma,KM Jadhav,0,Not out
+6.2,Mandeep Singh,Sandeep Sharma,KM Jadhav,1,Not out
+6.3,KM Jadhav,Sandeep Sharma,Mandeep Singh,1,Not out
+6.4,Mandeep Singh,Sandeep Sharma,KM Jadhav,2,Not out
+6.5,Mandeep Singh,Sandeep Sharma,KM Jadhav,0,Not out
+6.6,Mandeep Singh,Sandeep Sharma,KM Jadhav,0,Not out
+7.1,KM Jadhav,MM Sharma,Mandeep Singh,1,Not out
+7.2,Mandeep Singh,MM Sharma,KM Jadhav,0,Not out
+7.3,Mandeep Singh,MM Sharma,KM Jadhav,0,Not out
+7.4,Mandeep Singh,MM Sharma,KM Jadhav,1,Not out
+7.5,KM Jadhav,MM Sharma,Mandeep Singh,0,caught
+7.6,SR Watson,MM Sharma,Mandeep Singh,0,Not out
+8.1,Mandeep Singh,AR Patel,SR Watson,1,Not out
+8.2,SR Watson,AR Patel,Mandeep Singh,1,Not out
+8.3,Mandeep Singh,AR Patel,SR Watson,0,Not out
+8.4,Mandeep Singh,AR Patel,SR Watson,0,Not out
+8.5,Mandeep Singh,AR Patel,SR Watson,0,Not out
+8.6,Mandeep Singh,AR Patel,SR Watson,1,Not out
+9.1,Mandeep Singh,MM Sharma,SR Watson,4,Not out
+9.2,Mandeep Singh,MM Sharma,SR Watson,1,Not out
+9.3,SR Watson,MM Sharma,Mandeep Singh,1,Not out
+9.4,Mandeep Singh,MM Sharma,SR Watson,0,Not out
+9.5,Mandeep Singh,MM Sharma,SR Watson,6,Not out
+9.6,Mandeep Singh,MM Sharma,SR Watson,1,Not out
+10.1,Mandeep Singh,AR Patel,SR Watson,1,Not out
+10.2,SR Watson,AR Patel,Mandeep Singh,0,Not out
+10.3,SR Watson,AR Patel,Mandeep Singh,1,Not out
+10.4,Mandeep Singh,AR Patel,SR Watson,1,Not out
+10.5,SR Watson,AR Patel,Mandeep Singh,0,caught
+10.6,P Negi,AR Patel,Mandeep Singh,1,Not out
+11.1,P Negi,GJ Maxwell,Mandeep Singh,1,Not out
+11.2,Mandeep Singh,GJ Maxwell,P Negi,0,bowled
+11.3,S Aravind,GJ Maxwell,P Negi,1,Not out
+11.4,P Negi,GJ Maxwell,S Aravind,0,Not out
+11.5,P Negi,GJ Maxwell,S Aravind,1,Not out
+11.6,S Aravind,GJ Maxwell,P Negi,0,Not out
+12.1,P Negi,VR Aaron,S Aravind,0,Not out
+12.2,P Negi,VR Aaron,S Aravind,0,Not out
+12.3,P Negi,VR Aaron,S Aravind,0,Not out
+12.4,P Negi,VR Aaron,S Aravind,0,Not out
+12.5,P Negi,VR Aaron,S Aravind,0,Not out
+12.6,P Negi,VR Aaron,S Aravind,4,Not out
+12.7,P Negi,VR Aaron,S Aravind,1,Not out
+12.8,S Aravind,VR Aaron,P Negi,2,Not out
+13.1,P Negi,GJ Maxwell,S Aravind,1,Not out
+13.2,S Aravind,GJ Maxwell,P Negi,1,Not out
+13.3,P Negi,GJ Maxwell,S Aravind,1,Not out
+13.4,S Aravind,GJ Maxwell,P Negi,0,Not out
+13.5,S Aravind,GJ Maxwell,P Negi,0,lbw
+13.6,S Badree,GJ Maxwell,P Negi,1,Not out
+14.1,S Badree,VR Aaron,P Negi,0,Not out
+14.2,S Badree,VR Aaron,P Negi,1,Not out
+14.3,P Negi,VR Aaron,S Badree,4,Not out
+14.4,P Negi,VR Aaron,S Badree,0,Not out
+14.5,P Negi,VR Aaron,S Badree,0,Not out
+14.6,P Negi,VR Aaron,S Badree,1,Not out
+15.1,P Negi,GJ Maxwell,S Badree,1,Not out
+15.2,S Badree,GJ Maxwell,P Negi,2,Not out
+15.3,S Badree,GJ Maxwell,P Negi,0,Not out
+15.4,S Badree,GJ Maxwell,P Negi,1,Not out
+15.5,P Negi,GJ Maxwell,S Badree,1,Not out
+15.6,S Badree,GJ Maxwell,P Negi,1,Not out
+15.7,P Negi,GJ Maxwell,S Badree,1,Not out
+16.1,P Negi,MM Sharma,S Badree,0,Not out
+16.2,P Negi,MM Sharma,S Badree,1,Not out
+16.3,S Badree,MM Sharma,P Negi,1,Not out
+16.4,P Negi,MM Sharma,S Badree,1,Not out
+16.5,S Badree,MM Sharma,P Negi,1,Not out
+16.6,P Negi,MM Sharma,S Badree,1,Not out
+17.1,P Negi,AR Patel,S Badree,0,caught
+17.2,S Badree,AR Patel,A Choudhary,0,bowled
+17.3,YS Chahal,AR Patel,A Choudhary,1,Not out
+17.4,A Choudhary,AR Patel,YS Chahal,1,Not out
+17.5,YS Chahal,AR Patel,A Choudhary,1,Not out
+17.6,A Choudhary,AR Patel,YS Chahal,1,Not out
+18.1,A Choudhary,MM Sharma,YS Chahal,1,Not out
+18.2,YS Chahal,MM Sharma,A Choudhary,1,Not out
+18.3,A Choudhary,MM Sharma,YS Chahal,1,Not out
+18.4,YS Chahal,MM Sharma,A Choudhary,1,Not out
+18.5,A Choudhary,MM Sharma,YS Chahal,0,Not out
+18.6,A Choudhary,MM Sharma,YS Chahal,0,caught

@@ -1,0 +1,126 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MK Pandey,DP Nannes,JH Kallis,0,Not out
+0.2,JH Kallis,DP Nannes,MK Pandey,0,Not out
+0.3,MK Pandey,DP Nannes,JH Kallis,0,Not out
+0.4,MK Pandey,DP Nannes,JH Kallis,3,Not out
+0.5,JH Kallis,DP Nannes,MK Pandey,0,Not out
+0.6,JH Kallis,DP Nannes,MK Pandey,3,Not out
+1.1,JH Kallis,UT Yadav,MK Pandey,0,Not out
+1.2,JH Kallis,UT Yadav,MK Pandey,0,Not out
+1.3,JH Kallis,UT Yadav,MK Pandey,0,Not out
+1.4,JH Kallis,UT Yadav,MK Pandey,1,Not out
+1.5,MK Pandey,UT Yadav,JH Kallis,0,Not out
+1.6,MK Pandey,UT Yadav,JH Kallis,4,Not out
+2.1,JH Kallis,PJ Sangwan,MK Pandey,1,Not out
+2.2,MK Pandey,PJ Sangwan,JH Kallis,1,Not out
+2.3,JH Kallis,PJ Sangwan,MK Pandey,0,Not out
+2.4,JH Kallis,PJ Sangwan,MK Pandey,4,Not out
+2.5,JH Kallis,PJ Sangwan,MK Pandey,0,Not out
+2.6,MK Pandey,PJ Sangwan,JH Kallis,1,Not out
+2.7,JH Kallis,PJ Sangwan,MK Pandey,0,Not out
+3.1,MK Pandey,UT Yadav,JH Kallis,4,Not out
+3.2,MK Pandey,UT Yadav,JH Kallis,4,Not out
+3.3,MK Pandey,UT Yadav,JH Kallis,1,Not out
+3.4,JH Kallis,UT Yadav,MK Pandey,1,Not out
+3.5,MK Pandey,UT Yadav,JH Kallis,0,Not out
+3.6,MK Pandey,UT Yadav,JH Kallis,1,Not out
+4.1,MK Pandey,DP Nannes,JH Kallis,0,Not out
+4.2,MK Pandey,DP Nannes,JH Kallis,1,Not out
+4.3,JH Kallis,DP Nannes,MK Pandey,0,Not out
+4.4,JH Kallis,DP Nannes,MK Pandey,1,Not out
+4.5,MK Pandey,DP Nannes,JH Kallis,1,Not out
+4.6,JH Kallis,DP Nannes,MK Pandey,1,Not out
+5.1,JH Kallis,UT Yadav,MK Pandey,1,Not out
+5.2,MK Pandey,UT Yadav,JH Kallis,1,Not out
+5.3,JH Kallis,UT Yadav,MK Pandey,1,Not out
+5.4,MK Pandey,UT Yadav,JH Kallis,0,Not out
+5.5,MK Pandey,UT Yadav,JH Kallis,1,Not out
+5.6,JH Kallis,UT Yadav,MK Pandey,0,Not out
+5.7,JH Kallis,UT Yadav,MK Pandey,4,Not out
+6.1,MK Pandey,PJ Sangwan,JH Kallis,1,Not out
+6.2,JH Kallis,PJ Sangwan,MK Pandey,4,Not out
+6.3,JH Kallis,PJ Sangwan,MK Pandey,0,Not out
+6.4,JH Kallis,PJ Sangwan,MK Pandey,1,Not out
+6.5,MK Pandey,PJ Sangwan,JH Kallis,1,Not out
+6.6,JH Kallis,PJ Sangwan,MK Pandey,0,Not out
+6.7,JH Kallis,PJ Sangwan,MK Pandey,1,Not out
+7.1,JH Kallis,A Mishra,MK Pandey,0,Not out
+7.2,JH Kallis,A Mishra,MK Pandey,0,Not out
+7.3,JH Kallis,A Mishra,MK Pandey,1,Not out
+7.4,MK Pandey,A Mishra,JH Kallis,1,Not out
+7.5,JH Kallis,A Mishra,MK Pandey,1,Not out
+7.6,MK Pandey,A Mishra,JH Kallis,1,Not out
+8.1,MK Pandey,AB McDonald,JH Kallis,1,Not out
+8.2,JH Kallis,AB McDonald,MK Pandey,1,Not out
+8.3,MK Pandey,AB McDonald,JH Kallis,4,Not out
+8.4,MK Pandey,AB McDonald,JH Kallis,0,Not out
+8.5,MK Pandey,AB McDonald,JH Kallis,6,Not out
+8.6,MK Pandey,AB McDonald,JH Kallis,0,Not out
+9.1,JH Kallis,A Mishra,MK Pandey,0,bowled
+9.2,RV Uthappa,A Mishra,MK Pandey,4,Not out
+9.3,RV Uthappa,A Mishra,MK Pandey,1,Not out
+9.4,MK Pandey,A Mishra,RV Uthappa,1,Not out
+9.5,RV Uthappa,A Mishra,MK Pandey,0,Not out
+9.6,RV Uthappa,A Mishra,MK Pandey,1,Not out
+10.1,RV Uthappa,AB McDonald,MK Pandey,6,Not out
+10.2,RV Uthappa,AB McDonald,MK Pandey,1,Not out
+10.3,MK Pandey,AB McDonald,RV Uthappa,0,bowled
+10.4,R Dravid,AB McDonald,RV Uthappa,1,run out
+10.5,EJG Morgan,AB McDonald,RV Uthappa,0,Not out
+10.6,EJG Morgan,AB McDonald,RV Uthappa,0,Not out
+11.1,RV Uthappa,A Mishra,EJG Morgan,0,Not out
+11.2,RV Uthappa,A Mishra,EJG Morgan,1,Not out
+11.3,EJG Morgan,A Mishra,RV Uthappa,1,Not out
+11.4,RV Uthappa,A Mishra,EJG Morgan,1,Not out
+11.5,EJG Morgan,A Mishra,RV Uthappa,1,Not out
+11.6,RV Uthappa,A Mishra,EJG Morgan,0,caught
+12.1,EJG Morgan,PJ Sangwan,V Kohli,4,Not out
+12.2,EJG Morgan,PJ Sangwan,V Kohli,0,Not out
+12.3,EJG Morgan,PJ Sangwan,V Kohli,1,Not out
+12.4,V Kohli,PJ Sangwan,EJG Morgan,1,Not out
+12.5,EJG Morgan,PJ Sangwan,V Kohli,1,Not out
+12.6,V Kohli,PJ Sangwan,EJG Morgan,1,Not out
+12.7,EJG Morgan,PJ Sangwan,V Kohli,1,Not out
+13.1,EJG Morgan,A Mishra,V Kohli,1,Not out
+13.2,V Kohli,A Mishra,EJG Morgan,0,Not out
+13.3,V Kohli,A Mishra,EJG Morgan,1,Not out
+13.4,EJG Morgan,A Mishra,V Kohli,1,Not out
+13.5,V Kohli,A Mishra,EJG Morgan,1,Not out
+13.6,EJG Morgan,A Mishra,V Kohli,4,Not out
+14.1,V Kohli,AB McDonald,EJG Morgan,4,Not out
+14.2,V Kohli,AB McDonald,EJG Morgan,1,Not out
+14.3,EJG Morgan,AB McDonald,V Kohli,1,Not out
+14.4,V Kohli,AB McDonald,EJG Morgan,1,Not out
+14.5,EJG Morgan,AB McDonald,V Kohli,1,run out
+14.6,MV Boucher,AB McDonald,V Kohli,1,Not out
+15.1,MV Boucher,PJ Sangwan,V Kohli,1,Not out
+15.2,V Kohli,PJ Sangwan,MV Boucher,0,Not out
+15.3,V Kohli,PJ Sangwan,MV Boucher,1,Not out
+15.4,MV Boucher,PJ Sangwan,V Kohli,0,caught
+15.5,R Vinay Kumar,PJ Sangwan,V Kohli,0,Not out
+15.6,R Vinay Kumar,PJ Sangwan,V Kohli,1,Not out
+15.7,V Kohli,PJ Sangwan,R Vinay Kumar,1,Not out
+16.1,V Kohli,DP Nannes,R Vinay Kumar,2,Not out
+16.2,V Kohli,DP Nannes,R Vinay Kumar,4,Not out
+16.3,V Kohli,DP Nannes,R Vinay Kumar,1,Not out
+16.4,R Vinay Kumar,DP Nannes,V Kohli,1,Not out
+16.5,V Kohli,DP Nannes,R Vinay Kumar,1,run out
+16.6,V Kohli,DP Nannes,P Kumar,1,Not out
+17.1,V Kohli,UT Yadav,P Kumar,1,Not out
+17.2,P Kumar,UT Yadav,V Kohli,0,caught
+17.3,DW Steyn,UT Yadav,V Kohli,0,Not out
+17.4,DW Steyn,UT Yadav,V Kohli,0,Not out
+17.5,DW Steyn,UT Yadav,V Kohli,0,Not out
+17.6,DW Steyn,UT Yadav,V Kohli,1,Not out
+18.1,DW Steyn,DP Nannes,V Kohli,1,Not out
+18.2,V Kohli,DP Nannes,DW Steyn,4,Not out
+18.3,V Kohli,DP Nannes,DW Steyn,1,Not out
+18.4,DW Steyn,DP Nannes,V Kohli,4,Not out
+18.5,DW Steyn,DP Nannes,V Kohli,1,Not out
+18.6,V Kohli,DP Nannes,DW Steyn,0,Not out
+19.1,DW Steyn,AB McDonald,V Kohli,1,Not out
+19.2,V Kohli,AB McDonald,DW Steyn,4,Not out
+19.3,V Kohli,AB McDonald,DW Steyn,6,Not out
+19.4,V Kohli,AB McDonald,DW Steyn,1,Not out
+19.5,DW Steyn,AB McDonald,V Kohli,0,bowled
+19.6,A Kumble,AB McDonald,V Kohli,1,Not out

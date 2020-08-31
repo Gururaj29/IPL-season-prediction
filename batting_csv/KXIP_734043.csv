@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,V Sehwag,M Morkel,M Vohra,2,Not out
+0.2,V Sehwag,M Morkel,M Vohra,0,Not out
+0.3,M Vohra,M Morkel,V Sehwag,0,Not out
+0.4,M Vohra,M Morkel,V Sehwag,0,Not out
+0.5,M Vohra,M Morkel,V Sehwag,2,Not out
+0.6,M Vohra,M Morkel,V Sehwag,0,Not out
+1.1,V Sehwag,UT Yadav,M Vohra,0,caught
+1.2,WP Saha,UT Yadav,M Vohra,0,Not out
+1.3,WP Saha,UT Yadav,M Vohra,0,Not out
+1.4,WP Saha,UT Yadav,M Vohra,0,Not out
+1.5,WP Saha,UT Yadav,M Vohra,1,Not out
+1.6,M Vohra,UT Yadav,WP Saha,1,Not out
+1.7,WP Saha,UT Yadav,M Vohra,0,Not out
+2.1,M Vohra,M Morkel,WP Saha,1,Not out
+2.2,WP Saha,M Morkel,M Vohra,0,Not out
+2.3,WP Saha,M Morkel,M Vohra,0,Not out
+2.4,WP Saha,M Morkel,M Vohra,2,Not out
+2.5,WP Saha,M Morkel,M Vohra,0,Not out
+2.6,WP Saha,M Morkel,M Vohra,6,Not out
+3.1,M Vohra,SP Narine,WP Saha,0,Not out
+3.2,M Vohra,SP Narine,WP Saha,0,Not out
+3.3,M Vohra,SP Narine,WP Saha,1,Not out
+3.4,WP Saha,SP Narine,M Vohra,1,Not out
+3.5,M Vohra,SP Narine,WP Saha,1,Not out
+3.6,WP Saha,SP Narine,M Vohra,4,Not out
+4.1,M Vohra,Shakib Al Hasan,WP Saha,6,Not out
+4.2,M Vohra,Shakib Al Hasan,WP Saha,6,Not out
+4.3,M Vohra,Shakib Al Hasan,WP Saha,1,Not out
+4.4,WP Saha,Shakib Al Hasan,M Vohra,0,Not out
+4.5,WP Saha,Shakib Al Hasan,M Vohra,1,Not out
+4.6,M Vohra,Shakib Al Hasan,WP Saha,1,Not out
+5.1,M Vohra,M Morkel,WP Saha,0,Not out
+5.2,M Vohra,M Morkel,WP Saha,6,Not out
+5.3,M Vohra,M Morkel,WP Saha,0,Not out
+5.4,M Vohra,M Morkel,WP Saha,0,Not out
+5.5,M Vohra,M Morkel,WP Saha,0,caught
+5.6,WP Saha,M Morkel,GJ Maxwell,0,Not out
+5.7,WP Saha,M Morkel,GJ Maxwell,0,Not out
+6.1,GJ Maxwell,SP Narine,WP Saha,1,Not out
+6.2,WP Saha,SP Narine,GJ Maxwell,1,Not out
+6.3,GJ Maxwell,SP Narine,WP Saha,4,Not out
+6.4,GJ Maxwell,SP Narine,WP Saha,0,Not out
+6.5,GJ Maxwell,SP Narine,WP Saha,0,Not out
+6.6,GJ Maxwell,SP Narine,WP Saha,1,Not out
+7.1,GJ Maxwell,UT Yadav,WP Saha,0,Not out
+7.2,WP Saha,UT Yadav,GJ Maxwell,1,Not out
+7.3,GJ Maxwell,UT Yadav,WP Saha,0,Not out
+7.4,GJ Maxwell,UT Yadav,WP Saha,0,Not out
+7.5,GJ Maxwell,UT Yadav,WP Saha,0,lbw
+7.6,DA Miller,UT Yadav,WP Saha,0,Not out
+8.1,WP Saha,PP Chawla,DA Miller,1,Not out
+8.2,DA Miller,PP Chawla,WP Saha,0,Not out
+8.3,WP Saha,PP Chawla,DA Miller,1,Not out
+8.4,DA Miller,PP Chawla,WP Saha,1,Not out
+8.5,WP Saha,PP Chawla,DA Miller,1,Not out
+8.6,DA Miller,PP Chawla,WP Saha,0,Not out
+9.1,WP Saha,UT Yadav,DA Miller,4,Not out
+9.2,WP Saha,UT Yadav,DA Miller,0,Not out
+9.3,WP Saha,UT Yadav,DA Miller,0,Not out
+9.4,WP Saha,UT Yadav,DA Miller,1,Not out
+9.5,DA Miller,UT Yadav,WP Saha,1,Not out
+9.6,WP Saha,UT Yadav,DA Miller,2,Not out
+10.1,DA Miller,PP Chawla,WP Saha,0,Not out
+10.2,DA Miller,PP Chawla,WP Saha,1,Not out
+10.3,WP Saha,PP Chawla,DA Miller,6,Not out
+10.4,WP Saha,PP Chawla,DA Miller,1,Not out
+10.5,DA Miller,PP Chawla,WP Saha,1,Not out
+10.6,WP Saha,PP Chawla,DA Miller,0,Not out
+11.1,DA Miller,M Morkel,WP Saha,1,Not out
+11.2,WP Saha,M Morkel,DA Miller,1,Not out
+11.3,DA Miller,M Morkel,WP Saha,1,Not out
+11.4,WP Saha,M Morkel,DA Miller,0,Not out
+11.5,WP Saha,M Morkel,DA Miller,0,Not out
+11.6,WP Saha,M Morkel,DA Miller,0,caught
+12.1,DA Miller,PP Chawla,AR Patel,2,Not out
+12.2,DA Miller,PP Chawla,AR Patel,0,bowled
+12.3,GJ Bailey,PP Chawla,AR Patel,0,Not out
+12.4,GJ Bailey,PP Chawla,AR Patel,2,Not out
+12.5,GJ Bailey,PP Chawla,AR Patel,1,Not out
+12.6,AR Patel,PP Chawla,GJ Bailey,1,Not out
+13.1,AR Patel,Shakib Al Hasan,GJ Bailey,1,Not out
+13.2,GJ Bailey,Shakib Al Hasan,AR Patel,0,Not out
+13.3,GJ Bailey,Shakib Al Hasan,AR Patel,0,run out
+13.4,R Dhawan,Shakib Al Hasan,GJ Bailey,0,Not out
+13.5,R Dhawan,Shakib Al Hasan,GJ Bailey,0,Not out
+13.6,R Dhawan,Shakib Al Hasan,GJ Bailey,1,Not out
+14.1,R Dhawan,PP Chawla,GJ Bailey,0,Not out
+14.2,R Dhawan,PP Chawla,GJ Bailey,1,Not out
+14.3,GJ Bailey,PP Chawla,R Dhawan,1,Not out
+14.4,R Dhawan,PP Chawla,GJ Bailey,1,Not out
+14.5,GJ Bailey,PP Chawla,R Dhawan,1,Not out
+14.6,R Dhawan,PP Chawla,GJ Bailey,0,Not out
+15.1,GJ Bailey,Shakib Al Hasan,R Dhawan,1,Not out
+15.2,R Dhawan,Shakib Al Hasan,GJ Bailey,1,Not out
+15.3,GJ Bailey,Shakib Al Hasan,R Dhawan,1,Not out
+15.4,R Dhawan,Shakib Al Hasan,GJ Bailey,0,Not out
+15.5,R Dhawan,Shakib Al Hasan,GJ Bailey,1,Not out
+15.6,GJ Bailey,Shakib Al Hasan,R Dhawan,1,Not out
+16.1,GJ Bailey,SP Narine,R Dhawan,4,Not out
+16.2,GJ Bailey,SP Narine,R Dhawan,1,Not out
+16.3,R Dhawan,SP Narine,GJ Bailey,0,Not out
+16.4,R Dhawan,SP Narine,GJ Bailey,1,Not out
+16.5,GJ Bailey,SP Narine,R Dhawan,0,Not out
+16.6,GJ Bailey,SP Narine,R Dhawan,6,Not out
+17.1,R Dhawan,Shakib Al Hasan,GJ Bailey,2,Not out
+17.2,R Dhawan,Shakib Al Hasan,GJ Bailey,6,Not out
+17.3,R Dhawan,Shakib Al Hasan,GJ Bailey,0,stumped
+17.4,MG Johnson,Shakib Al Hasan,GJ Bailey,6,Not out
+17.5,MG Johnson,Shakib Al Hasan,GJ Bailey,1,Not out
+17.6,GJ Bailey,Shakib Al Hasan,MG Johnson,6,Not out
+18.1,MG Johnson,SP Narine,GJ Bailey,0,Not out
+18.2,MG Johnson,SP Narine,GJ Bailey,0,Not out
+18.3,MG Johnson,SP Narine,GJ Bailey,2,Not out
+18.4,MG Johnson,SP Narine,GJ Bailey,1,Not out
+18.5,GJ Bailey,SP Narine,MG Johnson,1,Not out
+18.6,MG Johnson,SP Narine,GJ Bailey,0,Not out
+19.1,GJ Bailey,UT Yadav,MG Johnson,0,caught
+19.2,Karanveer Singh,UT Yadav,MG Johnson,1,Not out
+19.3,MG Johnson,UT Yadav,Karanveer Singh,0,Not out
+19.4,MG Johnson,UT Yadav,Karanveer Singh,0,Not out
+19.5,MG Johnson,UT Yadav,Karanveer Singh,0,Not out
+19.6,MG Johnson,UT Yadav,Karanveer Singh,0,Not out

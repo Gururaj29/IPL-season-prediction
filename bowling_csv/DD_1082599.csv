@@ -1,0 +1,102 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AM Rahane,S Nadeem,MA Agarwal,1,Not out
+0.2,MA Agarwal,S Nadeem,AM Rahane,1,Not out
+0.3,AM Rahane,S Nadeem,MA Agarwal,0,Not out
+0.4,AM Rahane,S Nadeem,MA Agarwal,1,Not out
+0.5,MA Agarwal,S Nadeem,AM Rahane,4,Not out
+0.6,MA Agarwal,S Nadeem,AM Rahane,1,Not out
+0.7,AM Rahane,S Nadeem,MA Agarwal,1,Not out
+1.1,AM Rahane,PJ Cummins,MA Agarwal,1,Not out
+1.2,MA Agarwal,PJ Cummins,AM Rahane,2,Not out
+1.3,MA Agarwal,PJ Cummins,AM Rahane,0,Not out
+1.4,MA Agarwal,PJ Cummins,AM Rahane,0,Not out
+1.5,MA Agarwal,PJ Cummins,AM Rahane,1,Not out
+1.6,AM Rahane,PJ Cummins,MA Agarwal,1,Not out
+1.7,MA Agarwal,PJ Cummins,AM Rahane,1,Not out
+2.1,MA Agarwal,Z Khan,AM Rahane,1,Not out
+2.2,AM Rahane,Z Khan,MA Agarwal,1,Not out
+2.3,MA Agarwal,Z Khan,AM Rahane,1,Not out
+2.4,AM Rahane,Z Khan,MA Agarwal,2,Not out
+2.5,AM Rahane,Z Khan,MA Agarwal,2,Not out
+2.6,AM Rahane,Z Khan,MA Agarwal,0,caught
+3.1,F du Plessis,CH Morris,MA Agarwal,1,Not out
+3.2,MA Agarwal,CH Morris,F du Plessis,4,Not out
+3.3,MA Agarwal,CH Morris,F du Plessis,0,Not out
+3.4,MA Agarwal,CH Morris,F du Plessis,0,Not out
+3.5,MA Agarwal,CH Morris,F du Plessis,0,Not out
+3.6,MA Agarwal,CH Morris,F du Plessis,2,Not out
+4.1,F du Plessis,Z Khan,MA Agarwal,1,Not out
+4.2,MA Agarwal,Z Khan,F du Plessis,2,Not out
+4.3,MA Agarwal,Z Khan,F du Plessis,0,Not out
+4.4,MA Agarwal,Z Khan,F du Plessis,0,Not out
+4.5,MA Agarwal,Z Khan,F du Plessis,0,caught
+4.6,F du Plessis,Z Khan,RA Tripathi,4,Not out
+5.1,RA Tripathi,CH Morris,F du Plessis,4,Not out
+5.2,RA Tripathi,CH Morris,F du Plessis,0,Not out
+5.3,RA Tripathi,CH Morris,F du Plessis,4,Not out
+5.4,RA Tripathi,CH Morris,F du Plessis,0,Not out
+5.5,RA Tripathi,CH Morris,F du Plessis,2,Not out
+5.6,RA Tripathi,CH Morris,F du Plessis,0,caught
+5.7,F du Plessis,CH Morris,BA Stokes,1,Not out
+6.1,F du Plessis,S Nadeem,BA Stokes,0,Not out
+6.2,F du Plessis,S Nadeem,BA Stokes,1,Not out
+6.3,BA Stokes,S Nadeem,F du Plessis,1,Not out
+6.4,F du Plessis,S Nadeem,BA Stokes,0,caught
+6.5,MS Dhoni,S Nadeem,BA Stokes,0,Not out
+6.6,MS Dhoni,S Nadeem,BA Stokes,0,Not out
+7.1,BA Stokes,PJ Cummins,MS Dhoni,1,Not out
+7.2,MS Dhoni,PJ Cummins,BA Stokes,1,Not out
+7.3,BA Stokes,PJ Cummins,MS Dhoni,0,Not out
+7.4,BA Stokes,PJ Cummins,MS Dhoni,0,Not out
+7.5,BA Stokes,PJ Cummins,MS Dhoni,0,caught
+7.6,R Bhatia,PJ Cummins,MS Dhoni,1,Not out
+8.1,R Bhatia,S Nadeem,MS Dhoni,1,Not out
+8.2,MS Dhoni,S Nadeem,R Bhatia,0,Not out
+8.3,MS Dhoni,S Nadeem,R Bhatia,0,Not out
+8.4,MS Dhoni,S Nadeem,R Bhatia,1,Not out
+8.5,R Bhatia,S Nadeem,MS Dhoni,0,Not out
+8.6,R Bhatia,S Nadeem,MS Dhoni,1,Not out
+9.1,R Bhatia,CJ Anderson,MS Dhoni,2,Not out
+9.2,R Bhatia,CJ Anderson,MS Dhoni,0,Not out
+9.3,R Bhatia,CJ Anderson,MS Dhoni,0,Not out
+9.4,R Bhatia,CJ Anderson,MS Dhoni,1,Not out
+9.5,MS Dhoni,CJ Anderson,R Bhatia,1,Not out
+9.6,R Bhatia,CJ Anderson,MS Dhoni,6,Not out
+10.1,MS Dhoni,S Nadeem,R Bhatia,1,Not out
+10.2,R Bhatia,S Nadeem,MS Dhoni,0,Not out
+10.3,R Bhatia,S Nadeem,MS Dhoni,1,Not out
+10.4,MS Dhoni,S Nadeem,R Bhatia,6,Not out
+10.5,MS Dhoni,S Nadeem,R Bhatia,0,Not out
+10.6,MS Dhoni,S Nadeem,R Bhatia,0,Not out
+11.1,R Bhatia,A Mishra,MS Dhoni,1,Not out
+11.2,MS Dhoni,A Mishra,R Bhatia,0,Not out
+11.3,MS Dhoni,A Mishra,R Bhatia,1,Not out
+11.4,R Bhatia,A Mishra,MS Dhoni,0,Not out
+11.5,R Bhatia,A Mishra,MS Dhoni,1,Not out
+11.6,MS Dhoni,A Mishra,R Bhatia,0,caught
+12.1,R Bhatia,PJ Cummins,DL Chahar,0,Not out
+12.2,DL Chahar,PJ Cummins,R Bhatia,0,Not out
+12.3,DL Chahar,PJ Cummins,R Bhatia,1,Not out
+12.4,R Bhatia,PJ Cummins,DL Chahar,1,Not out
+12.5,DL Chahar,PJ Cummins,R Bhatia,6,Not out
+12.6,DL Chahar,PJ Cummins,R Bhatia,6,Not out
+13.1,R Bhatia,A Mishra,DL Chahar,0,caught
+13.2,A Zampa,A Mishra,DL Chahar,0,Not out
+13.3,A Zampa,A Mishra,DL Chahar,1,Not out
+13.4,DL Chahar,A Mishra,A Zampa,1,Not out
+13.5,A Zampa,A Mishra,DL Chahar,4,Not out
+13.6,A Zampa,A Mishra,DL Chahar,0,Not out
+14.1,DL Chahar,Z Khan,A Zampa,0,caught
+14.2,AB Dinda,Z Khan,A Zampa,0,Not out
+14.3,AB Dinda,Z Khan,A Zampa,4,Not out
+14.4,AB Dinda,Z Khan,A Zampa,0,Not out
+14.5,AB Dinda,Z Khan,A Zampa,0,Not out
+14.6,AB Dinda,Z Khan,A Zampa,1,Not out
+14.7,A Zampa,Z Khan,AB Dinda,0,Not out
+15.1,AB Dinda,A Mishra,A Zampa,1,Not out
+15.2,A Zampa,A Mishra,AB Dinda,0,Not out
+15.3,A Zampa,A Mishra,AB Dinda,0,caught
+15.4,AB Dinda,A Mishra,Imran Tahir,1,Not out
+15.5,Imran Tahir,A Mishra,AB Dinda,0,Not out
+15.6,Imran Tahir,A Mishra,AB Dinda,0,Not out
+16.1,AB Dinda,PJ Cummins,Imran Tahir,0,caught

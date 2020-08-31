@@ -1,0 +1,36 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,RV Uthappa,B Kumar,CA Lynn,1,Not out
+0.2,CA Lynn,B Kumar,RV Uthappa,6,Not out
+0.3,CA Lynn,B Kumar,RV Uthappa,0,caught
+0.4,YK Pathan,B Kumar,RV Uthappa,0,run out
+0.5,G Gambhir,B Kumar,RV Uthappa,0,Not out
+0.6,G Gambhir,B Kumar,RV Uthappa,4,Not out
+1.1,RV Uthappa,CJ Jordan,G Gambhir,0,Not out
+1.2,RV Uthappa,CJ Jordan,G Gambhir,0,caught
+1.3,G Gambhir,CJ Jordan,IR Jaggi,1,Not out
+1.4,IR Jaggi,CJ Jordan,G Gambhir,0,Not out
+1.5,IR Jaggi,CJ Jordan,G Gambhir,0,Not out
+1.6,G Gambhir,CJ Jordan,IR Jaggi,6,Not out
+1.7,G Gambhir,CJ Jordan,IR Jaggi,1,Not out
+2.1,G Gambhir,Rashid Khan,IR Jaggi,1,Not out
+2.2,IR Jaggi,Rashid Khan,G Gambhir,1,Not out
+2.3,G Gambhir,Rashid Khan,IR Jaggi,2,Not out
+2.4,G Gambhir,Rashid Khan,IR Jaggi,0,Not out
+2.5,G Gambhir,Rashid Khan,IR Jaggi,0,Not out
+2.6,G Gambhir,Rashid Khan,IR Jaggi,0,Not out
+2.7,G Gambhir,Rashid Khan,IR Jaggi,0,Not out
+2.8,G Gambhir,Rashid Khan,IR Jaggi,0,Not out
+3.1,IR Jaggi,S Kaul,G Gambhir,1,Not out
+3.2,G Gambhir,S Kaul,IR Jaggi,4,Not out
+3.3,G Gambhir,S Kaul,IR Jaggi,6,Not out
+3.4,G Gambhir,S Kaul,IR Jaggi,1,Not out
+3.5,IR Jaggi,S Kaul,G Gambhir,1,Not out
+3.6,G Gambhir,S Kaul,IR Jaggi,1,Not out
+4.1,G Gambhir,Rashid Khan,IR Jaggi,2,Not out
+4.2,G Gambhir,Rashid Khan,IR Jaggi,0,Not out
+4.3,G Gambhir,Rashid Khan,IR Jaggi,1,Not out
+4.4,IR Jaggi,Rashid Khan,G Gambhir,1,Not out
+4.5,G Gambhir,Rashid Khan,IR Jaggi,1,Not out
+4.6,IR Jaggi,Rashid Khan,G Gambhir,0,Not out
+5.1,G Gambhir,Bipul Sharma,IR Jaggi,1,Not out
+5.2,IR Jaggi,Bipul Sharma,G Gambhir,1,Not out

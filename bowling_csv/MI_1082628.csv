@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,V Kohli,MJ McClenaghan,Mandeep Singh,1,Not out
+0.2,Mandeep Singh,MJ McClenaghan,V Kohli,4,Not out
+0.3,Mandeep Singh,MJ McClenaghan,V Kohli,0,Not out
+0.4,Mandeep Singh,MJ McClenaghan,V Kohli,4,Not out
+0.5,Mandeep Singh,MJ McClenaghan,V Kohli,0,Not out
+0.6,Mandeep Singh,MJ McClenaghan,V Kohli,1,Not out
+1.1,Mandeep Singh,SL Malinga,V Kohli,1,Not out
+1.2,V Kohli,SL Malinga,Mandeep Singh,0,Not out
+1.3,V Kohli,SL Malinga,Mandeep Singh,1,Not out
+1.4,Mandeep Singh,SL Malinga,V Kohli,4,Not out
+1.5,Mandeep Singh,SL Malinga,V Kohli,0,Not out
+1.6,Mandeep Singh,SL Malinga,V Kohli,0,Not out
+2.1,V Kohli,HH Pandya,Mandeep Singh,0,Not out
+2.2,V Kohli,HH Pandya,Mandeep Singh,1,Not out
+2.3,Mandeep Singh,HH Pandya,V Kohli,2,Not out
+2.4,Mandeep Singh,HH Pandya,V Kohli,1,Not out
+2.5,V Kohli,HH Pandya,Mandeep Singh,1,Not out
+2.6,Mandeep Singh,HH Pandya,V Kohli,0,Not out
+3.1,V Kohli,KV Sharma,Mandeep Singh,0,Not out
+3.2,V Kohli,KV Sharma,Mandeep Singh,2,Not out
+3.3,V Kohli,KV Sharma,Mandeep Singh,6,Not out
+3.4,V Kohli,KV Sharma,Mandeep Singh,1,Not out
+3.5,Mandeep Singh,KV Sharma,V Kohli,0,caught
+3.6,TM Head,KV Sharma,V Kohli,0,Not out
+3.7,TM Head,KV Sharma,V Kohli,0,Not out
+4.1,V Kohli,JJ Bumrah,TM Head,0,Not out
+4.2,V Kohli,JJ Bumrah,TM Head,6,Not out
+4.3,V Kohli,JJ Bumrah,TM Head,0,Not out
+4.4,V Kohli,JJ Bumrah,TM Head,1,Not out
+4.5,TM Head,JJ Bumrah,V Kohli,2,Not out
+4.6,TM Head,JJ Bumrah,V Kohli,0,Not out
+5.1,V Kohli,MJ McClenaghan,TM Head,0,caught
+5.2,AB de Villiers,MJ McClenaghan,TM Head,0,Not out
+5.3,AB de Villiers,MJ McClenaghan,TM Head,0,Not out
+5.4,AB de Villiers,MJ McClenaghan,TM Head,4,Not out
+5.5,AB de Villiers,MJ McClenaghan,TM Head,6,Not out
+5.6,AB de Villiers,MJ McClenaghan,TM Head,2,Not out
+6.1,TM Head,KH Pandya,AB de Villiers,1,Not out
+6.2,AB de Villiers,KH Pandya,TM Head,0,Not out
+6.3,AB de Villiers,KH Pandya,TM Head,1,Not out
+6.4,TM Head,KH Pandya,AB de Villiers,0,Not out
+6.5,TM Head,KH Pandya,AB de Villiers,1,Not out
+6.6,AB de Villiers,KH Pandya,TM Head,1,Not out
+7.1,AB de Villiers,SL Malinga,TM Head,0,Not out
+7.2,TM Head,SL Malinga,AB de Villiers,1,Not out
+7.3,AB de Villiers,SL Malinga,TM Head,0,Not out
+7.4,AB de Villiers,SL Malinga,TM Head,4,Not out
+7.5,AB de Villiers,SL Malinga,TM Head,1,Not out
+7.6,TM Head,SL Malinga,AB de Villiers,0,Not out
+8.1,AB de Villiers,KH Pandya,TM Head,0,Not out
+8.2,AB de Villiers,KH Pandya,TM Head,4,Not out
+8.3,AB de Villiers,KH Pandya,TM Head,0,Not out
+8.4,AB de Villiers,KH Pandya,TM Head,6,Not out
+8.5,AB de Villiers,KH Pandya,TM Head,1,Not out
+8.6,TM Head,KH Pandya,AB de Villiers,0,Not out
+8.7,TM Head,KH Pandya,AB de Villiers,1,Not out
+9.1,TM Head,KV Sharma,AB de Villiers,1,Not out
+9.2,AB de Villiers,KV Sharma,TM Head,0,Not out
+9.3,AB de Villiers,KV Sharma,TM Head,0,Not out
+9.4,AB de Villiers,KV Sharma,TM Head,1,Not out
+9.5,TM Head,KV Sharma,AB de Villiers,1,Not out
+9.6,AB de Villiers,KV Sharma,TM Head,1,Not out
+10.1,AB de Villiers,KH Pandya,TM Head,1,Not out
+10.2,TM Head,KH Pandya,AB de Villiers,4,Not out
+10.3,TM Head,KH Pandya,AB de Villiers,0,caught
+10.4,KM Jadhav,KH Pandya,AB de Villiers,0,Not out
+10.5,KM Jadhav,KH Pandya,AB de Villiers,1,Not out
+10.6,AB de Villiers,KH Pandya,KM Jadhav,1,Not out
+11.1,AB de Villiers,KV Sharma,KM Jadhav,1,Not out
+11.2,KM Jadhav,KV Sharma,AB de Villiers,4,Not out
+11.3,KM Jadhav,KV Sharma,AB de Villiers,1,Not out
+11.4,AB de Villiers,KV Sharma,KM Jadhav,1,Not out
+11.5,KM Jadhav,KV Sharma,AB de Villiers,1,Not out
+11.6,AB de Villiers,KV Sharma,KM Jadhav,1,Not out
+12.1,AB de Villiers,KH Pandya,KM Jadhav,6,Not out
+12.2,AB de Villiers,KH Pandya,KM Jadhav,0,caught
+12.3,KM Jadhav,KH Pandya,SR Watson,1,Not out
+12.4,SR Watson,KH Pandya,KM Jadhav,1,Not out
+12.5,KM Jadhav,KH Pandya,SR Watson,1,Not out
+12.6,SR Watson,KH Pandya,KM Jadhav,1,Not out
+13.1,SR Watson,JJ Bumrah,KM Jadhav,0,Not out
+13.2,SR Watson,JJ Bumrah,KM Jadhav,1,Not out
+13.3,KM Jadhav,JJ Bumrah,SR Watson,1,Not out
+13.4,SR Watson,JJ Bumrah,KM Jadhav,0,bowled
+13.5,P Negi,JJ Bumrah,KM Jadhav,1,Not out
+13.6,KM Jadhav,JJ Bumrah,P Negi,2,Not out
+14.1,P Negi,SL Malinga,KM Jadhav,0,Not out
+14.2,P Negi,SL Malinga,KM Jadhav,0,Not out
+14.3,P Negi,SL Malinga,KM Jadhav,0,Not out
+14.4,P Negi,SL Malinga,KM Jadhav,1,Not out
+14.5,KM Jadhav,SL Malinga,P Negi,2,Not out
+14.6,KM Jadhav,SL Malinga,P Negi,1,Not out
+15.1,KM Jadhav,MJ McClenaghan,P Negi,1,Not out
+15.2,P Negi,MJ McClenaghan,KM Jadhav,2,Not out
+15.3,P Negi,MJ McClenaghan,KM Jadhav,1,Not out
+15.4,KM Jadhav,MJ McClenaghan,P Negi,1,Not out
+15.5,P Negi,MJ McClenaghan,KM Jadhav,1,Not out
+15.6,KM Jadhav,MJ McClenaghan,P Negi,1,Not out
+16.1,KM Jadhav,JJ Bumrah,P Negi,0,Not out
+16.2,P Negi,JJ Bumrah,KM Jadhav,1,Not out
+16.3,KM Jadhav,JJ Bumrah,P Negi,4,Not out
+16.4,KM Jadhav,JJ Bumrah,P Negi,1,Not out
+16.5,P Negi,JJ Bumrah,KM Jadhav,2,Not out
+16.6,P Negi,JJ Bumrah,KM Jadhav,1,Not out
+17.1,P Negi,SL Malinga,KM Jadhav,6,Not out
+17.2,P Negi,SL Malinga,KM Jadhav,1,Not out
+17.3,KM Jadhav,SL Malinga,P Negi,1,Not out
+17.4,P Negi,SL Malinga,KM Jadhav,0,Not out
+17.5,P Negi,SL Malinga,KM Jadhav,6,Not out
+17.6,P Negi,SL Malinga,KM Jadhav,1,Not out
+18.1,P Negi,JJ Bumrah,KM Jadhav,0,Not out
+18.2,P Negi,JJ Bumrah,KM Jadhav,0,Not out
+18.3,P Negi,JJ Bumrah,KM Jadhav,6,Not out
+18.4,P Negi,JJ Bumrah,KM Jadhav,1,Not out
+18.5,KM Jadhav,JJ Bumrah,P Negi,2,Not out
+18.6,KM Jadhav,JJ Bumrah,P Negi,1,Not out
+19.1,KM Jadhav,MJ McClenaghan,P Negi,1,Not out
+19.2,P Negi,MJ McClenaghan,KM Jadhav,0,Not out
+19.3,P Negi,MJ McClenaghan,KM Jadhav,4,Not out
+19.4,P Negi,MJ McClenaghan,KM Jadhav,0,caught
+19.5,KM Jadhav,MJ McClenaghan,AF Milne,0,caught
+19.6,AF Milne,MJ McClenaghan,S Aravind,0,run out

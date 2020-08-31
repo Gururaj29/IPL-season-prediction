@@ -1,0 +1,121 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,M Vijay,R Vinay Kumar,MA Agarwal,0,Not out
+0.2,MA Agarwal,R Vinay Kumar,M Vijay,4,Not out
+0.3,MA Agarwal,R Vinay Kumar,M Vijay,4,Not out
+0.4,MA Agarwal,R Vinay Kumar,M Vijay,1,Not out
+0.5,M Vijay,R Vinay Kumar,MA Agarwal,0,run out
+0.6,KD Karthik,R Vinay Kumar,MA Agarwal,0,Not out
+1.1,MA Agarwal,M Morkel,KD Karthik,0,Not out
+1.2,KD Karthik,M Morkel,MA Agarwal,0,Not out
+1.3,KD Karthik,M Morkel,MA Agarwal,0,Not out
+1.4,KD Karthik,M Morkel,MA Agarwal,4,Not out
+1.5,KD Karthik,M Morkel,MA Agarwal,1,Not out
+1.6,MA Agarwal,M Morkel,KD Karthik,0,Not out
+1.7,MA Agarwal,M Morkel,KD Karthik,1,Not out
+2.1,MA Agarwal,R Vinay Kumar,KD Karthik,2,Not out
+2.2,MA Agarwal,R Vinay Kumar,KD Karthik,5,Not out
+2.3,KD Karthik,R Vinay Kumar,MA Agarwal,1,Not out
+2.4,MA Agarwal,R Vinay Kumar,KD Karthik,1,Not out
+2.5,KD Karthik,R Vinay Kumar,MA Agarwal,4,Not out
+2.6,KD Karthik,R Vinay Kumar,MA Agarwal,0,Not out
+3.1,MA Agarwal,M Morkel,KD Karthik,4,Not out
+3.2,MA Agarwal,M Morkel,KD Karthik,2,Not out
+3.3,MA Agarwal,M Morkel,KD Karthik,0,Not out
+3.4,MA Agarwal,M Morkel,KD Karthik,0,Not out
+3.5,MA Agarwal,M Morkel,KD Karthik,2,Not out
+3.6,MA Agarwal,M Morkel,KD Karthik,0,caught
+4.1,KD Karthik,R Vinay Kumar,LRPL Taylor,2,Not out
+4.2,KD Karthik,R Vinay Kumar,LRPL Taylor,0,Not out
+4.3,KD Karthik,R Vinay Kumar,LRPL Taylor,1,Not out
+4.4,LRPL Taylor,R Vinay Kumar,KD Karthik,0,Not out
+4.5,LRPL Taylor,R Vinay Kumar,KD Karthik,0,Not out
+4.6,LRPL Taylor,R Vinay Kumar,KD Karthik,1,Not out
+5.1,LRPL Taylor,Shakib Al Hasan,KD Karthik,1,Not out
+5.2,KD Karthik,Shakib Al Hasan,LRPL Taylor,1,Not out
+5.3,LRPL Taylor,Shakib Al Hasan,KD Karthik,4,Not out
+5.4,LRPL Taylor,Shakib Al Hasan,KD Karthik,0,Not out
+5.5,LRPL Taylor,Shakib Al Hasan,KD Karthik,0,Not out
+5.6,LRPL Taylor,Shakib Al Hasan,KD Karthik,0,Not out
+6.1,KD Karthik,JH Kallis,LRPL Taylor,4,Not out
+6.2,KD Karthik,JH Kallis,LRPL Taylor,0,Not out
+6.3,KD Karthik,JH Kallis,LRPL Taylor,0,Not out
+6.4,KD Karthik,JH Kallis,LRPL Taylor,6,Not out
+6.5,KD Karthik,JH Kallis,LRPL Taylor,1,Not out
+6.6,LRPL Taylor,JH Kallis,KD Karthik,0,bowled
+7.1,KD Karthik,Shakib Al Hasan,JP Duminy,1,Not out
+7.2,JP Duminy,Shakib Al Hasan,KD Karthik,1,Not out
+7.3,KD Karthik,Shakib Al Hasan,JP Duminy,1,Not out
+7.4,JP Duminy,Shakib Al Hasan,KD Karthik,0,Not out
+7.5,JP Duminy,Shakib Al Hasan,KD Karthik,0,Not out
+7.6,JP Duminy,Shakib Al Hasan,KD Karthik,0,Not out
+7.7,KD Karthik,Shakib Al Hasan,JP Duminy,1,Not out
+8.1,KD Karthik,JH Kallis,JP Duminy,0,Not out
+8.2,KD Karthik,JH Kallis,JP Duminy,0,Not out
+8.3,JP Duminy,JH Kallis,KD Karthik,1,Not out
+8.4,KD Karthik,JH Kallis,JP Duminy,1,Not out
+8.5,JP Duminy,JH Kallis,KD Karthik,1,Not out
+8.6,KD Karthik,JH Kallis,JP Duminy,1,Not out
+9.1,KD Karthik,PP Chawla,JP Duminy,1,Not out
+9.2,JP Duminy,PP Chawla,KD Karthik,0,Not out
+9.3,JP Duminy,PP Chawla,KD Karthik,1,Not out
+9.4,KD Karthik,PP Chawla,JP Duminy,6,Not out
+9.5,KD Karthik,PP Chawla,JP Duminy,4,Not out
+9.6,KD Karthik,PP Chawla,JP Duminy,1,Not out
+10.1,KD Karthik,SP Narine,JP Duminy,1,Not out
+10.2,JP Duminy,SP Narine,KD Karthik,1,Not out
+10.3,KD Karthik,SP Narine,JP Duminy,1,Not out
+10.4,JP Duminy,SP Narine,KD Karthik,0,Not out
+10.5,JP Duminy,SP Narine,KD Karthik,1,Not out
+10.6,KD Karthik,SP Narine,JP Duminy,0,Not out
+11.1,JP Duminy,R Vinay Kumar,KD Karthik,1,Not out
+11.2,KD Karthik,R Vinay Kumar,JP Duminy,1,Not out
+11.3,JP Duminy,R Vinay Kumar,KD Karthik,1,Not out
+11.4,KD Karthik,R Vinay Kumar,JP Duminy,1,Not out
+11.5,JP Duminy,R Vinay Kumar,KD Karthik,4,Not out
+11.6,JP Duminy,R Vinay Kumar,KD Karthik,1,Not out
+12.1,JP Duminy,SP Narine,KD Karthik,0,Not out
+12.2,JP Duminy,SP Narine,KD Karthik,1,Not out
+12.3,KD Karthik,SP Narine,JP Duminy,1,Not out
+12.4,JP Duminy,SP Narine,KD Karthik,2,Not out
+12.5,JP Duminy,SP Narine,KD Karthik,1,Not out
+12.6,KD Karthik,SP Narine,JP Duminy,2,Not out
+13.1,JP Duminy,Shakib Al Hasan,KD Karthik,1,Not out
+13.2,KD Karthik,Shakib Al Hasan,JP Duminy,4,Not out
+13.3,KD Karthik,Shakib Al Hasan,JP Duminy,2,Not out
+13.4,KD Karthik,Shakib Al Hasan,JP Duminy,1,Not out
+13.5,JP Duminy,Shakib Al Hasan,KD Karthik,4,Not out
+13.6,JP Duminy,Shakib Al Hasan,KD Karthik,1,Not out
+14.1,JP Duminy,SP Narine,KD Karthik,1,Not out
+14.2,KD Karthik,SP Narine,JP Duminy,0,Not out
+14.3,KD Karthik,SP Narine,JP Duminy,0,lbw
+14.4,MK Tiwary,SP Narine,JP Duminy,4,Not out
+14.5,MK Tiwary,SP Narine,JP Duminy,1,Not out
+14.6,JP Duminy,SP Narine,MK Tiwary,0,Not out
+15.1,MK Tiwary,M Morkel,JP Duminy,0,Not out
+15.2,MK Tiwary,M Morkel,JP Duminy,2,Not out
+15.3,MK Tiwary,M Morkel,JP Duminy,1,Not out
+15.4,JP Duminy,M Morkel,MK Tiwary,0,Not out
+15.5,JP Duminy,M Morkel,MK Tiwary,1,Not out
+15.6,MK Tiwary,M Morkel,JP Duminy,0,caught
+16.1,JDS Neesham,PP Chawla,JP Duminy,0,Not out
+16.2,JDS Neesham,PP Chawla,JP Duminy,0,Not out
+16.3,JDS Neesham,PP Chawla,JP Duminy,1,Not out
+16.4,JP Duminy,PP Chawla,JDS Neesham,1,Not out
+16.5,JDS Neesham,PP Chawla,JP Duminy,6,Not out
+16.6,JDS Neesham,PP Chawla,JP Duminy,0,Not out
+17.1,JP Duminy,M Morkel,JDS Neesham,0,Not out
+17.2,JP Duminy,M Morkel,JDS Neesham,2,Not out
+17.3,JP Duminy,M Morkel,JDS Neesham,4,Not out
+17.4,JP Duminy,M Morkel,JDS Neesham,0,Not out
+17.5,JP Duminy,M Morkel,JDS Neesham,6,Not out
+17.6,JP Duminy,M Morkel,JDS Neesham,6,Not out
+17.7,JP Duminy,M Morkel,JDS Neesham,2,Not out
+18.1,JDS Neesham,SP Narine,JP Duminy,0,Not out
+18.2,JDS Neesham,SP Narine,JP Duminy,0,Not out
+18.3,JDS Neesham,SP Narine,JP Duminy,1,Not out
+18.4,JP Duminy,SP Narine,JDS Neesham,0,Not out
+18.5,JDS Neesham,SP Narine,JP Duminy,0,Not out
+18.6,JP Duminy,SP Narine,JDS Neesham,0,Not out
+19.1,JDS Neesham,PP Chawla,JP Duminy,0,Not out
+19.2,JDS Neesham,PP Chawla,JP Duminy,0,caught
+19.3,JP Duminy,PP Chawla,NM Coulter-Nile,6,Not out

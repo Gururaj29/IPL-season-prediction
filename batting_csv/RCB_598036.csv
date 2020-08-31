@@ -1,0 +1,126 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,A Mukund,A Chandila,CH Gayle,1,Not out
+0.2,CH Gayle,A Chandila,A Mukund,0,Not out
+0.3,CH Gayle,A Chandila,A Mukund,4,Not out
+0.4,CH Gayle,A Chandila,A Mukund,4,Not out
+0.5,CH Gayle,A Chandila,A Mukund,0,Not out
+0.6,CH Gayle,A Chandila,A Mukund,4,Not out
+1.1,A Mukund,JP Faulkner,CH Gayle,1,Not out
+1.2,CH Gayle,JP Faulkner,A Mukund,0,Not out
+1.3,CH Gayle,JP Faulkner,A Mukund,0,Not out
+1.4,CH Gayle,JP Faulkner,A Mukund,4,Not out
+1.5,CH Gayle,JP Faulkner,A Mukund,3,Not out
+1.6,A Mukund,JP Faulkner,CH Gayle,0,Not out
+1.7,A Mukund,JP Faulkner,CH Gayle,0,Not out
+2.1,CH Gayle,S Sreesanth,A Mukund,0,Not out
+2.2,CH Gayle,S Sreesanth,A Mukund,4,Not out
+2.3,CH Gayle,S Sreesanth,A Mukund,4,Not out
+2.4,CH Gayle,S Sreesanth,A Mukund,0,Not out
+2.5,CH Gayle,S Sreesanth,A Mukund,1,Not out
+2.6,A Mukund,S Sreesanth,CH Gayle,1,Not out
+2.7,CH Gayle,S Sreesanth,A Mukund,6,Not out
+3.1,A Mukund,SR Watson,CH Gayle,4,Not out
+3.2,A Mukund,SR Watson,CH Gayle,0,Not out
+3.3,A Mukund,SR Watson,CH Gayle,0,Not out
+3.4,A Mukund,SR Watson,CH Gayle,1,Not out
+3.5,CH Gayle,SR Watson,A Mukund,0,Not out
+3.6,CH Gayle,SR Watson,A Mukund,0,caught
+4.1,A Mukund,JP Faulkner,V Kohli,1,Not out
+4.2,V Kohli,JP Faulkner,A Mukund,0,Not out
+4.3,V Kohli,JP Faulkner,A Mukund,0,Not out
+4.4,A Mukund,JP Faulkner,V Kohli,1,Not out
+4.5,V Kohli,JP Faulkner,A Mukund,1,Not out
+4.6,A Mukund,JP Faulkner,V Kohli,0,Not out
+4.7,A Mukund,JP Faulkner,V Kohli,0,Not out
+5.1,V Kohli,SR Watson,A Mukund,0,Not out
+5.2,V Kohli,SR Watson,A Mukund,1,Not out
+5.3,A Mukund,SR Watson,V Kohli,2,Not out
+5.4,A Mukund,SR Watson,V Kohli,1,Not out
+5.5,V Kohli,SR Watson,A Mukund,1,Not out
+5.6,A Mukund,SR Watson,V Kohli,1,Not out
+6.1,A Mukund,A Chandila,V Kohli,1,Not out
+6.2,V Kohli,A Chandila,A Mukund,0,Not out
+6.3,V Kohli,A Chandila,A Mukund,1,Not out
+6.4,A Mukund,A Chandila,V Kohli,2,Not out
+6.5,A Mukund,A Chandila,V Kohli,1,Not out
+6.6,V Kohli,A Chandila,A Mukund,1,Not out
+7.1,V Kohli,SK Trivedi,A Mukund,2,Not out
+7.2,V Kohli,SK Trivedi,A Mukund,1,Not out
+7.3,A Mukund,SK Trivedi,V Kohli,1,Not out
+7.4,V Kohli,SK Trivedi,A Mukund,1,Not out
+7.5,A Mukund,SK Trivedi,V Kohli,0,Not out
+7.6,A Mukund,SK Trivedi,V Kohli,0,bowled
+8.1,V Kohli,A Chandila,AB de Villiers,0,Not out
+8.2,V Kohli,A Chandila,AB de Villiers,0,Not out
+8.3,V Kohli,A Chandila,AB de Villiers,1,Not out
+8.4,AB de Villiers,A Chandila,V Kohli,1,Not out
+8.5,V Kohli,A Chandila,AB de Villiers,1,Not out
+8.6,AB de Villiers,A Chandila,V Kohli,1,Not out
+9.1,AB de Villiers,SK Trivedi,V Kohli,1,Not out
+9.2,V Kohli,SK Trivedi,AB de Villiers,0,Not out
+9.3,AB de Villiers,SK Trivedi,V Kohli,1,Not out
+9.4,V Kohli,SK Trivedi,AB de Villiers,0,Not out
+9.5,V Kohli,SK Trivedi,AB de Villiers,0,Not out
+9.6,AB de Villiers,SK Trivedi,V Kohli,1,Not out
+10.1,AB de Villiers,A Chandila,V Kohli,2,Not out
+10.2,AB de Villiers,A Chandila,V Kohli,4,Not out
+10.3,AB de Villiers,A Chandila,V Kohli,1,Not out
+10.4,V Kohli,A Chandila,AB de Villiers,4,Not out
+10.5,V Kohli,A Chandila,AB de Villiers,1,Not out
+10.6,AB de Villiers,A Chandila,V Kohli,4,Not out
+11.1,V Kohli,STR Binny,AB de Villiers,0,Not out
+11.2,V Kohli,STR Binny,AB de Villiers,1,Not out
+11.3,AB de Villiers,STR Binny,V Kohli,4,Not out
+11.4,AB de Villiers,STR Binny,V Kohli,0,Not out
+11.5,AB de Villiers,STR Binny,V Kohli,1,Not out
+11.6,V Kohli,STR Binny,AB de Villiers,2,Not out
+12.1,AB de Villiers,S Sreesanth,V Kohli,0,caught
+12.2,MC Henriques,S Sreesanth,V Kohli,0,Not out
+12.3,MC Henriques,S Sreesanth,V Kohli,0,Not out
+12.4,MC Henriques,S Sreesanth,V Kohli,0,Not out
+12.5,MC Henriques,S Sreesanth,V Kohli,0,Not out
+12.6,MC Henriques,S Sreesanth,V Kohli,0,Not out
+13.1,V Kohli,SK Trivedi,MC Henriques,4,Not out
+13.2,V Kohli,SK Trivedi,MC Henriques,1,Not out
+13.3,MC Henriques,SK Trivedi,V Kohli,0,Not out
+13.4,V Kohli,SK Trivedi,MC Henriques,4,Not out
+13.5,V Kohli,SK Trivedi,MC Henriques,2,Not out
+13.6,V Kohli,SK Trivedi,MC Henriques,1,Not out
+14.1,V Kohli,S Sreesanth,MC Henriques,0,Not out
+14.2,V Kohli,S Sreesanth,MC Henriques,1,Not out
+14.3,MC Henriques,S Sreesanth,V Kohli,2,Not out
+14.4,MC Henriques,S Sreesanth,V Kohli,0,Not out
+14.5,MC Henriques,S Sreesanth,V Kohli,1,Not out
+14.6,V Kohli,S Sreesanth,MC Henriques,0,Not out
+15.1,MC Henriques,SR Watson,V Kohli,6,Not out
+15.2,MC Henriques,SR Watson,V Kohli,0,Not out
+15.3,V Kohli,SR Watson,MC Henriques,0,Not out
+15.4,V Kohli,SR Watson,MC Henriques,0,Not out
+15.5,V Kohli,SR Watson,MC Henriques,0,caught
+15.6,MC Henriques,SR Watson,SS Tiwary,0,Not out
+16.1,SS Tiwary,S Sreesanth,MC Henriques,1,Not out
+16.2,MC Henriques,S Sreesanth,SS Tiwary,4,Not out
+16.3,MC Henriques,S Sreesanth,SS Tiwary,0,Not out
+16.4,MC Henriques,S Sreesanth,SS Tiwary,1,Not out
+16.5,SS Tiwary,S Sreesanth,MC Henriques,2,Not out
+16.6,SS Tiwary,S Sreesanth,MC Henriques,1,Not out
+16.7,MC Henriques,S Sreesanth,SS Tiwary,4,Not out
+17.1,SS Tiwary,JP Faulkner,MC Henriques,2,Not out
+17.2,SS Tiwary,JP Faulkner,MC Henriques,0,Not out
+17.3,SS Tiwary,JP Faulkner,MC Henriques,1,Not out
+17.4,MC Henriques,JP Faulkner,SS Tiwary,2,Not out
+17.5,MC Henriques,JP Faulkner,SS Tiwary,1,Not out
+17.6,SS Tiwary,JP Faulkner,MC Henriques,0,Not out
+17.7,SS Tiwary,JP Faulkner,MC Henriques,0,Not out
+18.1,MC Henriques,SR Watson,SS Tiwary,1,run out
+18.2,R Rampaul,SR Watson,SS Tiwary,1,Not out
+18.3,SS Tiwary,SR Watson,R Rampaul,1,Not out
+18.4,R Rampaul,SR Watson,SS Tiwary,2,Not out
+18.5,R Rampaul,SR Watson,SS Tiwary,0,Not out
+18.6,R Rampaul,SR Watson,SS Tiwary,0,caught
+19.1,R Vinay Kumar,JP Faulkner,SS Tiwary,2,Not out
+19.2,R Vinay Kumar,JP Faulkner,SS Tiwary,2,Not out
+19.3,R Vinay Kumar,JP Faulkner,SS Tiwary,6,Not out
+19.4,R Vinay Kumar,JP Faulkner,SS Tiwary,0,Not out
+19.5,R Vinay Kumar,JP Faulkner,SS Tiwary,6,Not out
+19.6,R Vinay Kumar,JP Faulkner,SS Tiwary,6,Not out

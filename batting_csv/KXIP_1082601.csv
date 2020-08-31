@@ -1,0 +1,131 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,HM Amla,TA Boult,M Vohra,0,Not out
+0.2,HM Amla,TA Boult,M Vohra,4,Not out
+0.3,HM Amla,TA Boult,M Vohra,0,Not out
+0.4,HM Amla,TA Boult,M Vohra,2,Not out
+0.5,HM Amla,TA Boult,M Vohra,4,Not out
+0.6,HM Amla,TA Boult,M Vohra,0,Not out
+1.1,M Vohra,UT Yadav,HM Amla,2,Not out
+1.2,M Vohra,UT Yadav,HM Amla,0,Not out
+1.3,M Vohra,UT Yadav,HM Amla,0,Not out
+1.4,M Vohra,UT Yadav,HM Amla,0,Not out
+1.5,M Vohra,UT Yadav,HM Amla,0,Not out
+1.6,M Vohra,UT Yadav,HM Amla,0,Not out
+1.7,M Vohra,UT Yadav,HM Amla,6,Not out
+1.8,M Vohra,UT Yadav,HM Amla,1,Not out
+2.1,M Vohra,TA Boult,HM Amla,4,Not out
+2.2,M Vohra,TA Boult,HM Amla,4,Not out
+2.3,M Vohra,TA Boult,HM Amla,0,Not out
+2.4,M Vohra,TA Boult,HM Amla,0,Not out
+2.5,M Vohra,TA Boult,HM Amla,1,Not out
+2.6,HM Amla,TA Boult,M Vohra,0,Not out
+3.1,M Vohra,CR Woakes,HM Amla,1,Not out
+3.2,HM Amla,CR Woakes,M Vohra,4,Not out
+3.3,HM Amla,CR Woakes,M Vohra,1,Not out
+3.4,M Vohra,CR Woakes,HM Amla,0,Not out
+3.5,M Vohra,CR Woakes,HM Amla,0,Not out
+3.6,M Vohra,CR Woakes,HM Amla,4,Not out
+3.7,M Vohra,CR Woakes,HM Amla,4,Not out
+4.1,HM Amla,SP Narine,M Vohra,0,Not out
+4.2,M Vohra,SP Narine,HM Amla,0,Not out
+4.3,M Vohra,SP Narine,HM Amla,0,Not out
+4.4,M Vohra,SP Narine,HM Amla,0,Not out
+4.5,M Vohra,SP Narine,HM Amla,1,Not out
+4.6,HM Amla,SP Narine,M Vohra,0,Not out
+4.7,HM Amla,SP Narine,M Vohra,0,Not out
+4.8,HM Amla,SP Narine,M Vohra,0,Not out
+5.1,M Vohra,PP Chawla,HM Amla,0,bowled
+5.2,MP Stoinis,PP Chawla,HM Amla,0,Not out
+5.3,MP Stoinis,PP Chawla,HM Amla,4,Not out
+5.4,MP Stoinis,PP Chawla,HM Amla,0,Not out
+5.5,MP Stoinis,PP Chawla,HM Amla,0,Not out
+5.6,MP Stoinis,PP Chawla,HM Amla,0,Not out
+6.1,HM Amla,UT Yadav,MP Stoinis,1,Not out
+6.2,MP Stoinis,UT Yadav,HM Amla,0,Not out
+6.3,MP Stoinis,UT Yadav,HM Amla,0,Not out
+6.4,MP Stoinis,UT Yadav,HM Amla,1,Not out
+6.5,HM Amla,UT Yadav,MP Stoinis,1,Not out
+6.6,MP Stoinis,UT Yadav,HM Amla,0,Not out
+6.7,MP Stoinis,UT Yadav,HM Amla,1,Not out
+7.1,MP Stoinis,SP Narine,HM Amla,2,Not out
+7.2,MP Stoinis,SP Narine,HM Amla,1,Not out
+7.3,HM Amla,SP Narine,MP Stoinis,1,Not out
+7.4,MP Stoinis,SP Narine,HM Amla,0,bowled
+7.5,GJ Maxwell,SP Narine,HM Amla,1,Not out
+7.6,HM Amla,SP Narine,GJ Maxwell,0,Not out
+8.1,GJ Maxwell,CR Woakes,HM Amla,0,Not out
+8.2,GJ Maxwell,CR Woakes,HM Amla,4,Not out
+8.3,GJ Maxwell,CR Woakes,HM Amla,1,Not out
+8.4,HM Amla,CR Woakes,GJ Maxwell,4,Not out
+8.5,HM Amla,CR Woakes,GJ Maxwell,1,Not out
+8.6,GJ Maxwell,CR Woakes,HM Amla,1,Not out
+9.1,GJ Maxwell,PP Chawla,HM Amla,6,Not out
+9.2,GJ Maxwell,PP Chawla,HM Amla,4,Not out
+9.3,GJ Maxwell,PP Chawla,HM Amla,4,Not out
+9.4,GJ Maxwell,PP Chawla,HM Amla,1,Not out
+9.5,HM Amla,PP Chawla,GJ Maxwell,1,Not out
+9.6,GJ Maxwell,PP Chawla,HM Amla,1,Not out
+10.1,GJ Maxwell,SP Narine,HM Amla,0,Not out
+10.2,GJ Maxwell,SP Narine,HM Amla,1,Not out
+10.3,HM Amla,SP Narine,GJ Maxwell,0,Not out
+10.4,HM Amla,SP Narine,GJ Maxwell,0,Not out
+10.5,HM Amla,SP Narine,GJ Maxwell,0,Not out
+10.6,HM Amla,SP Narine,GJ Maxwell,1,Not out
+11.1,HM Amla,C de Grandhomme,GJ Maxwell,0,Not out
+11.2,HM Amla,C de Grandhomme,GJ Maxwell,0,Not out
+11.3,HM Amla,C de Grandhomme,GJ Maxwell,0,Not out
+11.4,HM Amla,C de Grandhomme,GJ Maxwell,0,caught
+11.5,GJ Maxwell,C de Grandhomme,DA Miller,1,Not out
+11.6,DA Miller,C de Grandhomme,GJ Maxwell,0,Not out
+12.1,GJ Maxwell,UT Yadav,DA Miller,0,caught
+12.2,WP Saha,UT Yadav,DA Miller,0,Not out
+12.3,WP Saha,UT Yadav,DA Miller,0,Not out
+12.4,WP Saha,UT Yadav,DA Miller,1,Not out
+12.5,DA Miller,UT Yadav,WP Saha,1,Not out
+12.6,WP Saha,UT Yadav,DA Miller,4,Not out
+13.1,DA Miller,C de Grandhomme,WP Saha,1,Not out
+13.2,WP Saha,C de Grandhomme,DA Miller,0,Not out
+13.3,WP Saha,C de Grandhomme,DA Miller,1,Not out
+13.4,DA Miller,C de Grandhomme,WP Saha,0,Not out
+13.5,DA Miller,C de Grandhomme,WP Saha,6,Not out
+13.6,DA Miller,C de Grandhomme,WP Saha,4,Not out
+13.7,DA Miller,C de Grandhomme,WP Saha,0,Not out
+13.8,DA Miller,C de Grandhomme,WP Saha,0,Not out
+14.1,DA Miller,PP Chawla,WP Saha,1,Not out
+14.2,WP Saha,PP Chawla,DA Miller,6,Not out
+14.3,WP Saha,PP Chawla,DA Miller,1,Not out
+14.4,DA Miller,PP Chawla,WP Saha,1,Not out
+14.5,WP Saha,PP Chawla,DA Miller,6,Not out
+14.6,WP Saha,PP Chawla,DA Miller,0,Not out
+15.1,DA Miller,SP Narine,WP Saha,1,Not out
+15.2,WP Saha,SP Narine,DA Miller,0,Not out
+15.3,WP Saha,SP Narine,DA Miller,1,Not out
+15.4,DA Miller,SP Narine,WP Saha,0,Not out
+15.5,DA Miller,SP Narine,WP Saha,0,Not out
+15.6,DA Miller,SP Narine,WP Saha,0,Not out
+15.7,DA Miller,SP Narine,WP Saha,1,Not out
+16.1,DA Miller,TA Boult,WP Saha,1,Not out
+16.2,WP Saha,TA Boult,DA Miller,0,Not out
+16.3,WP Saha,TA Boult,DA Miller,1,Not out
+16.4,DA Miller,TA Boult,WP Saha,1,Not out
+16.5,WP Saha,TA Boult,DA Miller,0,Not out
+16.6,WP Saha,TA Boult,DA Miller,4,Not out
+17.1,DA Miller,UT Yadav,WP Saha,6,Not out
+17.2,DA Miller,UT Yadav,WP Saha,4,Not out
+17.3,DA Miller,UT Yadav,WP Saha,0,caught
+17.4,WP Saha,UT Yadav,AR Patel,0,caught
+17.5,MM Sharma,UT Yadav,AR Patel,1,Not out
+17.6,AR Patel,UT Yadav,MM Sharma,0,caught
+18.1,MM Sharma,TA Boult,VR Aaron,0,Not out
+18.2,MM Sharma,TA Boult,VR Aaron,4,Not out
+18.3,MM Sharma,TA Boult,VR Aaron,0,Not out
+18.4,MM Sharma,TA Boult,VR Aaron,1,Not out
+18.5,VR Aaron,TA Boult,MM Sharma,1,Not out
+18.6,MM Sharma,TA Boult,VR Aaron,4,Not out
+19.1,VR Aaron,CR Woakes,MM Sharma,0,Not out
+19.2,VR Aaron,CR Woakes,MM Sharma,2,Not out
+19.3,VR Aaron,CR Woakes,MM Sharma,1,Not out
+19.4,MM Sharma,CR Woakes,VR Aaron,0,Not out
+19.5,MM Sharma,CR Woakes,VR Aaron,0,caught
+19.6,VR Aaron,CR Woakes,Sandeep Sharma,0,Not out
+19.7,VR Aaron,CR Woakes,Sandeep Sharma,0,caught

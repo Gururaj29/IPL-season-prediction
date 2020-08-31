@@ -1,0 +1,124 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,N Saini,Z Khan,PC Valthaty,2,Not out
+0.2,N Saini,Z Khan,PC Valthaty,0,Not out
+0.3,N Saini,Z Khan,PC Valthaty,0,Not out
+0.4,N Saini,Z Khan,PC Valthaty,0,Not out
+0.5,N Saini,Z Khan,PC Valthaty,1,Not out
+0.6,PC Valthaty,Z Khan,N Saini,0,Not out
+1.1,N Saini,R Vinay Kumar,PC Valthaty,2,Not out
+1.2,N Saini,R Vinay Kumar,PC Valthaty,4,Not out
+1.3,N Saini,R Vinay Kumar,PC Valthaty,1,Not out
+1.4,PC Valthaty,R Vinay Kumar,N Saini,0,Not out
+1.5,PC Valthaty,R Vinay Kumar,N Saini,0,Not out
+1.6,PC Valthaty,R Vinay Kumar,N Saini,0,Not out
+2.1,N Saini,Z Khan,PC Valthaty,0,Not out
+2.2,N Saini,Z Khan,PC Valthaty,2,Not out
+2.3,N Saini,Z Khan,PC Valthaty,2,Not out
+2.4,N Saini,Z Khan,PC Valthaty,0,bowled
+2.5,SE Marsh,Z Khan,PC Valthaty,1,Not out
+2.6,PC Valthaty,Z Khan,SE Marsh,0,Not out
+3.1,SE Marsh,R Vinay Kumar,PC Valthaty,0,Not out
+3.2,SE Marsh,R Vinay Kumar,PC Valthaty,0,Not out
+3.3,SE Marsh,R Vinay Kumar,PC Valthaty,4,Not out
+3.4,SE Marsh,R Vinay Kumar,PC Valthaty,1,Not out
+3.5,PC Valthaty,R Vinay Kumar,SE Marsh,0,Not out
+3.6,PC Valthaty,R Vinay Kumar,SE Marsh,0,Not out
+4.1,SE Marsh,Z Khan,PC Valthaty,1,Not out
+4.2,PC Valthaty,Z Khan,SE Marsh,2,Not out
+4.3,PC Valthaty,Z Khan,SE Marsh,4,Not out
+4.4,PC Valthaty,Z Khan,SE Marsh,0,Not out
+4.5,PC Valthaty,Z Khan,SE Marsh,0,Not out
+4.6,PC Valthaty,Z Khan,SE Marsh,0,caught
+5.1,DJ Hussey,HV Patel,SE Marsh,1,Not out
+5.2,SE Marsh,HV Patel,DJ Hussey,4,Not out
+5.3,SE Marsh,HV Patel,DJ Hussey,4,Not out
+5.4,SE Marsh,HV Patel,DJ Hussey,0,Not out
+5.5,SE Marsh,HV Patel,DJ Hussey,1,Not out
+5.6,DJ Hussey,HV Patel,SE Marsh,4,Not out
+6.1,SE Marsh,AB McDonald,DJ Hussey,1,Not out
+6.2,DJ Hussey,AB McDonald,SE Marsh,1,Not out
+6.3,SE Marsh,AB McDonald,DJ Hussey,1,Not out
+6.4,DJ Hussey,AB McDonald,SE Marsh,1,Not out
+6.5,SE Marsh,AB McDonald,DJ Hussey,0,Not out
+6.6,SE Marsh,AB McDonald,DJ Hussey,6,Not out
+7.1,DJ Hussey,DL Vettori,SE Marsh,2,Not out
+7.2,DJ Hussey,DL Vettori,SE Marsh,1,Not out
+7.3,SE Marsh,DL Vettori,DJ Hussey,1,Not out
+7.4,DJ Hussey,DL Vettori,SE Marsh,0,Not out
+7.5,DJ Hussey,DL Vettori,SE Marsh,1,Not out
+7.6,SE Marsh,DL Vettori,DJ Hussey,1,Not out
+8.1,SE Marsh,AB McDonald,DJ Hussey,0,bowled
+8.2,DA Miller,AB McDonald,DJ Hussey,1,Not out
+8.3,DJ Hussey,AB McDonald,DA Miller,0,Not out
+8.4,DA Miller,AB McDonald,DJ Hussey,1,Not out
+8.5,DJ Hussey,AB McDonald,DA Miller,0,Not out
+8.6,DJ Hussey,AB McDonald,DA Miller,2,Not out
+8.7,DJ Hussey,AB McDonald,DA Miller,1,Not out
+9.1,DJ Hussey,DL Vettori,DA Miller,0,Not out
+9.2,DJ Hussey,DL Vettori,DA Miller,4,Not out
+9.3,DJ Hussey,DL Vettori,DA Miller,0,Not out
+9.4,DJ Hussey,DL Vettori,DA Miller,2,Not out
+9.5,DJ Hussey,DL Vettori,DA Miller,0,Not out
+9.6,DJ Hussey,DL Vettori,DA Miller,0,Not out
+10.1,DA Miller,AB McDonald,DJ Hussey,1,Not out
+10.2,DJ Hussey,AB McDonald,DA Miller,1,Not out
+10.3,DA Miller,AB McDonald,DJ Hussey,0,Not out
+10.4,DJ Hussey,AB McDonald,DA Miller,1,Not out
+10.5,DA Miller,AB McDonald,DJ Hussey,1,Not out
+10.6,DJ Hussey,AB McDonald,DA Miller,0,Not out
+11.1,DA Miller,DL Vettori,DJ Hussey,0,Not out
+11.2,DJ Hussey,DL Vettori,DA Miller,0,Not out
+11.3,DJ Hussey,DL Vettori,DA Miller,1,Not out
+11.4,DA Miller,DL Vettori,DJ Hussey,0,Not out
+11.5,DA Miller,DL Vettori,DJ Hussey,1,Not out
+11.6,DJ Hussey,DL Vettori,DA Miller,1,Not out
+11.7,DA Miller,DL Vettori,DJ Hussey,1,Not out
+12.1,DA Miller,HV Patel,DJ Hussey,0,Not out
+12.2,DJ Hussey,HV Patel,DA Miller,0,Not out
+12.3,DJ Hussey,HV Patel,DA Miller,2,Not out
+12.4,DJ Hussey,HV Patel,DA Miller,4,Not out
+12.5,DJ Hussey,HV Patel,DA Miller,1,Not out
+12.6,DA Miller,HV Patel,DJ Hussey,0,Not out
+13.1,DJ Hussey,AB McDonald,DA Miller,1,Not out
+13.2,DA Miller,AB McDonald,DJ Hussey,1,Not out
+13.3,DJ Hussey,AB McDonald,DA Miller,1,Not out
+13.4,DA Miller,AB McDonald,DJ Hussey,1,Not out
+13.5,DJ Hussey,AB McDonald,DA Miller,1,Not out
+13.6,DA Miller,AB McDonald,DJ Hussey,0,caught
+14.1,DJ Hussey,HV Patel,Mandeep Singh,0,Not out
+14.2,DJ Hussey,HV Patel,Mandeep Singh,2,Not out
+14.3,DJ Hussey,HV Patel,Mandeep Singh,1,Not out
+14.4,Mandeep Singh,HV Patel,DJ Hussey,2,Not out
+14.5,Mandeep Singh,HV Patel,DJ Hussey,1,Not out
+14.6,DJ Hussey,HV Patel,Mandeep Singh,4,Not out
+14.7,DJ Hussey,HV Patel,Mandeep Singh,0,bowled
+15.1,Mandeep Singh,DL Vettori,Azhar Mahmood,1,Not out
+15.2,Azhar Mahmood,DL Vettori,Mandeep Singh,1,Not out
+15.3,Mandeep Singh,DL Vettori,Azhar Mahmood,2,Not out
+15.4,Mandeep Singh,DL Vettori,Azhar Mahmood,1,Not out
+15.5,Azhar Mahmood,DL Vettori,Mandeep Singh,1,Not out
+15.6,Mandeep Singh,DL Vettori,Azhar Mahmood,1,Not out
+16.1,Mandeep Singh,HV Patel,Azhar Mahmood,1,Not out
+16.2,Azhar Mahmood,HV Patel,Mandeep Singh,0,Not out
+16.3,Azhar Mahmood,HV Patel,Mandeep Singh,1,Not out
+16.4,Mandeep Singh,HV Patel,Azhar Mahmood,0,Not out
+16.5,Azhar Mahmood,HV Patel,Mandeep Singh,4,Not out
+16.6,Azhar Mahmood,HV Patel,Mandeep Singh,6,Not out
+17.1,Mandeep Singh,R Vinay Kumar,Azhar Mahmood,2,Not out
+17.2,Mandeep Singh,R Vinay Kumar,Azhar Mahmood,1,Not out
+17.3,Azhar Mahmood,R Vinay Kumar,Mandeep Singh,4,Not out
+17.4,Azhar Mahmood,R Vinay Kumar,Mandeep Singh,2,Not out
+17.5,Azhar Mahmood,R Vinay Kumar,Mandeep Singh,4,Not out
+17.6,Azhar Mahmood,R Vinay Kumar,Mandeep Singh,1,Not out
+18.1,Azhar Mahmood,Z Khan,Mandeep Singh,1,Not out
+18.2,Mandeep Singh,Z Khan,Azhar Mahmood,3,Not out
+18.3,Azhar Mahmood,Z Khan,Mandeep Singh,1,Not out
+18.4,Mandeep Singh,Z Khan,Azhar Mahmood,2,Not out
+18.5,Mandeep Singh,Z Khan,Azhar Mahmood,2,Not out
+18.6,Mandeep Singh,Z Khan,Azhar Mahmood,1,Not out
+19.1,Mandeep Singh,R Vinay Kumar,Azhar Mahmood,0,caught
+19.2,Azhar Mahmood,R Vinay Kumar,PP Chawla,6,Not out
+19.3,Azhar Mahmood,R Vinay Kumar,PP Chawla,1,Not out
+19.4,PP Chawla,R Vinay Kumar,Azhar Mahmood,4,Not out
+19.5,PP Chawla,R Vinay Kumar,Azhar Mahmood,2,Not out
+19.6,PP Chawla,R Vinay Kumar,Azhar Mahmood,1,Not out

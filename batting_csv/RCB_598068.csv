@@ -1,0 +1,51 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,V Kohli,R Ashwin,CH Gayle,0,Not out
+0.2,V Kohli,R Ashwin,CH Gayle,4,Not out
+0.3,V Kohli,R Ashwin,CH Gayle,0,Not out
+0.4,V Kohli,R Ashwin,CH Gayle,1,Not out
+0.5,CH Gayle,R Ashwin,V Kohli,0,Not out
+0.6,CH Gayle,R Ashwin,V Kohli,1,Not out
+1.1,CH Gayle,CH Morris,V Kohli,1,Not out
+1.2,V Kohli,CH Morris,CH Gayle,1,Not out
+1.3,CH Gayle,CH Morris,V Kohli,0,Not out
+1.4,CH Gayle,CH Morris,V Kohli,6,Not out
+1.5,CH Gayle,CH Morris,V Kohli,0,Not out
+1.6,V Kohli,CH Morris,CH Gayle,0,Not out
+1.7,V Kohli,CH Morris,CH Gayle,0,Not out
+2.1,V Kohli,R Ashwin,CH Gayle,0,Not out
+2.2,V Kohli,R Ashwin,CH Gayle,4,Not out
+2.3,V Kohli,R Ashwin,CH Gayle,1,Not out
+2.4,CH Gayle,R Ashwin,V Kohli,0,Not out
+2.5,V Kohli,R Ashwin,CH Gayle,4,Not out
+2.6,V Kohli,R Ashwin,CH Gayle,6,Not out
+3.1,CH Gayle,CH Morris,V Kohli,1,Not out
+3.2,V Kohli,CH Morris,CH Gayle,4,Not out
+3.3,V Kohli,CH Morris,CH Gayle,2,Not out
+3.4,V Kohli,CH Morris,CH Gayle,0,Not out
+3.5,V Kohli,CH Morris,CH Gayle,0,Not out
+3.6,V Kohli,CH Morris,CH Gayle,6,Not out
+4.1,CH Gayle,JO Holder,V Kohli,1,Not out
+4.2,V Kohli,JO Holder,CH Gayle,1,Not out
+4.3,CH Gayle,JO Holder,V Kohli,0,Not out
+4.4,CH Gayle,JO Holder,V Kohli,6,Not out
+4.5,CH Gayle,JO Holder,V Kohli,6,Not out
+4.6,CH Gayle,JO Holder,V Kohli,6,Not out
+5.1,V Kohli,DJ Bravo,CH Gayle,1,Not out
+5.2,CH Gayle,DJ Bravo,V Kohli,0,caught
+5.3,AB de Villiers,DJ Bravo,V Kohli,4,Not out
+5.4,AB de Villiers,DJ Bravo,V Kohli,1,Not out
+5.5,V Kohli,DJ Bravo,AB de Villiers,4,Not out
+5.6,V Kohli,DJ Bravo,AB de Villiers,0,Not out
+6.1,AB de Villiers,MM Sharma,V Kohli,0,caught
+6.2,V Kohli,MM Sharma,MC Henriques,0,Not out
+6.3,V Kohli,MM Sharma,MC Henriques,1,Not out
+6.4,MC Henriques,MM Sharma,V Kohli,0,Not out
+6.5,MC Henriques,MM Sharma,V Kohli,4,Not out
+6.6,MC Henriques,MM Sharma,V Kohli,4,Not out
+6.7,MC Henriques,MM Sharma,V Kohli,4,Not out
+7.1,V Kohli,DJ Bravo,MC Henriques,0,Not out
+7.2,V Kohli,DJ Bravo,MC Henriques,0,Not out
+7.3,V Kohli,DJ Bravo,MC Henriques,6,Not out
+7.4,V Kohli,DJ Bravo,MC Henriques,0,Not out
+7.5,V Kohli,DJ Bravo,MC Henriques,6,Not out
+7.6,V Kohli,DJ Bravo,MC Henriques,4,Not out

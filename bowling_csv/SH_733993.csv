@@ -1,0 +1,122 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,Q de Kock,DW Steyn,KP Pietersen,0,Not out
+0.2,Q de Kock,DW Steyn,KP Pietersen,2,Not out
+0.3,Q de Kock,DW Steyn,KP Pietersen,1,Not out
+0.4,KP Pietersen,DW Steyn,Q de Kock,0,Not out
+0.5,KP Pietersen,DW Steyn,Q de Kock,1,Not out
+0.6,Q de Kock,DW Steyn,KP Pietersen,0,Not out
+1.1,KP Pietersen,B Kumar,Q de Kock,1,Not out
+1.2,Q de Kock,B Kumar,KP Pietersen,3,Not out
+1.3,KP Pietersen,B Kumar,Q de Kock,0,Not out
+1.4,Q de Kock,B Kumar,KP Pietersen,0,Not out
+1.5,Q de Kock,B Kumar,KP Pietersen,0,Not out
+1.6,Q de Kock,B Kumar,KP Pietersen,1,Not out
+2.1,Q de Kock,DW Steyn,KP Pietersen,0,Not out
+2.2,Q de Kock,DW Steyn,KP Pietersen,0,Not out
+2.3,Q de Kock,DW Steyn,KP Pietersen,0,Not out
+2.4,Q de Kock,DW Steyn,KP Pietersen,0,caught
+2.5,MA Agarwal,DW Steyn,KP Pietersen,0,Not out
+2.6,MA Agarwal,DW Steyn,KP Pietersen,4,Not out
+3.1,KP Pietersen,B Kumar,MA Agarwal,4,Not out
+3.2,KP Pietersen,B Kumar,MA Agarwal,4,Not out
+3.3,KP Pietersen,B Kumar,MA Agarwal,0,Not out
+3.4,KP Pietersen,B Kumar,MA Agarwal,0,Not out
+3.5,KP Pietersen,B Kumar,MA Agarwal,1,Not out
+3.6,MA Agarwal,B Kumar,KP Pietersen,0,Not out
+4.1,KP Pietersen,KV Sharma,MA Agarwal,1,Not out
+4.2,MA Agarwal,KV Sharma,KP Pietersen,1,Not out
+4.3,KP Pietersen,KV Sharma,MA Agarwal,6,Not out
+4.4,KP Pietersen,KV Sharma,MA Agarwal,0,Not out
+4.5,KP Pietersen,KV Sharma,MA Agarwal,4,Not out
+4.6,KP Pietersen,KV Sharma,MA Agarwal,0,Not out
+4.7,KP Pietersen,KV Sharma,MA Agarwal,1,Not out
+5.1,KP Pietersen,MC Henriques,MA Agarwal,6,Not out
+5.2,KP Pietersen,MC Henriques,MA Agarwal,4,Not out
+5.3,KP Pietersen,MC Henriques,MA Agarwal,1,Not out
+5.4,MA Agarwal,MC Henriques,KP Pietersen,0,Not out
+5.5,MA Agarwal,MC Henriques,KP Pietersen,4,Not out
+5.6,MA Agarwal,MC Henriques,KP Pietersen,0,Not out
+6.1,KP Pietersen,A Mishra,MA Agarwal,1,Not out
+6.2,MA Agarwal,A Mishra,KP Pietersen,1,Not out
+6.3,KP Pietersen,A Mishra,MA Agarwal,0,caught
+6.4,KD Karthik,A Mishra,MA Agarwal,1,Not out
+6.5,MA Agarwal,A Mishra,KD Karthik,4,Not out
+6.6,MA Agarwal,A Mishra,KD Karthik,1,Not out
+7.1,MA Agarwal,MC Henriques,KD Karthik,1,Not out
+7.2,KD Karthik,MC Henriques,MA Agarwal,1,Not out
+7.3,MA Agarwal,MC Henriques,KD Karthik,1,Not out
+7.4,KD Karthik,MC Henriques,MA Agarwal,1,Not out
+7.5,MA Agarwal,MC Henriques,KD Karthik,2,Not out
+7.6,MA Agarwal,MC Henriques,KD Karthik,1,Not out
+8.1,MA Agarwal,A Mishra,KD Karthik,4,Not out
+8.2,MA Agarwal,A Mishra,KD Karthik,0,Not out
+8.3,MA Agarwal,A Mishra,KD Karthik,1,Not out
+8.4,KD Karthik,A Mishra,MA Agarwal,1,Not out
+8.5,MA Agarwal,A Mishra,KD Karthik,0,caught
+8.6,LR Shukla,A Mishra,KD Karthik,0,Not out
+9.1,KD Karthik,KV Sharma,LR Shukla,0,Not out
+9.2,KD Karthik,KV Sharma,LR Shukla,1,Not out
+9.3,LR Shukla,KV Sharma,KD Karthik,0,Not out
+9.4,LR Shukla,KV Sharma,KD Karthik,1,Not out
+9.5,KD Karthik,KV Sharma,LR Shukla,0,Not out
+9.6,KD Karthik,KV Sharma,LR Shukla,0,Not out
+10.1,LR Shukla,A Mishra,KD Karthik,1,Not out
+10.2,KD Karthik,A Mishra,LR Shukla,0,Not out
+10.3,KD Karthik,A Mishra,LR Shukla,1,Not out
+10.4,LR Shukla,A Mishra,KD Karthik,0,Not out
+10.5,LR Shukla,A Mishra,KD Karthik,6,Not out
+10.6,LR Shukla,A Mishra,KD Karthik,1,Not out
+11.1,LR Shukla,IK Pathan,KD Karthik,1,Not out
+11.2,KD Karthik,IK Pathan,LR Shukla,2,Not out
+11.3,KD Karthik,IK Pathan,LR Shukla,1,Not out
+11.4,LR Shukla,IK Pathan,KD Karthik,1,Not out
+11.5,KD Karthik,IK Pathan,LR Shukla,1,Not out
+11.6,LR Shukla,IK Pathan,KD Karthik,1,Not out
+12.1,LR Shukla,DW Steyn,KD Karthik,0,Not out
+12.2,KD Karthik,DW Steyn,LR Shukla,6,Not out
+12.3,KD Karthik,DW Steyn,LR Shukla,1,Not out
+12.4,LR Shukla,DW Steyn,KD Karthik,0,Not out
+12.5,LR Shukla,DW Steyn,KD Karthik,0,Not out
+12.6,LR Shukla,DW Steyn,KD Karthik,1,Not out
+13.1,LR Shukla,KV Sharma,KD Karthik,1,Not out
+13.2,KD Karthik,KV Sharma,LR Shukla,0,Not out
+13.3,KD Karthik,KV Sharma,LR Shukla,0,Not out
+13.4,KD Karthik,KV Sharma,LR Shukla,6,Not out
+13.5,KD Karthik,KV Sharma,LR Shukla,4,Not out
+13.6,KD Karthik,KV Sharma,LR Shukla,2,Not out
+14.1,LR Shukla,IK Pathan,KD Karthik,1,Not out
+14.2,KD Karthik,IK Pathan,LR Shukla,0,Not out
+14.3,KD Karthik,IK Pathan,LR Shukla,1,Not out
+14.4,LR Shukla,IK Pathan,KD Karthik,1,Not out
+14.5,KD Karthik,IK Pathan,LR Shukla,2,Not out
+14.6,KD Karthik,IK Pathan,LR Shukla,1,Not out
+15.1,KD Karthik,B Kumar,LR Shukla,1,Not out
+15.2,LR Shukla,B Kumar,KD Karthik,1,Not out
+15.3,KD Karthik,B Kumar,LR Shukla,2,Not out
+15.4,KD Karthik,B Kumar,LR Shukla,0,Not out
+15.5,KD Karthik,B Kumar,LR Shukla,2,Not out
+15.6,KD Karthik,B Kumar,LR Shukla,1,Not out
+16.1,KD Karthik,MC Henriques,LR Shukla,0,caught
+16.2,LR Shukla,MC Henriques,JP Duminy,4,Not out
+16.3,LR Shukla,MC Henriques,JP Duminy,0,Not out
+16.4,LR Shukla,MC Henriques,JP Duminy,0,Not out
+16.5,LR Shukla,MC Henriques,JP Duminy,0,caught
+16.6,KM Jadhav,MC Henriques,JP Duminy,0,Not out
+17.1,JP Duminy,IK Pathan,KM Jadhav,1,Not out
+17.2,KM Jadhav,IK Pathan,JP Duminy,1,Not out
+17.3,JP Duminy,IK Pathan,KM Jadhav,1,Not out
+17.4,KM Jadhav,IK Pathan,JP Duminy,0,Not out
+17.5,KM Jadhav,IK Pathan,JP Duminy,1,Not out
+17.6,JP Duminy,IK Pathan,KM Jadhav,1,Not out
+18.1,JP Duminy,B Kumar,KM Jadhav,1,Not out
+18.2,KM Jadhav,B Kumar,JP Duminy,0,Not out
+18.3,KM Jadhav,B Kumar,JP Duminy,0,Not out
+18.4,KM Jadhav,B Kumar,JP Duminy,0,Not out
+18.5,KM Jadhav,B Kumar,JP Duminy,1,Not out
+18.6,JP Duminy,B Kumar,KM Jadhav,0,bowled
+19.1,KM Jadhav,DW Steyn,R Shukla,1,Not out
+19.2,R Shukla,DW Steyn,KM Jadhav,0,Not out
+19.3,R Shukla,DW Steyn,KM Jadhav,1,Not out
+19.4,KM Jadhav,DW Steyn,R Shukla,1,Not out
+19.5,R Shukla,DW Steyn,KM Jadhav,1,Not out
+19.6,KM Jadhav,DW Steyn,R Shukla,0,caught

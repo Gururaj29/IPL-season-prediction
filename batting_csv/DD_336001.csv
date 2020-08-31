@@ -1,0 +1,119 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,G Gambhir,M Ntini,V Sehwag,1,Not out
+0.2,V Sehwag,M Ntini,G Gambhir,0,Not out
+0.3,V Sehwag,M Ntini,G Gambhir,0,Not out
+0.4,V Sehwag,M Ntini,G Gambhir,6,Not out
+0.5,V Sehwag,M Ntini,G Gambhir,0,Not out
+0.6,V Sehwag,M Ntini,G Gambhir,1,Not out
+1.1,V Sehwag,MS Gony,G Gambhir,6,Not out
+1.2,V Sehwag,MS Gony,G Gambhir,0,Not out
+1.3,V Sehwag,MS Gony,G Gambhir,6,Not out
+1.4,V Sehwag,MS Gony,G Gambhir,2,Not out
+1.5,V Sehwag,MS Gony,G Gambhir,0,Not out
+1.6,V Sehwag,MS Gony,G Gambhir,1,Not out
+1.7,G Gambhir,MS Gony,V Sehwag,1,Not out
+2.1,G Gambhir,M Ntini,V Sehwag,1,Not out
+2.2,V Sehwag,M Ntini,G Gambhir,0,Not out
+2.3,V Sehwag,M Ntini,G Gambhir,0,Not out
+2.4,V Sehwag,M Ntini,G Gambhir,4,Not out
+2.5,V Sehwag,M Ntini,G Gambhir,0,Not out
+2.6,G Gambhir,M Ntini,V Sehwag,0,Not out
+3.1,V Sehwag,MS Gony,G Gambhir,2,Not out
+3.2,V Sehwag,MS Gony,G Gambhir,4,Not out
+3.3,V Sehwag,MS Gony,G Gambhir,1,Not out
+3.4,G Gambhir,MS Gony,V Sehwag,0,Not out
+3.5,G Gambhir,MS Gony,V Sehwag,1,Not out
+3.6,V Sehwag,MS Gony,G Gambhir,4,Not out
+4.1,G Gambhir,M Ntini,V Sehwag,1,Not out
+4.2,V Sehwag,M Ntini,G Gambhir,1,Not out
+4.3,G Gambhir,M Ntini,V Sehwag,0,Not out
+4.4,G Gambhir,M Ntini,V Sehwag,4,Not out
+4.5,G Gambhir,M Ntini,V Sehwag,4,Not out
+4.6,G Gambhir,M Ntini,V Sehwag,1,Not out
+5.1,G Gambhir,JA Morkel,V Sehwag,2,Not out
+5.2,G Gambhir,JA Morkel,V Sehwag,4,Not out
+5.3,G Gambhir,JA Morkel,V Sehwag,0,Not out
+5.4,G Gambhir,JA Morkel,V Sehwag,0,Not out
+5.5,G Gambhir,JA Morkel,V Sehwag,4,Not out
+5.6,G Gambhir,JA Morkel,V Sehwag,0,Not out
+6.1,V Sehwag,Joginder Sharma,G Gambhir,1,Not out
+6.2,G Gambhir,Joginder Sharma,V Sehwag,1,Not out
+6.3,V Sehwag,Joginder Sharma,G Gambhir,6,Not out
+6.4,V Sehwag,Joginder Sharma,G Gambhir,2,Not out
+6.5,V Sehwag,Joginder Sharma,G Gambhir,0,Not out
+6.6,V Sehwag,Joginder Sharma,G Gambhir,4,Not out
+6.7,V Sehwag,Joginder Sharma,G Gambhir,4,Not out
+7.1,G Gambhir,M Muralitharan,V Sehwag,1,Not out
+7.2,V Sehwag,M Muralitharan,G Gambhir,0,Not out
+7.3,V Sehwag,M Muralitharan,G Gambhir,1,Not out
+7.4,G Gambhir,M Muralitharan,V Sehwag,2,Not out
+7.5,G Gambhir,M Muralitharan,V Sehwag,1,Not out
+7.6,V Sehwag,M Muralitharan,G Gambhir,4,Not out
+7.7,V Sehwag,M Muralitharan,G Gambhir,0,Not out
+8.1,G Gambhir,JA Morkel,V Sehwag,4,Not out
+8.2,G Gambhir,JA Morkel,V Sehwag,1,Not out
+8.3,V Sehwag,JA Morkel,G Gambhir,0,Not out
+8.4,V Sehwag,JA Morkel,G Gambhir,1,Not out
+8.5,G Gambhir,JA Morkel,V Sehwag,1,Not out
+8.6,V Sehwag,JA Morkel,G Gambhir,1,Not out
+9.1,V Sehwag,M Muralitharan,G Gambhir,0,Not out
+9.2,V Sehwag,M Muralitharan,G Gambhir,1,Not out
+9.3,G Gambhir,M Muralitharan,V Sehwag,0,Not out
+9.4,G Gambhir,M Muralitharan,V Sehwag,2,Not out
+9.5,G Gambhir,M Muralitharan,V Sehwag,1,Not out
+9.6,V Sehwag,M Muralitharan,G Gambhir,1,Not out
+10.1,V Sehwag,JA Morkel,G Gambhir,0,Not out
+10.2,V Sehwag,JA Morkel,G Gambhir,0,Not out
+10.3,G Gambhir,JA Morkel,V Sehwag,0,Not out
+10.4,G Gambhir,JA Morkel,V Sehwag,1,Not out
+10.5,V Sehwag,JA Morkel,G Gambhir,4,Not out
+10.6,V Sehwag,JA Morkel,G Gambhir,1,Not out
+11.1,V Sehwag,Joginder Sharma,G Gambhir,2,Not out
+11.2,V Sehwag,Joginder Sharma,G Gambhir,0,caught
+11.3,AB de Villiers,Joginder Sharma,G Gambhir,0,Not out
+11.4,AB de Villiers,Joginder Sharma,G Gambhir,1,Not out
+11.5,G Gambhir,Joginder Sharma,AB de Villiers,1,Not out
+11.6,AB de Villiers,Joginder Sharma,G Gambhir,1,Not out
+12.1,AB de Villiers,M Muralitharan,G Gambhir,1,Not out
+12.2,G Gambhir,M Muralitharan,AB de Villiers,1,Not out
+12.3,AB de Villiers,M Muralitharan,G Gambhir,2,Not out
+12.4,AB de Villiers,M Muralitharan,G Gambhir,0,Not out
+12.5,AB de Villiers,M Muralitharan,G Gambhir,1,Not out
+12.6,G Gambhir,M Muralitharan,AB de Villiers,0,Not out
+13.1,AB de Villiers,Joginder Sharma,G Gambhir,1,Not out
+13.2,G Gambhir,Joginder Sharma,AB de Villiers,6,Not out
+13.3,G Gambhir,Joginder Sharma,AB de Villiers,1,Not out
+13.4,AB de Villiers,Joginder Sharma,G Gambhir,1,Not out
+13.5,G Gambhir,Joginder Sharma,AB de Villiers,2,Not out
+13.6,G Gambhir,Joginder Sharma,AB de Villiers,0,Not out
+14.1,AB de Villiers,MS Gony,G Gambhir,4,Not out
+14.2,AB de Villiers,MS Gony,G Gambhir,1,Not out
+14.3,G Gambhir,MS Gony,AB de Villiers,0,bowled
+14.4,S Dhawan,MS Gony,AB de Villiers,0,Not out
+14.5,S Dhawan,MS Gony,AB de Villiers,1,Not out
+14.6,AB de Villiers,MS Gony,S Dhawan,2,Not out
+15.1,S Dhawan,M Ntini,AB de Villiers,0,Not out
+15.2,S Dhawan,M Ntini,AB de Villiers,1,Not out
+15.3,AB de Villiers,M Ntini,S Dhawan,2,Not out
+15.4,AB de Villiers,M Ntini,S Dhawan,1,Not out
+15.5,S Dhawan,M Ntini,AB de Villiers,1,Not out
+15.6,AB de Villiers,M Ntini,S Dhawan,0,Not out
+16.1,S Dhawan,M Muralitharan,AB de Villiers,2,Not out
+16.2,S Dhawan,M Muralitharan,AB de Villiers,0,Not out
+16.3,S Dhawan,M Muralitharan,AB de Villiers,0,Not out
+16.4,S Dhawan,M Muralitharan,AB de Villiers,0,Not out
+16.5,S Dhawan,M Muralitharan,AB de Villiers,1,Not out
+16.6,AB de Villiers,M Muralitharan,S Dhawan,4,Not out
+17.1,S Dhawan,MS Gony,AB de Villiers,1,Not out
+17.2,AB de Villiers,MS Gony,S Dhawan,0,Not out
+17.3,AB de Villiers,MS Gony,S Dhawan,0,Not out
+17.4,AB de Villiers,MS Gony,S Dhawan,1,Not out
+17.5,S Dhawan,MS Gony,AB de Villiers,0,Not out
+17.6,S Dhawan,MS Gony,AB de Villiers,0,Not out
+18.1,AB de Villiers,JA Morkel,S Dhawan,0,Not out
+18.2,AB de Villiers,JA Morkel,S Dhawan,2,Not out
+18.3,AB de Villiers,JA Morkel,S Dhawan,1,Not out
+18.4,S Dhawan,JA Morkel,AB de Villiers,4,Not out
+18.5,S Dhawan,JA Morkel,AB de Villiers,2,Not out
+18.6,S Dhawan,JA Morkel,AB de Villiers,2,Not out
+18.7,S Dhawan,JA Morkel,AB de Villiers,4,Not out

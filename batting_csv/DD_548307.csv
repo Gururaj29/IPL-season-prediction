@@ -1,0 +1,69 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AJ Finch,B Lee,V Sehwag,1,Not out
+0.2,V Sehwag,B Lee,AJ Finch,1,Not out
+0.3,AJ Finch,B Lee,V Sehwag,2,Not out
+0.4,AJ Finch,B Lee,V Sehwag,0,Not out
+0.5,AJ Finch,B Lee,V Sehwag,0,Not out
+0.6,AJ Finch,B Lee,V Sehwag,1,Not out
+1.1,AJ Finch,M de Lange,V Sehwag,0,Not out
+1.2,AJ Finch,M de Lange,V Sehwag,1,Not out
+1.3,V Sehwag,M de Lange,AJ Finch,1,Not out
+1.4,AJ Finch,M de Lange,V Sehwag,0,Not out
+1.5,AJ Finch,M de Lange,V Sehwag,0,Not out
+1.6,AJ Finch,M de Lange,V Sehwag,4,Not out
+1.7,AJ Finch,M de Lange,V Sehwag,4,Not out
+2.1,V Sehwag,B Lee,AJ Finch,1,Not out
+2.2,AJ Finch,B Lee,V Sehwag,0,Not out
+2.3,AJ Finch,B Lee,V Sehwag,4,Not out
+2.4,AJ Finch,B Lee,V Sehwag,4,Not out
+2.5,AJ Finch,B Lee,V Sehwag,0,Not out
+2.6,AJ Finch,B Lee,V Sehwag,1,Not out
+3.1,AJ Finch,Iqbal Abdulla,V Sehwag,1,Not out
+3.2,V Sehwag,Iqbal Abdulla,AJ Finch,6,Not out
+3.3,V Sehwag,Iqbal Abdulla,AJ Finch,1,Not out
+3.4,AJ Finch,Iqbal Abdulla,V Sehwag,0,Not out
+3.5,AJ Finch,Iqbal Abdulla,V Sehwag,0,Not out
+3.6,AJ Finch,Iqbal Abdulla,V Sehwag,0,Not out
+4.1,V Sehwag,JH Kallis,AJ Finch,1,Not out
+4.2,AJ Finch,JH Kallis,V Sehwag,0,Not out
+4.3,AJ Finch,JH Kallis,V Sehwag,2,Not out
+4.4,AJ Finch,JH Kallis,V Sehwag,0,Not out
+4.5,AJ Finch,JH Kallis,V Sehwag,0,Not out
+4.6,V Sehwag,JH Kallis,AJ Finch,1,Not out
+5.1,V Sehwag,M de Lange,AJ Finch,1,Not out
+5.2,AJ Finch,M de Lange,V Sehwag,4,Not out
+5.3,AJ Finch,M de Lange,V Sehwag,1,Not out
+5.4,V Sehwag,M de Lange,AJ Finch,1,Not out
+5.5,AJ Finch,M de Lange,V Sehwag,0,Not out
+5.6,V Sehwag,M de Lange,AJ Finch,1,Not out
+6.1,V Sehwag,JH Kallis,AJ Finch,1,Not out
+6.2,AJ Finch,JH Kallis,V Sehwag,0,bowled
+6.3,IK Pathan,JH Kallis,V Sehwag,2,Not out
+6.4,IK Pathan,JH Kallis,V Sehwag,0,Not out
+6.5,IK Pathan,JH Kallis,V Sehwag,1,Not out
+6.6,V Sehwag,JH Kallis,IK Pathan,4,Not out
+7.1,IK Pathan,R Bhatia,V Sehwag,1,Not out
+7.2,V Sehwag,R Bhatia,IK Pathan,0,caught
+7.3,GJ Maxwell,R Bhatia,IK Pathan,0,Not out
+7.4,GJ Maxwell,R Bhatia,IK Pathan,1,Not out
+7.5,IK Pathan,R Bhatia,GJ Maxwell,1,Not out
+7.6,GJ Maxwell,R Bhatia,IK Pathan,0,Not out
+8.1,IK Pathan,JH Kallis,GJ Maxwell,2,Not out
+8.2,IK Pathan,JH Kallis,GJ Maxwell,0,Not out
+8.3,IK Pathan,JH Kallis,GJ Maxwell,1,Not out
+8.4,GJ Maxwell,JH Kallis,IK Pathan,1,Not out
+8.5,IK Pathan,JH Kallis,GJ Maxwell,6,Not out
+8.6,IK Pathan,JH Kallis,GJ Maxwell,1,Not out
+9.1,IK Pathan,M de Lange,GJ Maxwell,6,Not out
+9.2,IK Pathan,M de Lange,GJ Maxwell,1,Not out
+9.3,GJ Maxwell,M de Lange,IK Pathan,1,Not out
+9.4,IK Pathan,M de Lange,GJ Maxwell,2,Not out
+9.5,IK Pathan,M de Lange,GJ Maxwell,6,Not out
+9.6,IK Pathan,M de Lange,GJ Maxwell,1,Not out
+10.1,IK Pathan,YK Pathan,GJ Maxwell,1,Not out
+10.2,GJ Maxwell,YK Pathan,IK Pathan,0,Not out
+10.3,IK Pathan,YK Pathan,GJ Maxwell,1,Not out
+10.4,GJ Maxwell,YK Pathan,IK Pathan,0,Not out
+10.5,IK Pathan,YK Pathan,GJ Maxwell,4,Not out
+10.6,IK Pathan,YK Pathan,GJ Maxwell,1,Not out
+11.1,IK Pathan,R Bhatia,GJ Maxwell,4,Not out

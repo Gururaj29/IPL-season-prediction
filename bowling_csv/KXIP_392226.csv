@@ -1,0 +1,128 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,G Gambhir,B Lee,V Sehwag,0,Not out
+0.2,G Gambhir,B Lee,V Sehwag,0,Not out
+0.3,G Gambhir,B Lee,V Sehwag,1,Not out
+0.4,V Sehwag,B Lee,G Gambhir,4,Not out
+0.5,V Sehwag,B Lee,G Gambhir,0,Not out
+0.6,G Gambhir,B Lee,V Sehwag,1,Not out
+1.1,G Gambhir,IK Pathan,V Sehwag,2,Not out
+1.2,G Gambhir,IK Pathan,V Sehwag,0,Not out
+1.3,G Gambhir,IK Pathan,V Sehwag,1,Not out
+1.4,V Sehwag,IK Pathan,G Gambhir,0,Not out
+1.5,V Sehwag,IK Pathan,G Gambhir,1,Not out
+1.6,G Gambhir,IK Pathan,V Sehwag,2,Not out
+2.1,V Sehwag,B Lee,G Gambhir,0,Not out
+2.2,V Sehwag,B Lee,G Gambhir,0,Not out
+2.3,V Sehwag,B Lee,G Gambhir,0,Not out
+2.4,V Sehwag,B Lee,G Gambhir,4,Not out
+2.5,V Sehwag,B Lee,G Gambhir,0,Not out
+2.6,V Sehwag,B Lee,G Gambhir,0,caught
+2.7,TM Dilshan,B Lee,G Gambhir,0,Not out
+2.8,TM Dilshan,B Lee,G Gambhir,0,Not out
+3.1,G Gambhir,IK Pathan,TM Dilshan,0,Not out
+3.2,G Gambhir,IK Pathan,TM Dilshan,0,Not out
+3.3,G Gambhir,IK Pathan,TM Dilshan,1,run out
+3.4,AB de Villiers,IK Pathan,TM Dilshan,0,Not out
+3.5,AB de Villiers,IK Pathan,TM Dilshan,2,Not out
+3.6,AB de Villiers,IK Pathan,TM Dilshan,0,Not out
+4.1,TM Dilshan,PP Chawla,AB de Villiers,0,Not out
+4.2,TM Dilshan,PP Chawla,AB de Villiers,0,Not out
+4.3,TM Dilshan,PP Chawla,AB de Villiers,0,Not out
+4.4,TM Dilshan,PP Chawla,AB de Villiers,0,Not out
+4.5,TM Dilshan,PP Chawla,AB de Villiers,0,Not out
+4.6,AB de Villiers,PP Chawla,TM Dilshan,0,Not out
+5.1,TM Dilshan,S Sreesanth,AB de Villiers,0,Not out
+5.2,TM Dilshan,S Sreesanth,AB de Villiers,4,Not out
+5.3,TM Dilshan,S Sreesanth,AB de Villiers,0,Not out
+5.4,TM Dilshan,S Sreesanth,AB de Villiers,1,Not out
+5.5,AB de Villiers,S Sreesanth,TM Dilshan,4,Not out
+5.6,AB de Villiers,S Sreesanth,TM Dilshan,0,Not out
+5.7,AB de Villiers,S Sreesanth,TM Dilshan,0,Not out
+5.8,AB de Villiers,S Sreesanth,TM Dilshan,0,Not out
+6.1,TM Dilshan,RR Powar,AB de Villiers,0,Not out
+6.2,TM Dilshan,RR Powar,AB de Villiers,1,Not out
+6.3,AB de Villiers,RR Powar,TM Dilshan,2,Not out
+6.4,AB de Villiers,RR Powar,TM Dilshan,2,Not out
+6.5,AB de Villiers,RR Powar,TM Dilshan,1,Not out
+6.6,TM Dilshan,RR Powar,AB de Villiers,1,Not out
+7.1,TM Dilshan,S Sreesanth,AB de Villiers,1,Not out
+7.2,AB de Villiers,S Sreesanth,TM Dilshan,0,caught
+7.3,M Manhas,S Sreesanth,TM Dilshan,0,Not out
+7.4,M Manhas,S Sreesanth,TM Dilshan,0,Not out
+7.5,M Manhas,S Sreesanth,TM Dilshan,0,Not out
+7.6,M Manhas,S Sreesanth,TM Dilshan,2,Not out
+8.1,TM Dilshan,RR Powar,M Manhas,0,Not out
+8.2,TM Dilshan,RR Powar,M Manhas,1,Not out
+8.3,M Manhas,RR Powar,TM Dilshan,1,Not out
+8.4,TM Dilshan,RR Powar,M Manhas,0,Not out
+8.5,TM Dilshan,RR Powar,M Manhas,1,Not out
+8.6,M Manhas,RR Powar,TM Dilshan,0,Not out
+9.1,TM Dilshan,S Sreesanth,M Manhas,0,caught
+9.2,KD Karthik,S Sreesanth,M Manhas,0,Not out
+9.3,KD Karthik,S Sreesanth,M Manhas,0,Not out
+9.4,KD Karthik,S Sreesanth,M Manhas,0,Not out
+9.5,KD Karthik,S Sreesanth,M Manhas,1,Not out
+9.6,M Manhas,S Sreesanth,KD Karthik,0,Not out
+10.1,KD Karthik,RR Powar,M Manhas,1,Not out
+10.2,M Manhas,RR Powar,KD Karthik,4,Not out
+10.3,M Manhas,RR Powar,KD Karthik,2,Not out
+10.4,M Manhas,RR Powar,KD Karthik,0,Not out
+10.5,M Manhas,RR Powar,KD Karthik,0,Not out
+10.6,M Manhas,RR Powar,KD Karthik,0,Not out
+10.7,M Manhas,RR Powar,KD Karthik,0,Not out
+10.8,M Manhas,RR Powar,KD Karthik,1,Not out
+11.1,M Manhas,S Sreesanth,KD Karthik,1,Not out
+11.2,KD Karthik,S Sreesanth,M Manhas,0,Not out
+11.3,KD Karthik,S Sreesanth,M Manhas,0,Not out
+11.4,KD Karthik,S Sreesanth,M Manhas,2,Not out
+11.5,KD Karthik,S Sreesanth,M Manhas,1,Not out
+11.6,M Manhas,S Sreesanth,KD Karthik,1,Not out
+12.1,M Manhas,PP Chawla,KD Karthik,2,Not out
+12.2,M Manhas,PP Chawla,KD Karthik,0,Not out
+12.3,M Manhas,PP Chawla,KD Karthik,1,Not out
+12.4,KD Karthik,PP Chawla,M Manhas,0,Not out
+12.5,KD Karthik,PP Chawla,M Manhas,0,Not out
+12.6,KD Karthik,PP Chawla,M Manhas,1,Not out
+13.1,KD Karthik,Yuvraj Singh,M Manhas,6,Not out
+13.2,KD Karthik,Yuvraj Singh,M Manhas,1,Not out
+13.3,M Manhas,Yuvraj Singh,KD Karthik,1,Not out
+13.4,KD Karthik,Yuvraj Singh,M Manhas,3,Not out
+13.5,M Manhas,Yuvraj Singh,KD Karthik,1,Not out
+13.6,KD Karthik,Yuvraj Singh,M Manhas,2,Not out
+14.1,M Manhas,PP Chawla,KD Karthik,2,Not out
+14.2,M Manhas,PP Chawla,KD Karthik,2,Not out
+14.3,M Manhas,PP Chawla,KD Karthik,0,Not out
+14.4,M Manhas,PP Chawla,KD Karthik,4,Not out
+14.5,M Manhas,PP Chawla,KD Karthik,1,Not out
+14.6,KD Karthik,PP Chawla,M Manhas,0,Not out
+14.7,KD Karthik,PP Chawla,M Manhas,2,Not out
+15.1,M Manhas,WA Mota,KD Karthik,0,Not out
+15.2,KD Karthik,WA Mota,M Manhas,2,Not out
+15.3,KD Karthik,WA Mota,M Manhas,1,Not out
+15.4,M Manhas,WA Mota,KD Karthik,0,caught
+15.5,MF Maharoof,WA Mota,KD Karthik,2,Not out
+15.6,MF Maharoof,WA Mota,KD Karthik,1,Not out
+16.1,MF Maharoof,B Lee,KD Karthik,0,Not out
+16.2,MF Maharoof,B Lee,KD Karthik,0,Not out
+16.3,MF Maharoof,B Lee,KD Karthik,0,Not out
+16.4,MF Maharoof,B Lee,KD Karthik,0,Not out
+16.5,MF Maharoof,B Lee,KD Karthik,0,Not out
+16.6,MF Maharoof,B Lee,KD Karthik,0,bowled
+17.1,KD Karthik,IK Pathan,DL Vettori,2,Not out
+17.2,KD Karthik,IK Pathan,DL Vettori,2,Not out
+17.3,KD Karthik,IK Pathan,DL Vettori,1,Not out
+17.4,DL Vettori,IK Pathan,KD Karthik,1,Not out
+17.5,KD Karthik,IK Pathan,DL Vettori,1,Not out
+17.6,DL Vettori,IK Pathan,KD Karthik,0,caught
+18.1,R Bhatia,B Lee,KD Karthik,0,caught
+18.2,KD Karthik,B Lee,PJ Sangwan,0,Not out
+18.3,KD Karthik,B Lee,PJ Sangwan,1,Not out
+18.4,PJ Sangwan,B Lee,KD Karthik,0,Not out
+18.5,PJ Sangwan,B Lee,KD Karthik,1,Not out
+18.6,KD Karthik,B Lee,PJ Sangwan,1,Not out
+19.1,KD Karthik,IK Pathan,PJ Sangwan,1,Not out
+19.2,PJ Sangwan,IK Pathan,KD Karthik,1,Not out
+19.3,KD Karthik,IK Pathan,PJ Sangwan,0,caught
+19.4,PJ Sangwan,IK Pathan,A Nehra,2,Not out
+19.5,PJ Sangwan,IK Pathan,A Nehra,1,Not out
+19.6,A Nehra,IK Pathan,PJ Sangwan,1,Not out

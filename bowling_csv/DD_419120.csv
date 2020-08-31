@@ -1,0 +1,122 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MD Mishra,A Mishra,AC Gilchrist,0,Not out
+0.2,MD Mishra,A Mishra,AC Gilchrist,0,Not out
+0.3,MD Mishra,A Mishra,AC Gilchrist,1,Not out
+0.4,AC Gilchrist,A Mishra,MD Mishra,0,Not out
+0.5,MD Mishra,A Mishra,AC Gilchrist,0,bowled
+0.6,HH Gibbs,A Mishra,AC Gilchrist,0,Not out
+0.7,HH Gibbs,A Mishra,AC Gilchrist,1,Not out
+1.1,HH Gibbs,DP Nannes,AC Gilchrist,0,Not out
+1.2,HH Gibbs,DP Nannes,AC Gilchrist,6,Not out
+1.3,HH Gibbs,DP Nannes,AC Gilchrist,4,Not out
+1.4,HH Gibbs,DP Nannes,AC Gilchrist,0,Not out
+1.5,HH Gibbs,DP Nannes,AC Gilchrist,4,Not out
+1.6,HH Gibbs,DP Nannes,AC Gilchrist,0,Not out
+2.1,AC Gilchrist,A Mishra,HH Gibbs,1,Not out
+2.2,HH Gibbs,A Mishra,AC Gilchrist,0,Not out
+2.3,HH Gibbs,A Mishra,AC Gilchrist,1,Not out
+2.4,AC Gilchrist,A Mishra,HH Gibbs,0,Not out
+2.5,AC Gilchrist,A Mishra,HH Gibbs,4,Not out
+2.6,AC Gilchrist,A Mishra,HH Gibbs,0,Not out
+3.1,HH Gibbs,Y Nagar,AC Gilchrist,0,Not out
+3.2,HH Gibbs,Y Nagar,AC Gilchrist,1,Not out
+3.3,AC Gilchrist,Y Nagar,HH Gibbs,4,Not out
+3.4,AC Gilchrist,Y Nagar,HH Gibbs,4,Not out
+3.5,AC Gilchrist,Y Nagar,HH Gibbs,0,Not out
+3.6,AC Gilchrist,Y Nagar,HH Gibbs,1,Not out
+4.1,AC Gilchrist,S Ladda,HH Gibbs,0,Not out
+4.2,AC Gilchrist,S Ladda,HH Gibbs,0,Not out
+4.3,AC Gilchrist,S Ladda,HH Gibbs,6,Not out
+4.4,AC Gilchrist,S Ladda,HH Gibbs,4,Not out
+4.5,AC Gilchrist,S Ladda,HH Gibbs,0,caught
+4.6,A Symonds,S Ladda,HH Gibbs,0,Not out
+5.1,HH Gibbs,A Mishra,A Symonds,1,Not out
+5.2,A Symonds,A Mishra,HH Gibbs,1,Not out
+5.3,HH Gibbs,A Mishra,A Symonds,0,Not out
+5.4,HH Gibbs,A Mishra,A Symonds,1,Not out
+5.5,A Symonds,A Mishra,HH Gibbs,0,Not out
+5.6,A Symonds,A Mishra,HH Gibbs,0,Not out
+6.1,HH Gibbs,S Ladda,A Symonds,1,Not out
+6.2,A Symonds,S Ladda,HH Gibbs,1,Not out
+6.3,HH Gibbs,S Ladda,A Symonds,1,Not out
+6.4,A Symonds,S Ladda,HH Gibbs,0,Not out
+6.5,A Symonds,S Ladda,HH Gibbs,6,Not out
+6.6,A Symonds,S Ladda,HH Gibbs,1,Not out
+7.1,A Symonds,UT Yadav,HH Gibbs,1,Not out
+7.2,HH Gibbs,UT Yadav,A Symonds,0,Not out
+7.3,HH Gibbs,UT Yadav,A Symonds,1,Not out
+7.4,A Symonds,UT Yadav,HH Gibbs,1,Not out
+7.5,HH Gibbs,UT Yadav,A Symonds,0,Not out
+7.6,HH Gibbs,UT Yadav,A Symonds,1,Not out
+8.1,HH Gibbs,DP Nannes,A Symonds,6,Not out
+8.2,HH Gibbs,DP Nannes,A Symonds,1,Not out
+8.3,A Symonds,DP Nannes,HH Gibbs,1,Not out
+8.4,HH Gibbs,DP Nannes,A Symonds,0,Not out
+8.5,HH Gibbs,DP Nannes,A Symonds,1,Not out
+8.6,A Symonds,DP Nannes,HH Gibbs,1,Not out
+9.1,A Symonds,Y Nagar,HH Gibbs,1,Not out
+9.2,HH Gibbs,Y Nagar,A Symonds,0,caught
+9.3,RG Sharma,Y Nagar,A Symonds,0,Not out
+9.4,RG Sharma,Y Nagar,A Symonds,0,Not out
+9.5,RG Sharma,Y Nagar,A Symonds,1,Not out
+9.6,A Symonds,Y Nagar,RG Sharma,4,Not out
+10.1,RG Sharma,MC Henriques,A Symonds,1,Not out
+10.2,A Symonds,MC Henriques,RG Sharma,1,Not out
+10.3,RG Sharma,MC Henriques,A Symonds,0,Not out
+10.4,RG Sharma,MC Henriques,A Symonds,0,Not out
+10.5,RG Sharma,MC Henriques,A Symonds,0,Not out
+10.6,RG Sharma,MC Henriques,A Symonds,4,Not out
+11.1,A Symonds,Y Nagar,RG Sharma,0,Not out
+11.2,A Symonds,Y Nagar,RG Sharma,4,Not out
+11.3,A Symonds,Y Nagar,RG Sharma,6,Not out
+11.4,A Symonds,Y Nagar,RG Sharma,1,Not out
+11.5,RG Sharma,Y Nagar,A Symonds,0,Not out
+11.6,RG Sharma,Y Nagar,A Symonds,1,Not out
+12.1,RG Sharma,UT Yadav,A Symonds,1,Not out
+12.2,A Symonds,UT Yadav,RG Sharma,1,Not out
+12.3,RG Sharma,UT Yadav,A Symonds,1,Not out
+12.4,A Symonds,UT Yadav,RG Sharma,0,Not out
+12.5,A Symonds,UT Yadav,RG Sharma,4,Not out
+12.6,A Symonds,UT Yadav,RG Sharma,0,Not out
+13.1,RG Sharma,MC Henriques,A Symonds,1,Not out
+13.2,A Symonds,MC Henriques,RG Sharma,0,caught
+13.3,TL Suman,MC Henriques,RG Sharma,0,Not out
+13.4,TL Suman,MC Henriques,RG Sharma,0,Not out
+13.5,TL Suman,MC Henriques,RG Sharma,4,Not out
+13.6,TL Suman,MC Henriques,RG Sharma,1,Not out
+14.1,TL Suman,DP Nannes,RG Sharma,0,Not out
+14.2,TL Suman,DP Nannes,RG Sharma,4,Not out
+14.3,TL Suman,DP Nannes,RG Sharma,1,Not out
+14.4,RG Sharma,DP Nannes,TL Suman,1,Not out
+14.5,TL Suman,DP Nannes,RG Sharma,0,Not out
+14.6,TL Suman,DP Nannes,RG Sharma,1,Not out
+15.1,TL Suman,MC Henriques,RG Sharma,4,Not out
+15.2,TL Suman,MC Henriques,RG Sharma,1,Not out
+15.3,RG Sharma,MC Henriques,TL Suman,2,Not out
+15.4,RG Sharma,MC Henriques,TL Suman,0,Not out
+15.5,RG Sharma,MC Henriques,TL Suman,2,Not out
+15.6,RG Sharma,MC Henriques,TL Suman,0,Not out
+16.1,TL Suman,UT Yadav,RG Sharma,1,Not out
+16.2,RG Sharma,UT Yadav,TL Suman,6,Not out
+16.3,RG Sharma,UT Yadav,TL Suman,0,Not out
+16.4,RG Sharma,UT Yadav,TL Suman,4,Not out
+16.5,RG Sharma,UT Yadav,TL Suman,1,Not out
+16.6,TL Suman,UT Yadav,RG Sharma,6,Not out
+17.1,RG Sharma,MC Henriques,TL Suman,1,Not out
+17.2,TL Suman,MC Henriques,RG Sharma,1,Not out
+17.3,RG Sharma,MC Henriques,TL Suman,6,Not out
+17.4,RG Sharma,MC Henriques,TL Suman,0,Not out
+17.5,RG Sharma,MC Henriques,TL Suman,0,Not out
+17.6,RG Sharma,MC Henriques,TL Suman,6,Not out
+18.1,TL Suman,DP Nannes,RG Sharma,1,Not out
+18.2,RG Sharma,DP Nannes,TL Suman,2,Not out
+18.3,RG Sharma,DP Nannes,TL Suman,4,Not out
+18.4,RG Sharma,DP Nannes,TL Suman,0,caught
+18.5,TL Suman,DP Nannes,Y Venugopal Rao,1,Not out
+18.6,Y Venugopal Rao,DP Nannes,TL Suman,0,Not out
+19.1,TL Suman,UT Yadav,Y Venugopal Rao,2,Not out
+19.2,TL Suman,UT Yadav,Y Venugopal Rao,1,Not out
+19.3,Y Venugopal Rao,UT Yadav,TL Suman,1,run out
+19.4,WPUJC Vaas,UT Yadav,TL Suman,2,Not out
+19.5,WPUJC Vaas,UT Yadav,TL Suman,1,Not out
+19.6,TL Suman,UT Yadav,WPUJC Vaas,0,Not out

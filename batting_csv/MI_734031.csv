@@ -1,0 +1,121 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,LMP Simmons,WD Parnell,MEK Hussey,0,Not out
+0.2,LMP Simmons,WD Parnell,MEK Hussey,0,Not out
+0.3,LMP Simmons,WD Parnell,MEK Hussey,1,Not out
+0.4,MEK Hussey,WD Parnell,LMP Simmons,4,Not out
+0.5,MEK Hussey,WD Parnell,LMP Simmons,0,Not out
+0.6,MEK Hussey,WD Parnell,LMP Simmons,1,Not out
+1.1,MEK Hussey,S Kaul,LMP Simmons,0,Not out
+1.2,MEK Hussey,S Kaul,LMP Simmons,0,Not out
+1.3,MEK Hussey,S Kaul,LMP Simmons,4,Not out
+1.4,MEK Hussey,S Kaul,LMP Simmons,1,Not out
+1.5,LMP Simmons,S Kaul,MEK Hussey,1,Not out
+1.6,MEK Hussey,S Kaul,LMP Simmons,1,Not out
+2.1,MEK Hussey,WD Parnell,LMP Simmons,4,Not out
+2.2,MEK Hussey,WD Parnell,LMP Simmons,0,Not out
+2.3,MEK Hussey,WD Parnell,LMP Simmons,1,Not out
+2.4,LMP Simmons,WD Parnell,MEK Hussey,0,Not out
+2.5,LMP Simmons,WD Parnell,MEK Hussey,4,Not out
+2.6,LMP Simmons,WD Parnell,MEK Hussey,2,Not out
+3.1,MEK Hussey,JD Unadkat,LMP Simmons,4,Not out
+3.2,MEK Hussey,JD Unadkat,LMP Simmons,0,Not out
+3.3,LMP Simmons,JD Unadkat,MEK Hussey,1,Not out
+3.4,MEK Hussey,JD Unadkat,LMP Simmons,4,Not out
+3.5,MEK Hussey,JD Unadkat,LMP Simmons,1,Not out
+3.6,LMP Simmons,JD Unadkat,MEK Hussey,1,Not out
+4.1,LMP Simmons,S Kaul,MEK Hussey,0,Not out
+4.2,LMP Simmons,S Kaul,MEK Hussey,0,Not out
+4.3,LMP Simmons,S Kaul,MEK Hussey,4,Not out
+4.4,LMP Simmons,S Kaul,MEK Hussey,0,Not out
+4.5,LMP Simmons,S Kaul,MEK Hussey,1,Not out
+4.6,MEK Hussey,S Kaul,LMP Simmons,4,Not out
+4.7,MEK Hussey,S Kaul,LMP Simmons,4,Not out
+5.1,LMP Simmons,S Nadeem,MEK Hussey,0,Not out
+5.2,MEK Hussey,S Nadeem,LMP Simmons,6,Not out
+5.3,MEK Hussey,S Nadeem,LMP Simmons,1,Not out
+5.4,LMP Simmons,S Nadeem,MEK Hussey,1,Not out
+5.5,MEK Hussey,S Nadeem,LMP Simmons,1,Not out
+5.6,LMP Simmons,S Nadeem,MEK Hussey,1,Not out
+6.1,LMP Simmons,JP Duminy,MEK Hussey,2,Not out
+6.2,LMP Simmons,JP Duminy,MEK Hussey,1,Not out
+6.3,MEK Hussey,JP Duminy,LMP Simmons,1,Not out
+6.4,LMP Simmons,JP Duminy,MEK Hussey,0,Not out
+6.5,LMP Simmons,JP Duminy,MEK Hussey,1,Not out
+6.6,MEK Hussey,JP Duminy,LMP Simmons,1,Not out
+7.1,MEK Hussey,Imran Tahir,LMP Simmons,1,Not out
+7.2,LMP Simmons,Imran Tahir,MEK Hussey,4,Not out
+7.3,LMP Simmons,Imran Tahir,MEK Hussey,0,Not out
+7.4,LMP Simmons,Imran Tahir,MEK Hussey,4,Not out
+7.5,LMP Simmons,Imran Tahir,MEK Hussey,2,Not out
+7.6,LMP Simmons,Imran Tahir,MEK Hussey,4,Not out
+7.7,LMP Simmons,Imran Tahir,MEK Hussey,0,caught
+8.1,RG Sharma,JP Duminy,MEK Hussey,0,Not out
+8.2,RG Sharma,JP Duminy,MEK Hussey,1,Not out
+8.3,MEK Hussey,JP Duminy,RG Sharma,1,Not out
+8.4,RG Sharma,JP Duminy,MEK Hussey,1,Not out
+8.5,MEK Hussey,JP Duminy,RG Sharma,0,Not out
+8.6,MEK Hussey,JP Duminy,RG Sharma,0,Not out
+9.1,RG Sharma,Imran Tahir,MEK Hussey,1,Not out
+9.2,MEK Hussey,Imran Tahir,RG Sharma,1,Not out
+9.3,RG Sharma,Imran Tahir,MEK Hussey,1,Not out
+9.4,MEK Hussey,Imran Tahir,RG Sharma,6,Not out
+9.5,MEK Hussey,Imran Tahir,RG Sharma,0,Not out
+9.6,MEK Hussey,Imran Tahir,RG Sharma,1,Not out
+10.1,MEK Hussey,JP Duminy,RG Sharma,1,Not out
+10.2,RG Sharma,JP Duminy,MEK Hussey,4,Not out
+10.3,RG Sharma,JP Duminy,MEK Hussey,4,Not out
+10.4,RG Sharma,JP Duminy,MEK Hussey,2,Not out
+10.5,RG Sharma,JP Duminy,MEK Hussey,0,Not out
+10.6,RG Sharma,JP Duminy,MEK Hussey,1,Not out
+11.1,RG Sharma,S Nadeem,MEK Hussey,1,Not out
+11.2,MEK Hussey,S Nadeem,RG Sharma,1,Not out
+11.3,RG Sharma,S Nadeem,MEK Hussey,4,Not out
+11.4,RG Sharma,S Nadeem,MEK Hussey,1,Not out
+11.5,MEK Hussey,S Nadeem,RG Sharma,1,Not out
+11.6,RG Sharma,S Nadeem,MEK Hussey,0,run out
+12.1,RG Sharma,JP Duminy,KA Pollard,2,Not out
+12.2,RG Sharma,JP Duminy,KA Pollard,0,Not out
+12.3,RG Sharma,JP Duminy,KA Pollard,1,Not out
+12.4,KA Pollard,JP Duminy,RG Sharma,6,Not out
+12.5,KA Pollard,JP Duminy,RG Sharma,0,Not out
+12.6,KA Pollard,JP Duminy,RG Sharma,1,Not out
+13.1,KA Pollard,S Nadeem,RG Sharma,1,Not out
+13.2,RG Sharma,S Nadeem,KA Pollard,1,Not out
+13.3,KA Pollard,S Nadeem,RG Sharma,1,Not out
+13.4,RG Sharma,S Nadeem,KA Pollard,1,Not out
+13.5,KA Pollard,S Nadeem,RG Sharma,0,Not out
+13.6,KA Pollard,S Nadeem,RG Sharma,2,Not out
+14.1,RG Sharma,JD Unadkat,KA Pollard,4,Not out
+14.2,RG Sharma,JD Unadkat,KA Pollard,0,bowled
+14.3,AT Rayudu,JD Unadkat,KA Pollard,1,Not out
+14.4,KA Pollard,JD Unadkat,AT Rayudu,0,caught
+14.5,AP Tare,JD Unadkat,AT Rayudu,4,Not out
+14.6,AP Tare,JD Unadkat,AT Rayudu,4,Not out
+15.1,AT Rayudu,S Nadeem,AP Tare,1,Not out
+15.2,AP Tare,S Nadeem,AT Rayudu,0,Not out
+15.3,AP Tare,S Nadeem,AT Rayudu,1,Not out
+15.4,AT Rayudu,S Nadeem,AP Tare,0,caught
+15.5,Harbhajan Singh,S Nadeem,AP Tare,1,Not out
+15.6,AP Tare,S Nadeem,Harbhajan Singh,1,Not out
+16.1,AP Tare,Imran Tahir,Harbhajan Singh,0,Not out
+16.2,AP Tare,Imran Tahir,Harbhajan Singh,4,Not out
+16.3,AP Tare,Imran Tahir,Harbhajan Singh,0,caught
+16.4,S Gopal,Imran Tahir,Harbhajan Singh,1,Not out
+16.5,Harbhajan Singh,Imran Tahir,S Gopal,1,Not out
+16.6,S Gopal,Imran Tahir,Harbhajan Singh,1,Not out
+17.1,S Gopal,WD Parnell,Harbhajan Singh,1,Not out
+17.2,Harbhajan Singh,WD Parnell,S Gopal,0,caught
+17.3,M de Lange,WD Parnell,S Gopal,1,Not out
+17.4,S Gopal,WD Parnell,M de Lange,0,Not out
+17.5,S Gopal,WD Parnell,M de Lange,4,Not out
+17.6,S Gopal,WD Parnell,M de Lange,1,Not out
+18.1,S Gopal,Imran Tahir,M de Lange,1,Not out
+18.2,M de Lange,Imran Tahir,S Gopal,0,caught
+18.3,PP Ojha,Imran Tahir,S Gopal,1,Not out
+18.4,S Gopal,Imran Tahir,PP Ojha,1,Not out
+18.5,PP Ojha,Imran Tahir,S Gopal,1,Not out
+18.6,S Gopal,Imran Tahir,PP Ojha,0,run out
+19.1,S Gopal,WD Parnell,JJ Bumrah,1,Not out
+19.2,JJ Bumrah,WD Parnell,S Gopal,0,Not out
+19.3,JJ Bumrah,WD Parnell,S Gopal,0,Not out
+19.4,JJ Bumrah,WD Parnell,S Gopal,0,run out

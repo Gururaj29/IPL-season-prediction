@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AC Gilchrist,I Sharma,HH Gibbs,0,Not out
+0.2,AC Gilchrist,I Sharma,HH Gibbs,0,Not out
+0.3,AC Gilchrist,I Sharma,HH Gibbs,4,Not out
+0.4,AC Gilchrist,I Sharma,HH Gibbs,1,Not out
+0.5,HH Gibbs,I Sharma,AC Gilchrist,0,Not out
+0.6,HH Gibbs,I Sharma,AC Gilchrist,0,Not out
+1.1,AC Gilchrist,Mashrafe Mortaza,HH Gibbs,0,Not out
+1.2,AC Gilchrist,Mashrafe Mortaza,HH Gibbs,0,Not out
+1.3,AC Gilchrist,Mashrafe Mortaza,HH Gibbs,6,Not out
+1.4,AC Gilchrist,Mashrafe Mortaza,HH Gibbs,6,Not out
+1.5,AC Gilchrist,Mashrafe Mortaza,HH Gibbs,1,Not out
+1.6,HH Gibbs,Mashrafe Mortaza,AC Gilchrist,2,Not out
+2.1,AC Gilchrist,I Sharma,HH Gibbs,0,Not out
+2.2,AC Gilchrist,I Sharma,HH Gibbs,0,Not out
+2.3,HH Gibbs,I Sharma,AC Gilchrist,4,Not out
+2.4,HH Gibbs,I Sharma,AC Gilchrist,4,Not out
+2.5,HH Gibbs,I Sharma,AC Gilchrist,0,Not out
+2.6,HH Gibbs,I Sharma,AC Gilchrist,0,Not out
+3.1,AC Gilchrist,Mashrafe Mortaza,HH Gibbs,0,Not out
+3.2,AC Gilchrist,Mashrafe Mortaza,HH Gibbs,0,Not out
+3.3,AC Gilchrist,Mashrafe Mortaza,HH Gibbs,2,Not out
+3.4,AC Gilchrist,Mashrafe Mortaza,HH Gibbs,0,Not out
+3.5,AC Gilchrist,Mashrafe Mortaza,HH Gibbs,4,Not out
+3.6,AC Gilchrist,Mashrafe Mortaza,HH Gibbs,0,Not out
+3.7,AC Gilchrist,Mashrafe Mortaza,HH Gibbs,4,Not out
+4.1,HH Gibbs,M Kartik,AC Gilchrist,0,Not out
+4.2,HH Gibbs,M Kartik,AC Gilchrist,0,Not out
+4.3,HH Gibbs,M Kartik,AC Gilchrist,0,Not out
+4.4,HH Gibbs,M Kartik,AC Gilchrist,0,Not out
+4.5,HH Gibbs,M Kartik,AC Gilchrist,1,Not out
+4.6,AC Gilchrist,M Kartik,HH Gibbs,0,Not out
+5.1,HH Gibbs,BJ Hodge,AC Gilchrist,0,Not out
+5.2,HH Gibbs,BJ Hodge,AC Gilchrist,4,Not out
+5.3,HH Gibbs,BJ Hodge,AC Gilchrist,1,Not out
+5.4,AC Gilchrist,BJ Hodge,HH Gibbs,4,Not out
+5.5,AC Gilchrist,BJ Hodge,HH Gibbs,0,Not out
+5.6,AC Gilchrist,BJ Hodge,HH Gibbs,0,Not out
+6.1,HH Gibbs,M Kartik,AC Gilchrist,0,Not out
+6.2,HH Gibbs,M Kartik,AC Gilchrist,2,Not out
+6.3,HH Gibbs,M Kartik,AC Gilchrist,0,Not out
+6.4,HH Gibbs,M Kartik,AC Gilchrist,0,Not out
+6.5,HH Gibbs,M Kartik,AC Gilchrist,1,Not out
+6.6,AC Gilchrist,M Kartik,HH Gibbs,0,Not out
+7.1,HH Gibbs,AB Agarkar,AC Gilchrist,1,Not out
+7.2,AC Gilchrist,AB Agarkar,HH Gibbs,0,Not out
+7.3,AC Gilchrist,AB Agarkar,HH Gibbs,2,Not out
+7.4,AC Gilchrist,AB Agarkar,HH Gibbs,4,Not out
+7.5,AC Gilchrist,AB Agarkar,HH Gibbs,1,Not out
+7.6,HH Gibbs,AB Agarkar,AC Gilchrist,1,Not out
+8.1,HH Gibbs,DJ Hussey,AC Gilchrist,1,Not out
+8.2,AC Gilchrist,DJ Hussey,HH Gibbs,1,Not out
+8.3,HH Gibbs,DJ Hussey,AC Gilchrist,1,Not out
+8.4,AC Gilchrist,DJ Hussey,HH Gibbs,2,Not out
+8.5,AC Gilchrist,DJ Hussey,HH Gibbs,1,Not out
+8.6,HH Gibbs,DJ Hussey,AC Gilchrist,0,Not out
+9.1,AC Gilchrist,BJ Hodge,HH Gibbs,0,Not out
+9.2,AC Gilchrist,BJ Hodge,HH Gibbs,0,caught
+9.3,HH Gibbs,BJ Hodge,TL Suman,1,Not out
+9.4,TL Suman,BJ Hodge,HH Gibbs,0,Not out
+9.5,TL Suman,BJ Hodge,HH Gibbs,1,Not out
+9.6,HH Gibbs,BJ Hodge,TL Suman,1,Not out
+10.1,HH Gibbs,I Sharma,TL Suman,1,Not out
+10.2,TL Suman,I Sharma,HH Gibbs,0,Not out
+10.3,TL Suman,I Sharma,HH Gibbs,0,Not out
+10.4,TL Suman,I Sharma,HH Gibbs,0,Not out
+10.5,TL Suman,I Sharma,HH Gibbs,1,Not out
+10.6,HH Gibbs,I Sharma,TL Suman,0,Not out
+11.1,TL Suman,BJ Hodge,HH Gibbs,2,Not out
+11.2,TL Suman,BJ Hodge,HH Gibbs,1,Not out
+11.3,HH Gibbs,BJ Hodge,TL Suman,1,Not out
+11.4,TL Suman,BJ Hodge,HH Gibbs,0,Not out
+11.5,HH Gibbs,BJ Hodge,TL Suman,1,Not out
+11.6,TL Suman,BJ Hodge,HH Gibbs,6,Not out
+12.1,HH Gibbs,M Kartik,TL Suman,0,Not out
+12.2,HH Gibbs,M Kartik,TL Suman,0,Not out
+12.3,HH Gibbs,M Kartik,TL Suman,0,caught
+12.4,A Symonds,M Kartik,TL Suman,1,Not out
+12.5,TL Suman,M Kartik,A Symonds,0,Not out
+12.6,TL Suman,M Kartik,A Symonds,1,Not out
+13.1,TL Suman,AB Agarkar,A Symonds,1,Not out
+13.2,A Symonds,AB Agarkar,TL Suman,1,Not out
+13.3,TL Suman,AB Agarkar,A Symonds,4,Not out
+13.4,TL Suman,AB Agarkar,A Symonds,0,Not out
+13.5,TL Suman,AB Agarkar,A Symonds,4,Not out
+13.6,TL Suman,AB Agarkar,A Symonds,2,Not out
+14.1,A Symonds,M Kartik,TL Suman,2,Not out
+14.2,A Symonds,M Kartik,TL Suman,1,Not out
+14.3,TL Suman,M Kartik,A Symonds,0,Not out
+14.4,TL Suman,M Kartik,A Symonds,1,Not out
+14.5,A Symonds,M Kartik,TL Suman,1,Not out
+14.6,TL Suman,M Kartik,A Symonds,1,Not out
+15.1,TL Suman,I Sharma,A Symonds,1,Not out
+15.2,A Symonds,I Sharma,TL Suman,1,Not out
+15.3,TL Suman,I Sharma,A Symonds,0,Not out
+15.4,TL Suman,I Sharma,A Symonds,4,Not out
+15.5,TL Suman,I Sharma,A Symonds,1,Not out
+15.6,A Symonds,I Sharma,TL Suman,1,Not out
+16.1,A Symonds,AB Agarkar,TL Suman,2,Not out
+16.2,A Symonds,AB Agarkar,TL Suman,1,run out
+16.3,A Symonds,AB Agarkar,RG Sharma,0,Not out
+16.4,A Symonds,AB Agarkar,RG Sharma,6,Not out
+16.5,A Symonds,AB Agarkar,RG Sharma,1,Not out
+16.6,RG Sharma,AB Agarkar,A Symonds,4,Not out
+17.1,A Symonds,Mashrafe Mortaza,RG Sharma,0,run out
+17.2,RG Sharma,Mashrafe Mortaza,Y Venugopal Rao,1,Not out
+17.3,Y Venugopal Rao,Mashrafe Mortaza,RG Sharma,1,Not out
+17.4,RG Sharma,Mashrafe Mortaza,Y Venugopal Rao,1,Not out
+17.5,Y Venugopal Rao,Mashrafe Mortaza,RG Sharma,0,Not out
+17.6,Y Venugopal Rao,Mashrafe Mortaza,RG Sharma,2,Not out
+17.7,Y Venugopal Rao,Mashrafe Mortaza,RG Sharma,1,Not out
+18.1,Y Venugopal Rao,AB Agarkar,RG Sharma,1,Not out
+18.2,RG Sharma,AB Agarkar,Y Venugopal Rao,0,Not out
+18.3,RG Sharma,AB Agarkar,Y Venugopal Rao,2,Not out
+18.4,RG Sharma,AB Agarkar,Y Venugopal Rao,1,Not out
+18.5,Y Venugopal Rao,AB Agarkar,RG Sharma,1,Not out
+18.6,RG Sharma,AB Agarkar,Y Venugopal Rao,1,Not out
+19.1,RG Sharma,Mashrafe Mortaza,Y Venugopal Rao,4,Not out
+19.2,RG Sharma,Mashrafe Mortaza,Y Venugopal Rao,0,Not out
+19.3,Y Venugopal Rao,Mashrafe Mortaza,RG Sharma,1,Not out
+19.4,RG Sharma,Mashrafe Mortaza,Y Venugopal Rao,6,Not out
+19.5,RG Sharma,Mashrafe Mortaza,Y Venugopal Rao,0,Not out
+19.6,RG Sharma,Mashrafe Mortaza,Y Venugopal Rao,2,Not out
+19.7,RG Sharma,Mashrafe Mortaza,Y Venugopal Rao,4,Not out
+19.8,RG Sharma,Mashrafe Mortaza,Y Venugopal Rao,6,Not out

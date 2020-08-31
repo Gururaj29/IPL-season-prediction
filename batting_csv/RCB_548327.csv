@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,TM Dilshan,AB Dinda,CH Gayle,0,Not out
+0.2,TM Dilshan,AB Dinda,CH Gayle,1,Not out
+0.3,CH Gayle,AB Dinda,TM Dilshan,1,Not out
+0.4,TM Dilshan,AB Dinda,CH Gayle,0,Not out
+0.5,TM Dilshan,AB Dinda,CH Gayle,0,Not out
+0.6,TM Dilshan,AB Dinda,CH Gayle,1,Not out
+1.1,TM Dilshan,A Nehra,CH Gayle,1,Not out
+1.2,CH Gayle,A Nehra,TM Dilshan,0,Not out
+1.3,CH Gayle,A Nehra,TM Dilshan,0,Not out
+1.4,CH Gayle,A Nehra,TM Dilshan,0,Not out
+1.5,CH Gayle,A Nehra,TM Dilshan,0,Not out
+1.6,CH Gayle,A Nehra,TM Dilshan,0,Not out
+2.1,TM Dilshan,AB Dinda,CH Gayle,1,Not out
+2.2,CH Gayle,AB Dinda,TM Dilshan,0,Not out
+2.3,CH Gayle,AB Dinda,TM Dilshan,1,Not out
+2.4,TM Dilshan,AB Dinda,CH Gayle,0,caught
+2.5,MA Agarwal,AB Dinda,CH Gayle,0,Not out
+2.6,CH Gayle,AB Dinda,MA Agarwal,1,Not out
+2.7,MA Agarwal,AB Dinda,CH Gayle,0,Not out
+2.8,MA Agarwal,AB Dinda,CH Gayle,0,Not out
+2.9,MA Agarwal,AB Dinda,CH Gayle,6,Not out
+3.1,CH Gayle,A Nehra,MA Agarwal,1,Not out
+3.2,MA Agarwal,A Nehra,CH Gayle,0,Not out
+3.3,MA Agarwal,A Nehra,CH Gayle,1,Not out
+3.4,CH Gayle,A Nehra,MA Agarwal,4,Not out
+3.5,CH Gayle,A Nehra,MA Agarwal,6,Not out
+3.6,CH Gayle,A Nehra,MA Agarwal,6,Not out
+4.1,MA Agarwal,B Kumar,CH Gayle,1,Not out
+4.2,CH Gayle,B Kumar,MA Agarwal,0,Not out
+4.3,CH Gayle,B Kumar,MA Agarwal,0,Not out
+4.4,CH Gayle,B Kumar,MA Agarwal,4,Not out
+4.5,CH Gayle,B Kumar,MA Agarwal,0,Not out
+4.6,CH Gayle,B Kumar,MA Agarwal,0,Not out
+5.1,MA Agarwal,MN Samuels,CH Gayle,0,Not out
+5.2,MA Agarwal,MN Samuels,CH Gayle,0,Not out
+5.3,MA Agarwal,MN Samuels,CH Gayle,1,Not out
+5.4,CH Gayle,MN Samuels,MA Agarwal,0,Not out
+5.5,CH Gayle,MN Samuels,MA Agarwal,1,Not out
+5.6,MA Agarwal,MN Samuels,CH Gayle,0,caught
+6.1,CH Gayle,B Kumar,V Kohli,0,Not out
+6.2,CH Gayle,B Kumar,V Kohli,1,Not out
+6.3,V Kohli,B Kumar,CH Gayle,0,Not out
+6.4,V Kohli,B Kumar,CH Gayle,0,Not out
+6.5,V Kohli,B Kumar,CH Gayle,4,Not out
+6.6,V Kohli,B Kumar,CH Gayle,0,Not out
+7.1,CH Gayle,MN Samuels,V Kohli,0,Not out
+7.2,CH Gayle,MN Samuels,V Kohli,1,Not out
+7.3,V Kohli,MN Samuels,CH Gayle,0,Not out
+7.4,V Kohli,MN Samuels,CH Gayle,1,Not out
+7.5,CH Gayle,MN Samuels,V Kohli,1,Not out
+7.6,V Kohli,MN Samuels,CH Gayle,0,Not out
+8.1,CH Gayle,B Kumar,V Kohli,0,Not out
+8.2,CH Gayle,B Kumar,V Kohli,1,Not out
+8.3,V Kohli,B Kumar,CH Gayle,2,Not out
+8.4,V Kohli,B Kumar,CH Gayle,1,Not out
+8.5,CH Gayle,B Kumar,V Kohli,1,Not out
+8.6,V Kohli,B Kumar,CH Gayle,1,Not out
+9.1,V Kohli,AD Mathews,CH Gayle,0,Not out
+9.2,V Kohli,AD Mathews,CH Gayle,1,Not out
+9.3,CH Gayle,AD Mathews,V Kohli,4,Not out
+9.4,CH Gayle,AD Mathews,V Kohli,1,Not out
+9.5,V Kohli,AD Mathews,CH Gayle,1,Not out
+9.6,CH Gayle,AD Mathews,V Kohli,0,Not out
+10.1,V Kohli,R Sharma,CH Gayle,1,Not out
+10.2,CH Gayle,R Sharma,V Kohli,0,Not out
+10.3,CH Gayle,R Sharma,V Kohli,1,Not out
+10.4,V Kohli,R Sharma,CH Gayle,1,Not out
+10.5,CH Gayle,R Sharma,V Kohli,0,Not out
+10.6,V Kohli,R Sharma,CH Gayle,1,Not out
+11.1,V Kohli,AD Mathews,CH Gayle,1,Not out
+11.2,CH Gayle,AD Mathews,V Kohli,1,Not out
+11.3,V Kohli,AD Mathews,CH Gayle,1,Not out
+11.4,CH Gayle,AD Mathews,V Kohli,0,Not out
+11.5,V Kohli,AD Mathews,CH Gayle,0,caught
+11.6,CH Gayle,AD Mathews,SS Tiwary,4,Not out
+12.1,SS Tiwary,R Sharma,CH Gayle,1,Not out
+12.2,CH Gayle,R Sharma,SS Tiwary,6,Not out
+12.3,CH Gayle,R Sharma,SS Tiwary,6,Not out
+12.4,CH Gayle,R Sharma,SS Tiwary,6,Not out
+12.5,CH Gayle,R Sharma,SS Tiwary,6,Not out
+12.6,CH Gayle,R Sharma,SS Tiwary,6,Not out
+13.1,SS Tiwary,AD Mathews,CH Gayle,0,Not out
+13.2,SS Tiwary,AD Mathews,CH Gayle,2,Not out
+13.3,SS Tiwary,AD Mathews,CH Gayle,1,Not out
+13.4,CH Gayle,AD Mathews,SS Tiwary,0,Not out
+13.5,CH Gayle,AD Mathews,SS Tiwary,1,Not out
+13.6,SS Tiwary,AD Mathews,CH Gayle,1,Not out
+14.1,SS Tiwary,AB Dinda,CH Gayle,0,Not out
+14.2,SS Tiwary,AB Dinda,CH Gayle,1,Not out
+14.3,CH Gayle,AB Dinda,SS Tiwary,1,Not out
+14.4,SS Tiwary,AB Dinda,CH Gayle,1,Not out
+14.5,CH Gayle,AB Dinda,SS Tiwary,1,Not out
+14.6,SS Tiwary,AB Dinda,CH Gayle,1,Not out
+15.1,SS Tiwary,A Nehra,CH Gayle,1,Not out
+15.2,CH Gayle,A Nehra,SS Tiwary,1,Not out
+15.3,SS Tiwary,A Nehra,CH Gayle,1,Not out
+15.4,CH Gayle,A Nehra,SS Tiwary,6,Not out
+15.5,CH Gayle,A Nehra,SS Tiwary,0,bowled
+15.6,AB de Villiers,A Nehra,SS Tiwary,0,Not out
+15.7,AB de Villiers,A Nehra,SS Tiwary,1,Not out
+16.1,AB de Villiers,B Kumar,SS Tiwary,1,Not out
+16.2,SS Tiwary,B Kumar,AB de Villiers,4,Not out
+16.3,SS Tiwary,B Kumar,AB de Villiers,0,Not out
+16.4,SS Tiwary,B Kumar,AB de Villiers,1,Not out
+16.5,AB de Villiers,B Kumar,SS Tiwary,4,Not out
+16.6,AB de Villiers,B Kumar,SS Tiwary,1,Not out
+17.1,AB de Villiers,AD Mathews,SS Tiwary,0,Not out
+17.2,AB de Villiers,AD Mathews,SS Tiwary,6,Not out
+17.3,AB de Villiers,AD Mathews,SS Tiwary,1,Not out
+17.4,SS Tiwary,AD Mathews,AB de Villiers,6,Not out
+17.5,SS Tiwary,AD Mathews,AB de Villiers,2,Not out
+17.6,SS Tiwary,AD Mathews,AB de Villiers,1,Not out
+18.1,SS Tiwary,AB Dinda,AB de Villiers,1,Not out
+18.2,AB de Villiers,AB Dinda,SS Tiwary,1,Not out
+18.3,SS Tiwary,AB Dinda,AB de Villiers,2,Not out
+18.4,SS Tiwary,AB Dinda,AB de Villiers,1,Not out
+18.5,AB de Villiers,AB Dinda,SS Tiwary,1,Not out
+18.6,SS Tiwary,AB Dinda,AB de Villiers,1,Not out
+19.1,SS Tiwary,A Nehra,AB de Villiers,1,Not out
+19.2,AB de Villiers,A Nehra,SS Tiwary,4,Not out
+19.3,AB de Villiers,A Nehra,SS Tiwary,6,Not out
+19.4,AB de Villiers,A Nehra,SS Tiwary,6,Not out
+19.5,AB de Villiers,A Nehra,SS Tiwary,1,Not out
+19.6,SS Tiwary,A Nehra,AB de Villiers,6,Not out

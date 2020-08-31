@@ -1,0 +1,126 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AM Rahane,Azhar Mahmood,SR Watson,1,Not out
+0.2,SR Watson,Azhar Mahmood,AM Rahane,0,Not out
+0.3,SR Watson,Azhar Mahmood,AM Rahane,0,Not out
+0.4,SR Watson,Azhar Mahmood,AM Rahane,4,Not out
+0.5,SR Watson,Azhar Mahmood,AM Rahane,4,Not out
+0.6,SR Watson,Azhar Mahmood,AM Rahane,0,Not out
+1.1,AM Rahane,M Morkel,SR Watson,2,Not out
+1.2,AM Rahane,M Morkel,SR Watson,0,Not out
+1.3,AM Rahane,M Morkel,SR Watson,0,Not out
+1.4,AM Rahane,M Morkel,SR Watson,0,Not out
+1.5,AM Rahane,M Morkel,SR Watson,2,Not out
+1.6,AM Rahane,M Morkel,SR Watson,6,Not out
+2.1,SR Watson,UT Yadav,AM Rahane,4,Not out
+2.2,SR Watson,UT Yadav,AM Rahane,1,Not out
+2.3,AM Rahane,UT Yadav,SR Watson,1,Not out
+2.4,SR Watson,UT Yadav,AM Rahane,1,Not out
+2.5,AM Rahane,UT Yadav,SR Watson,1,Not out
+2.6,SR Watson,UT Yadav,AM Rahane,0,Not out
+3.1,AM Rahane,M Morkel,SR Watson,4,Not out
+3.2,AM Rahane,M Morkel,SR Watson,2,Not out
+3.3,AM Rahane,M Morkel,SR Watson,4,Not out
+3.4,AM Rahane,M Morkel,SR Watson,0,Not out
+3.5,AM Rahane,M Morkel,SR Watson,1,Not out
+3.6,SR Watson,M Morkel,AM Rahane,1,Not out
+4.1,SR Watson,UT Yadav,AM Rahane,2,Not out
+4.2,SR Watson,UT Yadav,AM Rahane,4,Not out
+4.3,SR Watson,UT Yadav,AM Rahane,1,Not out
+4.4,AM Rahane,UT Yadav,SR Watson,1,Not out
+4.5,SR Watson,UT Yadav,AM Rahane,1,Not out
+4.6,AM Rahane,UT Yadav,SR Watson,0,Not out
+5.1,SR Watson,Shakib Al Hasan,AM Rahane,0,Not out
+5.2,SR Watson,Shakib Al Hasan,AM Rahane,2,Not out
+5.3,SR Watson,Shakib Al Hasan,AM Rahane,2,Not out
+5.4,SR Watson,Shakib Al Hasan,AM Rahane,4,Not out
+5.5,SR Watson,Shakib Al Hasan,AM Rahane,6,Not out
+5.6,SR Watson,Shakib Al Hasan,AM Rahane,0,Not out
+6.1,AM Rahane,Azhar Mahmood,SR Watson,0,Not out
+6.2,AM Rahane,Azhar Mahmood,SR Watson,1,Not out
+6.3,SR Watson,Azhar Mahmood,AM Rahane,1,Not out
+6.4,AM Rahane,Azhar Mahmood,SR Watson,0,Not out
+6.5,AM Rahane,Azhar Mahmood,SR Watson,6,Not out
+6.6,AM Rahane,Azhar Mahmood,SR Watson,4,Not out
+6.7,AM Rahane,Azhar Mahmood,SR Watson,1,run out
+7.1,SPD Smith,Shakib Al Hasan,SR Watson,1,Not out
+7.2,SR Watson,Shakib Al Hasan,SPD Smith,0,Not out
+7.3,SR Watson,Shakib Al Hasan,SPD Smith,1,Not out
+7.4,SPD Smith,Shakib Al Hasan,SR Watson,1,Not out
+7.5,SR Watson,Shakib Al Hasan,SPD Smith,0,Not out
+7.6,SR Watson,Shakib Al Hasan,SPD Smith,1,Not out
+8.1,SR Watson,AD Russell,SPD Smith,1,Not out
+8.2,SPD Smith,AD Russell,SR Watson,1,Not out
+8.3,SR Watson,AD Russell,SPD Smith,0,Not out
+8.4,SR Watson,AD Russell,SPD Smith,1,Not out
+8.5,SPD Smith,AD Russell,SR Watson,4,Not out
+8.6,SPD Smith,AD Russell,SR Watson,4,Not out
+9.1,SR Watson,PP Chawla,SPD Smith,0,Not out
+9.2,SPD Smith,PP Chawla,SR Watson,1,Not out
+9.3,SR Watson,PP Chawla,SPD Smith,6,Not out
+9.4,SR Watson,PP Chawla,SPD Smith,1,Not out
+9.5,SPD Smith,PP Chawla,SR Watson,0,Not out
+9.6,SPD Smith,PP Chawla,SR Watson,1,Not out
+9.7,SR Watson,PP Chawla,SPD Smith,1,Not out
+10.1,SR Watson,AD Russell,SPD Smith,1,Not out
+10.2,SPD Smith,AD Russell,SR Watson,1,Not out
+10.3,SR Watson,AD Russell,SPD Smith,1,Not out
+10.4,SPD Smith,AD Russell,SR Watson,0,Not out
+10.5,SPD Smith,AD Russell,SR Watson,0,caught
+10.6,SV Samson,AD Russell,SR Watson,1,Not out
+11.1,SV Samson,Shakib Al Hasan,SR Watson,3,Not out
+11.2,SR Watson,Shakib Al Hasan,SV Samson,1,Not out
+11.3,SV Samson,Shakib Al Hasan,SR Watson,0,Not out
+11.4,SV Samson,Shakib Al Hasan,SR Watson,0,Not out
+11.5,SV Samson,Shakib Al Hasan,SR Watson,0,Not out
+11.6,SV Samson,Shakib Al Hasan,SR Watson,0,Not out
+12.1,SR Watson,AD Russell,SV Samson,2,Not out
+12.2,SR Watson,AD Russell,SV Samson,1,Not out
+12.3,SV Samson,AD Russell,SR Watson,0,Not out
+12.4,SV Samson,AD Russell,SR Watson,4,Not out
+12.5,SV Samson,AD Russell,SR Watson,0,caught
+12.6,SR Watson,AD Russell,JP Faulkner,0,Not out
+13.1,JP Faulkner,Shakib Al Hasan,SR Watson,0,Not out
+13.2,JP Faulkner,Shakib Al Hasan,SR Watson,1,Not out
+13.3,SR Watson,Shakib Al Hasan,JP Faulkner,4,Not out
+13.4,SR Watson,Shakib Al Hasan,JP Faulkner,1,Not out
+13.5,JP Faulkner,Shakib Al Hasan,SR Watson,1,Not out
+13.6,SR Watson,Shakib Al Hasan,JP Faulkner,0,Not out
+13.7,SR Watson,Shakib Al Hasan,JP Faulkner,6,Not out
+14.1,JP Faulkner,AD Russell,SR Watson,4,Not out
+14.2,JP Faulkner,AD Russell,SR Watson,0,Not out
+14.3,JP Faulkner,AD Russell,SR Watson,0,caught
+14.4,SR Watson,AD Russell,KK Nair,1,Not out
+14.5,KK Nair,AD Russell,SR Watson,4,Not out
+14.6,KK Nair,AD Russell,SR Watson,1,Not out
+15.1,KK Nair,M Morkel,SR Watson,1,Not out
+15.2,SR Watson,M Morkel,KK Nair,2,Not out
+15.3,SR Watson,M Morkel,KK Nair,0,Not out
+15.4,SR Watson,M Morkel,KK Nair,0,Not out
+15.5,SR Watson,M Morkel,KK Nair,0,Not out
+15.6,SR Watson,M Morkel,KK Nair,1,Not out
+15.7,KK Nair,M Morkel,SR Watson,0,Not out
+16.1,SR Watson,Azhar Mahmood,KK Nair,4,Not out
+16.2,SR Watson,Azhar Mahmood,KK Nair,6,Not out
+16.3,SR Watson,Azhar Mahmood,KK Nair,1,Not out
+16.4,KK Nair,Azhar Mahmood,SR Watson,1,Not out
+16.5,SR Watson,Azhar Mahmood,KK Nair,4,Not out
+16.6,SR Watson,Azhar Mahmood,KK Nair,1,Not out
+16.7,KK Nair,Azhar Mahmood,SR Watson,0,Not out
+17.1,SR Watson,UT Yadav,KK Nair,1,Not out
+17.2,KK Nair,UT Yadav,SR Watson,4,Not out
+17.3,KK Nair,UT Yadav,SR Watson,1,Not out
+17.4,SR Watson,UT Yadav,KK Nair,1,Not out
+17.5,KK Nair,UT Yadav,SR Watson,4,Not out
+17.6,KK Nair,UT Yadav,SR Watson,0,caught
+18.1,SR Watson,M Morkel,CH Morris,1,Not out
+18.2,CH Morris,M Morkel,SR Watson,1,Not out
+18.3,SR Watson,M Morkel,CH Morris,6,Not out
+18.4,SR Watson,M Morkel,CH Morris,1,Not out
+18.5,CH Morris,M Morkel,SR Watson,1,Not out
+18.6,SR Watson,M Morkel,CH Morris,1,Not out
+19.1,SR Watson,UT Yadav,CH Morris,4,Not out
+19.2,SR Watson,UT Yadav,CH Morris,1,Not out
+19.3,CH Morris,UT Yadav,SR Watson,1,Not out
+19.4,SR Watson,UT Yadav,CH Morris,1,Not out
+19.5,CH Morris,UT Yadav,SR Watson,0,Not out
+19.6,CH Morris,UT Yadav,SR Watson,1,run out

@@ -1,0 +1,129 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AC Gilchrist,AB Dinda,HH Gibbs,0,Not out
+0.2,AC Gilchrist,AB Dinda,HH Gibbs,0,Not out
+0.3,AC Gilchrist,AB Dinda,HH Gibbs,0,Not out
+0.4,AC Gilchrist,AB Dinda,HH Gibbs,1,Not out
+0.5,HH Gibbs,AB Dinda,AC Gilchrist,0,Not out
+0.6,HH Gibbs,AB Dinda,AC Gilchrist,4,Not out
+1.1,AC Gilchrist,I Sharma,HH Gibbs,0,Not out
+1.2,AC Gilchrist,I Sharma,HH Gibbs,1,Not out
+1.3,HH Gibbs,I Sharma,AC Gilchrist,0,Not out
+1.4,HH Gibbs,I Sharma,AC Gilchrist,0,Not out
+1.5,HH Gibbs,I Sharma,AC Gilchrist,1,Not out
+1.6,AC Gilchrist,I Sharma,HH Gibbs,4,Not out
+2.1,HH Gibbs,AB Dinda,AC Gilchrist,0,Not out
+2.2,HH Gibbs,AB Dinda,AC Gilchrist,0,Not out
+2.3,HH Gibbs,AB Dinda,AC Gilchrist,0,caught
+2.4,DB Ravi Teja,AB Dinda,AC Gilchrist,4,Not out
+2.5,DB Ravi Teja,AB Dinda,AC Gilchrist,0,Not out
+2.6,DB Ravi Teja,AB Dinda,AC Gilchrist,0,Not out
+2.7,DB Ravi Teja,AB Dinda,AC Gilchrist,1,Not out
+3.1,DB Ravi Teja,I Sharma,AC Gilchrist,1,Not out
+3.2,AC Gilchrist,I Sharma,DB Ravi Teja,0,Not out
+3.3,AC Gilchrist,I Sharma,DB Ravi Teja,4,Not out
+3.4,AC Gilchrist,I Sharma,DB Ravi Teja,0,Not out
+3.5,AC Gilchrist,I Sharma,DB Ravi Teja,0,Not out
+3.6,DB Ravi Teja,I Sharma,AC Gilchrist,4,Not out
+4.1,AC Gilchrist,AB Dinda,DB Ravi Teja,4,Not out
+4.2,AC Gilchrist,AB Dinda,DB Ravi Teja,2,Not out
+4.3,AC Gilchrist,AB Dinda,DB Ravi Teja,4,Not out
+4.4,AC Gilchrist,AB Dinda,DB Ravi Teja,4,Not out
+4.5,AC Gilchrist,AB Dinda,DB Ravi Teja,0,Not out
+4.6,AC Gilchrist,AB Dinda,DB Ravi Teja,0,caught
+5.1,DB Ravi Teja,Umar Gul,RG Sharma,0,caught
+5.2,SB Styris,Umar Gul,RG Sharma,1,Not out
+5.3,RG Sharma,Umar Gul,SB Styris,4,Not out
+5.4,RG Sharma,Umar Gul,SB Styris,0,Not out
+5.5,RG Sharma,Umar Gul,SB Styris,4,Not out
+5.6,RG Sharma,Umar Gul,SB Styris,0,Not out
+5.7,RG Sharma,Umar Gul,SB Styris,1,Not out
+5.8,SB Styris,Umar Gul,RG Sharma,0,Not out
+5.9,SB Styris,Umar Gul,RG Sharma,1,Not out
+6.1,SB Styris,SC Ganguly,RG Sharma,0,Not out
+6.2,SB Styris,SC Ganguly,RG Sharma,0,Not out
+6.3,SB Styris,SC Ganguly,RG Sharma,0,Not out
+6.4,SB Styris,SC Ganguly,RG Sharma,1,Not out
+6.5,RG Sharma,SC Ganguly,SB Styris,1,Not out
+6.6,SB Styris,SC Ganguly,RG Sharma,1,Not out
+7.1,SB Styris,Umar Gul,RG Sharma,0,Not out
+7.2,SB Styris,Umar Gul,RG Sharma,1,Not out
+7.3,RG Sharma,Umar Gul,SB Styris,0,Not out
+7.4,RG Sharma,Umar Gul,SB Styris,0,Not out
+7.5,RG Sharma,Umar Gul,SB Styris,0,Not out
+7.6,RG Sharma,Umar Gul,SB Styris,0,Not out
+8.1,SB Styris,SC Ganguly,RG Sharma,0,caught
+8.2,RG Sharma,SC Ganguly,Y Venugopal Rao,0,Not out
+8.3,RG Sharma,SC Ganguly,Y Venugopal Rao,6,Not out
+8.4,RG Sharma,SC Ganguly,Y Venugopal Rao,1,Not out
+8.5,Y Venugopal Rao,SC Ganguly,RG Sharma,0,Not out
+8.6,Y Venugopal Rao,SC Ganguly,RG Sharma,0,Not out
+9.1,RG Sharma,M Kartik,Y Venugopal Rao,0,Not out
+9.2,RG Sharma,M Kartik,Y Venugopal Rao,0,Not out
+9.3,Y Venugopal Rao,M Kartik,RG Sharma,0,Not out
+9.4,Y Venugopal Rao,M Kartik,RG Sharma,1,Not out
+9.5,RG Sharma,M Kartik,Y Venugopal Rao,0,Not out
+9.6,Y Venugopal Rao,M Kartik,RG Sharma,1,Not out
+10.1,Y Venugopal Rao,SC Ganguly,RG Sharma,1,Not out
+10.2,RG Sharma,SC Ganguly,Y Venugopal Rao,6,Not out
+10.3,RG Sharma,SC Ganguly,Y Venugopal Rao,1,Not out
+10.4,Y Venugopal Rao,SC Ganguly,RG Sharma,0,Not out
+10.5,RG Sharma,SC Ganguly,Y Venugopal Rao,2,Not out
+10.6,RG Sharma,SC Ganguly,Y Venugopal Rao,1,Not out
+11.1,RG Sharma,M Kartik,Y Venugopal Rao,1,Not out
+11.2,Y Venugopal Rao,M Kartik,RG Sharma,1,Not out
+11.3,RG Sharma,M Kartik,Y Venugopal Rao,1,Not out
+11.4,Y Venugopal Rao,M Kartik,RG Sharma,0,Not out
+11.5,Y Venugopal Rao,M Kartik,RG Sharma,2,Not out
+11.6,Y Venugopal Rao,M Kartik,RG Sharma,0,Not out
+12.1,RG Sharma,AB Dinda,Y Venugopal Rao,4,Not out
+12.2,RG Sharma,AB Dinda,Y Venugopal Rao,0,caught
+12.3,SB Bangar,AB Dinda,Y Venugopal Rao,0,Not out
+12.4,SB Bangar,AB Dinda,Y Venugopal Rao,1,Not out
+12.5,Y Venugopal Rao,AB Dinda,SB Bangar,2,Not out
+12.6,Y Venugopal Rao,AB Dinda,SB Bangar,1,Not out
+13.1,Y Venugopal Rao,M Kartik,SB Bangar,6,Not out
+13.2,Y Venugopal Rao,M Kartik,SB Bangar,0,Not out
+13.3,Y Venugopal Rao,M Kartik,SB Bangar,6,Not out
+13.4,Y Venugopal Rao,M Kartik,SB Bangar,6,Not out
+13.5,Y Venugopal Rao,M Kartik,SB Bangar,4,Not out
+13.6,Y Venugopal Rao,M Kartik,SB Bangar,0,Not out
+14.1,SB Bangar,SC Ganguly,Y Venugopal Rao,1,Not out
+14.2,Y Venugopal Rao,SC Ganguly,SB Bangar,0,Not out
+14.3,Y Venugopal Rao,SC Ganguly,SB Bangar,1,Not out
+14.4,SB Bangar,SC Ganguly,Y Venugopal Rao,0,caught
+14.5,WPUJC Vaas,SC Ganguly,Y Venugopal Rao,0,Not out
+14.6,WPUJC Vaas,SC Ganguly,Y Venugopal Rao,2,Not out
+15.1,Y Venugopal Rao,I Sharma,WPUJC Vaas,0,Not out
+15.2,Y Venugopal Rao,I Sharma,WPUJC Vaas,1,Not out
+15.3,WPUJC Vaas,I Sharma,Y Venugopal Rao,1,Not out
+15.4,Y Venugopal Rao,I Sharma,WPUJC Vaas,0,Not out
+15.5,Y Venugopal Rao,I Sharma,WPUJC Vaas,6,Not out
+15.6,Y Venugopal Rao,I Sharma,WPUJC Vaas,4,Not out
+16.1,WPUJC Vaas,Umar Gul,Y Venugopal Rao,2,Not out
+16.2,WPUJC Vaas,Umar Gul,Y Venugopal Rao,1,Not out
+16.3,Y Venugopal Rao,Umar Gul,WPUJC Vaas,0,Not out
+16.4,Y Venugopal Rao,Umar Gul,WPUJC Vaas,4,Not out
+16.5,Y Venugopal Rao,Umar Gul,WPUJC Vaas,6,Not out
+16.6,Y Venugopal Rao,Umar Gul,WPUJC Vaas,1,Not out
+16.7,WPUJC Vaas,Umar Gul,Y Venugopal Rao,2,Not out
+17.1,Y Venugopal Rao,LR Shukla,WPUJC Vaas,1,Not out
+17.2,WPUJC Vaas,LR Shukla,Y Venugopal Rao,1,Not out
+17.3,Y Venugopal Rao,LR Shukla,WPUJC Vaas,4,Not out
+17.4,Y Venugopal Rao,LR Shukla,WPUJC Vaas,0,Not out
+17.5,Y Venugopal Rao,LR Shukla,WPUJC Vaas,1,Not out
+17.6,WPUJC Vaas,LR Shukla,Y Venugopal Rao,0,bowled
+18.1,Y Venugopal Rao,Umar Gul,RP Singh,0,Not out
+18.2,Y Venugopal Rao,Umar Gul,RP Singh,0,Not out
+18.3,Y Venugopal Rao,Umar Gul,RP Singh,6,Not out
+18.4,Y Venugopal Rao,Umar Gul,RP Singh,0,Not out
+18.5,Y Venugopal Rao,Umar Gul,RP Singh,1,Not out
+18.6,RP Singh,Umar Gul,Y Venugopal Rao,1,Not out
+18.7,Y Venugopal Rao,Umar Gul,RP Singh,0,Not out
+18.8,Y Venugopal Rao,Umar Gul,RP Singh,1,Not out
+19.1,Y Venugopal Rao,LR Shukla,RP Singh,0,Not out
+19.2,Y Venugopal Rao,LR Shukla,RP Singh,1,Not out
+19.3,RP Singh,LR Shukla,Y Venugopal Rao,0,Not out
+19.4,RP Singh,LR Shukla,Y Venugopal Rao,4,Not out
+19.5,RP Singh,LR Shukla,Y Venugopal Rao,1,Not out
+19.6,Y Venugopal Rao,LR Shukla,RP Singh,2,Not out
+19.7,Y Venugopal Rao,LR Shukla,RP Singh,0,Not out

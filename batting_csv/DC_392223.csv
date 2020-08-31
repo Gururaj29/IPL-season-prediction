@@ -1,0 +1,124 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,TL Suman,A Nehra,AC Gilchrist,1,Not out
+0.2,AC Gilchrist,A Nehra,TL Suman,4,Not out
+0.3,AC Gilchrist,A Nehra,TL Suman,4,Not out
+0.4,AC Gilchrist,A Nehra,TL Suman,1,Not out
+0.5,AC Gilchrist,A Nehra,TL Suman,4,Not out
+0.6,AC Gilchrist,A Nehra,TL Suman,4,Not out
+1.1,TL Suman,DP Nannes,AC Gilchrist,0,Not out
+1.2,TL Suman,DP Nannes,AC Gilchrist,1,Not out
+1.3,AC Gilchrist,DP Nannes,TL Suman,4,Not out
+1.4,AC Gilchrist,DP Nannes,TL Suman,0,Not out
+1.5,AC Gilchrist,DP Nannes,TL Suman,6,Not out
+1.6,AC Gilchrist,DP Nannes,TL Suman,0,Not out
+1.7,AC Gilchrist,DP Nannes,TL Suman,0,Not out
+2.1,TL Suman,PJ Sangwan,AC Gilchrist,0,Not out
+2.2,TL Suman,PJ Sangwan,AC Gilchrist,0,Not out
+2.3,TL Suman,PJ Sangwan,AC Gilchrist,0,Not out
+2.4,TL Suman,PJ Sangwan,AC Gilchrist,1,Not out
+2.5,AC Gilchrist,PJ Sangwan,TL Suman,1,Not out
+2.6,TL Suman,PJ Sangwan,AC Gilchrist,0,caught
+2.7,AC Gilchrist,PJ Sangwan,RG Sharma,0,Not out
+3.1,RG Sharma,DP Nannes,AC Gilchrist,0,Not out
+3.2,RG Sharma,DP Nannes,AC Gilchrist,1,Not out
+3.3,AC Gilchrist,DP Nannes,RG Sharma,1,Not out
+3.4,RG Sharma,DP Nannes,AC Gilchrist,0,Not out
+3.5,RG Sharma,DP Nannes,AC Gilchrist,4,Not out
+3.6,RG Sharma,DP Nannes,AC Gilchrist,1,Not out
+4.1,RG Sharma,PJ Sangwan,AC Gilchrist,0,Not out
+4.2,RG Sharma,PJ Sangwan,AC Gilchrist,0,caught
+4.3,DB Ravi Teja,PJ Sangwan,AC Gilchrist,0,Not out
+4.4,DB Ravi Teja,PJ Sangwan,AC Gilchrist,0,Not out
+4.5,DB Ravi Teja,PJ Sangwan,AC Gilchrist,0,Not out
+4.6,DB Ravi Teja,PJ Sangwan,AC Gilchrist,0,Not out
+5.1,AC Gilchrist,A Nehra,DB Ravi Teja,6,Not out
+5.2,AC Gilchrist,A Nehra,DB Ravi Teja,0,Not out
+5.3,AC Gilchrist,A Nehra,DB Ravi Teja,0,Not out
+5.4,AC Gilchrist,A Nehra,DB Ravi Teja,1,Not out
+5.5,DB Ravi Teja,A Nehra,AC Gilchrist,1,Not out
+5.6,AC Gilchrist,A Nehra,DB Ravi Teja,1,Not out
+5.7,DB Ravi Teja,A Nehra,AC Gilchrist,0,Not out
+6.1,AC Gilchrist,TM Dilshan,DB Ravi Teja,1,Not out
+6.2,DB Ravi Teja,TM Dilshan,AC Gilchrist,1,Not out
+6.3,AC Gilchrist,TM Dilshan,DB Ravi Teja,1,Not out
+6.4,DB Ravi Teja,TM Dilshan,AC Gilchrist,1,Not out
+6.5,AC Gilchrist,TM Dilshan,DB Ravi Teja,1,Not out
+6.6,DB Ravi Teja,TM Dilshan,AC Gilchrist,0,Not out
+7.1,AC Gilchrist,R Bhatia,DB Ravi Teja,1,Not out
+7.2,DB Ravi Teja,R Bhatia,AC Gilchrist,1,Not out
+7.3,AC Gilchrist,R Bhatia,DB Ravi Teja,1,Not out
+7.4,DB Ravi Teja,R Bhatia,AC Gilchrist,1,Not out
+7.5,AC Gilchrist,R Bhatia,DB Ravi Teja,6,Not out
+7.6,AC Gilchrist,R Bhatia,DB Ravi Teja,1,Not out
+8.1,AC Gilchrist,A Mishra,DB Ravi Teja,1,Not out
+8.2,DB Ravi Teja,A Mishra,AC Gilchrist,1,Not out
+8.3,AC Gilchrist,A Mishra,DB Ravi Teja,6,Not out
+8.4,AC Gilchrist,A Mishra,DB Ravi Teja,6,Not out
+8.5,AC Gilchrist,A Mishra,DB Ravi Teja,0,Not out
+8.6,AC Gilchrist,A Mishra,DB Ravi Teja,0,Not out
+9.1,DB Ravi Teja,TM Dilshan,AC Gilchrist,0,Not out
+9.2,DB Ravi Teja,TM Dilshan,AC Gilchrist,1,Not out
+9.3,AC Gilchrist,TM Dilshan,DB Ravi Teja,1,Not out
+9.4,DB Ravi Teja,TM Dilshan,AC Gilchrist,1,Not out
+9.5,AC Gilchrist,TM Dilshan,DB Ravi Teja,0,Not out
+9.6,AC Gilchrist,TM Dilshan,DB Ravi Teja,0,Not out
+10.1,DB Ravi Teja,PJ Sangwan,AC Gilchrist,0,Not out
+10.2,AC Gilchrist,PJ Sangwan,DB Ravi Teja,1,Not out
+10.3,DB Ravi Teja,PJ Sangwan,AC Gilchrist,0,Not out
+10.4,DB Ravi Teja,PJ Sangwan,AC Gilchrist,1,Not out
+10.5,AC Gilchrist,PJ Sangwan,DB Ravi Teja,0,bowled
+10.6,A Symonds,PJ Sangwan,DB Ravi Teja,1,Not out
+11.1,A Symonds,A Mishra,DB Ravi Teja,1,Not out
+11.2,DB Ravi Teja,A Mishra,A Symonds,1,Not out
+11.3,A Symonds,A Mishra,DB Ravi Teja,6,Not out
+11.4,A Symonds,A Mishra,DB Ravi Teja,2,Not out
+11.5,A Symonds,A Mishra,DB Ravi Teja,2,Not out
+11.6,A Symonds,A Mishra,DB Ravi Teja,0,Not out
+12.1,DB Ravi Teja,PJ Sangwan,A Symonds,1,Not out
+12.2,A Symonds,PJ Sangwan,DB Ravi Teja,4,Not out
+12.3,A Symonds,PJ Sangwan,DB Ravi Teja,0,Not out
+12.4,A Symonds,PJ Sangwan,DB Ravi Teja,0,Not out
+12.5,A Symonds,PJ Sangwan,DB Ravi Teja,1,Not out
+12.6,DB Ravi Teja,PJ Sangwan,A Symonds,0,Not out
+12.7,DB Ravi Teja,PJ Sangwan,A Symonds,0,Not out
+12.8,DB Ravi Teja,PJ Sangwan,A Symonds,4,Not out
+13.1,A Symonds,A Mishra,DB Ravi Teja,6,Not out
+13.2,A Symonds,A Mishra,DB Ravi Teja,2,Not out
+13.3,A Symonds,A Mishra,DB Ravi Teja,2,Not out
+13.4,A Symonds,A Mishra,DB Ravi Teja,0,Not out
+13.5,A Symonds,A Mishra,DB Ravi Teja,2,Not out
+13.6,A Symonds,A Mishra,DB Ravi Teja,1,Not out
+14.1,A Symonds,DP Nannes,DB Ravi Teja,4,Not out
+14.2,A Symonds,DP Nannes,DB Ravi Teja,4,Not out
+14.3,A Symonds,DP Nannes,DB Ravi Teja,0,Not out
+14.4,DB Ravi Teja,DP Nannes,A Symonds,0,Not out
+14.5,DB Ravi Teja,DP Nannes,A Symonds,0,Not out
+14.6,DB Ravi Teja,DP Nannes,A Symonds,0,Not out
+15.1,DB Ravi Teja,A Nehra,A Symonds,0,Not out
+15.2,DB Ravi Teja,A Nehra,A Symonds,4,Not out
+15.3,DB Ravi Teja,A Nehra,A Symonds,4,Not out
+15.4,DB Ravi Teja,A Nehra,A Symonds,0,Not out
+15.5,DB Ravi Teja,A Nehra,A Symonds,2,Not out
+15.6,DB Ravi Teja,A Nehra,A Symonds,1,Not out
+16.1,DB Ravi Teja,DP Nannes,A Symonds,1,Not out
+16.2,A Symonds,DP Nannes,DB Ravi Teja,2,Not out
+16.3,A Symonds,DP Nannes,DB Ravi Teja,0,Not out
+16.4,A Symonds,DP Nannes,DB Ravi Teja,1,Not out
+16.5,DB Ravi Teja,DP Nannes,A Symonds,0,Not out
+16.6,DB Ravi Teja,DP Nannes,A Symonds,0,caught
+17.1,DR Smith,R Bhatia,A Symonds,1,Not out
+17.2,A Symonds,R Bhatia,DR Smith,0,bowled
+17.3,Y Venugopal Rao,R Bhatia,DR Smith,1,Not out
+17.4,DR Smith,R Bhatia,Y Venugopal Rao,0,bowled
+17.5,WPUJC Vaas,R Bhatia,Y Venugopal Rao,1,Not out
+17.6,Y Venugopal Rao,R Bhatia,WPUJC Vaas,0,Not out
+18.1,WPUJC Vaas,A Nehra,Y Venugopal Rao,2,Not out
+18.2,WPUJC Vaas,A Nehra,Y Venugopal Rao,1,Not out
+18.3,Y Venugopal Rao,A Nehra,WPUJC Vaas,0,caught
+18.4,RP Singh,A Nehra,WPUJC Vaas,0,run out
+18.5,WPUJC Vaas,A Nehra,PP Ojha,4,Not out
+18.6,WPUJC Vaas,A Nehra,PP Ojha,1,Not out
+19.1,WPUJC Vaas,R Bhatia,PP Ojha,1,Not out
+19.2,PP Ojha,R Bhatia,WPUJC Vaas,0,Not out
+19.3,PP Ojha,R Bhatia,WPUJC Vaas,0,bowled
+19.4,Shoaib Ahmed,R Bhatia,WPUJC Vaas,0,caught

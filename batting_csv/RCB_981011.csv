@@ -1,0 +1,112 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,CH Gayle,Z Khan,V Kohli,0,Not out
+0.2,CH Gayle,Z Khan,V Kohli,0,Not out
+0.3,CH Gayle,Z Khan,V Kohli,1,Not out
+0.4,V Kohli,Z Khan,CH Gayle,4,Not out
+0.5,V Kohli,Z Khan,CH Gayle,0,Not out
+0.6,V Kohli,Z Khan,CH Gayle,0,Not out
+1.1,CH Gayle,CH Morris,V Kohli,0,bowled
+1.2,AB de Villiers,CH Morris,V Kohli,0,Not out
+1.3,AB de Villiers,CH Morris,V Kohli,0,Not out
+1.4,AB de Villiers,CH Morris,V Kohli,4,Not out
+1.5,AB de Villiers,CH Morris,V Kohli,0,Not out
+1.6,AB de Villiers,CH Morris,V Kohli,0,Not out
+1.7,AB de Villiers,CH Morris,V Kohli,2,Not out
+2.1,V Kohli,Z Khan,AB de Villiers,1,Not out
+2.2,AB de Villiers,Z Khan,V Kohli,0,Not out
+2.3,AB de Villiers,Z Khan,V Kohli,0,Not out
+2.4,AB de Villiers,Z Khan,V Kohli,0,caught
+2.5,KL Rahul,Z Khan,V Kohli,1,Not out
+2.6,V Kohli,Z Khan,KL Rahul,1,Not out
+3.1,V Kohli,CH Morris,KL Rahul,0,Not out
+3.2,V Kohli,CH Morris,KL Rahul,0,Not out
+3.3,V Kohli,CH Morris,KL Rahul,1,Not out
+3.4,KL Rahul,CH Morris,V Kohli,0,Not out
+3.5,KL Rahul,CH Morris,V Kohli,4,Not out
+3.6,KL Rahul,CH Morris,V Kohli,4,Not out
+4.1,V Kohli,Z Khan,KL Rahul,4,Not out
+4.2,V Kohli,Z Khan,KL Rahul,4,Not out
+4.3,V Kohli,Z Khan,KL Rahul,0,Not out
+4.4,V Kohli,Z Khan,KL Rahul,1,Not out
+4.5,KL Rahul,Z Khan,V Kohli,0,Not out
+4.6,KL Rahul,Z Khan,V Kohli,1,Not out
+5.1,KL Rahul,CH Morris,V Kohli,0,Not out
+5.2,KL Rahul,CH Morris,V Kohli,3,Not out
+5.3,V Kohli,CH Morris,KL Rahul,0,Not out
+5.4,V Kohli,CH Morris,KL Rahul,1,Not out
+5.5,KL Rahul,CH Morris,V Kohli,6,Not out
+5.6,KL Rahul,CH Morris,V Kohli,1,Not out
+6.1,KL Rahul,P Negi,V Kohli,1,Not out
+6.2,V Kohli,P Negi,KL Rahul,1,Not out
+6.3,KL Rahul,P Negi,V Kohli,1,Not out
+6.4,V Kohli,P Negi,KL Rahul,1,Not out
+6.5,KL Rahul,P Negi,V Kohli,1,Not out
+6.6,V Kohli,P Negi,KL Rahul,0,Not out
+7.1,KL Rahul,A Mishra,V Kohli,1,Not out
+7.2,V Kohli,A Mishra,KL Rahul,1,Not out
+7.3,KL Rahul,A Mishra,V Kohli,2,Not out
+7.4,KL Rahul,A Mishra,V Kohli,2,Not out
+7.5,KL Rahul,A Mishra,V Kohli,4,Not out
+7.6,KL Rahul,A Mishra,V Kohli,4,Not out
+8.1,V Kohli,P Negi,KL Rahul,4,Not out
+8.2,V Kohli,P Negi,KL Rahul,1,Not out
+8.3,KL Rahul,P Negi,V Kohli,0,Not out
+8.4,KL Rahul,P Negi,V Kohli,0,Not out
+8.5,KL Rahul,P Negi,V Kohli,1,Not out
+8.6,V Kohli,P Negi,KL Rahul,1,Not out
+9.1,V Kohli,J Yadav,KL Rahul,0,Not out
+9.2,V Kohli,J Yadav,KL Rahul,0,Not out
+9.3,V Kohli,J Yadav,KL Rahul,2,Not out
+9.4,V Kohli,J Yadav,KL Rahul,1,Not out
+9.5,KL Rahul,J Yadav,V Kohli,1,Not out
+9.6,V Kohli,J Yadav,KL Rahul,4,Not out
+10.1,KL Rahul,CR Brathwaite,V Kohli,0,bowled
+10.2,SR Watson,CR Brathwaite,V Kohli,0,Not out
+10.3,SR Watson,CR Brathwaite,V Kohli,1,Not out
+10.4,V Kohli,CR Brathwaite,SR Watson,1,Not out
+10.5,SR Watson,CR Brathwaite,V Kohli,0,Not out
+10.6,SR Watson,CR Brathwaite,V Kohli,0,Not out
+11.1,V Kohli,A Mishra,SR Watson,1,Not out
+11.2,SR Watson,A Mishra,V Kohli,1,Not out
+11.3,V Kohli,A Mishra,SR Watson,0,Not out
+11.4,V Kohli,A Mishra,SR Watson,1,Not out
+11.5,SR Watson,A Mishra,V Kohli,0,Not out
+11.6,SR Watson,A Mishra,V Kohli,0,Not out
+12.1,V Kohli,CR Brathwaite,SR Watson,1,Not out
+12.2,SR Watson,CR Brathwaite,V Kohli,0,Not out
+12.3,SR Watson,CR Brathwaite,V Kohli,1,Not out
+12.4,V Kohli,CR Brathwaite,SR Watson,1,Not out
+12.5,SR Watson,CR Brathwaite,V Kohli,1,Not out
+12.6,V Kohli,CR Brathwaite,SR Watson,4,Not out
+13.1,SR Watson,A Mishra,V Kohli,1,Not out
+13.2,V Kohli,A Mishra,SR Watson,1,Not out
+13.3,SR Watson,A Mishra,V Kohli,0,Not out
+13.4,SR Watson,A Mishra,V Kohli,6,Not out
+13.5,SR Watson,A Mishra,V Kohli,0,Not out
+13.6,SR Watson,A Mishra,V Kohli,0,Not out
+14.1,V Kohli,P Negi,SR Watson,2,Not out
+14.2,V Kohli,P Negi,SR Watson,1,Not out
+14.3,SR Watson,P Negi,V Kohli,2,Not out
+14.4,SR Watson,P Negi,V Kohli,1,Not out
+14.5,V Kohli,P Negi,SR Watson,1,Not out
+14.6,SR Watson,P Negi,V Kohli,0,caught
+15.1,STR Binny,A Mishra,V Kohli,1,Not out
+15.2,V Kohli,A Mishra,STR Binny,1,Not out
+15.3,STR Binny,A Mishra,V Kohli,0,Not out
+15.4,STR Binny,A Mishra,V Kohli,4,Not out
+15.5,STR Binny,A Mishra,V Kohli,2,Not out
+15.6,STR Binny,A Mishra,V Kohli,0,Not out
+16.1,V Kohli,CR Brathwaite,STR Binny,1,Not out
+16.2,STR Binny,CR Brathwaite,V Kohli,1,Not out
+16.3,V Kohli,CR Brathwaite,STR Binny,1,Not out
+16.4,STR Binny,CR Brathwaite,V Kohli,2,Not out
+16.5,STR Binny,CR Brathwaite,V Kohli,0,Not out
+16.6,STR Binny,CR Brathwaite,V Kohli,2,Not out
+17.1,V Kohli,Z Khan,STR Binny,2,Not out
+17.2,V Kohli,Z Khan,STR Binny,0,Not out
+17.3,V Kohli,Z Khan,STR Binny,0,Not out
+17.4,V Kohli,Z Khan,STR Binny,1,Not out
+17.5,STR Binny,Z Khan,V Kohli,0,Not out
+17.6,STR Binny,Z Khan,V Kohli,4,Not out
+17.7,STR Binny,Z Khan,V Kohli,0,Not out
+18.1,V Kohli,CR Brathwaite,STR Binny,1,Not out

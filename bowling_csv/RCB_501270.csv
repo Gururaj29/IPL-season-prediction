@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AC Blizzard,Z Khan,SR Tendulkar,4,Not out
+0.2,AC Blizzard,Z Khan,SR Tendulkar,1,Not out
+0.3,SR Tendulkar,Z Khan,AC Blizzard,1,Not out
+0.4,AC Blizzard,Z Khan,SR Tendulkar,0,Not out
+0.5,AC Blizzard,Z Khan,SR Tendulkar,4,Not out
+0.6,AC Blizzard,Z Khan,SR Tendulkar,0,Not out
+1.1,SR Tendulkar,S Aravind,AC Blizzard,4,Not out
+1.2,SR Tendulkar,S Aravind,AC Blizzard,4,Not out
+1.3,SR Tendulkar,S Aravind,AC Blizzard,0,Not out
+1.4,SR Tendulkar,S Aravind,AC Blizzard,0,Not out
+1.5,SR Tendulkar,S Aravind,AC Blizzard,2,Not out
+1.6,SR Tendulkar,S Aravind,AC Blizzard,0,Not out
+2.1,AC Blizzard,CH Gayle,SR Tendulkar,0,Not out
+2.2,AC Blizzard,CH Gayle,SR Tendulkar,0,Not out
+2.3,AC Blizzard,CH Gayle,SR Tendulkar,0,Not out
+2.4,AC Blizzard,CH Gayle,SR Tendulkar,0,Not out
+2.5,AC Blizzard,CH Gayle,SR Tendulkar,1,Not out
+2.6,SR Tendulkar,CH Gayle,AC Blizzard,1,Not out
+3.1,SR Tendulkar,S Aravind,AC Blizzard,0,Not out
+3.2,SR Tendulkar,S Aravind,AC Blizzard,1,Not out
+3.3,AC Blizzard,S Aravind,SR Tendulkar,0,caught
+3.4,Harbhajan Singh,S Aravind,SR Tendulkar,0,Not out
+3.5,Harbhajan Singh,S Aravind,SR Tendulkar,1,Not out
+3.6,SR Tendulkar,S Aravind,Harbhajan Singh,4,Not out
+4.1,Harbhajan Singh,A Mithun,SR Tendulkar,4,Not out
+4.2,Harbhajan Singh,A Mithun,SR Tendulkar,1,Not out
+4.3,SR Tendulkar,A Mithun,Harbhajan Singh,1,Not out
+4.4,Harbhajan Singh,A Mithun,SR Tendulkar,6,Not out
+4.5,Harbhajan Singh,A Mithun,SR Tendulkar,1,Not out
+4.6,SR Tendulkar,A Mithun,Harbhajan Singh,0,Not out
+5.1,Harbhajan Singh,S Aravind,SR Tendulkar,0,caught
+5.2,SR Tendulkar,S Aravind,RG Sharma,1,Not out
+5.3,RG Sharma,S Aravind,SR Tendulkar,1,Not out
+5.4,SR Tendulkar,S Aravind,RG Sharma,4,Not out
+5.5,SR Tendulkar,S Aravind,RG Sharma,0,Not out
+5.6,SR Tendulkar,S Aravind,RG Sharma,0,Not out
+5.7,SR Tendulkar,S Aravind,RG Sharma,4,Not out
+6.1,RG Sharma,DL Vettori,SR Tendulkar,0,Not out
+6.2,RG Sharma,DL Vettori,SR Tendulkar,1,Not out
+6.3,SR Tendulkar,DL Vettori,RG Sharma,1,Not out
+6.4,RG Sharma,DL Vettori,SR Tendulkar,1,Not out
+6.5,SR Tendulkar,DL Vettori,RG Sharma,4,Not out
+6.6,SR Tendulkar,DL Vettori,RG Sharma,1,Not out
+7.1,SR Tendulkar,J Syed Mohammad,RG Sharma,4,Not out
+7.2,SR Tendulkar,J Syed Mohammad,RG Sharma,1,Not out
+7.3,RG Sharma,J Syed Mohammad,SR Tendulkar,0,Not out
+7.4,RG Sharma,J Syed Mohammad,SR Tendulkar,1,Not out
+7.5,SR Tendulkar,J Syed Mohammad,RG Sharma,2,Not out
+7.6,SR Tendulkar,J Syed Mohammad,RG Sharma,0,stumped
+8.1,RG Sharma,DL Vettori,JEC Franklin,1,Not out
+8.2,JEC Franklin,DL Vettori,RG Sharma,1,Not out
+8.3,RG Sharma,DL Vettori,JEC Franklin,1,Not out
+8.4,JEC Franklin,DL Vettori,RG Sharma,0,Not out
+8.5,JEC Franklin,DL Vettori,RG Sharma,1,Not out
+8.6,RG Sharma,DL Vettori,JEC Franklin,0,Not out
+9.1,JEC Franklin,CH Gayle,RG Sharma,1,Not out
+9.2,RG Sharma,CH Gayle,JEC Franklin,1,Not out
+9.3,JEC Franklin,CH Gayle,RG Sharma,1,Not out
+9.4,RG Sharma,CH Gayle,JEC Franklin,4,Not out
+9.5,RG Sharma,CH Gayle,JEC Franklin,0,Not out
+9.6,RG Sharma,CH Gayle,JEC Franklin,1,Not out
+10.1,RG Sharma,DL Vettori,JEC Franklin,1,Not out
+10.2,JEC Franklin,DL Vettori,RG Sharma,0,Not out
+10.3,JEC Franklin,DL Vettori,RG Sharma,1,Not out
+10.4,RG Sharma,DL Vettori,JEC Franklin,0,caught
+10.5,JEC Franklin,DL Vettori,AT Rayudu,1,Not out
+10.6,AT Rayudu,DL Vettori,JEC Franklin,0,lbw
+11.1,JEC Franklin,J Syed Mohammad,KA Pollard,0,Not out
+11.2,JEC Franklin,J Syed Mohammad,KA Pollard,0,Not out
+11.3,KA Pollard,J Syed Mohammad,JEC Franklin,1,Not out
+11.4,JEC Franklin,J Syed Mohammad,KA Pollard,1,Not out
+11.5,KA Pollard,J Syed Mohammad,JEC Franklin,1,Not out
+11.6,JEC Franklin,J Syed Mohammad,KA Pollard,0,Not out
+12.1,KA Pollard,DL Vettori,JEC Franklin,0,Not out
+12.2,KA Pollard,DL Vettori,JEC Franklin,1,Not out
+12.3,JEC Franklin,DL Vettori,KA Pollard,1,Not out
+12.4,KA Pollard,DL Vettori,JEC Franklin,0,Not out
+12.5,KA Pollard,DL Vettori,JEC Franklin,0,caught
+12.6,JEC Franklin,DL Vettori,R Sathish,2,Not out
+13.1,R Sathish,CH Gayle,JEC Franklin,0,Not out
+13.2,R Sathish,CH Gayle,JEC Franklin,0,Not out
+13.3,R Sathish,CH Gayle,JEC Franklin,0,Not out
+13.4,R Sathish,CH Gayle,JEC Franklin,0,Not out
+13.5,R Sathish,CH Gayle,JEC Franklin,1,Not out
+13.6,JEC Franklin,CH Gayle,R Sathish,0,Not out
+14.1,R Sathish,Z Khan,JEC Franklin,0,Not out
+14.2,R Sathish,Z Khan,JEC Franklin,1,Not out
+14.3,JEC Franklin,Z Khan,R Sathish,6,Not out
+14.4,JEC Franklin,Z Khan,R Sathish,0,bowled
+14.5,SL Malinga,Z Khan,R Sathish,1,Not out
+14.6,R Sathish,Z Khan,SL Malinga,3,Not out
+15.1,R Sathish,J Syed Mohammad,SL Malinga,1,Not out
+15.2,SL Malinga,J Syed Mohammad,R Sathish,6,Not out
+15.3,SL Malinga,J Syed Mohammad,R Sathish,0,Not out
+15.4,SL Malinga,J Syed Mohammad,R Sathish,0,Not out
+15.5,SL Malinga,J Syed Mohammad,R Sathish,0,caught
+15.6,R Sathish,J Syed Mohammad,AN Ahmed,1,Not out
+16.1,R Sathish,Z Khan,AN Ahmed,1,Not out
+16.2,AN Ahmed,Z Khan,R Sathish,0,Not out
+16.3,AN Ahmed,Z Khan,R Sathish,1,Not out
+16.4,R Sathish,Z Khan,AN Ahmed,4,Not out
+16.5,R Sathish,Z Khan,AN Ahmed,0,Not out
+16.6,AN Ahmed,Z Khan,R Sathish,0,Not out
+17.1,R Sathish,J Syed Mohammad,AN Ahmed,1,Not out
+17.2,AN Ahmed,J Syed Mohammad,R Sathish,2,Not out
+17.3,AN Ahmed,J Syed Mohammad,R Sathish,1,Not out
+17.4,R Sathish,J Syed Mohammad,AN Ahmed,0,Not out
+17.5,R Sathish,J Syed Mohammad,AN Ahmed,2,Not out
+17.6,R Sathish,J Syed Mohammad,AN Ahmed,0,Not out
+18.1,AN Ahmed,Z Khan,R Sathish,1,Not out
+18.2,R Sathish,Z Khan,AN Ahmed,0,Not out
+18.3,R Sathish,Z Khan,AN Ahmed,0,Not out
+18.4,R Sathish,Z Khan,AN Ahmed,1,Not out
+18.5,AN Ahmed,Z Khan,R Sathish,1,Not out
+18.6,R Sathish,Z Khan,AN Ahmed,1,Not out
+18.7,AN Ahmed,Z Khan,R Sathish,0,Not out
+19.1,R Sathish,A Mithun,AN Ahmed,1,Not out
+19.2,AN Ahmed,A Mithun,R Sathish,0,Not out
+19.3,AN Ahmed,A Mithun,R Sathish,4,Not out
+19.4,AN Ahmed,A Mithun,R Sathish,6,Not out
+19.5,AN Ahmed,A Mithun,R Sathish,2,Not out
+19.6,AN Ahmed,A Mithun,R Sathish,0,Not out

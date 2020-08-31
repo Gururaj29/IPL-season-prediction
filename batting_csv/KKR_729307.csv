@@ -1,0 +1,116 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MK Pandey,Sandeep Sharma,JH Kallis,0,Not out
+0.2,MK Pandey,Sandeep Sharma,JH Kallis,0,Not out
+0.3,MK Pandey,Sandeep Sharma,JH Kallis,0,Not out
+0.4,MK Pandey,Sandeep Sharma,JH Kallis,0,Not out
+0.5,MK Pandey,Sandeep Sharma,JH Kallis,0,Not out
+0.6,MK Pandey,Sandeep Sharma,JH Kallis,2,Not out
+0.7,MK Pandey,Sandeep Sharma,JH Kallis,4,Not out
+1.1,JH Kallis,MG Johnson,MK Pandey,0,Not out
+1.2,JH Kallis,MG Johnson,MK Pandey,0,Not out
+1.3,JH Kallis,MG Johnson,MK Pandey,4,Not out
+1.4,JH Kallis,MG Johnson,MK Pandey,0,Not out
+1.5,JH Kallis,MG Johnson,MK Pandey,0,Not out
+1.6,JH Kallis,MG Johnson,MK Pandey,0,Not out
+2.1,MK Pandey,Sandeep Sharma,JH Kallis,2,Not out
+2.2,MK Pandey,Sandeep Sharma,JH Kallis,0,Not out
+2.3,MK Pandey,Sandeep Sharma,JH Kallis,0,Not out
+2.4,MK Pandey,Sandeep Sharma,JH Kallis,0,lbw
+2.5,G Gambhir,Sandeep Sharma,JH Kallis,0,Not out
+2.6,G Gambhir,Sandeep Sharma,JH Kallis,0,Not out
+3.1,JH Kallis,MG Johnson,G Gambhir,0,Not out
+3.2,JH Kallis,MG Johnson,G Gambhir,0,Not out
+3.3,JH Kallis,MG Johnson,G Gambhir,1,Not out
+3.4,G Gambhir,MG Johnson,JH Kallis,0,Not out
+3.5,G Gambhir,MG Johnson,JH Kallis,1,Not out
+3.6,JH Kallis,MG Johnson,G Gambhir,4,Not out
+4.1,G Gambhir,Sandeep Sharma,JH Kallis,0,caught
+4.2,CA Lynn,Sandeep Sharma,JH Kallis,0,Not out
+4.3,CA Lynn,Sandeep Sharma,JH Kallis,0,Not out
+4.4,CA Lynn,Sandeep Sharma,JH Kallis,0,Not out
+4.5,CA Lynn,Sandeep Sharma,JH Kallis,0,Not out
+4.6,CA Lynn,Sandeep Sharma,JH Kallis,0,Not out
+5.1,JH Kallis,L Balaji,CA Lynn,0,caught
+5.2,RV Uthappa,L Balaji,CA Lynn,4,Not out
+5.3,RV Uthappa,L Balaji,CA Lynn,0,Not out
+5.4,RV Uthappa,L Balaji,CA Lynn,0,Not out
+5.5,RV Uthappa,L Balaji,CA Lynn,0,Not out
+5.6,RV Uthappa,L Balaji,CA Lynn,1,Not out
+6.1,RV Uthappa,R Dhawan,CA Lynn,1,Not out
+6.2,CA Lynn,R Dhawan,RV Uthappa,0,Not out
+6.3,CA Lynn,R Dhawan,RV Uthappa,0,Not out
+6.4,CA Lynn,R Dhawan,RV Uthappa,1,Not out
+6.5,RV Uthappa,R Dhawan,CA Lynn,0,Not out
+6.6,RV Uthappa,R Dhawan,CA Lynn,0,Not out
+6.7,RV Uthappa,R Dhawan,CA Lynn,1,Not out
+7.1,RV Uthappa,AR Patel,CA Lynn,0,Not out
+7.2,RV Uthappa,AR Patel,CA Lynn,0,Not out
+7.3,RV Uthappa,AR Patel,CA Lynn,0,Not out
+7.4,RV Uthappa,AR Patel,CA Lynn,2,Not out
+7.5,RV Uthappa,AR Patel,CA Lynn,0,Not out
+7.6,RV Uthappa,AR Patel,CA Lynn,1,Not out
+8.1,RV Uthappa,R Dhawan,CA Lynn,0,Not out
+8.2,RV Uthappa,R Dhawan,CA Lynn,0,Not out
+8.3,CA Lynn,R Dhawan,RV Uthappa,4,Not out
+8.4,CA Lynn,R Dhawan,RV Uthappa,1,Not out
+8.5,RV Uthappa,R Dhawan,CA Lynn,1,Not out
+8.6,CA Lynn,R Dhawan,RV Uthappa,0,Not out
+8.7,CA Lynn,R Dhawan,RV Uthappa,0,Not out
+9.1,RV Uthappa,AR Patel,CA Lynn,0,Not out
+9.2,RV Uthappa,AR Patel,CA Lynn,2,Not out
+9.3,RV Uthappa,AR Patel,CA Lynn,1,Not out
+9.4,CA Lynn,AR Patel,RV Uthappa,0,Not out
+9.5,CA Lynn,AR Patel,RV Uthappa,0,Not out
+9.6,CA Lynn,AR Patel,RV Uthappa,1,Not out
+10.1,CA Lynn,L Balaji,RV Uthappa,0,Not out
+10.2,CA Lynn,L Balaji,RV Uthappa,1,Not out
+10.3,RV Uthappa,L Balaji,CA Lynn,0,Not out
+10.4,CA Lynn,L Balaji,RV Uthappa,4,Not out
+10.5,CA Lynn,L Balaji,RV Uthappa,1,Not out
+10.6,RV Uthappa,L Balaji,CA Lynn,0,Not out
+11.1,CA Lynn,AR Patel,RV Uthappa,0,bowled
+11.2,YK Pathan,AR Patel,RV Uthappa,1,Not out
+11.3,RV Uthappa,AR Patel,YK Pathan,4,Not out
+11.4,RV Uthappa,AR Patel,YK Pathan,0,Not out
+11.5,YK Pathan,AR Patel,RV Uthappa,0,Not out
+11.6,YK Pathan,AR Patel,RV Uthappa,1,Not out
+12.1,YK Pathan,R Dhawan,RV Uthappa,1,Not out
+12.2,RV Uthappa,R Dhawan,YK Pathan,1,Not out
+12.3,YK Pathan,R Dhawan,RV Uthappa,0,lbw
+12.4,SA Yadav,R Dhawan,RV Uthappa,2,Not out
+12.5,SA Yadav,R Dhawan,RV Uthappa,1,Not out
+12.6,RV Uthappa,R Dhawan,SA Yadav,0,run out
+13.1,SA Yadav,AR Patel,PP Chawla,1,Not out
+13.2,PP Chawla,AR Patel,SA Yadav,0,Not out
+13.3,SA Yadav,AR Patel,PP Chawla,1,Not out
+13.4,PP Chawla,AR Patel,SA Yadav,0,stumped
+13.5,SP Narine,AR Patel,SA Yadav,1,Not out
+13.6,SA Yadav,AR Patel,SP Narine,0,Not out
+14.1,SP Narine,R Dhawan,SA Yadav,0,Not out
+14.2,SA Yadav,R Dhawan,SP Narine,1,Not out
+14.3,SP Narine,R Dhawan,SA Yadav,1,Not out
+14.4,SA Yadav,R Dhawan,SP Narine,2,Not out
+14.5,SA Yadav,R Dhawan,SP Narine,3,Not out
+14.6,SP Narine,R Dhawan,SA Yadav,1,Not out
+15.1,SP Narine,MG Johnson,SA Yadav,2,Not out
+15.2,SP Narine,MG Johnson,SA Yadav,1,Not out
+15.3,SA Yadav,MG Johnson,SP Narine,6,Not out
+15.4,SA Yadav,MG Johnson,SP Narine,1,Not out
+15.5,SP Narine,MG Johnson,SA Yadav,0,Not out
+15.6,SP Narine,MG Johnson,SA Yadav,0,bowled
+16.1,SA Yadav,L Balaji,UT Yadav,1,Not out
+16.2,UT Yadav,L Balaji,SA Yadav,0,Not out
+16.3,UT Yadav,L Balaji,SA Yadav,1,Not out
+16.4,SA Yadav,L Balaji,UT Yadav,4,Not out
+16.5,SA Yadav,L Balaji,UT Yadav,2,Not out
+16.6,SA Yadav,L Balaji,UT Yadav,0,Not out
+16.7,SA Yadav,L Balaji,UT Yadav,1,Not out
+17.1,SA Yadav,Sandeep Sharma,UT Yadav,4,Not out
+17.2,SA Yadav,Sandeep Sharma,UT Yadav,4,Not out
+17.3,SA Yadav,Sandeep Sharma,UT Yadav,0,caught
+17.4,UT Yadav,Sandeep Sharma,M Morkel,1,Not out
+17.5,M Morkel,Sandeep Sharma,UT Yadav,2,Not out
+17.6,M Morkel,Sandeep Sharma,UT Yadav,1,Not out
+18.1,M Morkel,MG Johnson,UT Yadav,0,Not out
+18.2,M Morkel,MG Johnson,UT Yadav,1,Not out
+18.3,UT Yadav,MG Johnson,M Morkel,0,bowled

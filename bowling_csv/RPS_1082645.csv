@@ -1,0 +1,99 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MJ Guptill,JD Unadkat,WP Saha,0,caught
+0.2,SE Marsh,JD Unadkat,WP Saha,0,Not out
+0.3,SE Marsh,JD Unadkat,WP Saha,0,Not out
+0.4,SE Marsh,JD Unadkat,WP Saha,0,Not out
+0.5,SE Marsh,JD Unadkat,WP Saha,4,Not out
+0.6,SE Marsh,JD Unadkat,WP Saha,0,Not out
+1.1,WP Saha,SN Thakur,SE Marsh,1,Not out
+1.2,SE Marsh,SN Thakur,WP Saha,0,Not out
+1.3,SE Marsh,SN Thakur,WP Saha,4,Not out
+1.4,SE Marsh,SN Thakur,WP Saha,0,Not out
+1.5,SE Marsh,SN Thakur,WP Saha,1,Not out
+1.6,WP Saha,SN Thakur,SE Marsh,1,Not out
+2.1,WP Saha,JD Unadkat,SE Marsh,1,Not out
+2.2,SE Marsh,JD Unadkat,WP Saha,1,Not out
+2.3,WP Saha,JD Unadkat,SE Marsh,6,Not out
+2.4,WP Saha,JD Unadkat,SE Marsh,0,Not out
+2.5,WP Saha,JD Unadkat,SE Marsh,0,Not out
+2.6,WP Saha,JD Unadkat,SE Marsh,0,Not out
+3.1,SE Marsh,SN Thakur,WP Saha,0,Not out
+3.2,SE Marsh,SN Thakur,WP Saha,0,Not out
+3.3,SE Marsh,SN Thakur,WP Saha,0,caught
+3.4,EJG Morgan,SN Thakur,WP Saha,0,Not out
+3.5,EJG Morgan,SN Thakur,WP Saha,4,Not out
+3.6,EJG Morgan,SN Thakur,WP Saha,0,Not out
+4.1,WP Saha,BA Stokes,EJG Morgan,0,Not out
+4.2,WP Saha,BA Stokes,EJG Morgan,1,Not out
+4.3,EJG Morgan,BA Stokes,WP Saha,0,run out
+4.4,WP Saha,BA Stokes,R Tewatia,1,Not out
+4.5,R Tewatia,BA Stokes,WP Saha,0,Not out
+4.6,R Tewatia,BA Stokes,WP Saha,4,Not out
+5.1,WP Saha,SN Thakur,R Tewatia,0,Not out
+5.2,WP Saha,SN Thakur,R Tewatia,1,Not out
+5.3,R Tewatia,SN Thakur,WP Saha,0,caught
+5.4,GJ Maxwell,SN Thakur,WP Saha,0,Not out
+5.5,GJ Maxwell,SN Thakur,WP Saha,0,Not out
+5.6,GJ Maxwell,SN Thakur,WP Saha,0,Not out
+5.7,GJ Maxwell,SN Thakur,WP Saha,0,caught
+5.8,WP Saha,SN Thakur,AR Patel,0,Not out
+6.1,AR Patel,BA Stokes,WP Saha,0,Not out
+6.2,AR Patel,BA Stokes,WP Saha,0,Not out
+6.3,AR Patel,BA Stokes,WP Saha,0,Not out
+6.4,AR Patel,BA Stokes,WP Saha,0,Not out
+6.5,AR Patel,BA Stokes,WP Saha,0,Not out
+6.6,AR Patel,BA Stokes,WP Saha,0,Not out
+6.7,AR Patel,BA Stokes,WP Saha,1,Not out
+7.1,AR Patel,SN Thakur,WP Saha,4,Not out
+7.2,AR Patel,SN Thakur,WP Saha,0,Not out
+7.3,AR Patel,SN Thakur,WP Saha,0,Not out
+7.4,AR Patel,SN Thakur,WP Saha,1,Not out
+7.5,WP Saha,SN Thakur,AR Patel,0,Not out
+7.6,WP Saha,SN Thakur,AR Patel,0,Not out
+8.1,AR Patel,A Zampa,WP Saha,2,Not out
+8.2,AR Patel,A Zampa,WP Saha,6,Not out
+8.3,AR Patel,A Zampa,WP Saha,1,Not out
+8.4,WP Saha,A Zampa,AR Patel,1,Not out
+8.5,AR Patel,A Zampa,WP Saha,1,Not out
+8.6,WP Saha,A Zampa,AR Patel,0,Not out
+9.1,AR Patel,DT Christian,WP Saha,1,Not out
+9.2,WP Saha,DT Christian,AR Patel,0,caught
+9.3,Swapnil Singh,DT Christian,AR Patel,1,Not out
+9.4,AR Patel,DT Christian,Swapnil Singh,1,Not out
+9.5,Swapnil Singh,DT Christian,AR Patel,0,Not out
+9.6,Swapnil Singh,DT Christian,AR Patel,2,Not out
+10.1,AR Patel,A Zampa,Swapnil Singh,1,Not out
+10.2,Swapnil Singh,A Zampa,AR Patel,1,Not out
+10.3,AR Patel,A Zampa,Swapnil Singh,1,Not out
+10.4,Swapnil Singh,A Zampa,AR Patel,0,Not out
+10.5,Swapnil Singh,A Zampa,AR Patel,0,Not out
+10.6,Swapnil Singh,A Zampa,AR Patel,1,Not out
+11.1,Swapnil Singh,DT Christian,AR Patel,1,Not out
+11.2,AR Patel,DT Christian,Swapnil Singh,2,Not out
+11.3,AR Patel,DT Christian,Swapnil Singh,0,caught
+11.4,MM Sharma,DT Christian,Swapnil Singh,1,Not out
+11.5,Swapnil Singh,DT Christian,MM Sharma,1,Not out
+11.6,MM Sharma,DT Christian,Swapnil Singh,0,Not out
+12.1,Swapnil Singh,A Zampa,MM Sharma,0,Not out
+12.2,Swapnil Singh,A Zampa,MM Sharma,1,Not out
+12.3,MM Sharma,A Zampa,Swapnil Singh,1,Not out
+12.4,Swapnil Singh,A Zampa,MM Sharma,1,Not out
+12.5,MM Sharma,A Zampa,Swapnil Singh,1,Not out
+12.6,Swapnil Singh,A Zampa,MM Sharma,1,Not out
+13.1,Swapnil Singh,JD Unadkat,MM Sharma,0,Not out
+13.2,Swapnil Singh,JD Unadkat,MM Sharma,0,Not out
+13.3,Swapnil Singh,JD Unadkat,MM Sharma,0,Not out
+13.4,Swapnil Singh,JD Unadkat,MM Sharma,0,caught
+13.5,I Sharma,JD Unadkat,MM Sharma,0,Not out
+13.6,I Sharma,JD Unadkat,MM Sharma,0,Not out
+14.1,MM Sharma,BA Stokes,I Sharma,0,Not out
+14.2,MM Sharma,BA Stokes,I Sharma,0,Not out
+14.3,MM Sharma,BA Stokes,I Sharma,0,Not out
+14.4,MM Sharma,BA Stokes,I Sharma,1,Not out
+14.5,I Sharma,BA Stokes,MM Sharma,0,Not out
+14.6,I Sharma,BA Stokes,MM Sharma,1,Not out
+15.1,I Sharma,A Zampa,MM Sharma,0,caught
+15.2,MM Sharma,A Zampa,Sandeep Sharma,2,Not out
+15.3,MM Sharma,A Zampa,Sandeep Sharma,0,Not out
+15.4,MM Sharma,A Zampa,Sandeep Sharma,0,Not out
+15.5,MM Sharma,A Zampa,Sandeep Sharma,0,caught

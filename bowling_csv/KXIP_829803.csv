@@ -1,0 +1,64 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,CH Gayle,Sandeep Sharma,V Kohli,0,Not out
+0.2,CH Gayle,Sandeep Sharma,V Kohli,0,Not out
+0.3,CH Gayle,Sandeep Sharma,V Kohli,6,Not out
+0.4,CH Gayle,Sandeep Sharma,V Kohli,0,Not out
+0.5,CH Gayle,Sandeep Sharma,V Kohli,4,Not out
+0.6,CH Gayle,Sandeep Sharma,V Kohli,0,Not out
+1.1,V Kohli,BE Hendricks,CH Gayle,0,Not out
+1.2,V Kohli,BE Hendricks,CH Gayle,0,Not out
+1.3,V Kohli,BE Hendricks,CH Gayle,1,Not out
+1.4,CH Gayle,BE Hendricks,V Kohli,2,Not out
+1.5,CH Gayle,BE Hendricks,V Kohli,1,Not out
+1.6,V Kohli,BE Hendricks,CH Gayle,2,Not out
+2.1,CH Gayle,Anureet Singh,V Kohli,0,Not out
+2.2,V Kohli,Anureet Singh,CH Gayle,4,Not out
+2.3,V Kohli,Anureet Singh,CH Gayle,2,Not out
+2.4,V Kohli,Anureet Singh,CH Gayle,6,Not out
+2.5,V Kohli,Anureet Singh,CH Gayle,4,Not out
+2.6,V Kohli,Anureet Singh,CH Gayle,0,bowled
+3.1,CH Gayle,R Dhawan,AB de Villiers,1,Not out
+3.2,AB de Villiers,R Dhawan,CH Gayle,1,Not out
+3.3,CH Gayle,R Dhawan,AB de Villiers,1,Not out
+3.4,AB de Villiers,R Dhawan,CH Gayle,1,Not out
+3.5,CH Gayle,R Dhawan,AB de Villiers,1,Not out
+3.6,AB de Villiers,R Dhawan,CH Gayle,1,Not out
+4.1,AB de Villiers,Sandeep Sharma,CH Gayle,0,Not out
+4.2,AB de Villiers,Sandeep Sharma,CH Gayle,1,Not out
+4.3,CH Gayle,Sandeep Sharma,AB de Villiers,1,Not out
+4.4,AB de Villiers,Sandeep Sharma,CH Gayle,1,Not out
+4.5,CH Gayle,Sandeep Sharma,AB de Villiers,0,Not out
+4.6,CH Gayle,Sandeep Sharma,AB de Villiers,0,caught
+4.7,Mandeep Singh,Sandeep Sharma,AB de Villiers,4,Not out
+4.8,Mandeep Singh,Sandeep Sharma,AB de Villiers,1,Not out
+5.1,Mandeep Singh,R Dhawan,AB de Villiers,1,Not out
+5.2,AB de Villiers,R Dhawan,Mandeep Singh,4,Not out
+5.3,AB de Villiers,R Dhawan,Mandeep Singh,1,Not out
+5.4,Mandeep Singh,R Dhawan,AB de Villiers,2,Not out
+5.5,Mandeep Singh,R Dhawan,AB de Villiers,2,Not out
+5.6,Mandeep Singh,R Dhawan,AB de Villiers,2,Not out
+6.1,AB de Villiers,AR Patel,Mandeep Singh,0,Not out
+6.2,Mandeep Singh,AR Patel,AB de Villiers,4,Not out
+6.3,Mandeep Singh,AR Patel,AB de Villiers,0,Not out
+6.4,AB de Villiers,AR Patel,Mandeep Singh,0,caught
+6.5,KD Karthik,AR Patel,Mandeep Singh,1,Not out
+6.6,Mandeep Singh,AR Patel,KD Karthik,1,Not out
+7.1,Mandeep Singh,BE Hendricks,KD Karthik,1,Not out
+7.2,KD Karthik,BE Hendricks,Mandeep Singh,0,Not out
+7.3,KD Karthik,BE Hendricks,Mandeep Singh,1,Not out
+7.4,Mandeep Singh,BE Hendricks,KD Karthik,1,Not out
+7.5,KD Karthik,BE Hendricks,Mandeep Singh,0,caught
+7.6,Mandeep Singh,BE Hendricks,SN Khan,0,Not out
+8.1,SN Khan,AR Patel,Mandeep Singh,1,Not out
+8.2,Mandeep Singh,AR Patel,SN Khan,1,Not out
+8.3,SN Khan,AR Patel,Mandeep Singh,1,Not out
+8.4,Mandeep Singh,AR Patel,SN Khan,0,caught
+8.5,SN Khan,AR Patel,D Wiese,1,Not out
+8.6,D Wiese,AR Patel,SN Khan,1,Not out
+9.1,D Wiese,Anureet Singh,SN Khan,1,Not out
+9.2,SN Khan,Anureet Singh,D Wiese,0,Not out
+9.3,SN Khan,Anureet Singh,D Wiese,1,Not out
+9.4,D Wiese,Anureet Singh,SN Khan,0,Not out
+9.5,D Wiese,Anureet Singh,SN Khan,1,Not out
+9.6,SN Khan,Anureet Singh,D Wiese,0,caught
+9.7,D Wiese,Anureet Singh,HV Patel,1,Not out

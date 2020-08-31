@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,S Dhawan,Iqbal Abdulla,IR Jaggi,0,Not out
+0.2,S Dhawan,Iqbal Abdulla,IR Jaggi,1,Not out
+0.3,IR Jaggi,Iqbal Abdulla,S Dhawan,0,Not out
+0.4,IR Jaggi,Iqbal Abdulla,S Dhawan,0,Not out
+0.5,IR Jaggi,Iqbal Abdulla,S Dhawan,0,Not out
+0.6,IR Jaggi,Iqbal Abdulla,S Dhawan,0,Not out
+1.1,S Dhawan,L Balaji,IR Jaggi,0,Not out
+1.2,S Dhawan,L Balaji,IR Jaggi,0,Not out
+1.3,S Dhawan,L Balaji,IR Jaggi,0,Not out
+1.4,S Dhawan,L Balaji,IR Jaggi,4,Not out
+1.5,S Dhawan,L Balaji,IR Jaggi,1,Not out
+1.6,IR Jaggi,L Balaji,S Dhawan,0,Not out
+1.7,IR Jaggi,L Balaji,S Dhawan,1,Not out
+2.1,IR Jaggi,Iqbal Abdulla,S Dhawan,0,Not out
+2.2,IR Jaggi,Iqbal Abdulla,S Dhawan,2,Not out
+2.3,IR Jaggi,Iqbal Abdulla,S Dhawan,0,bowled
+2.4,B Chipli,Iqbal Abdulla,S Dhawan,0,Not out
+2.5,B Chipli,Iqbal Abdulla,S Dhawan,4,Not out
+2.6,B Chipli,Iqbal Abdulla,S Dhawan,0,Not out
+3.1,S Dhawan,L Balaji,B Chipli,1,Not out
+3.2,B Chipli,L Balaji,S Dhawan,0,run out
+3.3,B Chipli,L Balaji,KC Sangakkara,0,Not out
+3.4,B Chipli,L Balaji,KC Sangakkara,1,Not out
+3.5,KC Sangakkara,L Balaji,B Chipli,0,Not out
+3.6,KC Sangakkara,L Balaji,B Chipli,1,Not out
+4.1,KC Sangakkara,YK Pathan,B Chipli,1,Not out
+4.2,B Chipli,YK Pathan,KC Sangakkara,0,Not out
+4.3,B Chipli,YK Pathan,KC Sangakkara,0,Not out
+4.4,B Chipli,YK Pathan,KC Sangakkara,0,Not out
+4.5,B Chipli,YK Pathan,KC Sangakkara,1,Not out
+4.6,KC Sangakkara,YK Pathan,B Chipli,4,Not out
+5.1,B Chipli,JD Unadkat,KC Sangakkara,4,Not out
+5.2,B Chipli,JD Unadkat,KC Sangakkara,0,Not out
+5.3,B Chipli,JD Unadkat,KC Sangakkara,1,Not out
+5.4,KC Sangakkara,JD Unadkat,B Chipli,1,Not out
+5.5,B Chipli,JD Unadkat,KC Sangakkara,0,Not out
+5.6,B Chipli,JD Unadkat,KC Sangakkara,1,Not out
+6.1,B Chipli,R Bhatia,KC Sangakkara,1,Not out
+6.2,KC Sangakkara,R Bhatia,B Chipli,1,Not out
+6.3,B Chipli,R Bhatia,KC Sangakkara,1,Not out
+6.4,KC Sangakkara,R Bhatia,B Chipli,1,Not out
+6.5,B Chipli,R Bhatia,KC Sangakkara,4,Not out
+6.6,B Chipli,R Bhatia,KC Sangakkara,1,Not out
+7.1,B Chipli,YK Pathan,KC Sangakkara,4,Not out
+7.2,B Chipli,YK Pathan,KC Sangakkara,1,Not out
+7.3,KC Sangakkara,YK Pathan,B Chipli,0,Not out
+7.4,KC Sangakkara,YK Pathan,B Chipli,2,Not out
+7.5,KC Sangakkara,YK Pathan,B Chipli,0,Not out
+7.6,B Chipli,YK Pathan,KC Sangakkara,0,Not out
+8.1,KC Sangakkara,R Bhatia,B Chipli,4,Not out
+8.2,KC Sangakkara,R Bhatia,B Chipli,0,Not out
+8.3,KC Sangakkara,R Bhatia,B Chipli,1,Not out
+8.4,B Chipli,R Bhatia,KC Sangakkara,1,Not out
+8.5,KC Sangakkara,R Bhatia,B Chipli,0,Not out
+8.6,KC Sangakkara,R Bhatia,B Chipli,0,caught
+9.1,JP Duminy,YK Pathan,B Chipli,0,Not out
+9.2,JP Duminy,YK Pathan,B Chipli,1,Not out
+9.3,B Chipli,YK Pathan,JP Duminy,6,Not out
+9.4,B Chipli,YK Pathan,JP Duminy,1,Not out
+9.5,JP Duminy,YK Pathan,B Chipli,1,Not out
+9.6,B Chipli,YK Pathan,JP Duminy,0,Not out
+10.1,JP Duminy,RN ten Doeschate,B Chipli,1,Not out
+10.2,B Chipli,RN ten Doeschate,JP Duminy,0,Not out
+10.3,B Chipli,RN ten Doeschate,JP Duminy,1,Not out
+10.4,JP Duminy,RN ten Doeschate,B Chipli,1,Not out
+10.5,B Chipli,RN ten Doeschate,JP Duminy,1,Not out
+10.6,JP Duminy,RN ten Doeschate,B Chipli,1,Not out
+10.7,B Chipli,RN ten Doeschate,JP Duminy,1,Not out
+11.1,B Chipli,R Bhatia,JP Duminy,0,Not out
+11.2,B Chipli,R Bhatia,JP Duminy,4,Not out
+11.3,B Chipli,R Bhatia,JP Duminy,1,Not out
+11.4,JP Duminy,R Bhatia,B Chipli,1,Not out
+11.5,B Chipli,R Bhatia,JP Duminy,4,Not out
+11.6,B Chipli,R Bhatia,JP Duminy,0,Not out
+12.1,B Chipli,Iqbal Abdulla,JP Duminy,0,Not out
+12.2,JP Duminy,Iqbal Abdulla,B Chipli,0,caught
+12.3,B Chipli,Iqbal Abdulla,DT Christian,1,Not out
+12.4,DT Christian,Iqbal Abdulla,B Chipli,0,Not out
+12.5,DT Christian,Iqbal Abdulla,B Chipli,1,Not out
+12.6,B Chipli,Iqbal Abdulla,DT Christian,1,Not out
+13.1,B Chipli,R Bhatia,DT Christian,1,Not out
+13.2,DT Christian,R Bhatia,B Chipli,0,Not out
+13.3,DT Christian,R Bhatia,B Chipli,1,Not out
+13.4,B Chipli,R Bhatia,DT Christian,1,Not out
+13.5,DT Christian,R Bhatia,B Chipli,1,Not out
+13.6,B Chipli,R Bhatia,DT Christian,0,caught
+14.1,DT Christian,L Balaji,DB Ravi Teja,1,Not out
+14.2,DB Ravi Teja,L Balaji,DT Christian,0,Not out
+14.3,DB Ravi Teja,L Balaji,DT Christian,4,Not out
+14.4,DB Ravi Teja,L Balaji,DT Christian,1,Not out
+14.5,DT Christian,L Balaji,DB Ravi Teja,6,Not out
+14.6,DT Christian,L Balaji,DB Ravi Teja,1,Not out
+15.1,DT Christian,JD Unadkat,DB Ravi Teja,3,Not out
+15.2,DB Ravi Teja,JD Unadkat,DT Christian,1,Not out
+15.3,DT Christian,JD Unadkat,DB Ravi Teja,1,Not out
+15.4,DB Ravi Teja,JD Unadkat,DT Christian,0,Not out
+15.5,DB Ravi Teja,JD Unadkat,DT Christian,6,Not out
+15.6,DB Ravi Teja,JD Unadkat,DT Christian,0,Not out
+16.1,DB Ravi Teja,Iqbal Abdulla,DT Christian,1,Not out
+16.2,DT Christian,Iqbal Abdulla,DB Ravi Teja,4,Not out
+16.3,DT Christian,Iqbal Abdulla,DB Ravi Teja,6,Not out
+16.4,DT Christian,Iqbal Abdulla,DB Ravi Teja,0,caught
+16.5,DB Ravi Teja,Iqbal Abdulla,DW Steyn,1,Not out
+16.6,DW Steyn,Iqbal Abdulla,DB Ravi Teja,2,Not out
+17.1,DB Ravi Teja,JD Unadkat,DW Steyn,0,caught
+17.2,DW Steyn,JD Unadkat,A Mishra,1,Not out
+17.3,A Mishra,JD Unadkat,DW Steyn,1,Not out
+17.4,DW Steyn,JD Unadkat,A Mishra,0,Not out
+17.5,DW Steyn,JD Unadkat,A Mishra,0,Not out
+17.6,DW Steyn,JD Unadkat,A Mishra,4,Not out
+17.7,DW Steyn,JD Unadkat,A Mishra,1,Not out
+18.1,DW Steyn,L Balaji,A Mishra,1,Not out
+18.2,A Mishra,L Balaji,DW Steyn,4,Not out
+18.3,A Mishra,L Balaji,DW Steyn,1,Not out
+18.4,DW Steyn,L Balaji,A Mishra,1,Not out
+18.5,A Mishra,L Balaji,DW Steyn,0,Not out
+18.6,DW Steyn,L Balaji,A Mishra,1,Not out
+19.1,DW Steyn,JD Unadkat,A Mishra,2,Not out
+19.2,DW Steyn,JD Unadkat,A Mishra,0,Not out
+19.3,DW Steyn,JD Unadkat,A Mishra,0,Not out
+19.4,DW Steyn,JD Unadkat,A Mishra,0,bowled
+19.5,I Sharma,JD Unadkat,A Mishra,1,Not out
+19.6,A Mishra,JD Unadkat,I Sharma,0,Not out
+19.7,A Mishra,JD Unadkat,I Sharma,6,Not out

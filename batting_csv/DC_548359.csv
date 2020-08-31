@@ -1,0 +1,124 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DJ Harris,RR Powar,S Dhawan,0,Not out
+0.2,DJ Harris,RR Powar,S Dhawan,1,Not out
+0.3,S Dhawan,RR Powar,DJ Harris,0,Not out
+0.4,S Dhawan,RR Powar,DJ Harris,0,Not out
+0.5,S Dhawan,RR Powar,DJ Harris,4,Not out
+0.6,S Dhawan,RR Powar,DJ Harris,3,Not out
+1.1,S Dhawan,P Kumar,DJ Harris,1,Not out
+1.2,DJ Harris,P Kumar,S Dhawan,0,Not out
+1.3,DJ Harris,P Kumar,S Dhawan,0,Not out
+1.4,DJ Harris,P Kumar,S Dhawan,1,Not out
+1.5,S Dhawan,P Kumar,DJ Harris,0,caught
+1.6,PA Patel,P Kumar,DJ Harris,0,Not out
+2.1,DJ Harris,PP Chawla,PA Patel,1,Not out
+2.2,PA Patel,PP Chawla,DJ Harris,1,Not out
+2.3,DJ Harris,PP Chawla,PA Patel,0,Not out
+2.4,DJ Harris,PP Chawla,PA Patel,1,Not out
+2.5,PA Patel,PP Chawla,DJ Harris,2,Not out
+2.6,PA Patel,PP Chawla,DJ Harris,1,Not out
+3.1,PA Patel,P Kumar,DJ Harris,1,Not out
+3.2,DJ Harris,P Kumar,PA Patel,0,Not out
+3.3,DJ Harris,P Kumar,PA Patel,1,Not out
+3.4,PA Patel,P Kumar,DJ Harris,1,Not out
+3.5,DJ Harris,P Kumar,PA Patel,0,Not out
+3.6,PA Patel,P Kumar,DJ Harris,1,Not out
+4.1,PA Patel,P Awana,DJ Harris,4,Not out
+4.2,PA Patel,P Awana,DJ Harris,0,Not out
+4.3,PA Patel,P Awana,DJ Harris,0,Not out
+4.4,PA Patel,P Awana,DJ Harris,0,Not out
+4.5,PA Patel,P Awana,DJ Harris,6,Not out
+4.6,PA Patel,P Awana,DJ Harris,0,bowled
+5.1,DJ Harris,Azhar Mahmood,CL White,0,Not out
+5.2,DJ Harris,Azhar Mahmood,CL White,0,Not out
+5.3,DJ Harris,Azhar Mahmood,CL White,1,Not out
+5.4,CL White,Azhar Mahmood,DJ Harris,0,Not out
+5.5,CL White,Azhar Mahmood,DJ Harris,0,Not out
+5.6,CL White,Azhar Mahmood,DJ Harris,1,Not out
+5.7,DJ Harris,Azhar Mahmood,CL White,1,Not out
+5.8,CL White,Azhar Mahmood,DJ Harris,0,Not out
+6.1,DJ Harris,PP Chawla,CL White,6,Not out
+6.2,DJ Harris,PP Chawla,CL White,0,Not out
+6.3,DJ Harris,PP Chawla,CL White,0,Not out
+6.4,DJ Harris,PP Chawla,CL White,1,Not out
+6.5,CL White,PP Chawla,DJ Harris,0,Not out
+6.6,CL White,PP Chawla,DJ Harris,4,Not out
+7.1,DJ Harris,RR Powar,CL White,4,Not out
+7.2,DJ Harris,RR Powar,CL White,2,Not out
+7.3,DJ Harris,RR Powar,CL White,4,Not out
+7.4,DJ Harris,RR Powar,CL White,1,Not out
+7.5,CL White,RR Powar,DJ Harris,1,Not out
+7.6,DJ Harris,RR Powar,CL White,1,Not out
+8.1,DJ Harris,P Awana,CL White,0,Not out
+8.2,DJ Harris,P Awana,CL White,2,Not out
+8.3,DJ Harris,P Awana,CL White,1,Not out
+8.4,CL White,P Awana,DJ Harris,0,Not out
+8.5,CL White,P Awana,DJ Harris,1,Not out
+8.6,DJ Harris,P Awana,CL White,0,Not out
+9.1,CL White,Azhar Mahmood,DJ Harris,0,Not out
+9.2,CL White,Azhar Mahmood,DJ Harris,0,Not out
+9.3,CL White,Azhar Mahmood,DJ Harris,1,Not out
+9.4,DJ Harris,Azhar Mahmood,CL White,1,Not out
+9.5,CL White,Azhar Mahmood,DJ Harris,0,Not out
+9.6,CL White,Azhar Mahmood,DJ Harris,0,Not out
+10.1,DJ Harris,DJ Hussey,CL White,0,caught
+10.2,KC Sangakkara,DJ Hussey,CL White,0,Not out
+10.3,KC Sangakkara,DJ Hussey,CL White,1,Not out
+10.4,CL White,DJ Hussey,KC Sangakkara,0,caught
+10.5,KC Sangakkara,DJ Hussey,PA Reddy,0,Not out
+10.6,KC Sangakkara,DJ Hussey,PA Reddy,1,Not out
+11.1,KC Sangakkara,P Kumar,PA Reddy,2,Not out
+11.2,KC Sangakkara,P Kumar,PA Reddy,0,caught
+11.3,AA Jhunjhunwala,P Kumar,PA Reddy,0,Not out
+11.4,AA Jhunjhunwala,P Kumar,PA Reddy,0,Not out
+11.5,AA Jhunjhunwala,P Kumar,PA Reddy,0,Not out
+11.6,AA Jhunjhunwala,P Kumar,PA Reddy,1,Not out
+12.1,AA Jhunjhunwala,PP Chawla,PA Reddy,1,Not out
+12.2,PA Reddy,PP Chawla,AA Jhunjhunwala,1,Not out
+12.3,AA Jhunjhunwala,PP Chawla,PA Reddy,0,Not out
+12.4,AA Jhunjhunwala,PP Chawla,PA Reddy,3,Not out
+12.5,PA Reddy,PP Chawla,AA Jhunjhunwala,1,Not out
+12.6,AA Jhunjhunwala,PP Chawla,PA Reddy,0,Not out
+13.1,PA Reddy,RR Powar,AA Jhunjhunwala,1,Not out
+13.2,AA Jhunjhunwala,RR Powar,PA Reddy,1,Not out
+13.3,PA Reddy,RR Powar,AA Jhunjhunwala,1,Not out
+13.4,AA Jhunjhunwala,RR Powar,PA Reddy,1,Not out
+13.5,PA Reddy,RR Powar,AA Jhunjhunwala,1,Not out
+13.6,AA Jhunjhunwala,RR Powar,PA Reddy,6,Not out
+14.1,PA Reddy,P Awana,AA Jhunjhunwala,0,Not out
+14.2,PA Reddy,P Awana,AA Jhunjhunwala,2,Not out
+14.3,PA Reddy,P Awana,AA Jhunjhunwala,1,Not out
+14.4,AA Jhunjhunwala,P Awana,PA Reddy,1,Not out
+14.5,PA Reddy,P Awana,AA Jhunjhunwala,1,Not out
+14.6,AA Jhunjhunwala,P Awana,PA Reddy,0,Not out
+14.7,AA Jhunjhunwala,P Awana,PA Reddy,1,Not out
+15.1,AA Jhunjhunwala,Azhar Mahmood,PA Reddy,0,Not out
+15.2,AA Jhunjhunwala,Azhar Mahmood,PA Reddy,1,Not out
+15.3,PA Reddy,Azhar Mahmood,AA Jhunjhunwala,4,Not out
+15.4,PA Reddy,Azhar Mahmood,AA Jhunjhunwala,1,Not out
+15.5,AA Jhunjhunwala,Azhar Mahmood,PA Reddy,1,Not out
+15.6,PA Reddy,Azhar Mahmood,AA Jhunjhunwala,4,Not out
+16.1,AA Jhunjhunwala,PP Chawla,PA Reddy,1,Not out
+16.2,PA Reddy,PP Chawla,AA Jhunjhunwala,6,Not out
+16.3,PA Reddy,PP Chawla,AA Jhunjhunwala,0,stumped
+16.4,A Ashish Reddy,PP Chawla,AA Jhunjhunwala,1,Not out
+16.5,AA Jhunjhunwala,PP Chawla,A Ashish Reddy,1,Not out
+16.6,A Ashish Reddy,PP Chawla,AA Jhunjhunwala,1,Not out
+17.1,A Ashish Reddy,P Kumar,AA Jhunjhunwala,1,Not out
+17.2,AA Jhunjhunwala,P Kumar,A Ashish Reddy,0,run out
+17.3,A Ashish Reddy,P Kumar,J Theron,0,Not out
+17.4,A Ashish Reddy,P Kumar,J Theron,4,Not out
+17.5,A Ashish Reddy,P Kumar,J Theron,1,Not out
+17.6,J Theron,P Kumar,A Ashish Reddy,0,Not out
+18.1,A Ashish Reddy,P Awana,J Theron,0,Not out
+18.2,A Ashish Reddy,P Awana,J Theron,0,caught
+18.3,J Theron,P Awana,A Mishra,0,Not out
+18.4,J Theron,P Awana,A Mishra,1,Not out
+18.5,A Mishra,P Awana,J Theron,1,Not out
+18.6,J Theron,P Awana,A Mishra,4,Not out
+19.1,A Mishra,Azhar Mahmood,J Theron,1,Not out
+19.2,J Theron,Azhar Mahmood,A Mishra,1,Not out
+19.3,A Mishra,Azhar Mahmood,J Theron,1,Not out
+19.4,J Theron,Azhar Mahmood,A Mishra,1,Not out
+19.5,A Mishra,Azhar Mahmood,J Theron,4,Not out
+19.6,A Mishra,Azhar Mahmood,J Theron,1,Not out

@@ -1,0 +1,122 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,JH Kallis,RJ Harris,MK Pandey,3,Not out
+0.2,MK Pandey,RJ Harris,JH Kallis,0,Not out
+0.3,MK Pandey,RJ Harris,JH Kallis,0,Not out
+0.4,MK Pandey,RJ Harris,JH Kallis,0,Not out
+0.5,MK Pandey,RJ Harris,JH Kallis,1,Not out
+0.6,JH Kallis,RJ Harris,MK Pandey,0,Not out
+1.1,MK Pandey,RP Singh,JH Kallis,1,Not out
+1.2,JH Kallis,RP Singh,MK Pandey,2,Not out
+1.3,JH Kallis,RP Singh,MK Pandey,0,Not out
+1.4,JH Kallis,RP Singh,MK Pandey,0,Not out
+1.5,JH Kallis,RP Singh,MK Pandey,0,Not out
+1.6,JH Kallis,RP Singh,MK Pandey,0,caught
+2.1,MK Pandey,RJ Harris,RE van der Merwe,0,Not out
+2.2,MK Pandey,RJ Harris,RE van der Merwe,0,Not out
+2.3,MK Pandey,RJ Harris,RE van der Merwe,4,Not out
+2.4,MK Pandey,RJ Harris,RE van der Merwe,4,Not out
+2.5,MK Pandey,RJ Harris,RE van der Merwe,0,Not out
+2.6,MK Pandey,RJ Harris,RE van der Merwe,0,Not out
+3.1,RE van der Merwe,RP Singh,MK Pandey,0,Not out
+3.2,RE van der Merwe,RP Singh,MK Pandey,0,Not out
+3.3,RE van der Merwe,RP Singh,MK Pandey,0,Not out
+3.4,RE van der Merwe,RP Singh,MK Pandey,2,Not out
+3.5,RE van der Merwe,RP Singh,MK Pandey,4,Not out
+3.6,RE van der Merwe,RP Singh,MK Pandey,4,Not out
+4.1,MK Pandey,RJ Harris,RE van der Merwe,2,Not out
+4.2,MK Pandey,RJ Harris,RE van der Merwe,1,Not out
+4.3,RE van der Merwe,RJ Harris,MK Pandey,0,Not out
+4.4,RE van der Merwe,RJ Harris,MK Pandey,0,Not out
+4.5,RE van der Merwe,RJ Harris,MK Pandey,1,Not out
+4.6,MK Pandey,RJ Harris,RE van der Merwe,2,Not out
+5.1,RE van der Merwe,A Symonds,MK Pandey,0,Not out
+5.2,RE van der Merwe,A Symonds,MK Pandey,1,Not out
+5.3,MK Pandey,A Symonds,RE van der Merwe,0,Not out
+5.4,MK Pandey,A Symonds,RE van der Merwe,0,Not out
+5.5,MK Pandey,A Symonds,RE van der Merwe,0,Not out
+5.6,MK Pandey,A Symonds,RE van der Merwe,1,Not out
+6.1,MK Pandey,Jaskaran Singh,RE van der Merwe,4,Not out
+6.2,MK Pandey,Jaskaran Singh,RE van der Merwe,0,Not out
+6.3,MK Pandey,Jaskaran Singh,RE van der Merwe,2,Not out
+6.4,MK Pandey,Jaskaran Singh,RE van der Merwe,0,Not out
+6.5,MK Pandey,Jaskaran Singh,RE van der Merwe,0,Not out
+6.6,MK Pandey,Jaskaran Singh,RE van der Merwe,0,Not out
+7.1,RE van der Merwe,PP Ojha,MK Pandey,1,Not out
+7.2,MK Pandey,PP Ojha,RE van der Merwe,1,Not out
+7.3,RE van der Merwe,PP Ojha,MK Pandey,4,Not out
+7.4,RE van der Merwe,PP Ojha,MK Pandey,0,Not out
+7.5,RE van der Merwe,PP Ojha,MK Pandey,6,Not out
+7.6,RE van der Merwe,PP Ojha,MK Pandey,0,Not out
+8.1,MK Pandey,Jaskaran Singh,RE van der Merwe,4,Not out
+8.2,MK Pandey,Jaskaran Singh,RE van der Merwe,0,Not out
+8.3,MK Pandey,Jaskaran Singh,RE van der Merwe,2,Not out
+8.4,MK Pandey,Jaskaran Singh,RE van der Merwe,0,Not out
+8.5,MK Pandey,Jaskaran Singh,RE van der Merwe,2,Not out
+8.6,MK Pandey,Jaskaran Singh,RE van der Merwe,1,Not out
+8.7,RE van der Merwe,Jaskaran Singh,MK Pandey,0,Not out
+9.1,MK Pandey,A Symonds,RE van der Merwe,1,Not out
+9.2,RE van der Merwe,A Symonds,MK Pandey,0,stumped
+9.3,R Dravid,A Symonds,MK Pandey,0,Not out
+9.4,R Dravid,A Symonds,MK Pandey,0,Not out
+9.5,R Dravid,A Symonds,MK Pandey,1,Not out
+9.6,MK Pandey,A Symonds,R Dravid,1,Not out
+10.1,MK Pandey,TL Suman,R Dravid,2,Not out
+10.2,MK Pandey,TL Suman,R Dravid,2,Not out
+10.3,MK Pandey,TL Suman,R Dravid,6,Not out
+10.4,MK Pandey,TL Suman,R Dravid,6,Not out
+10.5,MK Pandey,TL Suman,R Dravid,2,Not out
+10.6,MK Pandey,TL Suman,R Dravid,0,Not out
+11.1,R Dravid,PP Ojha,MK Pandey,1,Not out
+11.2,MK Pandey,PP Ojha,R Dravid,1,Not out
+11.3,R Dravid,PP Ojha,MK Pandey,1,Not out
+11.4,MK Pandey,PP Ojha,R Dravid,2,Not out
+11.5,MK Pandey,PP Ojha,R Dravid,2,Not out
+11.6,MK Pandey,PP Ojha,R Dravid,1,Not out
+12.1,MK Pandey,A Symonds,R Dravid,1,Not out
+12.2,R Dravid,A Symonds,MK Pandey,1,Not out
+12.3,MK Pandey,A Symonds,R Dravid,1,Not out
+12.4,R Dravid,A Symonds,MK Pandey,1,Not out
+12.5,MK Pandey,A Symonds,R Dravid,0,Not out
+12.6,MK Pandey,A Symonds,R Dravid,1,Not out
+13.1,MK Pandey,RP Singh,R Dravid,4,Not out
+13.2,MK Pandey,RP Singh,R Dravid,1,Not out
+13.3,R Dravid,RP Singh,MK Pandey,1,Not out
+13.4,MK Pandey,RP Singh,R Dravid,4,Not out
+13.5,MK Pandey,RP Singh,R Dravid,0,Not out
+13.6,MK Pandey,RP Singh,R Dravid,1,Not out
+14.1,MK Pandey,PP Ojha,R Dravid,1,Not out
+14.2,R Dravid,PP Ojha,MK Pandey,0,caught
+14.3,MK Pandey,PP Ojha,LRPL Taylor,0,Not out
+14.4,MK Pandey,PP Ojha,LRPL Taylor,4,Not out
+14.5,MK Pandey,PP Ojha,LRPL Taylor,4,Not out
+14.6,MK Pandey,PP Ojha,LRPL Taylor,1,Not out
+15.1,MK Pandey,Jaskaran Singh,LRPL Taylor,2,Not out
+15.2,MK Pandey,Jaskaran Singh,LRPL Taylor,4,Not out
+15.3,MK Pandey,Jaskaran Singh,LRPL Taylor,6,Not out
+15.4,MK Pandey,Jaskaran Singh,LRPL Taylor,0,Not out
+15.5,MK Pandey,Jaskaran Singh,LRPL Taylor,4,Not out
+15.6,MK Pandey,Jaskaran Singh,LRPL Taylor,0,Not out
+16.1,LRPL Taylor,PP Ojha,MK Pandey,1,Not out
+16.2,MK Pandey,PP Ojha,LRPL Taylor,0,Not out
+16.3,MK Pandey,PP Ojha,LRPL Taylor,1,Not out
+16.4,LRPL Taylor,PP Ojha,MK Pandey,0,Not out
+16.5,LRPL Taylor,PP Ojha,MK Pandey,0,Not out
+16.6,LRPL Taylor,PP Ojha,MK Pandey,0,caught
+17.1,V Kohli,A Symonds,MK Pandey,1,Not out
+17.2,MK Pandey,A Symonds,V Kohli,1,Not out
+17.3,V Kohli,A Symonds,MK Pandey,0,Not out
+17.4,V Kohli,A Symonds,MK Pandey,1,Not out
+17.5,MK Pandey,A Symonds,V Kohli,0,Not out
+17.6,MK Pandey,A Symonds,V Kohli,2,Not out
+18.1,V Kohli,RJ Harris,MK Pandey,1,Not out
+18.2,MK Pandey,RJ Harris,V Kohli,1,Not out
+18.3,V Kohli,RJ Harris,MK Pandey,2,Not out
+18.4,V Kohli,RJ Harris,MK Pandey,0,Not out
+18.5,MK Pandey,RJ Harris,V Kohli,2,Not out
+18.6,MK Pandey,RJ Harris,V Kohli,1,Not out
+19.1,MK Pandey,RP Singh,V Kohli,2,Not out
+19.2,MK Pandey,RP Singh,V Kohli,6,Not out
+19.3,MK Pandey,RP Singh,V Kohli,1,Not out
+19.4,V Kohli,RP Singh,MK Pandey,6,Not out
+19.5,V Kohli,RP Singh,MK Pandey,2,Not out
+19.6,V Kohli,RP Singh,MK Pandey,6,Not out

@@ -1,0 +1,122 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,R Dravid,SL Malinga,AM Rahane,2,Not out
+0.2,R Dravid,SL Malinga,AM Rahane,1,Not out
+0.3,AM Rahane,SL Malinga,R Dravid,4,Not out
+0.4,AM Rahane,SL Malinga,R Dravid,0,Not out
+0.5,AM Rahane,SL Malinga,R Dravid,0,Not out
+0.6,AM Rahane,SL Malinga,R Dravid,0,Not out
+1.1,R Dravid,MM Patel,AM Rahane,0,Not out
+1.2,R Dravid,MM Patel,AM Rahane,0,Not out
+1.3,R Dravid,MM Patel,AM Rahane,0,caught
+1.4,SP Goswami,MM Patel,AM Rahane,0,caught
+1.5,OA Shah,MM Patel,AM Rahane,1,Not out
+1.6,AM Rahane,MM Patel,OA Shah,1,Not out
+2.1,AM Rahane,SL Malinga,OA Shah,0,Not out
+2.2,AM Rahane,SL Malinga,OA Shah,0,Not out
+2.3,AM Rahane,SL Malinga,OA Shah,0,Not out
+2.4,AM Rahane,SL Malinga,OA Shah,2,Not out
+2.5,AM Rahane,SL Malinga,OA Shah,1,Not out
+2.6,OA Shah,SL Malinga,AM Rahane,0,Not out
+3.1,AM Rahane,MM Patel,OA Shah,0,Not out
+3.2,AM Rahane,MM Patel,OA Shah,4,Not out
+3.3,AM Rahane,MM Patel,OA Shah,0,Not out
+3.4,AM Rahane,MM Patel,OA Shah,6,Not out
+3.5,AM Rahane,MM Patel,OA Shah,0,Not out
+3.6,AM Rahane,MM Patel,OA Shah,1,Not out
+4.1,AM Rahane,JEC Franklin,OA Shah,1,Not out
+4.2,OA Shah,JEC Franklin,AM Rahane,0,Not out
+4.3,OA Shah,JEC Franklin,AM Rahane,3,Not out
+4.4,AM Rahane,JEC Franklin,OA Shah,1,Not out
+4.5,OA Shah,JEC Franklin,AM Rahane,6,Not out
+4.6,OA Shah,JEC Franklin,AM Rahane,1,Not out
+5.1,OA Shah,PP Ojha,AM Rahane,0,Not out
+5.2,AM Rahane,PP Ojha,OA Shah,0,Not out
+5.3,AM Rahane,PP Ojha,OA Shah,1,Not out
+5.4,OA Shah,PP Ojha,AM Rahane,6,Not out
+5.5,OA Shah,PP Ojha,AM Rahane,0,Not out
+5.6,OA Shah,PP Ojha,AM Rahane,1,Not out
+6.1,OA Shah,JEC Franklin,AM Rahane,4,Not out
+6.2,OA Shah,JEC Franklin,AM Rahane,0,Not out
+6.3,OA Shah,JEC Franklin,AM Rahane,0,Not out
+6.4,OA Shah,JEC Franklin,AM Rahane,0,Not out
+6.5,OA Shah,JEC Franklin,AM Rahane,1,Not out
+6.6,AM Rahane,JEC Franklin,OA Shah,4,Not out
+6.7,AM Rahane,JEC Franklin,OA Shah,0,Not out
+7.1,OA Shah,PP Ojha,AM Rahane,2,Not out
+7.2,OA Shah,PP Ojha,AM Rahane,0,Not out
+7.3,OA Shah,PP Ojha,AM Rahane,1,Not out
+7.4,AM Rahane,PP Ojha,OA Shah,1,Not out
+7.5,OA Shah,PP Ojha,AM Rahane,1,Not out
+7.6,AM Rahane,PP Ojha,OA Shah,6,Not out
+8.1,OA Shah,Harbhajan Singh,AM Rahane,2,Not out
+8.2,OA Shah,Harbhajan Singh,AM Rahane,1,Not out
+8.3,AM Rahane,Harbhajan Singh,OA Shah,0,Not out
+8.4,AM Rahane,Harbhajan Singh,OA Shah,1,Not out
+8.5,OA Shah,Harbhajan Singh,AM Rahane,2,Not out
+8.6,OA Shah,Harbhajan Singh,AM Rahane,1,Not out
+9.1,OA Shah,KA Pollard,AM Rahane,0,Not out
+9.2,OA Shah,KA Pollard,AM Rahane,1,Not out
+9.3,AM Rahane,KA Pollard,OA Shah,0,Not out
+9.4,AM Rahane,KA Pollard,OA Shah,1,Not out
+9.5,OA Shah,KA Pollard,AM Rahane,4,Not out
+9.6,OA Shah,KA Pollard,AM Rahane,1,Not out
+10.1,OA Shah,Harbhajan Singh,AM Rahane,0,Not out
+10.2,OA Shah,Harbhajan Singh,AM Rahane,1,Not out
+10.3,AM Rahane,Harbhajan Singh,OA Shah,4,Not out
+10.4,AM Rahane,Harbhajan Singh,OA Shah,1,Not out
+10.5,OA Shah,Harbhajan Singh,AM Rahane,0,Not out
+10.6,OA Shah,Harbhajan Singh,AM Rahane,4,Not out
+11.1,AM Rahane,KA Pollard,OA Shah,0,caught
+11.2,OA Shah,KA Pollard,AL Menaria,1,Not out
+11.3,AL Menaria,KA Pollard,OA Shah,1,Not out
+11.4,OA Shah,KA Pollard,AL Menaria,6,Not out
+11.5,OA Shah,KA Pollard,AL Menaria,1,Not out
+11.6,AL Menaria,KA Pollard,OA Shah,1,Not out
+12.1,AL Menaria,Harbhajan Singh,OA Shah,0,Not out
+12.2,AL Menaria,Harbhajan Singh,OA Shah,1,Not out
+12.3,OA Shah,Harbhajan Singh,AL Menaria,4,Not out
+12.4,OA Shah,Harbhajan Singh,AL Menaria,6,Not out
+12.5,OA Shah,Harbhajan Singh,AL Menaria,1,Not out
+12.6,AL Menaria,Harbhajan Singh,OA Shah,4,Not out
+13.1,OA Shah,KA Pollard,AL Menaria,4,Not out
+13.2,OA Shah,KA Pollard,AL Menaria,6,Not out
+13.3,OA Shah,KA Pollard,AL Menaria,0,Not out
+13.4,OA Shah,KA Pollard,AL Menaria,2,Not out
+13.5,OA Shah,KA Pollard,AL Menaria,1,Not out
+13.6,AL Menaria,KA Pollard,OA Shah,6,Not out
+14.1,OA Shah,SL Malinga,AL Menaria,0,bowled
+14.2,J Botha,SL Malinga,AL Menaria,0,Not out
+14.3,J Botha,SL Malinga,AL Menaria,2,Not out
+14.4,J Botha,SL Malinga,AL Menaria,0,caught
+14.5,AL Menaria,SL Malinga,KK Cooper,0,Not out
+14.6,AL Menaria,SL Malinga,KK Cooper,0,Not out
+15.1,KK Cooper,Harbhajan Singh,AL Menaria,1,Not out
+15.2,AL Menaria,Harbhajan Singh,KK Cooper,1,Not out
+15.3,KK Cooper,Harbhajan Singh,AL Menaria,1,Not out
+15.4,AL Menaria,Harbhajan Singh,KK Cooper,1,Not out
+15.5,KK Cooper,Harbhajan Singh,AL Menaria,0,Not out
+15.6,KK Cooper,Harbhajan Singh,AL Menaria,6,Not out
+16.1,AL Menaria,MM Patel,KK Cooper,0,Not out
+16.2,AL Menaria,MM Patel,KK Cooper,0,Not out
+16.3,AL Menaria,MM Patel,KK Cooper,1,Not out
+16.4,KK Cooper,MM Patel,AL Menaria,6,Not out
+16.5,KK Cooper,MM Patel,AL Menaria,0,bowled
+16.6,AA Chavan,MM Patel,AL Menaria,4,Not out
+17.1,AL Menaria,KA Pollard,AA Chavan,0,Not out
+17.2,AL Menaria,KA Pollard,AA Chavan,4,Not out
+17.3,AL Menaria,KA Pollard,AA Chavan,0,caught
+17.4,AA Chavan,KA Pollard,GB Hogg,0,caught
+17.5,A Singh,KA Pollard,GB Hogg,0,Not out
+17.6,A Singh,KA Pollard,GB Hogg,0,Not out
+17.7,A Singh,KA Pollard,GB Hogg,0,bowled
+17.8,SK Trivedi,KA Pollard,GB Hogg,2,Not out
+18.1,GB Hogg,SL Malinga,SK Trivedi,0,Not out
+18.2,GB Hogg,SL Malinga,SK Trivedi,0,Not out
+18.3,GB Hogg,SL Malinga,SK Trivedi,1,Not out
+18.4,SK Trivedi,SL Malinga,GB Hogg,0,Not out
+18.5,SK Trivedi,SL Malinga,GB Hogg,0,Not out
+18.6,SK Trivedi,SL Malinga,GB Hogg,0,Not out
+19.1,GB Hogg,MM Patel,SK Trivedi,1,Not out
+19.2,SK Trivedi,MM Patel,GB Hogg,2,Not out
+19.3,SK Trivedi,MM Patel,GB Hogg,1,Not out
+19.4,GB Hogg,MM Patel,SK Trivedi,0,caught

@@ -1,0 +1,124 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,Mandeep Singh,AA Jhunjhunwala,SE Marsh,1,Not out
+0.2,SE Marsh,AA Jhunjhunwala,Mandeep Singh,0,Not out
+0.3,SE Marsh,AA Jhunjhunwala,Mandeep Singh,1,Not out
+0.4,Mandeep Singh,AA Jhunjhunwala,SE Marsh,2,Not out
+0.5,Mandeep Singh,AA Jhunjhunwala,SE Marsh,1,Not out
+0.6,SE Marsh,AA Jhunjhunwala,Mandeep Singh,0,Not out
+1.1,Mandeep Singh,V Pratap Singh,SE Marsh,4,Not out
+1.2,Mandeep Singh,V Pratap Singh,SE Marsh,6,Not out
+1.3,Mandeep Singh,V Pratap Singh,SE Marsh,0,Not out
+1.4,Mandeep Singh,V Pratap Singh,SE Marsh,0,Not out
+1.5,Mandeep Singh,V Pratap Singh,SE Marsh,2,Not out
+1.6,Mandeep Singh,V Pratap Singh,SE Marsh,4,Not out
+1.7,Mandeep Singh,V Pratap Singh,SE Marsh,0,Not out
+1.8,Mandeep Singh,V Pratap Singh,SE Marsh,0,Not out
+2.1,SE Marsh,AA Jhunjhunwala,Mandeep Singh,1,Not out
+2.2,Mandeep Singh,AA Jhunjhunwala,SE Marsh,1,Not out
+2.3,SE Marsh,AA Jhunjhunwala,Mandeep Singh,0,Not out
+2.4,SE Marsh,AA Jhunjhunwala,Mandeep Singh,1,Not out
+2.5,Mandeep Singh,AA Jhunjhunwala,SE Marsh,4,Not out
+2.6,Mandeep Singh,AA Jhunjhunwala,SE Marsh,0,Not out
+3.1,SE Marsh,J Theron,Mandeep Singh,4,Not out
+3.2,SE Marsh,J Theron,Mandeep Singh,1,Not out
+3.3,Mandeep Singh,J Theron,SE Marsh,0,Not out
+3.4,Mandeep Singh,J Theron,SE Marsh,2,Not out
+3.5,Mandeep Singh,J Theron,SE Marsh,1,Not out
+3.6,SE Marsh,J Theron,Mandeep Singh,0,Not out
+4.1,Mandeep Singh,S Dhawan,SE Marsh,1,Not out
+4.2,SE Marsh,S Dhawan,Mandeep Singh,0,Not out
+4.3,SE Marsh,S Dhawan,Mandeep Singh,1,Not out
+4.4,Mandeep Singh,S Dhawan,SE Marsh,0,Not out
+4.5,SE Marsh,S Dhawan,Mandeep Singh,1,Not out
+4.6,Mandeep Singh,S Dhawan,SE Marsh,0,Not out
+5.1,SE Marsh,J Theron,Mandeep Singh,0,Not out
+5.2,SE Marsh,J Theron,Mandeep Singh,4,Not out
+5.3,SE Marsh,J Theron,Mandeep Singh,4,Not out
+5.4,SE Marsh,J Theron,Mandeep Singh,1,Not out
+5.5,Mandeep Singh,J Theron,SE Marsh,0,Not out
+5.6,Mandeep Singh,J Theron,SE Marsh,0,Not out
+6.1,SE Marsh,S Dhawan,Mandeep Singh,0,Not out
+6.2,SE Marsh,S Dhawan,Mandeep Singh,2,Not out
+6.3,SE Marsh,S Dhawan,Mandeep Singh,1,Not out
+6.4,Mandeep Singh,S Dhawan,SE Marsh,1,Not out
+6.5,SE Marsh,S Dhawan,Mandeep Singh,0,bowled
+6.6,N Saini,S Dhawan,Mandeep Singh,1,Not out
+7.1,N Saini,A Ashish Reddy,Mandeep Singh,1,Not out
+7.2,Mandeep Singh,A Ashish Reddy,N Saini,1,Not out
+7.3,N Saini,A Ashish Reddy,Mandeep Singh,0,Not out
+7.4,N Saini,A Ashish Reddy,Mandeep Singh,0,lbw
+7.5,DJ Hussey,A Ashish Reddy,Mandeep Singh,0,Not out
+7.6,DJ Hussey,A Ashish Reddy,Mandeep Singh,1,Not out
+7.7,Mandeep Singh,A Ashish Reddy,DJ Hussey,6,Not out
+8.1,DJ Hussey,A Mishra,Mandeep Singh,6,Not out
+8.2,DJ Hussey,A Mishra,Mandeep Singh,0,Not out
+8.3,DJ Hussey,A Mishra,Mandeep Singh,1,Not out
+8.4,Mandeep Singh,A Mishra,DJ Hussey,0,Not out
+8.5,Mandeep Singh,A Mishra,DJ Hussey,2,Not out
+8.6,Mandeep Singh,A Mishra,DJ Hussey,0,Not out
+9.1,DJ Hussey,V Pratap Singh,Mandeep Singh,1,Not out
+9.2,Mandeep Singh,V Pratap Singh,DJ Hussey,1,Not out
+9.3,DJ Hussey,V Pratap Singh,Mandeep Singh,1,Not out
+9.4,Mandeep Singh,V Pratap Singh,DJ Hussey,4,Not out
+9.5,Mandeep Singh,V Pratap Singh,DJ Hussey,0,Not out
+9.6,Mandeep Singh,V Pratap Singh,DJ Hussey,2,Not out
+10.1,DJ Hussey,DJ Harris,Mandeep Singh,0,Not out
+10.2,DJ Hussey,DJ Harris,Mandeep Singh,0,Not out
+10.3,DJ Hussey,DJ Harris,Mandeep Singh,0,Not out
+10.4,DJ Hussey,DJ Harris,Mandeep Singh,0,Not out
+10.5,DJ Hussey,DJ Harris,Mandeep Singh,1,Not out
+10.6,Mandeep Singh,DJ Harris,DJ Hussey,4,Not out
+11.1,DJ Hussey,V Pratap Singh,Mandeep Singh,4,Not out
+11.2,DJ Hussey,V Pratap Singh,Mandeep Singh,0,Not out
+11.3,DJ Hussey,V Pratap Singh,Mandeep Singh,0,Not out
+11.4,DJ Hussey,V Pratap Singh,Mandeep Singh,1,Not out
+11.5,Mandeep Singh,V Pratap Singh,DJ Hussey,1,Not out
+11.6,DJ Hussey,V Pratap Singh,Mandeep Singh,0,caught
+12.1,Mandeep Singh,A Mishra,Azhar Mahmood,4,Not out
+12.2,Mandeep Singh,A Mishra,Azhar Mahmood,4,Not out
+12.3,Mandeep Singh,A Mishra,Azhar Mahmood,2,Not out
+12.4,Mandeep Singh,A Mishra,Azhar Mahmood,0,Not out
+12.5,Mandeep Singh,A Mishra,Azhar Mahmood,0,Not out
+12.6,Mandeep Singh,A Mishra,Azhar Mahmood,1,Not out
+13.1,Mandeep Singh,A Ashish Reddy,Azhar Mahmood,1,Not out
+13.2,Azhar Mahmood,A Ashish Reddy,Mandeep Singh,2,Not out
+13.3,Azhar Mahmood,A Ashish Reddy,Mandeep Singh,1,Not out
+13.4,Mandeep Singh,A Ashish Reddy,Azhar Mahmood,0,Not out
+13.5,Mandeep Singh,A Ashish Reddy,Azhar Mahmood,1,Not out
+13.6,Azhar Mahmood,A Ashish Reddy,Mandeep Singh,4,Not out
+14.1,Mandeep Singh,V Pratap Singh,Azhar Mahmood,1,Not out
+14.2,Azhar Mahmood,V Pratap Singh,Mandeep Singh,1,Not out
+14.3,Mandeep Singh,V Pratap Singh,Azhar Mahmood,0,Not out
+14.4,Mandeep Singh,V Pratap Singh,Azhar Mahmood,6,Not out
+14.5,Mandeep Singh,V Pratap Singh,Azhar Mahmood,0,Not out
+14.6,Mandeep Singh,V Pratap Singh,Azhar Mahmood,4,Not out
+15.1,Azhar Mahmood,A Ashish Reddy,Mandeep Singh,1,Not out
+15.2,Mandeep Singh,A Ashish Reddy,Azhar Mahmood,0,Not out
+15.3,Mandeep Singh,A Ashish Reddy,Azhar Mahmood,0,bowled
+15.4,DA Miller,A Ashish Reddy,Azhar Mahmood,1,Not out
+15.5,Azhar Mahmood,A Ashish Reddy,DA Miller,0,Not out
+15.6,Azhar Mahmood,A Ashish Reddy,DA Miller,4,Not out
+16.1,DA Miller,J Theron,Azhar Mahmood,0,Not out
+16.2,DA Miller,J Theron,Azhar Mahmood,0,Not out
+16.3,DA Miller,J Theron,Azhar Mahmood,1,Not out
+16.4,Azhar Mahmood,J Theron,DA Miller,1,Not out
+16.5,DA Miller,J Theron,Azhar Mahmood,1,Not out
+16.6,Azhar Mahmood,J Theron,DA Miller,0,run out
+17.1,SD Chitnis,DJ Harris,DA Miller,1,Not out
+17.2,DA Miller,DJ Harris,SD Chitnis,4,Not out
+17.3,DA Miller,DJ Harris,SD Chitnis,1,Not out
+17.4,SD Chitnis,DJ Harris,DA Miller,1,Not out
+17.5,DA Miller,DJ Harris,SD Chitnis,2,Not out
+17.6,DA Miller,DJ Harris,SD Chitnis,1,Not out
+18.1,DA Miller,J Theron,SD Chitnis,4,Not out
+18.2,DA Miller,J Theron,SD Chitnis,1,Not out
+18.3,SD Chitnis,J Theron,DA Miller,2,Not out
+18.4,SD Chitnis,J Theron,DA Miller,1,Not out
+18.5,DA Miller,J Theron,SD Chitnis,0,Not out
+18.6,DA Miller,J Theron,SD Chitnis,1,Not out
+19.1,DA Miller,A Ashish Reddy,SD Chitnis,0,Not out
+19.2,DA Miller,A Ashish Reddy,SD Chitnis,4,Not out
+19.3,DA Miller,A Ashish Reddy,SD Chitnis,6,Not out
+19.4,DA Miller,A Ashish Reddy,SD Chitnis,0,Not out
+19.5,SD Chitnis,A Ashish Reddy,DA Miller,1,Not out
+19.6,DA Miller,A Ashish Reddy,SD Chitnis,1,Not out

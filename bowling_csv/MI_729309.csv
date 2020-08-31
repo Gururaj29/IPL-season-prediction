@@ -1,0 +1,115 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,Q de Kock,SL Malinga,M Vijay,0,Not out
+0.2,Q de Kock,SL Malinga,M Vijay,0,Not out
+0.3,Q de Kock,SL Malinga,M Vijay,1,Not out
+0.4,M Vijay,SL Malinga,Q de Kock,0,Not out
+0.5,M Vijay,SL Malinga,Q de Kock,1,Not out
+0.6,Q de Kock,SL Malinga,M Vijay,4,Not out
+1.1,M Vijay,PP Ojha,Q de Kock,4,Not out
+1.2,M Vijay,PP Ojha,Q de Kock,0,Not out
+1.3,M Vijay,PP Ojha,Q de Kock,0,Not out
+1.4,M Vijay,PP Ojha,Q de Kock,1,Not out
+1.5,Q de Kock,PP Ojha,M Vijay,1,Not out
+1.6,M Vijay,PP Ojha,Q de Kock,0,Not out
+2.1,Q de Kock,Z Khan,M Vijay,0,Not out
+2.2,Q de Kock,Z Khan,M Vijay,1,Not out
+2.3,M Vijay,Z Khan,Q de Kock,0,Not out
+2.4,M Vijay,Z Khan,Q de Kock,0,Not out
+2.5,M Vijay,Z Khan,Q de Kock,1,Not out
+2.6,Q de Kock,Z Khan,M Vijay,0,Not out
+3.1,M Vijay,Harbhajan Singh,Q de Kock,1,Not out
+3.2,Q de Kock,Harbhajan Singh,M Vijay,0,Not out
+3.3,Q de Kock,Harbhajan Singh,M Vijay,4,Not out
+3.4,Q de Kock,Harbhajan Singh,M Vijay,0,Not out
+3.5,Q de Kock,Harbhajan Singh,M Vijay,3,Not out
+3.6,M Vijay,Harbhajan Singh,Q de Kock,0,Not out
+4.1,Q de Kock,SL Malinga,M Vijay,1,Not out
+4.2,M Vijay,SL Malinga,Q de Kock,0,Not out
+4.3,Q de Kock,SL Malinga,M Vijay,0,Not out
+4.4,Q de Kock,SL Malinga,M Vijay,0,Not out
+4.5,Q de Kock,SL Malinga,M Vijay,0,Not out
+4.6,Q de Kock,SL Malinga,M Vijay,0,Not out
+4.7,Q de Kock,SL Malinga,M Vijay,0,Not out
+5.1,M Vijay,Harbhajan Singh,Q de Kock,0,Not out
+5.2,M Vijay,Harbhajan Singh,Q de Kock,0,Not out
+5.3,Q de Kock,Harbhajan Singh,M Vijay,0,Not out
+5.4,Q de Kock,Harbhajan Singh,M Vijay,0,Not out
+5.5,Q de Kock,Harbhajan Singh,M Vijay,0,Not out
+5.6,Q de Kock,Harbhajan Singh,M Vijay,0,Not out
+6.1,M Vijay,CJ Anderson,Q de Kock,0,Not out
+6.2,M Vijay,CJ Anderson,Q de Kock,1,Not out
+6.3,Q de Kock,CJ Anderson,M Vijay,1,Not out
+6.4,M Vijay,CJ Anderson,Q de Kock,1,Not out
+6.5,Q de Kock,CJ Anderson,M Vijay,0,caught
+6.6,JP Duminy,CJ Anderson,M Vijay,2,Not out
+7.1,M Vijay,Harbhajan Singh,JP Duminy,1,Not out
+7.2,JP Duminy,Harbhajan Singh,M Vijay,0,Not out
+7.3,JP Duminy,Harbhajan Singh,M Vijay,2,Not out
+7.4,JP Duminy,Harbhajan Singh,M Vijay,1,Not out
+7.5,M Vijay,Harbhajan Singh,JP Duminy,4,Not out
+7.6,M Vijay,Harbhajan Singh,JP Duminy,1,Not out
+8.1,M Vijay,PP Ojha,JP Duminy,1,Not out
+8.2,JP Duminy,PP Ojha,M Vijay,0,Not out
+8.3,JP Duminy,PP Ojha,M Vijay,1,Not out
+8.4,M Vijay,PP Ojha,JP Duminy,0,Not out
+8.5,M Vijay,PP Ojha,JP Duminy,0,Not out
+8.6,M Vijay,PP Ojha,JP Duminy,2,Not out
+9.1,JP Duminy,Harbhajan Singh,M Vijay,1,Not out
+9.2,M Vijay,Harbhajan Singh,JP Duminy,1,Not out
+9.3,JP Duminy,Harbhajan Singh,M Vijay,1,Not out
+9.4,M Vijay,Harbhajan Singh,JP Duminy,1,Not out
+9.5,JP Duminy,Harbhajan Singh,M Vijay,2,Not out
+9.6,JP Duminy,Harbhajan Singh,M Vijay,0,Not out
+10.1,M Vijay,CJ Anderson,JP Duminy,1,Not out
+10.2,JP Duminy,CJ Anderson,M Vijay,1,Not out
+10.3,M Vijay,CJ Anderson,JP Duminy,4,Not out
+10.4,M Vijay,CJ Anderson,JP Duminy,1,Not out
+10.5,JP Duminy,CJ Anderson,M Vijay,0,Not out
+10.6,M Vijay,CJ Anderson,JP Duminy,4,Not out
+11.1,JP Duminy,PP Ojha,M Vijay,1,Not out
+11.2,M Vijay,PP Ojha,JP Duminy,6,Not out
+11.3,M Vijay,PP Ojha,JP Duminy,2,Not out
+11.4,M Vijay,PP Ojha,JP Duminy,1,Not out
+11.5,JP Duminy,PP Ojha,M Vijay,0,Not out
+11.6,JP Duminy,PP Ojha,M Vijay,1,Not out
+12.1,JP Duminy,RG Sharma,M Vijay,1,Not out
+12.2,M Vijay,RG Sharma,JP Duminy,0,bowled
+12.3,KP Pietersen,RG Sharma,JP Duminy,0,Not out
+12.4,KP Pietersen,RG Sharma,JP Duminy,0,Not out
+12.5,KP Pietersen,RG Sharma,JP Duminy,2,Not out
+12.6,KP Pietersen,RG Sharma,JP Duminy,0,Not out
+13.1,JP Duminy,PP Ojha,KP Pietersen,0,Not out
+13.2,JP Duminy,PP Ojha,KP Pietersen,1,Not out
+13.3,KP Pietersen,PP Ojha,JP Duminy,1,Not out
+13.4,JP Duminy,PP Ojha,KP Pietersen,1,Not out
+13.5,KP Pietersen,PP Ojha,JP Duminy,1,Not out
+13.6,JP Duminy,PP Ojha,KP Pietersen,1,Not out
+14.1,JP Duminy,RG Sharma,KP Pietersen,1,Not out
+14.2,KP Pietersen,RG Sharma,JP Duminy,6,Not out
+14.3,KP Pietersen,RG Sharma,JP Duminy,4,Not out
+14.4,KP Pietersen,RG Sharma,JP Duminy,4,Not out
+14.5,KP Pietersen,RG Sharma,JP Duminy,1,Not out
+14.6,JP Duminy,RG Sharma,KP Pietersen,1,Not out
+15.1,JP Duminy,SL Malinga,KP Pietersen,0,Not out
+15.2,JP Duminy,SL Malinga,KP Pietersen,0,caught
+15.3,KD Karthik,SL Malinga,KP Pietersen,2,Not out
+15.4,KD Karthik,SL Malinga,KP Pietersen,0,Not out
+15.5,KD Karthik,SL Malinga,KP Pietersen,0,caught
+15.6,KM Jadhav,SL Malinga,KP Pietersen,0,Not out
+16.1,KP Pietersen,Z Khan,KM Jadhav,0,Not out
+16.2,KP Pietersen,Z Khan,KM Jadhav,1,Not out
+16.3,KM Jadhav,Z Khan,KP Pietersen,4,Not out
+16.4,KM Jadhav,Z Khan,KP Pietersen,0,Not out
+16.5,KM Jadhav,Z Khan,KP Pietersen,1,Not out
+16.6,KP Pietersen,Z Khan,KM Jadhav,1,Not out
+17.1,KP Pietersen,SL Malinga,KM Jadhav,1,Not out
+17.2,KM Jadhav,SL Malinga,KP Pietersen,1,Not out
+17.3,KP Pietersen,SL Malinga,KM Jadhav,2,Not out
+17.4,KP Pietersen,SL Malinga,KM Jadhav,0,Not out
+17.5,KP Pietersen,SL Malinga,KM Jadhav,1,Not out
+17.6,KM Jadhav,SL Malinga,KP Pietersen,1,Not out
+18.1,KM Jadhav,Z Khan,KP Pietersen,1,Not out
+18.2,KP Pietersen,Z Khan,KM Jadhav,1,Not out
+18.3,KM Jadhav,Z Khan,KP Pietersen,0,Not out
+18.4,KM Jadhav,Z Khan,KP Pietersen,2,Not out
+18.5,KM Jadhav,Z Khan,KP Pietersen,4,Not out

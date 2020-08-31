@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DA Warner,M Morkel,S Dhawan,4,Not out
+0.2,DA Warner,M Morkel,S Dhawan,0,Not out
+0.3,DA Warner,M Morkel,S Dhawan,0,bowled
+0.4,NV Ojha,M Morkel,S Dhawan,0,Not out
+0.5,NV Ojha,M Morkel,S Dhawan,0,Not out
+0.6,NV Ojha,M Morkel,S Dhawan,0,Not out
+0.7,NV Ojha,M Morkel,S Dhawan,4,Not out
+1.1,S Dhawan,R Vinay Kumar,NV Ojha,0,Not out
+1.2,S Dhawan,R Vinay Kumar,NV Ojha,0,Not out
+1.3,S Dhawan,R Vinay Kumar,NV Ojha,1,Not out
+1.4,NV Ojha,R Vinay Kumar,S Dhawan,0,Not out
+1.5,NV Ojha,R Vinay Kumar,S Dhawan,0,Not out
+1.6,NV Ojha,R Vinay Kumar,S Dhawan,0,Not out
+2.1,S Dhawan,M Morkel,NV Ojha,0,Not out
+2.2,S Dhawan,M Morkel,NV Ojha,0,Not out
+2.3,S Dhawan,M Morkel,NV Ojha,4,Not out
+2.4,S Dhawan,M Morkel,NV Ojha,0,Not out
+2.5,S Dhawan,M Morkel,NV Ojha,1,Not out
+2.6,NV Ojha,M Morkel,S Dhawan,0,Not out
+2.7,NV Ojha,M Morkel,S Dhawan,0,Not out
+3.1,S Dhawan,R Vinay Kumar,NV Ojha,4,Not out
+3.2,S Dhawan,R Vinay Kumar,NV Ojha,0,Not out
+3.3,S Dhawan,R Vinay Kumar,NV Ojha,0,Not out
+3.4,S Dhawan,R Vinay Kumar,NV Ojha,4,Not out
+3.5,S Dhawan,R Vinay Kumar,NV Ojha,4,Not out
+3.6,S Dhawan,R Vinay Kumar,NV Ojha,1,Not out
+4.1,S Dhawan,M Morkel,NV Ojha,0,Not out
+4.2,S Dhawan,M Morkel,NV Ojha,0,Not out
+4.3,S Dhawan,M Morkel,NV Ojha,0,Not out
+4.4,S Dhawan,M Morkel,NV Ojha,0,Not out
+4.5,S Dhawan,M Morkel,NV Ojha,0,Not out
+4.6,S Dhawan,M Morkel,NV Ojha,0,Not out
+5.1,NV Ojha,SP Narine,S Dhawan,4,Not out
+5.2,NV Ojha,SP Narine,S Dhawan,0,Not out
+5.3,NV Ojha,SP Narine,S Dhawan,4,Not out
+5.4,NV Ojha,SP Narine,S Dhawan,0,Not out
+5.5,NV Ojha,SP Narine,S Dhawan,0,Not out
+5.6,NV Ojha,SP Narine,S Dhawan,0,Not out
+6.1,S Dhawan,UT Yadav,NV Ojha,4,Not out
+6.2,S Dhawan,UT Yadav,NV Ojha,0,Not out
+6.3,NV Ojha,UT Yadav,S Dhawan,4,Not out
+6.4,NV Ojha,UT Yadav,S Dhawan,4,Not out
+6.5,NV Ojha,UT Yadav,S Dhawan,0,Not out
+6.6,NV Ojha,UT Yadav,S Dhawan,0,Not out
+7.1,S Dhawan,RN ten Doeschate,NV Ojha,1,Not out
+7.2,NV Ojha,RN ten Doeschate,S Dhawan,0,Not out
+7.3,NV Ojha,RN ten Doeschate,S Dhawan,0,Not out
+7.4,NV Ojha,RN ten Doeschate,S Dhawan,0,Not out
+7.5,NV Ojha,RN ten Doeschate,S Dhawan,6,Not out
+7.6,NV Ojha,RN ten Doeschate,S Dhawan,0,caught and bowled
+8.1,Y Venugopal Rao,UT Yadav,S Dhawan,0,Not out
+8.2,Y Venugopal Rao,UT Yadav,S Dhawan,0,Not out
+8.3,Y Venugopal Rao,UT Yadav,S Dhawan,2,Not out
+8.4,Y Venugopal Rao,UT Yadav,S Dhawan,0,Not out
+8.5,Y Venugopal Rao,UT Yadav,S Dhawan,0,Not out
+8.6,Y Venugopal Rao,UT Yadav,S Dhawan,0,Not out
+8.7,Y Venugopal Rao,UT Yadav,S Dhawan,1,Not out
+9.1,Y Venugopal Rao,R Vinay Kumar,S Dhawan,0,Not out
+9.2,Y Venugopal Rao,R Vinay Kumar,S Dhawan,0,Not out
+9.3,Y Venugopal Rao,R Vinay Kumar,S Dhawan,0,Not out
+9.4,Y Venugopal Rao,R Vinay Kumar,S Dhawan,4,Not out
+9.5,Y Venugopal Rao,R Vinay Kumar,S Dhawan,1,Not out
+9.6,S Dhawan,R Vinay Kumar,Y Venugopal Rao,0,Not out
+10.1,Y Venugopal Rao,Shakib Al Hasan,S Dhawan,0,Not out
+10.2,Y Venugopal Rao,Shakib Al Hasan,S Dhawan,2,Not out
+10.3,Y Venugopal Rao,Shakib Al Hasan,S Dhawan,0,Not out
+10.4,S Dhawan,Shakib Al Hasan,Y Venugopal Rao,1,Not out
+10.5,Y Venugopal Rao,Shakib Al Hasan,S Dhawan,1,Not out
+10.6,S Dhawan,Shakib Al Hasan,Y Venugopal Rao,0,Not out
+11.1,Y Venugopal Rao,SP Narine,S Dhawan,1,Not out
+11.2,S Dhawan,SP Narine,Y Venugopal Rao,2,Not out
+11.3,S Dhawan,SP Narine,Y Venugopal Rao,1,Not out
+11.4,Y Venugopal Rao,SP Narine,S Dhawan,0,Not out
+11.5,S Dhawan,SP Narine,Y Venugopal Rao,1,Not out
+11.6,Y Venugopal Rao,SP Narine,S Dhawan,0,Not out
+12.1,S Dhawan,Shakib Al Hasan,Y Venugopal Rao,0,Not out
+12.2,S Dhawan,Shakib Al Hasan,Y Venugopal Rao,0,run out
+12.3,DJG Sammy,Shakib Al Hasan,Y Venugopal Rao,0,Not out
+12.4,DJG Sammy,Shakib Al Hasan,Y Venugopal Rao,0,Not out
+12.5,DJG Sammy,Shakib Al Hasan,Y Venugopal Rao,0,Not out
+12.6,DJG Sammy,Shakib Al Hasan,Y Venugopal Rao,0,Not out
+13.1,Y Venugopal Rao,M Morkel,DJG Sammy,0,Not out
+13.2,Y Venugopal Rao,M Morkel,DJG Sammy,4,Not out
+13.3,Y Venugopal Rao,M Morkel,DJG Sammy,4,Not out
+13.4,Y Venugopal Rao,M Morkel,DJG Sammy,0,Not out
+13.5,Y Venugopal Rao,M Morkel,DJG Sammy,4,Not out
+13.6,Y Venugopal Rao,M Morkel,DJG Sammy,1,Not out
+14.1,Y Venugopal Rao,Shakib Al Hasan,DJG Sammy,1,Not out
+14.2,DJG Sammy,Shakib Al Hasan,Y Venugopal Rao,6,Not out
+14.3,DJG Sammy,Shakib Al Hasan,Y Venugopal Rao,6,Not out
+14.4,DJG Sammy,Shakib Al Hasan,Y Venugopal Rao,4,Not out
+14.5,DJG Sammy,Shakib Al Hasan,Y Venugopal Rao,1,Not out
+14.6,Y Venugopal Rao,Shakib Al Hasan,DJG Sammy,1,run out
+15.1,DJG Sammy,SP Narine,S Anirudha,0,Not out
+15.2,DJG Sammy,SP Narine,S Anirudha,1,Not out
+15.3,S Anirudha,SP Narine,DJG Sammy,0,Not out
+15.4,S Anirudha,SP Narine,DJG Sammy,1,Not out
+15.5,DJG Sammy,SP Narine,S Anirudha,0,Not out
+15.6,S Anirudha,SP Narine,DJG Sammy,1,Not out
+16.1,S Anirudha,Shakib Al Hasan,DJG Sammy,1,Not out
+16.2,DJG Sammy,Shakib Al Hasan,S Anirudha,1,Not out
+16.3,S Anirudha,Shakib Al Hasan,DJG Sammy,0,stumped
+16.4,JO Holder,Shakib Al Hasan,DJG Sammy,0,Not out
+16.5,JO Holder,Shakib Al Hasan,DJG Sammy,0,Not out
+16.6,JO Holder,Shakib Al Hasan,DJG Sammy,0,Not out
+17.1,DJG Sammy,SP Narine,JO Holder,1,Not out
+17.2,JO Holder,SP Narine,DJG Sammy,1,Not out
+17.3,DJG Sammy,SP Narine,JO Holder,1,Not out
+17.4,JO Holder,SP Narine,DJG Sammy,0,Not out
+17.5,JO Holder,SP Narine,DJG Sammy,0,Not out
+17.6,JO Holder,SP Narine,DJG Sammy,0,Not out
+18.1,DJG Sammy,UT Yadav,JO Holder,0,Not out
+18.2,JO Holder,UT Yadav,DJG Sammy,6,Not out
+18.3,JO Holder,UT Yadav,DJG Sammy,4,Not out
+18.4,JO Holder,UT Yadav,DJG Sammy,1,Not out
+18.5,DJG Sammy,UT Yadav,JO Holder,1,Not out
+18.6,JO Holder,UT Yadav,DJG Sammy,4,Not out
+19.1,DJG Sammy,R Vinay Kumar,JO Holder,6,Not out
+19.2,DJG Sammy,R Vinay Kumar,JO Holder,0,Not out
+19.3,DJG Sammy,R Vinay Kumar,JO Holder,1,Not out
+19.4,JO Holder,R Vinay Kumar,DJG Sammy,0,run out
+19.5,DJG Sammy,R Vinay Kumar,KV Sharma,0,caught
+19.6,KV Sharma,R Vinay Kumar,Parvez Rasool,4,Not out
+19.7,KV Sharma,R Vinay Kumar,Parvez Rasool,1,Not out

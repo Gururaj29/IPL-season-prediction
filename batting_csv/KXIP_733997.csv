@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,V Sehwag,JH Kallis,Mandeep Singh,4,Not out
+0.2,V Sehwag,JH Kallis,Mandeep Singh,0,Not out
+0.3,V Sehwag,JH Kallis,Mandeep Singh,0,Not out
+0.4,V Sehwag,JH Kallis,Mandeep Singh,4,Not out
+0.5,V Sehwag,JH Kallis,Mandeep Singh,0,Not out
+0.6,V Sehwag,JH Kallis,Mandeep Singh,4,Not out
+0.7,V Sehwag,JH Kallis,Mandeep Singh,4,Not out
+1.1,Mandeep Singh,M Morkel,V Sehwag,0,Not out
+1.2,Mandeep Singh,M Morkel,V Sehwag,0,Not out
+1.3,Mandeep Singh,M Morkel,V Sehwag,0,caught
+1.4,WP Saha,M Morkel,V Sehwag,0,Not out
+1.5,WP Saha,M Morkel,V Sehwag,0,Not out
+1.6,WP Saha,M Morkel,V Sehwag,4,Not out
+2.1,V Sehwag,UT Yadav,WP Saha,2,Not out
+2.2,V Sehwag,UT Yadav,WP Saha,4,Not out
+2.3,V Sehwag,UT Yadav,WP Saha,0,Not out
+2.4,V Sehwag,UT Yadav,WP Saha,1,Not out
+2.5,WP Saha,UT Yadav,V Sehwag,1,Not out
+2.6,V Sehwag,UT Yadav,WP Saha,0,Not out
+3.1,V Sehwag,M Morkel,WP Saha,0,Not out
+3.2,V Sehwag,M Morkel,WP Saha,4,Not out
+3.3,V Sehwag,M Morkel,WP Saha,0,Not out
+3.4,V Sehwag,M Morkel,WP Saha,0,Not out
+3.5,V Sehwag,M Morkel,WP Saha,0,Not out
+3.6,V Sehwag,M Morkel,WP Saha,1,Not out
+4.1,V Sehwag,UT Yadav,WP Saha,1,Not out
+4.2,WP Saha,UT Yadav,V Sehwag,1,Not out
+4.3,V Sehwag,UT Yadav,WP Saha,0,Not out
+4.4,V Sehwag,UT Yadav,WP Saha,1,Not out
+4.5,WP Saha,UT Yadav,V Sehwag,4,Not out
+4.6,WP Saha,UT Yadav,V Sehwag,4,Not out
+4.7,WP Saha,UT Yadav,V Sehwag,1,Not out
+5.1,WP Saha,M Morkel,V Sehwag,0,bowled
+5.2,GJ Maxwell,M Morkel,V Sehwag,0,Not out
+5.3,GJ Maxwell,M Morkel,V Sehwag,1,Not out
+5.4,V Sehwag,M Morkel,GJ Maxwell,0,Not out
+5.5,V Sehwag,M Morkel,GJ Maxwell,0,Not out
+5.6,V Sehwag,M Morkel,GJ Maxwell,0,Not out
+6.1,GJ Maxwell,SP Narine,V Sehwag,1,Not out
+6.2,V Sehwag,SP Narine,GJ Maxwell,1,Not out
+6.3,GJ Maxwell,SP Narine,V Sehwag,1,Not out
+6.4,V Sehwag,SP Narine,GJ Maxwell,1,Not out
+6.5,GJ Maxwell,SP Narine,V Sehwag,0,Not out
+6.6,GJ Maxwell,SP Narine,V Sehwag,0,Not out
+7.1,V Sehwag,JH Kallis,GJ Maxwell,0,Not out
+7.2,V Sehwag,JH Kallis,GJ Maxwell,1,Not out
+7.3,GJ Maxwell,JH Kallis,V Sehwag,1,Not out
+7.4,V Sehwag,JH Kallis,GJ Maxwell,0,Not out
+7.5,V Sehwag,JH Kallis,GJ Maxwell,6,Not out
+7.6,V Sehwag,JH Kallis,GJ Maxwell,1,Not out
+8.1,V Sehwag,SP Narine,GJ Maxwell,4,Not out
+8.2,V Sehwag,SP Narine,GJ Maxwell,2,Not out
+8.3,V Sehwag,SP Narine,GJ Maxwell,1,Not out
+8.4,GJ Maxwell,SP Narine,V Sehwag,1,Not out
+8.5,V Sehwag,SP Narine,GJ Maxwell,1,Not out
+8.6,GJ Maxwell,SP Narine,V Sehwag,2,Not out
+9.1,V Sehwag,JH Kallis,GJ Maxwell,1,Not out
+9.2,GJ Maxwell,JH Kallis,V Sehwag,4,Not out
+9.3,GJ Maxwell,JH Kallis,V Sehwag,1,Not out
+9.4,V Sehwag,JH Kallis,GJ Maxwell,1,Not out
+9.5,GJ Maxwell,JH Kallis,V Sehwag,1,Not out
+9.6,V Sehwag,JH Kallis,GJ Maxwell,4,Not out
+10.1,GJ Maxwell,PP Chawla,V Sehwag,1,Not out
+10.2,V Sehwag,PP Chawla,GJ Maxwell,1,Not out
+10.3,GJ Maxwell,PP Chawla,V Sehwag,0,caught
+10.4,DA Miller,PP Chawla,V Sehwag,1,Not out
+10.5,V Sehwag,PP Chawla,DA Miller,1,Not out
+10.6,DA Miller,PP Chawla,V Sehwag,1,Not out
+11.1,DA Miller,RN ten Doeschate,V Sehwag,0,Not out
+11.2,DA Miller,RN ten Doeschate,V Sehwag,1,Not out
+11.3,V Sehwag,RN ten Doeschate,DA Miller,4,Not out
+11.4,V Sehwag,RN ten Doeschate,DA Miller,0,Not out
+11.5,V Sehwag,RN ten Doeschate,DA Miller,0,Not out
+11.6,V Sehwag,RN ten Doeschate,DA Miller,1,Not out
+12.1,V Sehwag,PP Chawla,DA Miller,1,Not out
+12.2,DA Miller,PP Chawla,V Sehwag,0,Not out
+12.3,DA Miller,PP Chawla,V Sehwag,2,Not out
+12.4,DA Miller,PP Chawla,V Sehwag,1,Not out
+12.5,V Sehwag,PP Chawla,DA Miller,1,Not out
+12.6,DA Miller,PP Chawla,V Sehwag,1,Not out
+13.1,DA Miller,M Morkel,V Sehwag,0,Not out
+13.2,DA Miller,M Morkel,V Sehwag,1,Not out
+13.3,V Sehwag,M Morkel,DA Miller,4,Not out
+13.4,V Sehwag,M Morkel,DA Miller,4,Not out
+13.5,V Sehwag,M Morkel,DA Miller,1,Not out
+13.6,DA Miller,M Morkel,V Sehwag,0,Not out
+14.1,V Sehwag,PP Chawla,DA Miller,0,Not out
+14.2,V Sehwag,PP Chawla,DA Miller,0,Not out
+14.3,V Sehwag,PP Chawla,DA Miller,0,bowled
+14.4,GJ Bailey,PP Chawla,DA Miller,1,Not out
+14.5,DA Miller,PP Chawla,GJ Bailey,1,Not out
+14.6,GJ Bailey,PP Chawla,DA Miller,2,Not out
+15.1,DA Miller,UT Yadav,GJ Bailey,4,Not out
+15.2,DA Miller,UT Yadav,GJ Bailey,0,bowled
+15.3,R Dhawan,UT Yadav,GJ Bailey,1,Not out
+15.4,GJ Bailey,UT Yadav,R Dhawan,1,Not out
+15.5,R Dhawan,UT Yadav,GJ Bailey,0,Not out
+15.6,R Dhawan,UT Yadav,GJ Bailey,1,Not out
+16.1,R Dhawan,PP Chawla,GJ Bailey,1,Not out
+16.2,GJ Bailey,PP Chawla,R Dhawan,0,Not out
+16.3,GJ Bailey,PP Chawla,R Dhawan,1,Not out
+16.4,R Dhawan,PP Chawla,GJ Bailey,1,Not out
+16.5,GJ Bailey,PP Chawla,R Dhawan,1,Not out
+16.6,R Dhawan,PP Chawla,GJ Bailey,0,bowled
+17.1,GJ Bailey,SP Narine,MG Johnson,2,Not out
+17.2,GJ Bailey,SP Narine,MG Johnson,0,Not out
+17.3,GJ Bailey,SP Narine,MG Johnson,1,Not out
+17.4,MG Johnson,SP Narine,GJ Bailey,0,Not out
+17.5,MG Johnson,SP Narine,GJ Bailey,0,Not out
+17.6,MG Johnson,SP Narine,GJ Bailey,1,Not out
+18.1,MG Johnson,UT Yadav,GJ Bailey,2,Not out
+18.2,MG Johnson,UT Yadav,GJ Bailey,0,Not out
+18.3,MG Johnson,UT Yadav,GJ Bailey,1,Not out
+18.4,GJ Bailey,UT Yadav,MG Johnson,1,Not out
+18.5,MG Johnson,UT Yadav,GJ Bailey,0,Not out
+18.6,GJ Bailey,UT Yadav,MG Johnson,2,Not out
+19.1,MG Johnson,SP Narine,GJ Bailey,0,Not out
+19.2,MG Johnson,SP Narine,GJ Bailey,0,Not out
+19.3,MG Johnson,SP Narine,GJ Bailey,4,Not out
+19.4,MG Johnson,SP Narine,GJ Bailey,6,Not out
+19.5,MG Johnson,SP Narine,GJ Bailey,0,stumped
+19.6,AR Patel,SP Narine,GJ Bailey,1,run out

@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,JH Kallis,MA Starc,G Gambhir,0,Not out
+0.2,JH Kallis,MA Starc,G Gambhir,1,Not out
+0.3,G Gambhir,MA Starc,JH Kallis,0,lbw
+0.4,MK Pandey,MA Starc,JH Kallis,1,Not out
+0.5,JH Kallis,MA Starc,MK Pandey,2,Not out
+0.6,JH Kallis,MA Starc,MK Pandey,2,Not out
+1.1,MK Pandey,JA Morkel,JH Kallis,4,Not out
+1.2,MK Pandey,JA Morkel,JH Kallis,0,caught
+1.3,CA Lynn,JA Morkel,JH Kallis,1,Not out
+1.4,JH Kallis,JA Morkel,CA Lynn,4,Not out
+1.5,JH Kallis,JA Morkel,CA Lynn,1,Not out
+1.6,CA Lynn,JA Morkel,JH Kallis,1,Not out
+2.1,CA Lynn,MA Starc,JH Kallis,1,Not out
+2.2,JH Kallis,MA Starc,CA Lynn,0,Not out
+2.3,JH Kallis,MA Starc,CA Lynn,0,Not out
+2.4,JH Kallis,MA Starc,CA Lynn,0,Not out
+2.5,JH Kallis,MA Starc,CA Lynn,0,Not out
+2.6,JH Kallis,MA Starc,CA Lynn,4,Not out
+3.1,CA Lynn,VR Aaron,JH Kallis,1,Not out
+3.2,JH Kallis,VR Aaron,CA Lynn,0,Not out
+3.3,JH Kallis,VR Aaron,CA Lynn,0,Not out
+3.4,JH Kallis,VR Aaron,CA Lynn,1,Not out
+3.5,CA Lynn,VR Aaron,JH Kallis,4,Not out
+3.6,CA Lynn,VR Aaron,JH Kallis,0,Not out
+4.1,JH Kallis,JA Morkel,CA Lynn,1,Not out
+4.2,CA Lynn,JA Morkel,JH Kallis,0,Not out
+4.3,CA Lynn,JA Morkel,JH Kallis,0,Not out
+4.4,CA Lynn,JA Morkel,JH Kallis,4,Not out
+4.5,CA Lynn,JA Morkel,JH Kallis,4,Not out
+4.6,CA Lynn,JA Morkel,JH Kallis,0,Not out
+4.7,CA Lynn,JA Morkel,JH Kallis,0,Not out
+5.1,JH Kallis,VR Aaron,CA Lynn,0,Not out
+5.2,JH Kallis,VR Aaron,CA Lynn,1,Not out
+5.3,CA Lynn,VR Aaron,JH Kallis,0,Not out
+5.4,CA Lynn,VR Aaron,JH Kallis,1,Not out
+5.5,JH Kallis,VR Aaron,CA Lynn,0,Not out
+5.6,JH Kallis,VR Aaron,CA Lynn,2,Not out
+6.1,CA Lynn,M Muralitharan,JH Kallis,6,Not out
+6.2,CA Lynn,M Muralitharan,JH Kallis,1,Not out
+6.3,JH Kallis,M Muralitharan,CA Lynn,1,Not out
+6.4,CA Lynn,M Muralitharan,JH Kallis,0,Not out
+6.5,CA Lynn,M Muralitharan,JH Kallis,6,Not out
+6.6,CA Lynn,M Muralitharan,JH Kallis,1,Not out
+7.1,CA Lynn,YS Chahal,JH Kallis,1,Not out
+7.2,JH Kallis,YS Chahal,CA Lynn,1,Not out
+7.3,CA Lynn,YS Chahal,JH Kallis,6,Not out
+7.4,CA Lynn,YS Chahal,JH Kallis,0,Not out
+7.5,CA Lynn,YS Chahal,JH Kallis,1,Not out
+7.6,JH Kallis,YS Chahal,CA Lynn,0,Not out
+8.1,CA Lynn,M Muralitharan,JH Kallis,1,Not out
+8.2,JH Kallis,M Muralitharan,CA Lynn,0,Not out
+8.3,JH Kallis,M Muralitharan,CA Lynn,1,Not out
+8.4,CA Lynn,M Muralitharan,JH Kallis,1,Not out
+8.5,JH Kallis,M Muralitharan,CA Lynn,6,Not out
+8.6,JH Kallis,M Muralitharan,CA Lynn,1,Not out
+9.1,JH Kallis,YS Chahal,CA Lynn,2,Not out
+9.2,JH Kallis,YS Chahal,CA Lynn,0,Not out
+9.3,JH Kallis,YS Chahal,CA Lynn,2,Not out
+9.4,JH Kallis,YS Chahal,CA Lynn,1,Not out
+9.5,CA Lynn,YS Chahal,JH Kallis,0,Not out
+9.6,CA Lynn,YS Chahal,JH Kallis,1,Not out
+10.1,CA Lynn,AB Dinda,JH Kallis,1,Not out
+10.2,JH Kallis,AB Dinda,CA Lynn,1,Not out
+10.3,CA Lynn,AB Dinda,JH Kallis,1,Not out
+10.4,JH Kallis,AB Dinda,CA Lynn,1,Not out
+10.5,CA Lynn,AB Dinda,JH Kallis,1,Not out
+10.6,JH Kallis,AB Dinda,CA Lynn,0,Not out
+10.7,JH Kallis,AB Dinda,CA Lynn,1,Not out
+11.1,JH Kallis,VR Aaron,CA Lynn,1,Not out
+11.2,CA Lynn,VR Aaron,JH Kallis,0,Not out
+11.3,CA Lynn,VR Aaron,JH Kallis,0,caught
+11.4,YK Pathan,VR Aaron,JH Kallis,0,Not out
+11.5,YK Pathan,VR Aaron,JH Kallis,0,caught
+11.6,RV Uthappa,VR Aaron,JH Kallis,1,Not out
+12.1,RV Uthappa,AB Dinda,JH Kallis,1,Not out
+12.2,JH Kallis,AB Dinda,RV Uthappa,1,Not out
+12.3,RV Uthappa,AB Dinda,JH Kallis,2,Not out
+12.4,RV Uthappa,AB Dinda,JH Kallis,0,Not out
+12.5,RV Uthappa,AB Dinda,JH Kallis,1,Not out
+12.6,JH Kallis,AB Dinda,RV Uthappa,0,Not out
+13.1,RV Uthappa,YS Chahal,JH Kallis,1,Not out
+13.2,JH Kallis,YS Chahal,RV Uthappa,0,Not out
+13.3,JH Kallis,YS Chahal,RV Uthappa,1,Not out
+13.4,RV Uthappa,YS Chahal,JH Kallis,1,Not out
+13.5,JH Kallis,YS Chahal,RV Uthappa,1,Not out
+13.6,RV Uthappa,YS Chahal,JH Kallis,0,Not out
+14.1,JH Kallis,AB Dinda,RV Uthappa,1,Not out
+14.2,RV Uthappa,AB Dinda,JH Kallis,0,Not out
+14.3,RV Uthappa,AB Dinda,JH Kallis,2,Not out
+14.4,RV Uthappa,AB Dinda,JH Kallis,1,Not out
+14.5,JH Kallis,AB Dinda,RV Uthappa,1,Not out
+14.6,RV Uthappa,AB Dinda,JH Kallis,1,Not out
+15.1,RV Uthappa,YS Chahal,JH Kallis,1,Not out
+15.2,JH Kallis,YS Chahal,RV Uthappa,0,caught
+15.3,RV Uthappa,YS Chahal,SA Yadav,1,Not out
+15.4,SA Yadav,YS Chahal,RV Uthappa,2,Not out
+15.5,SA Yadav,YS Chahal,RV Uthappa,1,Not out
+15.6,RV Uthappa,YS Chahal,SA Yadav,2,Not out
+16.1,SA Yadav,MA Starc,RV Uthappa,0,Not out
+16.2,SA Yadav,MA Starc,RV Uthappa,2,Not out
+16.3,SA Yadav,MA Starc,RV Uthappa,1,Not out
+16.4,RV Uthappa,MA Starc,SA Yadav,6,Not out
+16.5,RV Uthappa,MA Starc,SA Yadav,1,Not out
+16.6,SA Yadav,MA Starc,RV Uthappa,6,Not out
+17.1,RV Uthappa,VR Aaron,SA Yadav,0,caught
+17.2,SA Yadav,VR Aaron,R Vinay Kumar,0,Not out
+17.3,SA Yadav,VR Aaron,R Vinay Kumar,0,Not out
+17.4,SA Yadav,VR Aaron,R Vinay Kumar,1,Not out
+17.5,R Vinay Kumar,VR Aaron,SA Yadav,0,Not out
+17.6,R Vinay Kumar,VR Aaron,SA Yadav,1,Not out
+17.7,SA Yadav,VR Aaron,R Vinay Kumar,1,Not out
+18.1,SA Yadav,AB Dinda,R Vinay Kumar,4,Not out
+18.2,SA Yadav,AB Dinda,R Vinay Kumar,2,Not out
+18.3,SA Yadav,AB Dinda,R Vinay Kumar,0,Not out
+18.4,R Vinay Kumar,AB Dinda,SA Yadav,1,Not out
+18.5,SA Yadav,AB Dinda,R Vinay Kumar,0,Not out
+18.6,SA Yadav,AB Dinda,R Vinay Kumar,1,Not out
+19.1,SA Yadav,MA Starc,R Vinay Kumar,0,Not out
+19.2,SA Yadav,MA Starc,R Vinay Kumar,0,Not out
+19.3,R Vinay Kumar,MA Starc,SA Yadav,0,Not out
+19.4,SA Yadav,MA Starc,R Vinay Kumar,2,Not out
+19.5,SA Yadav,MA Starc,R Vinay Kumar,1,Not out
+19.6,R Vinay Kumar,MA Starc,SA Yadav,2,Not out
+19.7,R Vinay Kumar,MA Starc,SA Yadav,0,caught

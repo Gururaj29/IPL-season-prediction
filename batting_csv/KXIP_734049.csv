@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,V Sehwag,M Morkel,M Vohra,0,Not out
+0.2,M Vohra,M Morkel,V Sehwag,2,Not out
+0.3,M Vohra,M Morkel,V Sehwag,0,Not out
+0.4,M Vohra,M Morkel,V Sehwag,4,Not out
+0.5,M Vohra,M Morkel,V Sehwag,2,Not out
+0.6,M Vohra,M Morkel,V Sehwag,0,Not out
+1.1,V Sehwag,UT Yadav,M Vohra,0,Not out
+1.2,V Sehwag,UT Yadav,M Vohra,0,Not out
+1.3,V Sehwag,UT Yadav,M Vohra,0,Not out
+1.4,V Sehwag,UT Yadav,M Vohra,1,Not out
+1.5,M Vohra,UT Yadav,V Sehwag,1,Not out
+1.6,V Sehwag,UT Yadav,M Vohra,4,Not out
+2.1,M Vohra,M Morkel,V Sehwag,0,Not out
+2.2,M Vohra,M Morkel,V Sehwag,4,Not out
+2.3,M Vohra,M Morkel,V Sehwag,0,Not out
+2.4,M Vohra,M Morkel,V Sehwag,0,Not out
+2.5,M Vohra,M Morkel,V Sehwag,2,Not out
+2.6,M Vohra,M Morkel,V Sehwag,0,Not out
+3.1,V Sehwag,UT Yadav,M Vohra,0,Not out
+3.2,V Sehwag,UT Yadav,M Vohra,0,Not out
+3.3,V Sehwag,UT Yadav,M Vohra,2,Not out
+3.4,V Sehwag,UT Yadav,M Vohra,0,caught
+3.5,M Vohra,UT Yadav,GJ Bailey,0,Not out
+3.6,M Vohra,UT Yadav,GJ Bailey,1,Not out
+4.1,M Vohra,M Morkel,GJ Bailey,1,Not out
+4.2,GJ Bailey,M Morkel,M Vohra,1,Not out
+4.3,M Vohra,M Morkel,GJ Bailey,0,Not out
+4.4,M Vohra,M Morkel,GJ Bailey,2,Not out
+4.5,M Vohra,M Morkel,GJ Bailey,2,Not out
+4.6,M Vohra,M Morkel,GJ Bailey,0,Not out
+5.1,GJ Bailey,SP Narine,M Vohra,0,bowled
+5.2,WP Saha,SP Narine,M Vohra,0,Not out
+5.3,WP Saha,SP Narine,M Vohra,0,Not out
+5.4,WP Saha,SP Narine,M Vohra,2,Not out
+5.5,WP Saha,SP Narine,M Vohra,0,Not out
+5.6,WP Saha,SP Narine,M Vohra,0,Not out
+6.1,M Vohra,Shakib Al Hasan,WP Saha,1,Not out
+6.2,WP Saha,Shakib Al Hasan,M Vohra,0,Not out
+6.3,WP Saha,Shakib Al Hasan,M Vohra,1,Not out
+6.4,M Vohra,Shakib Al Hasan,WP Saha,1,Not out
+6.5,WP Saha,Shakib Al Hasan,M Vohra,1,Not out
+6.6,M Vohra,Shakib Al Hasan,WP Saha,0,Not out
+7.1,WP Saha,PP Chawla,M Vohra,2,Not out
+7.2,WP Saha,PP Chawla,M Vohra,4,Not out
+7.3,WP Saha,PP Chawla,M Vohra,1,Not out
+7.4,M Vohra,PP Chawla,WP Saha,0,Not out
+7.5,M Vohra,PP Chawla,WP Saha,6,Not out
+7.6,M Vohra,PP Chawla,WP Saha,1,Not out
+8.1,M Vohra,Shakib Al Hasan,WP Saha,0,Not out
+8.2,M Vohra,Shakib Al Hasan,WP Saha,1,Not out
+8.3,WP Saha,Shakib Al Hasan,M Vohra,1,Not out
+8.4,M Vohra,Shakib Al Hasan,WP Saha,1,Not out
+8.5,WP Saha,Shakib Al Hasan,M Vohra,1,Not out
+8.6,M Vohra,Shakib Al Hasan,WP Saha,0,Not out
+9.1,WP Saha,PP Chawla,M Vohra,1,Not out
+9.2,M Vohra,PP Chawla,WP Saha,1,Not out
+9.3,WP Saha,PP Chawla,M Vohra,1,Not out
+9.4,M Vohra,PP Chawla,WP Saha,0,Not out
+9.5,M Vohra,PP Chawla,WP Saha,1,Not out
+9.6,WP Saha,PP Chawla,M Vohra,0,Not out
+10.1,M Vohra,Shakib Al Hasan,WP Saha,2,Not out
+10.2,M Vohra,Shakib Al Hasan,WP Saha,0,Not out
+10.3,M Vohra,Shakib Al Hasan,WP Saha,1,Not out
+10.4,WP Saha,Shakib Al Hasan,M Vohra,0,Not out
+10.5,WP Saha,Shakib Al Hasan,M Vohra,6,Not out
+10.6,WP Saha,Shakib Al Hasan,M Vohra,0,Not out
+11.1,M Vohra,PP Chawla,WP Saha,0,Not out
+11.2,M Vohra,PP Chawla,WP Saha,2,Not out
+11.3,M Vohra,PP Chawla,WP Saha,1,Not out
+11.4,WP Saha,PP Chawla,M Vohra,6,Not out
+11.5,WP Saha,PP Chawla,M Vohra,6,Not out
+11.6,WP Saha,PP Chawla,M Vohra,0,Not out
+12.1,M Vohra,Shakib Al Hasan,WP Saha,1,Not out
+12.2,WP Saha,Shakib Al Hasan,M Vohra,0,Not out
+12.3,M Vohra,Shakib Al Hasan,WP Saha,1,Not out
+12.4,WP Saha,Shakib Al Hasan,M Vohra,2,Not out
+12.5,WP Saha,Shakib Al Hasan,M Vohra,1,Not out
+12.6,M Vohra,Shakib Al Hasan,WP Saha,4,Not out
+13.1,WP Saha,SP Narine,M Vohra,0,Not out
+13.2,WP Saha,SP Narine,M Vohra,6,Not out
+13.3,WP Saha,SP Narine,M Vohra,4,Not out
+13.4,WP Saha,SP Narine,M Vohra,4,Not out
+13.5,WP Saha,SP Narine,M Vohra,1,Not out
+13.6,M Vohra,SP Narine,WP Saha,4,Not out
+14.1,WP Saha,M Morkel,M Vohra,1,Not out
+14.2,M Vohra,M Morkel,WP Saha,6,Not out
+14.3,M Vohra,M Morkel,WP Saha,4,Not out
+14.4,M Vohra,M Morkel,WP Saha,1,Not out
+14.5,WP Saha,M Morkel,M Vohra,6,Not out
+14.6,WP Saha,M Morkel,M Vohra,2,Not out
+15.1,M Vohra,SP Narine,WP Saha,0,Not out
+15.2,M Vohra,SP Narine,WP Saha,1,Not out
+15.3,WP Saha,SP Narine,M Vohra,1,Not out
+15.4,M Vohra,SP Narine,WP Saha,0,Not out
+15.5,M Vohra,SP Narine,WP Saha,4,Not out
+15.6,M Vohra,SP Narine,WP Saha,1,Not out
+15.7,WP Saha,SP Narine,M Vohra,1,Not out
+16.1,WP Saha,UT Yadav,M Vohra,4,Not out
+16.2,WP Saha,UT Yadav,M Vohra,0,Not out
+16.3,WP Saha,UT Yadav,M Vohra,4,Not out
+16.4,WP Saha,UT Yadav,M Vohra,0,Not out
+16.5,WP Saha,UT Yadav,M Vohra,1,Not out
+16.6,M Vohra,UT Yadav,WP Saha,0,Not out
+16.7,WP Saha,UT Yadav,M Vohra,6,Not out
+17.1,M Vohra,PP Chawla,WP Saha,0,caught and bowled
+17.2,WP Saha,PP Chawla,GJ Maxwell,4,Not out
+17.3,WP Saha,PP Chawla,GJ Maxwell,2,Not out
+17.4,WP Saha,PP Chawla,GJ Maxwell,4,Not out
+17.5,WP Saha,PP Chawla,GJ Maxwell,1,Not out
+17.6,GJ Maxwell,PP Chawla,WP Saha,0,caught
+18.1,WP Saha,SP Narine,DA Miller,0,Not out
+18.2,WP Saha,SP Narine,DA Miller,0,Not out
+18.3,WP Saha,SP Narine,DA Miller,6,Not out
+18.4,WP Saha,SP Narine,DA Miller,4,Not out
+18.5,WP Saha,SP Narine,DA Miller,6,Not out
+18.6,WP Saha,SP Narine,DA Miller,0,Not out
+19.1,WP Saha,UT Yadav,DA Miller,0,Not out
+19.2,WP Saha,UT Yadav,DA Miller,4,Not out
+19.3,WP Saha,UT Yadav,DA Miller,4,Not out
+19.4,WP Saha,UT Yadav,DA Miller,2,Not out
+19.5,WP Saha,UT Yadav,DA Miller,1,Not out
+19.6,DA Miller,UT Yadav,WP Saha,1,Not out

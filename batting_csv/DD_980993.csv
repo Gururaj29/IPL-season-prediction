@@ -1,0 +1,117 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MA Agarwal,Harbhajan Singh,Q de Kock,1,Not out
+0.2,Q de Kock,Harbhajan Singh,MA Agarwal,1,Not out
+0.3,MA Agarwal,Harbhajan Singh,Q de Kock,0,Not out
+0.4,MA Agarwal,Harbhajan Singh,Q de Kock,6,Not out
+0.5,MA Agarwal,Harbhajan Singh,Q de Kock,1,Not out
+0.6,Q de Kock,Harbhajan Singh,MA Agarwal,1,Not out
+1.1,Q de Kock,R Vinay Kumar,MA Agarwal,0,Not out
+1.2,Q de Kock,R Vinay Kumar,MA Agarwal,1,Not out
+1.3,MA Agarwal,R Vinay Kumar,Q de Kock,0,bowled
+1.4,KK Nair,R Vinay Kumar,Q de Kock,0,Not out
+1.5,KK Nair,R Vinay Kumar,Q de Kock,1,Not out
+1.6,Q de Kock,R Vinay Kumar,KK Nair,1,Not out
+2.1,Q de Kock,MJ McClenaghan,KK Nair,0,Not out
+2.2,Q de Kock,MJ McClenaghan,KK Nair,6,Not out
+2.3,Q de Kock,MJ McClenaghan,KK Nair,0,Not out
+2.4,Q de Kock,MJ McClenaghan,KK Nair,0,Not out
+2.5,Q de Kock,MJ McClenaghan,KK Nair,1,Not out
+2.6,KK Nair,MJ McClenaghan,Q de Kock,1,Not out
+3.1,KK Nair,R Vinay Kumar,Q de Kock,0,Not out
+3.2,KK Nair,R Vinay Kumar,Q de Kock,1,Not out
+3.3,Q de Kock,R Vinay Kumar,KK Nair,4,Not out
+3.4,Q de Kock,R Vinay Kumar,KK Nair,6,Not out
+3.5,Q de Kock,R Vinay Kumar,KK Nair,4,Not out
+3.6,Q de Kock,R Vinay Kumar,KK Nair,4,Not out
+4.1,KK Nair,Harbhajan Singh,Q de Kock,1,Not out
+4.2,Q de Kock,Harbhajan Singh,KK Nair,1,Not out
+4.3,KK Nair,Harbhajan Singh,Q de Kock,4,Not out
+4.4,KK Nair,Harbhajan Singh,Q de Kock,0,caught
+4.5,SV Samson,Harbhajan Singh,Q de Kock,0,Not out
+4.6,SV Samson,Harbhajan Singh,Q de Kock,1,Not out
+5.1,SV Samson,JJ Bumrah,Q de Kock,0,Not out
+5.2,SV Samson,JJ Bumrah,Q de Kock,1,Not out
+5.3,Q de Kock,JJ Bumrah,SV Samson,1,Not out
+5.4,SV Samson,JJ Bumrah,Q de Kock,0,Not out
+5.5,SV Samson,JJ Bumrah,Q de Kock,0,Not out
+5.6,SV Samson,JJ Bumrah,Q de Kock,0,Not out
+6.1,Q de Kock,Harbhajan Singh,SV Samson,1,Not out
+6.2,SV Samson,Harbhajan Singh,Q de Kock,1,Not out
+6.3,Q de Kock,Harbhajan Singh,SV Samson,0,Not out
+6.4,Q de Kock,Harbhajan Singh,SV Samson,0,Not out
+6.5,Q de Kock,Harbhajan Singh,SV Samson,4,Not out
+6.6,Q de Kock,Harbhajan Singh,SV Samson,1,Not out
+7.1,Q de Kock,KH Pandya,SV Samson,1,Not out
+7.2,SV Samson,KH Pandya,Q de Kock,0,Not out
+7.3,SV Samson,KH Pandya,Q de Kock,2,Not out
+7.4,SV Samson,KH Pandya,Q de Kock,1,Not out
+7.5,Q de Kock,KH Pandya,SV Samson,0,run out
+7.6,Q de Kock,KH Pandya,RR Pant,0,Not out
+8.1,RR Pant,Harbhajan Singh,Q de Kock,1,Not out
+8.2,Q de Kock,Harbhajan Singh,RR Pant,1,Not out
+8.3,RR Pant,Harbhajan Singh,Q de Kock,6,Not out
+8.4,RR Pant,Harbhajan Singh,Q de Kock,0,Not out
+8.5,RR Pant,Harbhajan Singh,Q de Kock,1,Not out
+8.6,Q de Kock,Harbhajan Singh,RR Pant,1,Not out
+9.1,Q de Kock,KH Pandya,RR Pant,0,Not out
+9.2,Q de Kock,KH Pandya,RR Pant,0,Not out
+9.3,Q de Kock,KH Pandya,RR Pant,0,caught
+9.4,JP Duminy,KH Pandya,RR Pant,1,Not out
+9.5,RR Pant,KH Pandya,JP Duminy,4,Not out
+9.6,RR Pant,KH Pandya,JP Duminy,4,Not out
+9.7,RR Pant,KH Pandya,JP Duminy,1,Not out
+10.1,RR Pant,N Rana,JP Duminy,0,Not out
+10.2,RR Pant,N Rana,JP Duminy,1,Not out
+10.3,JP Duminy,N Rana,RR Pant,0,Not out
+10.4,JP Duminy,N Rana,RR Pant,0,Not out
+10.5,JP Duminy,N Rana,RR Pant,1,Not out
+10.6,RR Pant,N Rana,JP Duminy,1,Not out
+11.1,RR Pant,MJ McClenaghan,JP Duminy,0,Not out
+11.2,RR Pant,MJ McClenaghan,JP Duminy,0,Not out
+11.3,RR Pant,MJ McClenaghan,JP Duminy,0,Not out
+11.4,RR Pant,MJ McClenaghan,JP Duminy,1,Not out
+11.5,JP Duminy,MJ McClenaghan,RR Pant,4,Not out
+11.6,JP Duminy,MJ McClenaghan,RR Pant,0,Not out
+12.1,JP Duminy,JJ Bumrah,RR Pant,2,Not out
+12.2,JP Duminy,JJ Bumrah,RR Pant,1,Not out
+12.3,RR Pant,JJ Bumrah,JP Duminy,2,Not out
+12.4,RR Pant,JJ Bumrah,JP Duminy,1,Not out
+12.5,JP Duminy,JJ Bumrah,RR Pant,0,caught
+12.6,RR Pant,JJ Bumrah,CH Morris,0,bowled
+13.1,CH Morris,MJ McClenaghan,A Mishra,0,Not out
+13.2,CH Morris,MJ McClenaghan,A Mishra,4,Not out
+13.3,CH Morris,MJ McClenaghan,A Mishra,0,Not out
+13.4,CH Morris,MJ McClenaghan,A Mishra,4,Not out
+13.5,CH Morris,MJ McClenaghan,A Mishra,1,Not out
+13.6,A Mishra,MJ McClenaghan,CH Morris,0,Not out
+14.1,CH Morris,R Vinay Kumar,A Mishra,0,Not out
+14.2,CH Morris,R Vinay Kumar,A Mishra,0,Not out
+14.3,CH Morris,R Vinay Kumar,A Mishra,1,Not out
+14.4,A Mishra,R Vinay Kumar,CH Morris,0,Not out
+14.5,A Mishra,R Vinay Kumar,CH Morris,1,Not out
+14.6,CH Morris,R Vinay Kumar,A Mishra,1,Not out
+15.1,CH Morris,JJ Bumrah,A Mishra,1,Not out
+15.2,A Mishra,JJ Bumrah,CH Morris,0,Not out
+15.3,A Mishra,JJ Bumrah,CH Morris,0,bowled
+15.4,S Nadeem,JJ Bumrah,CH Morris,0,Not out
+15.5,CH Morris,JJ Bumrah,S Nadeem,0,Not out
+15.6,CH Morris,JJ Bumrah,S Nadeem,1,Not out
+16.1,CH Morris,R Vinay Kumar,S Nadeem,0,Not out
+16.2,CH Morris,R Vinay Kumar,S Nadeem,6,Not out
+16.3,CH Morris,R Vinay Kumar,S Nadeem,0,Not out
+16.4,CH Morris,R Vinay Kumar,S Nadeem,1,run out
+16.5,Imran Tahir,R Vinay Kumar,S Nadeem,1,Not out
+16.6,S Nadeem,R Vinay Kumar,Imran Tahir,0,Not out
+17.1,Imran Tahir,MJ McClenaghan,S Nadeem,0,Not out
+17.2,Imran Tahir,MJ McClenaghan,S Nadeem,0,Not out
+17.3,Imran Tahir,MJ McClenaghan,S Nadeem,0,Not out
+17.4,Imran Tahir,MJ McClenaghan,S Nadeem,0,Not out
+17.5,Imran Tahir,MJ McClenaghan,S Nadeem,4,Not out
+17.6,Imran Tahir,MJ McClenaghan,S Nadeem,0,run out
+18.1,Z Khan,JJ Bumrah,S Nadeem,0,Not out
+18.2,Z Khan,JJ Bumrah,S Nadeem,1,Not out
+18.3,S Nadeem,JJ Bumrah,Z Khan,1,Not out
+18.4,Z Khan,JJ Bumrah,S Nadeem,1,Not out
+18.5,S Nadeem,JJ Bumrah,Z Khan,0,Not out
+18.6,S Nadeem,JJ Bumrah,Z Khan,0,Not out
+19.1,Z Khan,KH Pandya,S Nadeem,0,bowled

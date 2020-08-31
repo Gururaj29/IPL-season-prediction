@@ -1,0 +1,107 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DPMD Jayawardene,BW Hilfenhaus,DA Warner,0,Not out
+0.2,DPMD Jayawardene,BW Hilfenhaus,DA Warner,1,Not out
+0.3,DA Warner,BW Hilfenhaus,DPMD Jayawardene,0,Not out
+0.4,DA Warner,BW Hilfenhaus,DPMD Jayawardene,0,Not out
+0.5,DA Warner,BW Hilfenhaus,DPMD Jayawardene,1,Not out
+0.6,DPMD Jayawardene,BW Hilfenhaus,DA Warner,4,Not out
+1.1,DA Warner,JA Morkel,DPMD Jayawardene,1,Not out
+1.2,DPMD Jayawardene,JA Morkel,DA Warner,4,Not out
+1.3,DPMD Jayawardene,JA Morkel,DA Warner,4,Not out
+1.4,DPMD Jayawardene,JA Morkel,DA Warner,0,Not out
+1.5,DPMD Jayawardene,JA Morkel,DA Warner,1,Not out
+1.6,DA Warner,JA Morkel,DPMD Jayawardene,1,Not out
+2.1,DA Warner,BW Hilfenhaus,DPMD Jayawardene,0,Not out
+2.2,DA Warner,BW Hilfenhaus,DPMD Jayawardene,0,caught
+2.3,V Sehwag,BW Hilfenhaus,DPMD Jayawardene,0,Not out
+2.4,V Sehwag,BW Hilfenhaus,DPMD Jayawardene,1,Not out
+2.5,DPMD Jayawardene,BW Hilfenhaus,V Sehwag,1,Not out
+2.6,V Sehwag,BW Hilfenhaus,DPMD Jayawardene,0,Not out
+2.7,V Sehwag,BW Hilfenhaus,DPMD Jayawardene,0,Not out
+2.8,V Sehwag,BW Hilfenhaus,DPMD Jayawardene,0,Not out
+3.1,DPMD Jayawardene,JA Morkel,V Sehwag,1,Not out
+3.2,V Sehwag,JA Morkel,DPMD Jayawardene,0,Not out
+3.3,V Sehwag,JA Morkel,DPMD Jayawardene,0,Not out
+3.4,V Sehwag,JA Morkel,DPMD Jayawardene,0,caught
+3.5,DPMD Jayawardene,JA Morkel,LRPL Taylor,1,Not out
+3.6,LRPL Taylor,JA Morkel,DPMD Jayawardene,4,Not out
+4.1,DPMD Jayawardene,BW Hilfenhaus,LRPL Taylor,0,Not out
+4.2,LRPL Taylor,BW Hilfenhaus,DPMD Jayawardene,1,Not out
+4.3,DPMD Jayawardene,BW Hilfenhaus,LRPL Taylor,0,Not out
+4.4,DPMD Jayawardene,BW Hilfenhaus,LRPL Taylor,1,Not out
+4.5,LRPL Taylor,BW Hilfenhaus,DPMD Jayawardene,1,Not out
+4.6,DPMD Jayawardene,BW Hilfenhaus,LRPL Taylor,4,Not out
+5.1,LRPL Taylor,JA Morkel,DPMD Jayawardene,1,Not out
+5.2,DPMD Jayawardene,JA Morkel,LRPL Taylor,6,Not out
+5.3,DPMD Jayawardene,JA Morkel,LRPL Taylor,1,Not out
+5.4,LRPL Taylor,JA Morkel,DPMD Jayawardene,1,Not out
+5.5,DPMD Jayawardene,JA Morkel,LRPL Taylor,1,Not out
+5.6,LRPL Taylor,JA Morkel,DPMD Jayawardene,1,Not out
+6.1,LRPL Taylor,SB Jakati,DPMD Jayawardene,1,Not out
+6.2,DPMD Jayawardene,SB Jakati,LRPL Taylor,1,Not out
+6.3,LRPL Taylor,SB Jakati,DPMD Jayawardene,2,Not out
+6.4,LRPL Taylor,SB Jakati,DPMD Jayawardene,6,Not out
+6.5,LRPL Taylor,SB Jakati,DPMD Jayawardene,0,Not out
+6.6,LRPL Taylor,SB Jakati,DPMD Jayawardene,6,Not out
+7.1,DPMD Jayawardene,R Ashwin,LRPL Taylor,2,Not out
+7.2,DPMD Jayawardene,R Ashwin,LRPL Taylor,2,Not out
+7.3,DPMD Jayawardene,R Ashwin,LRPL Taylor,2,Not out
+7.4,DPMD Jayawardene,R Ashwin,LRPL Taylor,0,Not out
+7.5,DPMD Jayawardene,R Ashwin,LRPL Taylor,1,Not out
+7.6,LRPL Taylor,R Ashwin,DPMD Jayawardene,0,Not out
+7.7,LRPL Taylor,R Ashwin,DPMD Jayawardene,0,Not out
+8.1,DPMD Jayawardene,DJ Bravo,LRPL Taylor,0,Not out
+8.2,DPMD Jayawardene,DJ Bravo,LRPL Taylor,1,Not out
+8.3,LRPL Taylor,DJ Bravo,DPMD Jayawardene,0,caught
+8.4,AD Russell,DJ Bravo,DPMD Jayawardene,4,Not out
+8.5,AD Russell,DJ Bravo,DPMD Jayawardene,1,Not out
+8.6,DPMD Jayawardene,DJ Bravo,AD Russell,1,Not out
+8.7,AD Russell,DJ Bravo,DPMD Jayawardene,2,Not out
+9.1,DPMD Jayawardene,SB Jakati,AD Russell,1,Not out
+9.2,AD Russell,SB Jakati,DPMD Jayawardene,1,Not out
+9.3,DPMD Jayawardene,SB Jakati,AD Russell,1,Not out
+9.4,AD Russell,SB Jakati,DPMD Jayawardene,1,Not out
+9.5,DPMD Jayawardene,SB Jakati,AD Russell,1,Not out
+9.6,AD Russell,SB Jakati,DPMD Jayawardene,2,Not out
+10.1,DPMD Jayawardene,DJ Bravo,AD Russell,0,Not out
+10.2,DPMD Jayawardene,DJ Bravo,AD Russell,0,Not out
+10.3,DPMD Jayawardene,DJ Bravo,AD Russell,2,Not out
+10.4,DPMD Jayawardene,DJ Bravo,AD Russell,1,Not out
+10.5,AD Russell,DJ Bravo,DPMD Jayawardene,0,Not out
+10.6,AD Russell,DJ Bravo,DPMD Jayawardene,4,Not out
+10.7,AD Russell,DJ Bravo,DPMD Jayawardene,1,Not out
+11.1,AD Russell,R Ashwin,DPMD Jayawardene,0,Not out
+11.2,DPMD Jayawardene,R Ashwin,AD Russell,6,Not out
+11.3,DPMD Jayawardene,R Ashwin,AD Russell,1,Not out
+11.4,AD Russell,R Ashwin,DPMD Jayawardene,0,caught
+11.5,DPMD Jayawardene,R Ashwin,NV Ojha,0,Not out
+11.6,NV Ojha,R Ashwin,DPMD Jayawardene,0,Not out
+12.1,DPMD Jayawardene,DJ Bravo,NV Ojha,0,Not out
+12.2,DPMD Jayawardene,DJ Bravo,NV Ojha,1,Not out
+12.3,NV Ojha,DJ Bravo,DPMD Jayawardene,1,Not out
+12.4,DPMD Jayawardene,DJ Bravo,NV Ojha,1,Not out
+12.5,NV Ojha,DJ Bravo,DPMD Jayawardene,0,Not out
+12.6,DPMD Jayawardene,DJ Bravo,NV Ojha,0,Not out
+13.1,NV Ojha,SB Jakati,DPMD Jayawardene,6,Not out
+13.2,NV Ojha,SB Jakati,DPMD Jayawardene,0,caught
+13.3,Y Venugopal Rao,SB Jakati,DPMD Jayawardene,0,Not out
+13.4,Y Venugopal Rao,SB Jakati,DPMD Jayawardene,2,Not out
+13.5,Y Venugopal Rao,SB Jakati,DPMD Jayawardene,0,Not out
+13.6,Y Venugopal Rao,SB Jakati,DPMD Jayawardene,1,Not out
+14.1,Y Venugopal Rao,R Ashwin,DPMD Jayawardene,6,Not out
+14.2,Y Venugopal Rao,R Ashwin,DPMD Jayawardene,0,Not out
+14.3,Y Venugopal Rao,R Ashwin,DPMD Jayawardene,1,Not out
+14.4,DPMD Jayawardene,R Ashwin,Y Venugopal Rao,0,bowled
+14.5,P Negi,R Ashwin,Y Venugopal Rao,0,run out
+14.6,P Negi,R Ashwin,Sunny Gupta,1,Not out
+15.1,P Negi,SB Jakati,Sunny Gupta,0,Not out
+15.2,P Negi,SB Jakati,Sunny Gupta,6,Not out
+15.3,P Negi,SB Jakati,Sunny Gupta,0,Not out
+15.4,P Negi,SB Jakati,Sunny Gupta,1,Not out
+15.5,Sunny Gupta,SB Jakati,P Negi,0,stumped
+15.6,UT Yadav,SB Jakati,P Negi,1,Not out
+16.1,UT Yadav,R Ashwin,P Negi,0,Not out
+16.2,UT Yadav,R Ashwin,P Negi,0,Not out
+16.3,UT Yadav,R Ashwin,P Negi,0,bowled
+16.4,VR Aaron,R Ashwin,P Negi,0,Not out
+16.5,VR Aaron,R Ashwin,P Negi,0,run out

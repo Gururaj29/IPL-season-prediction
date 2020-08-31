@@ -1,0 +1,122 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DA Warner,AC Thomas,V Sehwag,0,Not out
+0.2,DA Warner,AC Thomas,V Sehwag,0,Not out
+0.3,DA Warner,AC Thomas,V Sehwag,0,Not out
+0.4,DA Warner,AC Thomas,V Sehwag,4,Not out
+0.5,DA Warner,AC Thomas,V Sehwag,1,Not out
+0.6,V Sehwag,AC Thomas,DA Warner,0,Not out
+1.1,DA Warner,SB Wagh,V Sehwag,0,Not out
+1.2,DA Warner,SB Wagh,V Sehwag,2,Not out
+1.3,DA Warner,SB Wagh,V Sehwag,0,Not out
+1.4,DA Warner,SB Wagh,V Sehwag,0,Not out
+1.5,DA Warner,SB Wagh,V Sehwag,1,Not out
+1.6,V Sehwag,SB Wagh,DA Warner,4,Not out
+2.1,DA Warner,WD Parnell,V Sehwag,4,Not out
+2.2,DA Warner,WD Parnell,V Sehwag,0,Not out
+2.3,DA Warner,WD Parnell,V Sehwag,0,Not out
+2.4,DA Warner,WD Parnell,V Sehwag,4,Not out
+2.5,DA Warner,WD Parnell,V Sehwag,4,Not out
+2.6,DA Warner,WD Parnell,V Sehwag,0,Not out
+3.1,V Sehwag,SB Wagh,DA Warner,1,Not out
+3.2,DA Warner,SB Wagh,V Sehwag,1,Not out
+3.3,V Sehwag,SB Wagh,DA Warner,4,Not out
+3.4,V Sehwag,SB Wagh,DA Warner,0,Not out
+3.5,V Sehwag,SB Wagh,DA Warner,4,Not out
+3.6,V Sehwag,SB Wagh,DA Warner,1,Not out
+4.1,V Sehwag,AC Thomas,DA Warner,1,Not out
+4.2,DA Warner,AC Thomas,V Sehwag,0,Not out
+4.3,DA Warner,AC Thomas,V Sehwag,4,Not out
+4.4,DA Warner,AC Thomas,V Sehwag,6,Not out
+4.5,DA Warner,AC Thomas,V Sehwag,6,Not out
+4.6,DA Warner,AC Thomas,V Sehwag,0,Not out
+5.1,V Sehwag,WD Parnell,DA Warner,0,Not out
+5.2,V Sehwag,WD Parnell,DA Warner,0,Not out
+5.3,V Sehwag,WD Parnell,DA Warner,1,Not out
+5.4,DA Warner,WD Parnell,V Sehwag,4,Not out
+5.5,DA Warner,WD Parnell,V Sehwag,2,Not out
+5.6,DA Warner,WD Parnell,V Sehwag,0,Not out
+5.7,DA Warner,WD Parnell,V Sehwag,0,Not out
+5.8,V Sehwag,WD Parnell,DA Warner,1,Not out
+6.1,V Sehwag,R Sharma,DA Warner,0,Not out
+6.2,V Sehwag,R Sharma,DA Warner,0,Not out
+6.3,V Sehwag,R Sharma,DA Warner,4,Not out
+6.4,V Sehwag,R Sharma,DA Warner,1,Not out
+6.5,DA Warner,R Sharma,V Sehwag,2,Not out
+6.6,DA Warner,R Sharma,V Sehwag,1,run out
+7.1,V Sehwag,JD Ryder,IK Pathan,4,Not out
+7.2,V Sehwag,JD Ryder,IK Pathan,2,Not out
+7.3,V Sehwag,JD Ryder,IK Pathan,1,Not out
+7.4,IK Pathan,JD Ryder,V Sehwag,0,Not out
+7.5,IK Pathan,JD Ryder,V Sehwag,1,Not out
+7.6,V Sehwag,JD Ryder,IK Pathan,2,Not out
+8.1,IK Pathan,R Sharma,V Sehwag,1,Not out
+8.2,V Sehwag,R Sharma,IK Pathan,1,Not out
+8.3,IK Pathan,R Sharma,V Sehwag,1,Not out
+8.4,V Sehwag,R Sharma,IK Pathan,0,Not out
+8.5,V Sehwag,R Sharma,IK Pathan,1,Not out
+8.6,IK Pathan,R Sharma,V Sehwag,1,Not out
+9.1,IK Pathan,JD Ryder,V Sehwag,2,Not out
+9.2,IK Pathan,JD Ryder,V Sehwag,0,Not out
+9.3,IK Pathan,JD Ryder,V Sehwag,1,Not out
+9.4,V Sehwag,JD Ryder,IK Pathan,4,Not out
+9.5,V Sehwag,JD Ryder,IK Pathan,0,bowled
+9.6,NV Ojha,JD Ryder,IK Pathan,1,Not out
+10.1,NV Ojha,AA Jhunjhunwala,IK Pathan,0,Not out
+10.2,NV Ojha,AA Jhunjhunwala,IK Pathan,1,Not out
+10.3,IK Pathan,AA Jhunjhunwala,NV Ojha,1,Not out
+10.4,NV Ojha,AA Jhunjhunwala,IK Pathan,1,Not out
+10.5,IK Pathan,AA Jhunjhunwala,NV Ojha,0,Not out
+10.6,IK Pathan,AA Jhunjhunwala,NV Ojha,1,Not out
+10.7,NV Ojha,AA Jhunjhunwala,IK Pathan,6,Not out
+11.1,IK Pathan,JD Ryder,NV Ojha,4,Not out
+11.2,IK Pathan,JD Ryder,NV Ojha,0,Not out
+11.3,IK Pathan,JD Ryder,NV Ojha,1,Not out
+11.4,NV Ojha,JD Ryder,IK Pathan,0,Not out
+11.5,NV Ojha,JD Ryder,IK Pathan,0,Not out
+11.6,NV Ojha,JD Ryder,IK Pathan,1,Not out
+12.1,NV Ojha,Yuvraj Singh,IK Pathan,1,Not out
+12.2,IK Pathan,Yuvraj Singh,NV Ojha,0,Not out
+12.3,IK Pathan,Yuvraj Singh,NV Ojha,0,caught
+12.4,NV Ojha,Yuvraj Singh,MS Wade,0,stumped
+12.5,Y Venugopal Rao,Yuvraj Singh,MS Wade,0,Not out
+12.6,Y Venugopal Rao,Yuvraj Singh,MS Wade,0,Not out
+13.1,MS Wade,R Sharma,Y Venugopal Rao,0,Not out
+13.2,MS Wade,R Sharma,Y Venugopal Rao,2,Not out
+13.3,MS Wade,R Sharma,Y Venugopal Rao,1,Not out
+13.4,Y Venugopal Rao,R Sharma,MS Wade,0,Not out
+13.5,Y Venugopal Rao,R Sharma,MS Wade,1,Not out
+13.6,MS Wade,R Sharma,Y Venugopal Rao,0,lbw
+14.1,Y Venugopal Rao,Yuvraj Singh,AJ Finch,0,Not out
+14.2,Y Venugopal Rao,Yuvraj Singh,AJ Finch,6,Not out
+14.3,Y Venugopal Rao,Yuvraj Singh,AJ Finch,1,Not out
+14.4,AJ Finch,Yuvraj Singh,Y Venugopal Rao,1,Not out
+14.5,Y Venugopal Rao,Yuvraj Singh,AJ Finch,0,Not out
+14.6,Y Venugopal Rao,Yuvraj Singh,AJ Finch,0,Not out
+15.1,AJ Finch,R Sharma,Y Venugopal Rao,1,Not out
+15.2,Y Venugopal Rao,R Sharma,AJ Finch,6,Not out
+15.3,Y Venugopal Rao,R Sharma,AJ Finch,1,Not out
+15.4,AJ Finch,R Sharma,Y Venugopal Rao,1,Not out
+15.5,Y Venugopal Rao,R Sharma,AJ Finch,1,Not out
+15.6,AJ Finch,R Sharma,Y Venugopal Rao,2,Not out
+16.1,Y Venugopal Rao,Yuvraj Singh,AJ Finch,0,Not out
+16.2,Y Venugopal Rao,Yuvraj Singh,AJ Finch,1,Not out
+16.3,AJ Finch,Yuvraj Singh,Y Venugopal Rao,4,Not out
+16.4,AJ Finch,Yuvraj Singh,Y Venugopal Rao,0,Not out
+16.5,AJ Finch,Yuvraj Singh,Y Venugopal Rao,1,Not out
+16.6,Y Venugopal Rao,Yuvraj Singh,AJ Finch,1,Not out
+17.1,Y Venugopal Rao,SB Wagh,AJ Finch,1,Not out
+17.2,AJ Finch,SB Wagh,Y Venugopal Rao,0,Not out
+17.3,AJ Finch,SB Wagh,Y Venugopal Rao,2,Not out
+17.4,AJ Finch,SB Wagh,Y Venugopal Rao,6,Not out
+17.5,AJ Finch,SB Wagh,Y Venugopal Rao,6,Not out
+17.6,AJ Finch,SB Wagh,Y Venugopal Rao,0,Not out
+17.7,AJ Finch,SB Wagh,Y Venugopal Rao,1,Not out
+17.8,Y Venugopal Rao,SB Wagh,AJ Finch,2,Not out
+18.1,AJ Finch,Yuvraj Singh,Y Venugopal Rao,0,caught and bowled
+18.2,JR Hopes,Yuvraj Singh,Y Venugopal Rao,2,Not out
+18.3,JR Hopes,Yuvraj Singh,Y Venugopal Rao,1,Not out
+18.4,Y Venugopal Rao,Yuvraj Singh,JR Hopes,6,Not out
+18.5,Y Venugopal Rao,Yuvraj Singh,JR Hopes,4,Not out
+18.6,Y Venugopal Rao,Yuvraj Singh,JR Hopes,0,caught
+19.1,JR Hopes,JD Ryder,S Nadeem,6,Not out
+19.2,JR Hopes,JD Ryder,S Nadeem,4,Not out

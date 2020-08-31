@@ -1,0 +1,109 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AM Rahane,AD Russell,UT Khawaja,0,Not out
+0.2,UT Khawaja,AD Russell,AM Rahane,0,Not out
+0.3,UT Khawaja,AD Russell,AM Rahane,2,Not out
+0.4,UT Khawaja,AD Russell,AM Rahane,1,Not out
+0.5,AM Rahane,AD Russell,UT Khawaja,0,Not out
+0.6,AM Rahane,AD Russell,UT Khawaja,0,Not out
+1.1,UT Khawaja,M Morkel,AM Rahane,0,Not out
+1.2,UT Khawaja,M Morkel,AM Rahane,4,Not out
+1.3,UT Khawaja,M Morkel,AM Rahane,1,Not out
+1.4,AM Rahane,M Morkel,UT Khawaja,1,Not out
+1.5,UT Khawaja,M Morkel,AM Rahane,0,Not out
+1.6,UT Khawaja,M Morkel,AM Rahane,0,Not out
+1.7,UT Khawaja,M Morkel,AM Rahane,0,Not out
+2.1,AM Rahane,AD Russell,UT Khawaja,1,Not out
+2.2,UT Khawaja,AD Russell,AM Rahane,4,Not out
+2.3,UT Khawaja,AD Russell,AM Rahane,3,Not out
+2.4,AM Rahane,AD Russell,UT Khawaja,0,bowled
+2.5,GJ Bailey,AD Russell,UT Khawaja,0,Not out
+2.6,GJ Bailey,AD Russell,UT Khawaja,0,Not out
+3.1,UT Khawaja,M Morkel,GJ Bailey,4,Not out
+3.2,UT Khawaja,M Morkel,GJ Bailey,0,Not out
+3.3,UT Khawaja,M Morkel,GJ Bailey,0,Not out
+3.4,UT Khawaja,M Morkel,GJ Bailey,1,Not out
+3.5,GJ Bailey,M Morkel,UT Khawaja,0,Not out
+3.6,GJ Bailey,M Morkel,UT Khawaja,0,Not out
+4.1,UT Khawaja,Shakib Al Hasan,GJ Bailey,1,Not out
+4.2,GJ Bailey,Shakib Al Hasan,UT Khawaja,1,Not out
+4.3,UT Khawaja,Shakib Al Hasan,GJ Bailey,0,caught
+4.4,SS Tiwary,Shakib Al Hasan,GJ Bailey,1,Not out
+4.5,GJ Bailey,Shakib Al Hasan,SS Tiwary,0,Not out
+4.6,GJ Bailey,Shakib Al Hasan,SS Tiwary,0,Not out
+5.1,SS Tiwary,M Morkel,GJ Bailey,0,Not out
+5.2,SS Tiwary,M Morkel,GJ Bailey,1,Not out
+5.3,GJ Bailey,M Morkel,SS Tiwary,0,Not out
+5.4,GJ Bailey,M Morkel,SS Tiwary,4,Not out
+5.5,GJ Bailey,M Morkel,SS Tiwary,1,Not out
+5.6,SS Tiwary,M Morkel,GJ Bailey,4,Not out
+6.1,GJ Bailey,Shakib Al Hasan,SS Tiwary,0,Not out
+6.2,GJ Bailey,Shakib Al Hasan,SS Tiwary,1,Not out
+6.3,SS Tiwary,Shakib Al Hasan,GJ Bailey,1,Not out
+6.4,GJ Bailey,Shakib Al Hasan,SS Tiwary,1,Not out
+6.5,SS Tiwary,Shakib Al Hasan,GJ Bailey,1,Not out
+6.6,GJ Bailey,Shakib Al Hasan,SS Tiwary,4,Not out
+7.1,SS Tiwary,AS Rajpoot,GJ Bailey,1,Not out
+7.2,GJ Bailey,AS Rajpoot,SS Tiwary,0,Not out
+7.3,GJ Bailey,AS Rajpoot,SS Tiwary,4,Not out
+7.4,GJ Bailey,AS Rajpoot,SS Tiwary,1,Not out
+7.5,SS Tiwary,AS Rajpoot,GJ Bailey,1,Not out
+7.6,GJ Bailey,AS Rajpoot,SS Tiwary,1,Not out
+8.1,GJ Bailey,Shakib Al Hasan,SS Tiwary,6,Not out
+8.2,GJ Bailey,Shakib Al Hasan,SS Tiwary,0,Not out
+8.3,GJ Bailey,Shakib Al Hasan,SS Tiwary,1,Not out
+8.4,SS Tiwary,Shakib Al Hasan,GJ Bailey,1,Not out
+8.5,GJ Bailey,Shakib Al Hasan,SS Tiwary,1,Not out
+8.6,SS Tiwary,Shakib Al Hasan,GJ Bailey,1,Not out
+9.1,SS Tiwary,AS Rajpoot,GJ Bailey,1,Not out
+9.2,GJ Bailey,AS Rajpoot,SS Tiwary,2,Not out
+9.3,GJ Bailey,AS Rajpoot,SS Tiwary,1,Not out
+9.4,SS Tiwary,AS Rajpoot,GJ Bailey,0,caught
+9.5,IK Pathan,AS Rajpoot,GJ Bailey,0,Not out
+9.6,IK Pathan,AS Rajpoot,GJ Bailey,0,Not out
+9.7,GJ Bailey,AS Rajpoot,IK Pathan,1,Not out
+10.1,GJ Bailey,PP Chawla,IK Pathan,3,Not out
+10.2,IK Pathan,PP Chawla,GJ Bailey,1,Not out
+10.3,GJ Bailey,PP Chawla,IK Pathan,0,stumped
+10.4,MS Dhoni,PP Chawla,IK Pathan,0,Not out
+10.5,MS Dhoni,PP Chawla,IK Pathan,0,Not out
+10.6,MS Dhoni,PP Chawla,IK Pathan,0,Not out
+11.1,IK Pathan,SP Narine,MS Dhoni,1,Not out
+11.2,MS Dhoni,SP Narine,IK Pathan,0,Not out
+11.3,MS Dhoni,SP Narine,IK Pathan,0,Not out
+11.4,MS Dhoni,SP Narine,IK Pathan,1,Not out
+11.5,IK Pathan,SP Narine,MS Dhoni,0,Not out
+11.6,IK Pathan,SP Narine,MS Dhoni,2,Not out
+12.1,MS Dhoni,PP Chawla,IK Pathan,1,Not out
+12.2,IK Pathan,PP Chawla,MS Dhoni,1,Not out
+12.3,MS Dhoni,PP Chawla,IK Pathan,2,Not out
+12.4,MS Dhoni,PP Chawla,IK Pathan,1,Not out
+12.5,IK Pathan,PP Chawla,MS Dhoni,1,Not out
+12.6,MS Dhoni,PP Chawla,IK Pathan,0,Not out
+13.1,IK Pathan,SP Narine,MS Dhoni,1,Not out
+13.2,MS Dhoni,SP Narine,IK Pathan,0,Not out
+13.3,MS Dhoni,SP Narine,IK Pathan,0,Not out
+13.4,MS Dhoni,SP Narine,IK Pathan,0,Not out
+13.5,MS Dhoni,SP Narine,IK Pathan,0,run out
+13.6,NLTC Perera,SP Narine,MS Dhoni,2,Not out
+14.1,MS Dhoni,PP Chawla,NLTC Perera,0,Not out
+14.2,MS Dhoni,PP Chawla,NLTC Perera,1,Not out
+14.3,NLTC Perera,PP Chawla,MS Dhoni,0,Not out
+14.4,NLTC Perera,PP Chawla,MS Dhoni,2,Not out
+14.5,NLTC Perera,PP Chawla,MS Dhoni,2,Not out
+14.6,NLTC Perera,PP Chawla,MS Dhoni,0,Not out
+15.1,MS Dhoni,SP Narine,NLTC Perera,1,Not out
+15.2,NLTC Perera,SP Narine,MS Dhoni,0,Not out
+15.3,NLTC Perera,SP Narine,MS Dhoni,0,Not out
+15.4,NLTC Perera,SP Narine,MS Dhoni,0,Not out
+15.5,NLTC Perera,SP Narine,MS Dhoni,1,Not out
+15.6,MS Dhoni,SP Narine,NLTC Perera,0,Not out
+16.1,NLTC Perera,PP Chawla,MS Dhoni,6,Not out
+16.2,NLTC Perera,PP Chawla,MS Dhoni,0,caught
+16.3,R Ashwin,PP Chawla,MS Dhoni,0,Not out
+16.4,R Ashwin,PP Chawla,MS Dhoni,0,Not out
+16.5,R Ashwin,PP Chawla,MS Dhoni,0,Not out
+16.6,R Ashwin,PP Chawla,MS Dhoni,0,Not out
+17.1,MS Dhoni,SP Narine,R Ashwin,0,Not out
+17.2,MS Dhoni,SP Narine,R Ashwin,0,Not out
+17.3,MS Dhoni,SP Narine,R Ashwin,0,Not out
+17.4,MS Dhoni,SP Narine,R Ashwin,1,Not out

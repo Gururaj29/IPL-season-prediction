@@ -1,0 +1,127 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MA Agarwal,P Kumar,SS Iyer,1,Not out
+0.2,SS Iyer,P Kumar,MA Agarwal,0,Not out
+0.3,SS Iyer,P Kumar,MA Agarwal,0,Not out
+0.4,SS Iyer,P Kumar,MA Agarwal,4,Not out
+0.5,SS Iyer,P Kumar,MA Agarwal,0,Not out
+0.6,SS Iyer,P Kumar,MA Agarwal,1,Not out
+0.7,MA Agarwal,P Kumar,SS Iyer,0,Not out
+1.1,SS Iyer,DW Steyn,MA Agarwal,0,Not out
+1.2,SS Iyer,DW Steyn,MA Agarwal,0,Not out
+1.3,SS Iyer,DW Steyn,MA Agarwal,0,Not out
+1.4,SS Iyer,DW Steyn,MA Agarwal,4,Not out
+1.5,SS Iyer,DW Steyn,MA Agarwal,2,Not out
+1.6,SS Iyer,DW Steyn,MA Agarwal,2,Not out
+2.1,MA Agarwal,B Kumar,SS Iyer,0,caught
+2.2,JP Duminy,B Kumar,SS Iyer,0,Not out
+2.3,JP Duminy,B Kumar,SS Iyer,0,Not out
+2.4,JP Duminy,B Kumar,SS Iyer,0,Not out
+2.5,JP Duminy,B Kumar,SS Iyer,2,Not out
+2.6,JP Duminy,B Kumar,SS Iyer,0,Not out
+2.7,JP Duminy,B Kumar,SS Iyer,2,Not out
+3.1,SS Iyer,DW Steyn,JP Duminy,0,Not out
+3.2,SS Iyer,DW Steyn,JP Duminy,1,Not out
+3.3,JP Duminy,DW Steyn,SS Iyer,0,Not out
+3.4,JP Duminy,DW Steyn,SS Iyer,4,Not out
+3.5,JP Duminy,DW Steyn,SS Iyer,0,Not out
+3.6,JP Duminy,DW Steyn,SS Iyer,1,Not out
+4.1,JP Duminy,B Kumar,SS Iyer,0,Not out
+4.2,JP Duminy,B Kumar,SS Iyer,0,Not out
+4.3,JP Duminy,B Kumar,SS Iyer,0,Not out
+4.4,JP Duminy,B Kumar,SS Iyer,0,Not out
+4.5,SS Iyer,B Kumar,JP Duminy,0,Not out
+4.6,SS Iyer,B Kumar,JP Duminy,1,Not out
+5.1,SS Iyer,P Kumar,JP Duminy,0,Not out
+5.2,SS Iyer,P Kumar,JP Duminy,4,Not out
+5.3,SS Iyer,P Kumar,JP Duminy,0,Not out
+5.4,SS Iyer,P Kumar,JP Duminy,0,Not out
+5.5,SS Iyer,P Kumar,JP Duminy,6,Not out
+5.6,SS Iyer,P Kumar,JP Duminy,0,Not out
+5.7,SS Iyer,P Kumar,JP Duminy,1,Not out
+6.1,SS Iyer,RS Bopara,JP Duminy,1,Not out
+6.2,JP Duminy,RS Bopara,SS Iyer,2,Not out
+6.3,JP Duminy,RS Bopara,SS Iyer,1,Not out
+6.4,SS Iyer,RS Bopara,JP Duminy,1,Not out
+6.5,JP Duminy,RS Bopara,SS Iyer,1,Not out
+6.6,SS Iyer,RS Bopara,JP Duminy,0,Not out
+7.1,JP Duminy,KV Sharma,SS Iyer,1,Not out
+7.2,SS Iyer,KV Sharma,JP Duminy,1,Not out
+7.3,JP Duminy,KV Sharma,SS Iyer,1,Not out
+7.4,SS Iyer,KV Sharma,JP Duminy,6,Not out
+7.5,SS Iyer,KV Sharma,JP Duminy,1,Not out
+7.6,JP Duminy,KV Sharma,SS Iyer,1,Not out
+8.1,JP Duminy,RS Bopara,SS Iyer,4,Not out
+8.2,JP Duminy,RS Bopara,SS Iyer,1,Not out
+8.3,SS Iyer,RS Bopara,JP Duminy,0,Not out
+8.4,SS Iyer,RS Bopara,JP Duminy,1,Not out
+8.5,JP Duminy,RS Bopara,SS Iyer,0,Not out
+8.6,JP Duminy,RS Bopara,SS Iyer,1,Not out
+8.7,SS Iyer,RS Bopara,JP Duminy,1,Not out
+9.1,SS Iyer,KV Sharma,JP Duminy,1,Not out
+9.2,JP Duminy,KV Sharma,SS Iyer,1,Not out
+9.3,SS Iyer,KV Sharma,JP Duminy,6,Not out
+9.4,SS Iyer,KV Sharma,JP Duminy,6,Not out
+9.5,SS Iyer,KV Sharma,JP Duminy,0,Not out
+9.6,SS Iyer,KV Sharma,JP Duminy,0,Not out
+10.1,JP Duminy,A Ashish Reddy,SS Iyer,1,Not out
+10.2,SS Iyer,A Ashish Reddy,JP Duminy,0,Not out
+10.3,SS Iyer,A Ashish Reddy,JP Duminy,0,Not out
+10.4,SS Iyer,A Ashish Reddy,JP Duminy,2,Not out
+10.5,SS Iyer,A Ashish Reddy,JP Duminy,6,Not out
+10.6,SS Iyer,A Ashish Reddy,JP Duminy,1,Not out
+10.7,JP Duminy,A Ashish Reddy,SS Iyer,1,Not out
+11.1,JP Duminy,P Kumar,SS Iyer,1,Not out
+11.2,SS Iyer,P Kumar,JP Duminy,0,Not out
+11.3,SS Iyer,P Kumar,JP Duminy,0,caught
+11.4,JP Duminy,P Kumar,Yuvraj Singh,0,Not out
+11.5,JP Duminy,P Kumar,Yuvraj Singh,1,Not out
+11.6,Yuvraj Singh,P Kumar,JP Duminy,1,Not out
+12.1,Yuvraj Singh,RS Bopara,JP Duminy,1,Not out
+12.2,JP Duminy,RS Bopara,Yuvraj Singh,1,Not out
+12.3,Yuvraj Singh,RS Bopara,JP Duminy,0,Not out
+12.4,Yuvraj Singh,RS Bopara,JP Duminy,1,Not out
+12.5,JP Duminy,RS Bopara,Yuvraj Singh,0,Not out
+12.6,JP Duminy,RS Bopara,Yuvraj Singh,0,Not out
+12.7,JP Duminy,RS Bopara,Yuvraj Singh,4,Not out
+13.1,Yuvraj Singh,DW Steyn,JP Duminy,0,Not out
+13.2,Yuvraj Singh,DW Steyn,JP Duminy,0,Not out
+13.3,Yuvraj Singh,DW Steyn,JP Duminy,1,Not out
+13.4,JP Duminy,DW Steyn,Yuvraj Singh,1,Not out
+13.5,Yuvraj Singh,DW Steyn,JP Duminy,0,Not out
+13.6,JP Duminy,DW Steyn,Yuvraj Singh,0,Not out
+14.1,Yuvraj Singh,RS Bopara,JP Duminy,1,Not out
+14.2,JP Duminy,RS Bopara,Yuvraj Singh,4,Not out
+14.3,JP Duminy,RS Bopara,Yuvraj Singh,0,Not out
+14.4,JP Duminy,RS Bopara,Yuvraj Singh,0,Not out
+14.5,JP Duminy,RS Bopara,Yuvraj Singh,4,Not out
+14.6,JP Duminy,RS Bopara,Yuvraj Singh,6,Not out
+15.1,Yuvraj Singh,DW Steyn,JP Duminy,1,Not out
+15.2,JP Duminy,DW Steyn,Yuvraj Singh,6,Not out
+15.3,JP Duminy,DW Steyn,Yuvraj Singh,1,Not out
+15.4,Yuvraj Singh,DW Steyn,JP Duminy,2,Not out
+15.5,Yuvraj Singh,DW Steyn,JP Duminy,1,Not out
+15.6,JP Duminy,DW Steyn,Yuvraj Singh,0,bowled
+16.1,Yuvraj Singh,A Ashish Reddy,AD Mathews,0,caught
+16.2,KM Jadhav,A Ashish Reddy,AD Mathews,0,Not out
+16.3,AD Mathews,A Ashish Reddy,KM Jadhav,1,Not out
+16.4,KM Jadhav,A Ashish Reddy,AD Mathews,0,Not out
+16.5,KM Jadhav,A Ashish Reddy,AD Mathews,1,Not out
+16.6,AD Mathews,A Ashish Reddy,KM Jadhav,1,Not out
+17.1,AD Mathews,B Kumar,KM Jadhav,1,Not out
+17.2,KM Jadhav,B Kumar,AD Mathews,2,Not out
+17.3,KM Jadhav,B Kumar,AD Mathews,1,Not out
+17.4,AD Mathews,B Kumar,KM Jadhav,0,Not out
+17.5,AD Mathews,B Kumar,KM Jadhav,1,Not out
+17.6,KM Jadhav,B Kumar,AD Mathews,1,Not out
+18.1,KM Jadhav,P Kumar,AD Mathews,1,Not out
+18.2,AD Mathews,P Kumar,KM Jadhav,1,Not out
+18.3,KM Jadhav,P Kumar,AD Mathews,1,Not out
+18.4,AD Mathews,P Kumar,KM Jadhav,6,Not out
+18.5,AD Mathews,P Kumar,KM Jadhav,1,Not out
+18.6,KM Jadhav,P Kumar,AD Mathews,6,Not out
+19.1,AD Mathews,B Kumar,KM Jadhav,1,Not out
+19.2,KM Jadhav,B Kumar,AD Mathews,1,Not out
+19.3,AD Mathews,B Kumar,KM Jadhav,1,Not out
+19.4,KM Jadhav,B Kumar,AD Mathews,1,Not out
+19.5,AD Mathews,B Kumar,KM Jadhav,1,Not out
+19.6,KM Jadhav,B Kumar,AD Mathews,4,Not out

@@ -1,0 +1,132 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,CH Gayle,MM Patel,TM Dilshan,0,Not out
+0.2,CH Gayle,MM Patel,TM Dilshan,0,Not out
+0.3,CH Gayle,MM Patel,TM Dilshan,0,Not out
+0.4,CH Gayle,MM Patel,TM Dilshan,0,Not out
+0.5,CH Gayle,MM Patel,TM Dilshan,0,Not out
+0.6,CH Gayle,MM Patel,TM Dilshan,6,Not out
+1.1,TM Dilshan,RP Singh,CH Gayle,0,Not out
+1.2,TM Dilshan,RP Singh,CH Gayle,0,Not out
+1.3,TM Dilshan,RP Singh,CH Gayle,0,Not out
+1.4,TM Dilshan,RP Singh,CH Gayle,0,Not out
+1.5,TM Dilshan,RP Singh,CH Gayle,1,Not out
+1.6,CH Gayle,RP Singh,TM Dilshan,0,Not out
+2.1,TM Dilshan,MM Patel,CH Gayle,1,Not out
+2.2,CH Gayle,MM Patel,TM Dilshan,0,bowled
+2.3,V Kohli,MM Patel,TM Dilshan,3,Not out
+2.4,TM Dilshan,MM Patel,V Kohli,0,run out
+2.5,TM Dilshan,MM Patel,SS Tiwary,0,Not out
+2.6,TM Dilshan,MM Patel,SS Tiwary,0,Not out
+3.1,SS Tiwary,RP Singh,TM Dilshan,0,Not out
+3.2,SS Tiwary,RP Singh,TM Dilshan,0,Not out
+3.3,SS Tiwary,RP Singh,TM Dilshan,1,Not out
+3.4,TM Dilshan,RP Singh,SS Tiwary,1,Not out
+3.5,SS Tiwary,RP Singh,TM Dilshan,0,Not out
+3.6,SS Tiwary,RP Singh,TM Dilshan,0,Not out
+4.1,TM Dilshan,MM Patel,SS Tiwary,0,Not out
+4.2,SS Tiwary,MM Patel,TM Dilshan,0,Not out
+4.3,SS Tiwary,MM Patel,TM Dilshan,4,Not out
+4.4,SS Tiwary,MM Patel,TM Dilshan,0,Not out
+4.5,SS Tiwary,MM Patel,TM Dilshan,1,Not out
+4.6,TM Dilshan,MM Patel,SS Tiwary,0,Not out
+4.7,TM Dilshan,MM Patel,SS Tiwary,4,Not out
+4.8,TM Dilshan,MM Patel,SS Tiwary,0,Not out
+4.9,TM Dilshan,MM Patel,SS Tiwary,1,Not out
+4.10,SS Tiwary,MM Patel,TM Dilshan,6,Not out
+5.1,TM Dilshan,SL Malinga,SS Tiwary,1,Not out
+5.2,SS Tiwary,SL Malinga,TM Dilshan,1,Not out
+5.3,TM Dilshan,SL Malinga,SS Tiwary,1,Not out
+5.4,SS Tiwary,SL Malinga,TM Dilshan,2,Not out
+5.5,SS Tiwary,SL Malinga,TM Dilshan,0,Not out
+5.6,SS Tiwary,SL Malinga,TM Dilshan,0,Not out
+5.7,SS Tiwary,SL Malinga,TM Dilshan,0,Not out
+6.1,TM Dilshan,Harbhajan Singh,SS Tiwary,1,Not out
+6.2,SS Tiwary,Harbhajan Singh,TM Dilshan,6,Not out
+6.3,SS Tiwary,Harbhajan Singh,TM Dilshan,0,hit wicket
+6.4,AB de Villiers,Harbhajan Singh,TM Dilshan,1,Not out
+6.5,TM Dilshan,Harbhajan Singh,AB de Villiers,0,Not out
+6.6,TM Dilshan,Harbhajan Singh,AB de Villiers,0,Not out
+7.1,AB de Villiers,SL Malinga,TM Dilshan,0,Not out
+7.2,AB de Villiers,SL Malinga,TM Dilshan,0,Not out
+7.3,AB de Villiers,SL Malinga,TM Dilshan,1,Not out
+7.4,TM Dilshan,SL Malinga,AB de Villiers,0,Not out
+7.5,TM Dilshan,SL Malinga,AB de Villiers,1,Not out
+7.6,AB de Villiers,SL Malinga,TM Dilshan,2,Not out
+8.1,TM Dilshan,Harbhajan Singh,AB de Villiers,0,Not out
+8.2,TM Dilshan,Harbhajan Singh,AB de Villiers,1,Not out
+8.3,AB de Villiers,Harbhajan Singh,TM Dilshan,1,Not out
+8.4,TM Dilshan,Harbhajan Singh,AB de Villiers,2,Not out
+8.5,TM Dilshan,Harbhajan Singh,AB de Villiers,4,Not out
+8.6,TM Dilshan,Harbhajan Singh,AB de Villiers,1,Not out
+9.1,TM Dilshan,KA Pollard,AB de Villiers,0,Not out
+9.2,TM Dilshan,KA Pollard,AB de Villiers,0,Not out
+9.3,TM Dilshan,KA Pollard,AB de Villiers,2,Not out
+9.4,TM Dilshan,KA Pollard,AB de Villiers,4,Not out
+9.5,TM Dilshan,KA Pollard,AB de Villiers,1,Not out
+9.6,AB de Villiers,KA Pollard,TM Dilshan,1,Not out
+10.1,AB de Villiers,Harbhajan Singh,TM Dilshan,1,Not out
+10.2,TM Dilshan,Harbhajan Singh,AB de Villiers,1,Not out
+10.3,AB de Villiers,Harbhajan Singh,TM Dilshan,4,Not out
+10.4,AB de Villiers,Harbhajan Singh,TM Dilshan,1,Not out
+10.5,TM Dilshan,Harbhajan Singh,AB de Villiers,6,Not out
+10.6,TM Dilshan,Harbhajan Singh,AB de Villiers,0,Not out
+10.7,AB de Villiers,Harbhajan Singh,TM Dilshan,1,Not out
+11.1,AB de Villiers,KA Pollard,TM Dilshan,1,Not out
+11.2,TM Dilshan,KA Pollard,AB de Villiers,1,Not out
+11.3,AB de Villiers,KA Pollard,TM Dilshan,0,caught
+11.4,MA Agarwal,KA Pollard,TM Dilshan,1,Not out
+11.5,TM Dilshan,KA Pollard,MA Agarwal,0,Not out
+11.6,TM Dilshan,KA Pollard,MA Agarwal,0,Not out
+12.1,MA Agarwal,DR Smith,TM Dilshan,0,Not out
+12.2,MA Agarwal,DR Smith,TM Dilshan,0,Not out
+12.3,MA Agarwal,DR Smith,TM Dilshan,1,Not out
+12.4,TM Dilshan,DR Smith,MA Agarwal,1,Not out
+12.5,MA Agarwal,DR Smith,TM Dilshan,0,Not out
+12.6,MA Agarwal,DR Smith,TM Dilshan,0,Not out
+13.1,TM Dilshan,KA Pollard,MA Agarwal,0,Not out
+13.2,TM Dilshan,KA Pollard,MA Agarwal,0,Not out
+13.3,TM Dilshan,KA Pollard,MA Agarwal,1,Not out
+13.4,MA Agarwal,KA Pollard,TM Dilshan,0,Not out
+13.5,MA Agarwal,KA Pollard,TM Dilshan,0,Not out
+13.6,MA Agarwal,KA Pollard,TM Dilshan,0,Not out
+13.7,MA Agarwal,KA Pollard,TM Dilshan,0,Not out
+13.8,MA Agarwal,KA Pollard,TM Dilshan,4,Not out
+13.9,MA Agarwal,KA Pollard,TM Dilshan,1,Not out
+14.1,MA Agarwal,DR Smith,TM Dilshan,1,Not out
+14.2,TM Dilshan,DR Smith,MA Agarwal,0,Not out
+14.3,TM Dilshan,DR Smith,MA Agarwal,4,Not out
+14.4,TM Dilshan,DR Smith,MA Agarwal,1,Not out
+14.5,MA Agarwal,DR Smith,TM Dilshan,1,Not out
+14.6,TM Dilshan,DR Smith,MA Agarwal,1,Not out
+15.1,TM Dilshan,RP Singh,MA Agarwal,0,Not out
+15.2,TM Dilshan,RP Singh,MA Agarwal,1,Not out
+15.3,MA Agarwal,RP Singh,TM Dilshan,4,Not out
+15.4,MA Agarwal,RP Singh,TM Dilshan,1,Not out
+15.5,TM Dilshan,RP Singh,MA Agarwal,0,Not out
+15.6,MA Agarwal,RP Singh,TM Dilshan,6,Not out
+15.7,MA Agarwal,RP Singh,TM Dilshan,1,Not out
+16.1,MA Agarwal,SL Malinga,TM Dilshan,1,Not out
+16.2,TM Dilshan,SL Malinga,MA Agarwal,0,Not out
+16.3,TM Dilshan,SL Malinga,MA Agarwal,0,Not out
+16.4,TM Dilshan,SL Malinga,MA Agarwal,1,Not out
+16.5,MA Agarwal,SL Malinga,TM Dilshan,1,Not out
+16.6,TM Dilshan,SL Malinga,MA Agarwal,2,Not out
+16.7,TM Dilshan,SL Malinga,MA Agarwal,0,Not out
+17.1,MA Agarwal,RP Singh,TM Dilshan,4,Not out
+17.2,MA Agarwal,RP Singh,TM Dilshan,1,Not out
+17.3,TM Dilshan,RP Singh,MA Agarwal,0,bowled
+17.4,R Vinay Kumar,RP Singh,MA Agarwal,0,Not out
+17.5,R Vinay Kumar,RP Singh,MA Agarwal,1,run out
+17.6,Z Khan,RP Singh,MA Agarwal,0,Not out
+18.1,MA Agarwal,SL Malinga,Z Khan,1,Not out
+18.2,Z Khan,SL Malinga,MA Agarwal,0,Not out
+18.3,Z Khan,SL Malinga,MA Agarwal,1,Not out
+18.4,MA Agarwal,SL Malinga,Z Khan,4,Not out
+18.5,MA Agarwal,SL Malinga,Z Khan,6,Not out
+18.6,MA Agarwal,SL Malinga,Z Khan,1,Not out
+19.1,MA Agarwal,MM Patel,Z Khan,6,Not out
+19.2,MA Agarwal,MM Patel,Z Khan,4,Not out
+19.3,MA Agarwal,MM Patel,Z Khan,4,Not out
+19.4,MA Agarwal,MM Patel,Z Khan,2,Not out
+19.5,MA Agarwal,MM Patel,Z Khan,6,Not out
+19.6,MA Agarwal,MM Patel,Z Khan,2,Not out

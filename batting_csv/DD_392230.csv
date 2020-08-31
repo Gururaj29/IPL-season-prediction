@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,G Gambhir,MM Patel,V Sehwag,0,Not out
+0.2,G Gambhir,MM Patel,V Sehwag,0,Not out
+0.3,G Gambhir,MM Patel,V Sehwag,1,Not out
+0.4,V Sehwag,MM Patel,G Gambhir,0,Not out
+0.5,V Sehwag,MM Patel,G Gambhir,0,Not out
+0.6,V Sehwag,MM Patel,G Gambhir,0,Not out
+0.7,V Sehwag,MM Patel,G Gambhir,0,Not out
+0.8,V Sehwag,MM Patel,G Gambhir,1,Not out
+1.1,V Sehwag,A Singh,G Gambhir,0,Not out
+1.2,V Sehwag,A Singh,G Gambhir,1,Not out
+1.3,G Gambhir,A Singh,V Sehwag,2,Not out
+1.4,G Gambhir,A Singh,V Sehwag,0,Not out
+1.5,G Gambhir,A Singh,V Sehwag,4,Not out
+1.6,G Gambhir,A Singh,V Sehwag,1,Not out
+2.1,G Gambhir,MM Patel,V Sehwag,0,caught and bowled
+2.2,AB de Villiers,MM Patel,V Sehwag,0,Not out
+2.3,AB de Villiers,MM Patel,V Sehwag,2,Not out
+2.4,AB de Villiers,MM Patel,V Sehwag,1,Not out
+2.5,V Sehwag,MM Patel,AB de Villiers,0,lbw
+2.6,TM Dilshan,MM Patel,AB de Villiers,0,Not out
+3.1,AB de Villiers,A Singh,TM Dilshan,0,Not out
+3.2,AB de Villiers,A Singh,TM Dilshan,1,Not out
+3.3,TM Dilshan,A Singh,AB de Villiers,0,Not out
+3.4,TM Dilshan,A Singh,AB de Villiers,0,Not out
+3.5,TM Dilshan,A Singh,AB de Villiers,0,Not out
+3.6,TM Dilshan,A Singh,AB de Villiers,3,Not out
+4.1,TM Dilshan,MM Patel,AB de Villiers,0,Not out
+4.2,TM Dilshan,MM Patel,AB de Villiers,2,Not out
+4.3,TM Dilshan,MM Patel,AB de Villiers,0,Not out
+4.4,TM Dilshan,MM Patel,AB de Villiers,1,Not out
+4.5,AB de Villiers,MM Patel,TM Dilshan,4,Not out
+4.6,AB de Villiers,MM Patel,TM Dilshan,0,Not out
+5.1,TM Dilshan,SK Trivedi,AB de Villiers,4,Not out
+5.2,TM Dilshan,SK Trivedi,AB de Villiers,1,Not out
+5.3,AB de Villiers,SK Trivedi,TM Dilshan,0,Not out
+5.4,AB de Villiers,SK Trivedi,TM Dilshan,4,Not out
+5.5,AB de Villiers,SK Trivedi,TM Dilshan,0,Not out
+5.6,AB de Villiers,SK Trivedi,TM Dilshan,0,Not out
+6.1,TM Dilshan,J Botha,AB de Villiers,0,Not out
+6.2,TM Dilshan,J Botha,AB de Villiers,1,Not out
+6.3,AB de Villiers,J Botha,TM Dilshan,0,Not out
+6.4,AB de Villiers,J Botha,TM Dilshan,1,Not out
+6.5,TM Dilshan,J Botha,AB de Villiers,0,Not out
+6.6,TM Dilshan,J Botha,AB de Villiers,0,Not out
+6.7,TM Dilshan,J Botha,AB de Villiers,0,Not out
+7.1,AB de Villiers,SK Warne,TM Dilshan,2,Not out
+7.2,AB de Villiers,SK Warne,TM Dilshan,1,Not out
+7.3,TM Dilshan,SK Warne,AB de Villiers,1,Not out
+7.4,AB de Villiers,SK Warne,TM Dilshan,1,Not out
+7.5,TM Dilshan,SK Warne,AB de Villiers,1,Not out
+7.6,AB de Villiers,SK Warne,TM Dilshan,2,Not out
+8.1,TM Dilshan,J Botha,AB de Villiers,1,Not out
+8.2,AB de Villiers,J Botha,TM Dilshan,1,Not out
+8.3,TM Dilshan,J Botha,AB de Villiers,1,Not out
+8.4,AB de Villiers,J Botha,TM Dilshan,1,Not out
+8.5,TM Dilshan,J Botha,AB de Villiers,1,Not out
+8.6,AB de Villiers,J Botha,TM Dilshan,4,Not out
+9.1,TM Dilshan,SK Warne,AB de Villiers,1,Not out
+9.2,AB de Villiers,SK Warne,TM Dilshan,1,Not out
+9.3,TM Dilshan,SK Warne,AB de Villiers,0,Not out
+9.4,TM Dilshan,SK Warne,AB de Villiers,1,Not out
+9.5,AB de Villiers,SK Warne,TM Dilshan,1,Not out
+9.6,TM Dilshan,SK Warne,AB de Villiers,1,Not out
+10.1,TM Dilshan,J Botha,AB de Villiers,0,Not out
+10.2,TM Dilshan,J Botha,AB de Villiers,2,Not out
+10.3,TM Dilshan,J Botha,AB de Villiers,0,Not out
+10.4,TM Dilshan,J Botha,AB de Villiers,1,Not out
+10.5,AB de Villiers,J Botha,TM Dilshan,1,Not out
+10.6,TM Dilshan,J Botha,AB de Villiers,2,Not out
+11.1,AB de Villiers,SK Warne,TM Dilshan,0,Not out
+11.2,AB de Villiers,SK Warne,TM Dilshan,0,Not out
+11.3,AB de Villiers,SK Warne,TM Dilshan,3,Not out
+11.4,TM Dilshan,SK Warne,AB de Villiers,1,Not out
+11.5,AB de Villiers,SK Warne,TM Dilshan,0,Not out
+11.6,AB de Villiers,SK Warne,TM Dilshan,1,Not out
+12.1,AB de Villiers,RA Jadeja,TM Dilshan,4,Not out
+12.2,AB de Villiers,RA Jadeja,TM Dilshan,0,Not out
+12.3,AB de Villiers,RA Jadeja,TM Dilshan,1,Not out
+12.4,TM Dilshan,RA Jadeja,AB de Villiers,1,Not out
+12.5,AB de Villiers,RA Jadeja,TM Dilshan,0,Not out
+12.6,AB de Villiers,RA Jadeja,TM Dilshan,1,Not out
+13.1,AB de Villiers,AS Raut,TM Dilshan,4,Not out
+13.2,AB de Villiers,AS Raut,TM Dilshan,1,Not out
+13.3,TM Dilshan,AS Raut,AB de Villiers,0,Not out
+13.4,AB de Villiers,AS Raut,TM Dilshan,4,Not out
+13.5,AB de Villiers,AS Raut,TM Dilshan,0,Not out
+13.6,AB de Villiers,AS Raut,TM Dilshan,1,Not out
+14.1,AB de Villiers,RA Jadeja,TM Dilshan,1,Not out
+14.2,TM Dilshan,RA Jadeja,AB de Villiers,1,Not out
+14.3,AB de Villiers,RA Jadeja,TM Dilshan,1,Not out
+14.4,TM Dilshan,RA Jadeja,AB de Villiers,1,Not out
+14.5,AB de Villiers,RA Jadeja,TM Dilshan,1,Not out
+14.6,TM Dilshan,RA Jadeja,AB de Villiers,1,Not out
+15.1,TM Dilshan,YK Pathan,AB de Villiers,0,Not out
+15.2,TM Dilshan,YK Pathan,AB de Villiers,1,Not out
+15.3,AB de Villiers,YK Pathan,TM Dilshan,1,Not out
+15.4,TM Dilshan,YK Pathan,AB de Villiers,0,Not out
+15.5,TM Dilshan,YK Pathan,AB de Villiers,1,Not out
+15.6,AB de Villiers,YK Pathan,TM Dilshan,1,Not out
+16.1,AB de Villiers,J Botha,TM Dilshan,1,Not out
+16.2,TM Dilshan,J Botha,AB de Villiers,1,Not out
+16.3,AB de Villiers,J Botha,TM Dilshan,1,Not out
+16.4,TM Dilshan,J Botha,AB de Villiers,0,bowled
+16.5,KD Karthik,J Botha,AB de Villiers,2,Not out
+16.6,KD Karthik,J Botha,AB de Villiers,0,Not out
+17.1,AB de Villiers,A Singh,KD Karthik,2,Not out
+17.2,AB de Villiers,A Singh,KD Karthik,2,Not out
+17.3,AB de Villiers,A Singh,KD Karthik,1,Not out
+17.4,KD Karthik,A Singh,AB de Villiers,1,Not out
+17.5,AB de Villiers,A Singh,KD Karthik,4,Not out
+17.6,AB de Villiers,A Singh,KD Karthik,1,Not out
+18.1,AB de Villiers,MM Patel,KD Karthik,2,Not out
+18.2,AB de Villiers,MM Patel,KD Karthik,6,Not out
+18.3,AB de Villiers,MM Patel,KD Karthik,4,Not out
+18.4,AB de Villiers,MM Patel,KD Karthik,1,Not out
+18.5,KD Karthik,MM Patel,AB de Villiers,4,Not out
+18.6,KD Karthik,MM Patel,AB de Villiers,6,Not out
+18.7,KD Karthik,MM Patel,AB de Villiers,1,Not out
+19.1,KD Karthik,SK Warne,AB de Villiers,1,Not out
+19.2,AB de Villiers,SK Warne,KD Karthik,1,Not out
+19.3,KD Karthik,SK Warne,AB de Villiers,2,Not out
+19.4,KD Karthik,SK Warne,AB de Villiers,2,Not out
+19.5,KD Karthik,SK Warne,AB de Villiers,2,Not out
+19.6,KD Karthik,SK Warne,AB de Villiers,2,Not out

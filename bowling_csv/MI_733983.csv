@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,CH Gayle,P Suyal,PA Patel,1,Not out
+0.2,PA Patel,P Suyal,CH Gayle,0,Not out
+0.3,PA Patel,P Suyal,CH Gayle,0,Not out
+0.4,PA Patel,P Suyal,CH Gayle,4,Not out
+0.5,PA Patel,P Suyal,CH Gayle,1,Not out
+0.6,CH Gayle,P Suyal,PA Patel,0,Not out
+1.1,PA Patel,JJ Bumrah,CH Gayle,0,Not out
+1.2,PA Patel,JJ Bumrah,CH Gayle,4,Not out
+1.3,PA Patel,JJ Bumrah,CH Gayle,4,Not out
+1.4,PA Patel,JJ Bumrah,CH Gayle,0,Not out
+1.5,PA Patel,JJ Bumrah,CH Gayle,1,Not out
+1.6,CH Gayle,JJ Bumrah,PA Patel,0,Not out
+2.1,PA Patel,P Suyal,CH Gayle,0,Not out
+2.2,PA Patel,P Suyal,CH Gayle,0,Not out
+2.3,PA Patel,P Suyal,CH Gayle,4,Not out
+2.4,PA Patel,P Suyal,CH Gayle,1,Not out
+2.5,CH Gayle,P Suyal,PA Patel,6,Not out
+2.6,CH Gayle,P Suyal,PA Patel,0,Not out
+2.7,CH Gayle,P Suyal,PA Patel,4,Not out
+2.8,CH Gayle,P Suyal,PA Patel,6,Not out
+2.9,CH Gayle,P Suyal,PA Patel,4,Not out
+3.1,PA Patel,Harbhajan Singh,CH Gayle,0,Not out
+3.2,PA Patel,Harbhajan Singh,CH Gayle,4,Not out
+3.3,PA Patel,Harbhajan Singh,CH Gayle,0,Not out
+3.4,PA Patel,Harbhajan Singh,CH Gayle,2,Not out
+3.5,PA Patel,Harbhajan Singh,CH Gayle,0,Not out
+3.6,PA Patel,Harbhajan Singh,CH Gayle,0,Not out
+4.1,CH Gayle,SL Malinga,PA Patel,0,Not out
+4.2,CH Gayle,SL Malinga,PA Patel,1,Not out
+4.3,PA Patel,SL Malinga,CH Gayle,1,Not out
+4.4,CH Gayle,SL Malinga,PA Patel,2,Not out
+4.5,CH Gayle,SL Malinga,PA Patel,0,Not out
+4.6,CH Gayle,SL Malinga,PA Patel,0,Not out
+5.1,PA Patel,Harbhajan Singh,CH Gayle,0,bowled
+5.2,V Kohli,Harbhajan Singh,CH Gayle,0,Not out
+5.3,V Kohli,Harbhajan Singh,CH Gayle,1,Not out
+5.4,CH Gayle,Harbhajan Singh,V Kohli,0,Not out
+5.5,CH Gayle,Harbhajan Singh,V Kohli,4,Not out
+5.6,CH Gayle,Harbhajan Singh,V Kohli,6,Not out
+6.1,V Kohli,JJ Bumrah,CH Gayle,0,Not out
+6.2,V Kohli,JJ Bumrah,CH Gayle,0,Not out
+6.3,V Kohli,JJ Bumrah,CH Gayle,1,Not out
+6.4,CH Gayle,JJ Bumrah,V Kohli,1,Not out
+6.5,V Kohli,JJ Bumrah,CH Gayle,0,Not out
+6.6,CH Gayle,JJ Bumrah,V Kohli,0,Not out
+7.1,V Kohli,Harbhajan Singh,CH Gayle,1,Not out
+7.2,CH Gayle,Harbhajan Singh,V Kohli,0,Not out
+7.3,CH Gayle,Harbhajan Singh,V Kohli,0,Not out
+7.4,V Kohli,Harbhajan Singh,CH Gayle,0,Not out
+7.5,V Kohli,Harbhajan Singh,CH Gayle,2,Not out
+7.6,V Kohli,Harbhajan Singh,CH Gayle,1,Not out
+8.1,V Kohli,KA Pollard,CH Gayle,6,Not out
+8.2,V Kohli,KA Pollard,CH Gayle,0,Not out
+8.3,V Kohli,KA Pollard,CH Gayle,1,Not out
+8.4,CH Gayle,KA Pollard,V Kohli,1,Not out
+8.5,V Kohli,KA Pollard,CH Gayle,1,Not out
+8.6,CH Gayle,KA Pollard,V Kohli,1,Not out
+9.1,CH Gayle,Harbhajan Singh,V Kohli,0,Not out
+9.2,CH Gayle,Harbhajan Singh,V Kohli,1,Not out
+9.3,V Kohli,Harbhajan Singh,CH Gayle,6,Not out
+9.4,V Kohli,Harbhajan Singh,CH Gayle,1,Not out
+9.5,CH Gayle,Harbhajan Singh,V Kohli,0,bowled
+9.6,AB de Villiers,Harbhajan Singh,V Kohli,4,Not out
+10.1,V Kohli,KA Pollard,AB de Villiers,0,Not out
+10.2,V Kohli,KA Pollard,AB de Villiers,4,Not out
+10.3,V Kohli,KA Pollard,AB de Villiers,4,Not out
+10.4,V Kohli,KA Pollard,AB de Villiers,0,Not out
+10.5,V Kohli,KA Pollard,AB de Villiers,2,Not out
+10.6,V Kohli,KA Pollard,AB de Villiers,1,Not out
+11.1,V Kohli,SL Malinga,AB de Villiers,1,Not out
+11.2,AB de Villiers,SL Malinga,V Kohli,0,Not out
+11.3,AB de Villiers,SL Malinga,V Kohli,1,Not out
+11.4,V Kohli,SL Malinga,AB de Villiers,0,Not out
+11.5,V Kohli,SL Malinga,AB de Villiers,1,Not out
+11.6,AB de Villiers,SL Malinga,V Kohli,4,Not out
+12.1,V Kohli,JJ Bumrah,AB de Villiers,1,Not out
+12.2,AB de Villiers,JJ Bumrah,V Kohli,0,Not out
+12.3,AB de Villiers,JJ Bumrah,V Kohli,0,Not out
+12.4,AB de Villiers,JJ Bumrah,V Kohli,0,bowled
+12.5,Yuvraj Singh,JJ Bumrah,V Kohli,0,Not out
+12.6,Yuvraj Singh,JJ Bumrah,V Kohli,1,Not out
+13.1,Yuvraj Singh,P Suyal,V Kohli,1,Not out
+13.2,V Kohli,P Suyal,Yuvraj Singh,0,Not out
+13.3,V Kohli,P Suyal,Yuvraj Singh,0,caught
+13.4,Yuvraj Singh,P Suyal,RR Rossouw,0,Not out
+13.5,Yuvraj Singh,P Suyal,RR Rossouw,0,Not out
+13.6,Yuvraj Singh,P Suyal,RR Rossouw,0,Not out
+14.1,RR Rossouw,RG Sharma,Yuvraj Singh,1,Not out
+14.2,Yuvraj Singh,RG Sharma,RR Rossouw,1,Not out
+14.3,RR Rossouw,RG Sharma,Yuvraj Singh,1,Not out
+14.4,Yuvraj Singh,RG Sharma,RR Rossouw,1,Not out
+14.5,RR Rossouw,RG Sharma,Yuvraj Singh,1,Not out
+14.6,Yuvraj Singh,RG Sharma,RR Rossouw,1,Not out
+15.1,Yuvraj Singh,KA Pollard,RR Rossouw,1,Not out
+15.2,RR Rossouw,KA Pollard,Yuvraj Singh,6,Not out
+15.3,RR Rossouw,KA Pollard,Yuvraj Singh,0,run out
+15.4,MA Starc,KA Pollard,RR Rossouw,1,Not out
+15.5,RR Rossouw,KA Pollard,MA Starc,0,Not out
+15.6,RR Rossouw,KA Pollard,MA Starc,1,Not out
+16.1,RR Rossouw,SL Malinga,MA Starc,1,Not out
+16.2,MA Starc,SL Malinga,RR Rossouw,4,Not out
+16.3,MA Starc,SL Malinga,RR Rossouw,0,Not out
+16.4,MA Starc,SL Malinga,RR Rossouw,0,caught
+16.5,RR Rossouw,SL Malinga,HV Patel,4,Not out
+16.6,RR Rossouw,SL Malinga,HV Patel,1,Not out
+17.1,RR Rossouw,JJ Bumrah,HV Patel,1,Not out
+17.2,HV Patel,JJ Bumrah,RR Rossouw,6,Not out
+17.3,HV Patel,JJ Bumrah,RR Rossouw,0,bowled
+17.4,VR Aaron,JJ Bumrah,RR Rossouw,1,Not out
+17.5,RR Rossouw,JJ Bumrah,VR Aaron,1,Not out
+17.6,VR Aaron,JJ Bumrah,RR Rossouw,0,Not out
+18.1,RR Rossouw,SL Malinga,VR Aaron,6,Not out
+18.2,RR Rossouw,SL Malinga,VR Aaron,0,caught
+18.3,AB Dinda,SL Malinga,VR Aaron,0,Not out
+18.4,AB Dinda,SL Malinga,VR Aaron,1,Not out
+18.5,VR Aaron,SL Malinga,AB Dinda,1,Not out
+18.6,AB Dinda,SL Malinga,VR Aaron,0,Not out
+19.1,VR Aaron,KA Pollard,AB Dinda,0,Not out
+19.2,VR Aaron,KA Pollard,AB Dinda,4,Not out
+19.3,VR Aaron,KA Pollard,AB Dinda,0,Not out
+19.4,VR Aaron,KA Pollard,AB Dinda,0,Not out
+19.5,VR Aaron,KA Pollard,AB Dinda,1,Not out
+19.6,AB Dinda,KA Pollard,VR Aaron,0,Not out
+19.7,AB Dinda,KA Pollard,VR Aaron,1,Not out

@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MK Pandey,Z Khan,JH Kallis,0,Not out
+0.2,MK Pandey,Z Khan,JH Kallis,0,Not out
+0.3,MK Pandey,Z Khan,JH Kallis,2,Not out
+0.4,MK Pandey,Z Khan,JH Kallis,0,Not out
+0.5,MK Pandey,Z Khan,JH Kallis,1,Not out
+0.6,JH Kallis,Z Khan,MK Pandey,1,Not out
+1.1,JH Kallis,CRD Fernando,MK Pandey,0,Not out
+1.2,JH Kallis,CRD Fernando,MK Pandey,0,Not out
+1.3,JH Kallis,CRD Fernando,MK Pandey,1,Not out
+1.4,MK Pandey,CRD Fernando,JH Kallis,0,Not out
+1.5,MK Pandey,CRD Fernando,JH Kallis,0,Not out
+1.6,MK Pandey,CRD Fernando,JH Kallis,0,Not out
+2.1,JH Kallis,R McLaren,MK Pandey,2,Not out
+2.2,JH Kallis,R McLaren,MK Pandey,1,Not out
+2.3,MK Pandey,R McLaren,JH Kallis,2,Not out
+2.4,MK Pandey,R McLaren,JH Kallis,0,Not out
+2.5,MK Pandey,R McLaren,JH Kallis,1,Not out
+2.6,JH Kallis,R McLaren,MK Pandey,1,Not out
+3.1,JH Kallis,Z Khan,MK Pandey,0,Not out
+3.2,JH Kallis,Z Khan,MK Pandey,1,Not out
+3.3,MK Pandey,Z Khan,JH Kallis,1,Not out
+3.4,JH Kallis,Z Khan,MK Pandey,6,Not out
+3.5,JH Kallis,Z Khan,MK Pandey,1,Not out
+3.6,MK Pandey,Z Khan,JH Kallis,1,Not out
+4.1,MK Pandey,CRD Fernando,JH Kallis,4,Not out
+4.2,MK Pandey,CRD Fernando,JH Kallis,0,Not out
+4.3,MK Pandey,CRD Fernando,JH Kallis,0,Not out
+4.4,MK Pandey,CRD Fernando,JH Kallis,4,Not out
+4.5,MK Pandey,CRD Fernando,JH Kallis,0,caught
+4.6,JH Kallis,CRD Fernando,KP Pietersen,0,Not out
+5.1,KP Pietersen,R McLaren,JH Kallis,1,Not out
+5.2,JH Kallis,R McLaren,KP Pietersen,0,Not out
+5.3,JH Kallis,R McLaren,KP Pietersen,0,Not out
+5.4,JH Kallis,R McLaren,KP Pietersen,0,bowled
+5.5,R Dravid,R McLaren,KP Pietersen,1,Not out
+5.6,KP Pietersen,R McLaren,R Dravid,2,Not out
+6.1,R Dravid,Harbhajan Singh,KP Pietersen,1,Not out
+6.2,KP Pietersen,Harbhajan Singh,R Dravid,0,Not out
+6.3,KP Pietersen,Harbhajan Singh,R Dravid,0,Not out
+6.4,KP Pietersen,Harbhajan Singh,R Dravid,1,Not out
+6.5,R Dravid,Harbhajan Singh,KP Pietersen,1,Not out
+6.6,KP Pietersen,Harbhajan Singh,R Dravid,0,Not out
+7.1,KP Pietersen,KA Pollard,R Dravid,1,Not out
+7.2,R Dravid,KA Pollard,KP Pietersen,4,Not out
+7.3,R Dravid,KA Pollard,KP Pietersen,1,Not out
+7.4,KP Pietersen,KA Pollard,R Dravid,1,Not out
+7.5,R Dravid,KA Pollard,KP Pietersen,2,Not out
+7.6,R Dravid,KA Pollard,KP Pietersen,1,Not out
+8.1,R Dravid,Harbhajan Singh,KP Pietersen,4,Not out
+8.2,R Dravid,Harbhajan Singh,KP Pietersen,0,Not out
+8.3,R Dravid,Harbhajan Singh,KP Pietersen,1,Not out
+8.4,KP Pietersen,Harbhajan Singh,R Dravid,4,Not out
+8.5,KP Pietersen,Harbhajan Singh,R Dravid,1,Not out
+8.6,R Dravid,Harbhajan Singh,KP Pietersen,0,caught
+9.1,KP Pietersen,KA Pollard,RV Uthappa,1,Not out
+9.2,RV Uthappa,KA Pollard,KP Pietersen,0,Not out
+9.3,RV Uthappa,KA Pollard,KP Pietersen,1,Not out
+9.4,KP Pietersen,KA Pollard,RV Uthappa,1,Not out
+9.5,RV Uthappa,KA Pollard,KP Pietersen,1,Not out
+9.6,KP Pietersen,KA Pollard,RV Uthappa,1,Not out
+9.7,RV Uthappa,KA Pollard,KP Pietersen,0,Not out
+10.1,KP Pietersen,Harbhajan Singh,RV Uthappa,6,Not out
+10.2,KP Pietersen,Harbhajan Singh,RV Uthappa,1,Not out
+10.3,RV Uthappa,Harbhajan Singh,KP Pietersen,1,Not out
+10.4,KP Pietersen,Harbhajan Singh,RV Uthappa,0,caught
+10.5,LRPL Taylor,Harbhajan Singh,RV Uthappa,1,Not out
+10.6,RV Uthappa,Harbhajan Singh,LRPL Taylor,1,Not out
+11.1,RV Uthappa,KA Pollard,LRPL Taylor,0,caught
+11.2,LRPL Taylor,KA Pollard,V Kohli,1,Not out
+11.3,V Kohli,KA Pollard,LRPL Taylor,1,Not out
+11.4,LRPL Taylor,KA Pollard,V Kohli,0,Not out
+11.5,LRPL Taylor,KA Pollard,V Kohli,1,Not out
+11.6,V Kohli,KA Pollard,LRPL Taylor,1,Not out
+12.1,V Kohli,Harbhajan Singh,LRPL Taylor,1,Not out
+12.2,LRPL Taylor,Harbhajan Singh,V Kohli,1,Not out
+12.3,V Kohli,Harbhajan Singh,LRPL Taylor,1,Not out
+12.4,LRPL Taylor,Harbhajan Singh,V Kohli,1,Not out
+12.5,V Kohli,Harbhajan Singh,LRPL Taylor,1,Not out
+12.6,LRPL Taylor,Harbhajan Singh,V Kohli,0,Not out
+13.1,V Kohli,Z Khan,LRPL Taylor,1,Not out
+13.2,LRPL Taylor,Z Khan,V Kohli,1,Not out
+13.3,V Kohli,Z Khan,LRPL Taylor,1,Not out
+13.4,LRPL Taylor,Z Khan,V Kohli,1,Not out
+13.5,V Kohli,Z Khan,LRPL Taylor,1,Not out
+13.6,LRPL Taylor,Z Khan,V Kohli,2,Not out
+14.1,V Kohli,CRD Fernando,LRPL Taylor,0,Not out
+14.2,V Kohli,CRD Fernando,LRPL Taylor,6,Not out
+14.3,V Kohli,CRD Fernando,LRPL Taylor,1,Not out
+14.4,LRPL Taylor,CRD Fernando,V Kohli,0,caught
+14.5,V Kohli,CRD Fernando,DW Steyn,0,Not out
+14.6,V Kohli,CRD Fernando,DW Steyn,1,Not out
+15.1,V Kohli,Z Khan,DW Steyn,4,Not out
+15.2,V Kohli,Z Khan,DW Steyn,4,Not out
+15.3,V Kohli,Z Khan,DW Steyn,1,Not out
+15.4,DW Steyn,Z Khan,V Kohli,0,Not out
+15.5,DW Steyn,Z Khan,V Kohli,0,bowled
+15.6,R Vinay Kumar,Z Khan,V Kohli,0,Not out
+16.1,V Kohli,CRD Fernando,R Vinay Kumar,4,Not out
+16.2,V Kohli,CRD Fernando,R Vinay Kumar,1,Not out
+16.3,R Vinay Kumar,CRD Fernando,V Kohli,0,Not out
+16.4,V Kohli,CRD Fernando,R Vinay Kumar,0,Not out
+16.5,V Kohli,CRD Fernando,R Vinay Kumar,1,Not out
+16.6,R Vinay Kumar,CRD Fernando,V Kohli,1,Not out
+17.1,R Vinay Kumar,R McLaren,V Kohli,1,Not out
+17.2,V Kohli,R McLaren,R Vinay Kumar,1,Not out
+17.3,R Vinay Kumar,R McLaren,V Kohli,0,Not out
+17.4,R Vinay Kumar,R McLaren,V Kohli,0,Not out
+17.5,R Vinay Kumar,R McLaren,V Kohli,1,Not out
+17.6,V Kohli,R McLaren,R Vinay Kumar,1,Not out
+18.1,V Kohli,KA Pollard,R Vinay Kumar,4,Not out
+18.2,V Kohli,KA Pollard,R Vinay Kumar,0,caught
+18.3,R Vinay Kumar,KA Pollard,Pankaj Singh,0,Not out
+18.4,R Vinay Kumar,KA Pollard,Pankaj Singh,1,Not out
+18.5,Pankaj Singh,KA Pollard,R Vinay Kumar,1,Not out
+18.6,R Vinay Kumar,KA Pollard,Pankaj Singh,1,Not out
+18.7,Pankaj Singh,KA Pollard,R Vinay Kumar,0,caught
+19.1,A Kumble,R McLaren,R Vinay Kumar,0,Not out
+19.2,A Kumble,R McLaren,R Vinay Kumar,1,Not out
+19.3,R Vinay Kumar,R McLaren,A Kumble,0,Not out
+19.4,R Vinay Kumar,R McLaren,A Kumble,1,Not out
+19.5,A Kumble,R McLaren,R Vinay Kumar,0,Not out
+19.6,R Vinay Kumar,R McLaren,A Kumble,4,Not out

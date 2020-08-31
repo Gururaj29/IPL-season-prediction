@@ -1,0 +1,122 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,JH Kallis,J Botha,G Gambhir,0,Not out
+0.2,JH Kallis,J Botha,G Gambhir,1,Not out
+0.3,G Gambhir,J Botha,JH Kallis,0,Not out
+0.4,G Gambhir,J Botha,JH Kallis,0,Not out
+0.5,G Gambhir,J Botha,JH Kallis,4,Not out
+0.6,G Gambhir,J Botha,JH Kallis,0,Not out
+0.7,G Gambhir,J Botha,JH Kallis,4,Not out
+1.1,JH Kallis,A Singh,G Gambhir,0,Not out
+1.2,JH Kallis,A Singh,G Gambhir,1,Not out
+1.3,G Gambhir,A Singh,JH Kallis,1,Not out
+1.4,JH Kallis,A Singh,G Gambhir,1,Not out
+1.5,G Gambhir,A Singh,JH Kallis,0,Not out
+1.6,G Gambhir,A Singh,JH Kallis,0,Not out
+2.1,JH Kallis,J Botha,G Gambhir,4,Not out
+2.2,JH Kallis,J Botha,G Gambhir,0,Not out
+2.3,JH Kallis,J Botha,G Gambhir,0,Not out
+2.4,JH Kallis,J Botha,G Gambhir,0,Not out
+2.5,JH Kallis,J Botha,G Gambhir,1,Not out
+2.6,G Gambhir,J Botha,JH Kallis,0,Not out
+3.1,JH Kallis,A Singh,G Gambhir,1,Not out
+3.2,G Gambhir,A Singh,JH Kallis,1,Not out
+3.3,JH Kallis,A Singh,G Gambhir,1,Not out
+3.4,G Gambhir,A Singh,JH Kallis,0,Not out
+3.5,G Gambhir,A Singh,JH Kallis,1,Not out
+3.6,JH Kallis,A Singh,G Gambhir,0,run out
+4.1,JH Kallis,AA Chavan,MS Bisla,1,Not out
+4.2,MS Bisla,AA Chavan,JH Kallis,0,Not out
+4.3,MS Bisla,AA Chavan,JH Kallis,0,Not out
+4.4,MS Bisla,AA Chavan,JH Kallis,1,Not out
+4.5,JH Kallis,AA Chavan,MS Bisla,0,Not out
+4.6,JH Kallis,AA Chavan,MS Bisla,1,Not out
+4.7,MS Bisla,AA Chavan,JH Kallis,0,Not out
+5.1,JH Kallis,A Singh,MS Bisla,4,Not out
+5.2,JH Kallis,A Singh,MS Bisla,1,Not out
+5.3,MS Bisla,A Singh,JH Kallis,0,Not out
+5.4,MS Bisla,A Singh,JH Kallis,4,Not out
+5.5,MS Bisla,A Singh,JH Kallis,1,Not out
+5.6,JH Kallis,A Singh,MS Bisla,0,Not out
+6.1,MS Bisla,AA Chavan,JH Kallis,0,Not out
+6.2,MS Bisla,AA Chavan,JH Kallis,4,Not out
+6.3,MS Bisla,AA Chavan,JH Kallis,0,Not out
+6.4,JH Kallis,AA Chavan,MS Bisla,0,Not out
+6.5,JH Kallis,AA Chavan,MS Bisla,1,Not out
+6.6,MS Bisla,AA Chavan,JH Kallis,1,Not out
+6.7,JH Kallis,AA Chavan,MS Bisla,1,Not out
+7.1,JH Kallis,GB Hogg,MS Bisla,0,Not out
+7.2,JH Kallis,GB Hogg,MS Bisla,0,Not out
+7.3,JH Kallis,GB Hogg,MS Bisla,1,Not out
+7.4,MS Bisla,GB Hogg,JH Kallis,2,Not out
+7.5,MS Bisla,GB Hogg,JH Kallis,0,Not out
+7.6,MS Bisla,GB Hogg,JH Kallis,0,Not out
+8.1,JH Kallis,SK Trivedi,MS Bisla,1,Not out
+8.2,MS Bisla,SK Trivedi,JH Kallis,4,Not out
+8.3,MS Bisla,SK Trivedi,JH Kallis,1,Not out
+8.4,JH Kallis,SK Trivedi,MS Bisla,1,Not out
+8.5,MS Bisla,SK Trivedi,JH Kallis,1,Not out
+8.6,JH Kallis,SK Trivedi,MS Bisla,1,Not out
+9.1,JH Kallis,GB Hogg,MS Bisla,4,Not out
+9.2,JH Kallis,GB Hogg,MS Bisla,0,Not out
+9.3,JH Kallis,GB Hogg,MS Bisla,1,Not out
+9.4,MS Bisla,GB Hogg,JH Kallis,1,Not out
+9.5,JH Kallis,GB Hogg,MS Bisla,0,Not out
+9.6,JH Kallis,GB Hogg,MS Bisla,1,Not out
+10.1,JH Kallis,J Botha,MS Bisla,0,Not out
+10.2,JH Kallis,J Botha,MS Bisla,0,Not out
+10.3,JH Kallis,J Botha,MS Bisla,2,Not out
+10.4,JH Kallis,J Botha,MS Bisla,0,Not out
+10.5,JH Kallis,J Botha,MS Bisla,0,lbw
+10.6,MK Tiwary,J Botha,MS Bisla,0,Not out
+11.1,MS Bisla,GB Hogg,MK Tiwary,0,Not out
+11.2,MS Bisla,GB Hogg,MK Tiwary,0,Not out
+11.3,MS Bisla,GB Hogg,MK Tiwary,1,Not out
+11.4,MK Tiwary,GB Hogg,MS Bisla,0,Not out
+11.5,MK Tiwary,GB Hogg,MS Bisla,0,Not out
+11.6,MK Tiwary,GB Hogg,MS Bisla,1,Not out
+11.7,MS Bisla,GB Hogg,MK Tiwary,1,Not out
+12.1,MS Bisla,J Botha,MK Tiwary,0,Not out
+12.2,MS Bisla,J Botha,MK Tiwary,1,Not out
+12.3,MK Tiwary,J Botha,MS Bisla,0,Not out
+12.4,MK Tiwary,J Botha,MS Bisla,0,Not out
+12.5,MK Tiwary,J Botha,MS Bisla,3,Not out
+12.6,MS Bisla,J Botha,MK Tiwary,1,Not out
+13.1,MS Bisla,AA Chavan,MK Tiwary,1,Not out
+13.2,MK Tiwary,AA Chavan,MS Bisla,6,Not out
+13.3,MK Tiwary,AA Chavan,MS Bisla,3,Not out
+13.4,MS Bisla,AA Chavan,MK Tiwary,0,Not out
+13.5,MS Bisla,AA Chavan,MK Tiwary,2,Not out
+13.6,MS Bisla,AA Chavan,MK Tiwary,1,Not out
+14.1,MS Bisla,AL Menaria,MK Tiwary,1,Not out
+14.2,MK Tiwary,AL Menaria,MS Bisla,0,Not out
+14.3,MK Tiwary,AL Menaria,MS Bisla,1,Not out
+14.4,MS Bisla,AL Menaria,MK Tiwary,0,Not out
+14.5,MS Bisla,AL Menaria,MK Tiwary,0,caught
+14.6,MK Tiwary,AL Menaria,Shakib Al Hasan,1,Not out
+15.1,MK Tiwary,SK Trivedi,Shakib Al Hasan,1,Not out
+15.2,Shakib Al Hasan,SK Trivedi,MK Tiwary,1,Not out
+15.3,MK Tiwary,SK Trivedi,Shakib Al Hasan,1,Not out
+15.4,Shakib Al Hasan,SK Trivedi,MK Tiwary,2,Not out
+15.5,Shakib Al Hasan,SK Trivedi,MK Tiwary,1,Not out
+15.6,MK Tiwary,SK Trivedi,Shakib Al Hasan,1,Not out
+16.1,MK Tiwary,GB Hogg,Shakib Al Hasan,4,Not out
+16.2,MK Tiwary,GB Hogg,Shakib Al Hasan,2,Not out
+16.3,MK Tiwary,GB Hogg,Shakib Al Hasan,0,stumped
+16.4,YK Pathan,GB Hogg,Shakib Al Hasan,0,Not out
+16.5,YK Pathan,GB Hogg,Shakib Al Hasan,0,Not out
+16.6,YK Pathan,GB Hogg,Shakib Al Hasan,0,Not out
+17.1,Shakib Al Hasan,SK Trivedi,YK Pathan,4,Not out
+17.2,Shakib Al Hasan,SK Trivedi,YK Pathan,1,Not out
+17.3,YK Pathan,SK Trivedi,Shakib Al Hasan,1,Not out
+17.4,Shakib Al Hasan,SK Trivedi,YK Pathan,0,Not out
+17.5,Shakib Al Hasan,SK Trivedi,YK Pathan,1,Not out
+17.6,YK Pathan,SK Trivedi,Shakib Al Hasan,0,Not out
+17.7,YK Pathan,SK Trivedi,Shakib Al Hasan,1,Not out
+18.1,YK Pathan,A Singh,Shakib Al Hasan,1,Not out
+18.2,Shakib Al Hasan,A Singh,YK Pathan,0,Not out
+18.3,Shakib Al Hasan,A Singh,YK Pathan,6,Not out
+18.4,Shakib Al Hasan,A Singh,YK Pathan,0,caught
+18.5,RN ten Doeschate,A Singh,YK Pathan,1,Not out
+18.6,YK Pathan,A Singh,RN ten Doeschate,4,Not out
+19.1,RN ten Doeschate,AA Chavan,YK Pathan,0,Not out
+19.2,RN ten Doeschate,AA Chavan,YK Pathan,6,Not out

@@ -1,0 +1,122 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,CH Gayle,AC Thomas,TM Dilshan,0,Not out
+0.2,CH Gayle,AC Thomas,TM Dilshan,0,Not out
+0.3,CH Gayle,AC Thomas,TM Dilshan,0,Not out
+0.4,CH Gayle,AC Thomas,TM Dilshan,2,Not out
+0.5,CH Gayle,AC Thomas,TM Dilshan,0,Not out
+0.6,CH Gayle,AC Thomas,TM Dilshan,1,Not out
+1.1,CH Gayle,JE Taylor,TM Dilshan,1,Not out
+1.2,TM Dilshan,JE Taylor,CH Gayle,4,Not out
+1.3,TM Dilshan,JE Taylor,CH Gayle,0,Not out
+1.4,TM Dilshan,JE Taylor,CH Gayle,0,Not out
+1.5,TM Dilshan,JE Taylor,CH Gayle,0,Not out
+1.6,TM Dilshan,JE Taylor,CH Gayle,0,Not out
+2.1,CH Gayle,Kamran Khan,TM Dilshan,4,Not out
+2.2,CH Gayle,Kamran Khan,TM Dilshan,0,Not out
+2.3,CH Gayle,Kamran Khan,TM Dilshan,6,Not out
+2.4,CH Gayle,Kamran Khan,TM Dilshan,0,Not out
+2.5,CH Gayle,Kamran Khan,TM Dilshan,6,Not out
+2.6,CH Gayle,Kamran Khan,TM Dilshan,4,Not out
+3.1,TM Dilshan,JE Taylor,CH Gayle,0,Not out
+3.2,TM Dilshan,JE Taylor,CH Gayle,2,Not out
+3.3,TM Dilshan,JE Taylor,CH Gayle,1,Not out
+3.4,CH Gayle,JE Taylor,TM Dilshan,1,Not out
+3.5,TM Dilshan,JE Taylor,CH Gayle,4,Not out
+3.6,TM Dilshan,JE Taylor,CH Gayle,1,Not out
+4.1,TM Dilshan,AC Thomas,CH Gayle,0,Not out
+4.2,TM Dilshan,AC Thomas,CH Gayle,0,Not out
+4.3,TM Dilshan,AC Thomas,CH Gayle,1,Not out
+4.4,CH Gayle,AC Thomas,TM Dilshan,1,Not out
+4.5,TM Dilshan,AC Thomas,CH Gayle,1,Not out
+4.6,CH Gayle,AC Thomas,TM Dilshan,0,Not out
+5.1,TM Dilshan,Kamran Khan,CH Gayle,1,Not out
+5.2,CH Gayle,Kamran Khan,TM Dilshan,0,Not out
+5.3,CH Gayle,Kamran Khan,TM Dilshan,4,Not out
+5.4,CH Gayle,Kamran Khan,TM Dilshan,6,Not out
+5.5,CH Gayle,Kamran Khan,TM Dilshan,6,Not out
+5.6,CH Gayle,Kamran Khan,TM Dilshan,0,Not out
+6.1,TM Dilshan,R Sharma,CH Gayle,0,Not out
+6.2,TM Dilshan,R Sharma,CH Gayle,0,Not out
+6.3,TM Dilshan,R Sharma,CH Gayle,0,Not out
+6.4,TM Dilshan,R Sharma,CH Gayle,0,bowled
+6.5,V Kohli,R Sharma,CH Gayle,0,Not out
+6.6,V Kohli,R Sharma,CH Gayle,1,Not out
+7.1,V Kohli,M Manhas,CH Gayle,1,Not out
+7.2,CH Gayle,M Manhas,V Kohli,1,Not out
+7.3,V Kohli,M Manhas,CH Gayle,4,Not out
+7.4,V Kohli,M Manhas,CH Gayle,0,Not out
+7.5,V Kohli,M Manhas,CH Gayle,1,Not out
+7.6,CH Gayle,M Manhas,V Kohli,2,Not out
+8.1,V Kohli,R Sharma,CH Gayle,1,Not out
+8.2,CH Gayle,R Sharma,V Kohli,0,Not out
+8.3,V Kohli,R Sharma,CH Gayle,0,Not out
+8.4,V Kohli,R Sharma,CH Gayle,1,Not out
+8.5,CH Gayle,R Sharma,V Kohli,4,Not out
+8.6,CH Gayle,R Sharma,V Kohli,0,lbw
+9.1,V Kohli,Yuvraj Singh,AB de Villiers,0,Not out
+9.2,V Kohli,Yuvraj Singh,AB de Villiers,0,Not out
+9.3,V Kohli,Yuvraj Singh,AB de Villiers,1,Not out
+9.4,AB de Villiers,Yuvraj Singh,V Kohli,1,Not out
+9.5,V Kohli,Yuvraj Singh,AB de Villiers,1,Not out
+9.6,AB de Villiers,Yuvraj Singh,V Kohli,1,Not out
+10.1,AB de Villiers,R Sharma,V Kohli,1,Not out
+10.2,V Kohli,R Sharma,AB de Villiers,2,Not out
+10.3,V Kohli,R Sharma,AB de Villiers,0,Not out
+10.4,V Kohli,R Sharma,AB de Villiers,1,Not out
+10.5,AB de Villiers,R Sharma,V Kohli,1,Not out
+10.6,V Kohli,R Sharma,AB de Villiers,1,Not out
+11.1,V Kohli,Kamran Khan,AB de Villiers,6,Not out
+11.2,V Kohli,Kamran Khan,AB de Villiers,1,Not out
+11.3,AB de Villiers,Kamran Khan,V Kohli,1,Not out
+11.4,V Kohli,Kamran Khan,AB de Villiers,1,Not out
+11.5,AB de Villiers,Kamran Khan,V Kohli,0,Not out
+11.6,AB de Villiers,Kamran Khan,V Kohli,1,Not out
+12.1,AB de Villiers,Yuvraj Singh,V Kohli,2,Not out
+12.2,AB de Villiers,Yuvraj Singh,V Kohli,1,Not out
+12.3,V Kohli,Yuvraj Singh,AB de Villiers,1,Not out
+12.4,AB de Villiers,Yuvraj Singh,V Kohli,1,Not out
+12.5,V Kohli,Yuvraj Singh,AB de Villiers,1,Not out
+12.6,AB de Villiers,Yuvraj Singh,V Kohli,0,Not out
+13.1,V Kohli,JD Ryder,AB de Villiers,0,Not out
+13.2,V Kohli,JD Ryder,AB de Villiers,1,Not out
+13.3,AB de Villiers,JD Ryder,V Kohli,1,Not out
+13.4,V Kohli,JD Ryder,AB de Villiers,0,Not out
+13.5,V Kohli,JD Ryder,AB de Villiers,1,Not out
+13.6,AB de Villiers,JD Ryder,V Kohli,1,Not out
+14.1,AB de Villiers,R Sharma,V Kohli,1,Not out
+14.2,V Kohli,R Sharma,AB de Villiers,1,Not out
+14.3,AB de Villiers,R Sharma,V Kohli,1,Not out
+14.4,V Kohli,R Sharma,AB de Villiers,6,Not out
+14.5,V Kohli,R Sharma,AB de Villiers,4,Not out
+14.6,V Kohli,R Sharma,AB de Villiers,1,Not out
+15.1,V Kohli,JD Ryder,AB de Villiers,4,Not out
+15.2,V Kohli,JD Ryder,AB de Villiers,4,Not out
+15.3,V Kohli,JD Ryder,AB de Villiers,0,Not out
+15.4,V Kohli,JD Ryder,AB de Villiers,1,Not out
+15.5,AB de Villiers,JD Ryder,V Kohli,6,Not out
+15.6,AB de Villiers,JD Ryder,V Kohli,1,Not out
+16.1,AB de Villiers,AC Thomas,V Kohli,4,Not out
+16.2,AB de Villiers,AC Thomas,V Kohli,1,Not out
+16.3,V Kohli,AC Thomas,AB de Villiers,1,Not out
+16.4,AB de Villiers,AC Thomas,V Kohli,0,caught
+16.5,V Kohli,AC Thomas,SS Tiwary,1,Not out
+16.6,SS Tiwary,AC Thomas,V Kohli,0,Not out
+17.1,V Kohli,JE Taylor,SS Tiwary,0,Not out
+17.2,V Kohli,JE Taylor,SS Tiwary,6,Not out
+17.3,V Kohli,JE Taylor,SS Tiwary,6,Not out
+17.4,V Kohli,JE Taylor,SS Tiwary,1,Not out
+17.5,SS Tiwary,JE Taylor,V Kohli,6,Not out
+17.6,SS Tiwary,JE Taylor,V Kohli,0,Not out
+17.7,SS Tiwary,JE Taylor,V Kohli,4,Not out
+18.1,V Kohli,AC Thomas,SS Tiwary,2,Not out
+18.2,V Kohli,AC Thomas,SS Tiwary,2,Not out
+18.3,V Kohli,AC Thomas,SS Tiwary,0,caught
+18.4,M Kaif,AC Thomas,SS Tiwary,2,Not out
+18.5,M Kaif,AC Thomas,SS Tiwary,0,Not out
+18.6,M Kaif,AC Thomas,SS Tiwary,4,Not out
+19.1,SS Tiwary,JE Taylor,M Kaif,2,Not out
+19.2,SS Tiwary,JE Taylor,M Kaif,2,Not out
+19.3,SS Tiwary,JE Taylor,M Kaif,0,Not out
+19.4,SS Tiwary,JE Taylor,M Kaif,0,caught
+19.5,M Kaif,JE Taylor,A Mithun,0,Not out
+19.6,M Kaif,JE Taylor,A Mithun,2,Not out

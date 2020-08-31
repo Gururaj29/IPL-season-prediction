@@ -1,0 +1,112 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AJ Finch,R Vinay Kumar,BB McCullum,0,Not out
+0.2,AJ Finch,R Vinay Kumar,BB McCullum,0,lbw
+0.3,SK Raina,R Vinay Kumar,BB McCullum,0,Not out
+0.4,SK Raina,R Vinay Kumar,BB McCullum,0,Not out
+0.5,SK Raina,R Vinay Kumar,BB McCullum,0,Not out
+0.6,SK Raina,R Vinay Kumar,BB McCullum,0,Not out
+1.1,BB McCullum,JJ Bumrah,SK Raina,0,Not out
+1.2,BB McCullum,JJ Bumrah,SK Raina,0,Not out
+1.3,BB McCullum,JJ Bumrah,SK Raina,0,Not out
+1.4,BB McCullum,JJ Bumrah,SK Raina,4,Not out
+1.5,BB McCullum,JJ Bumrah,SK Raina,0,Not out
+1.6,BB McCullum,JJ Bumrah,SK Raina,0,Not out
+1.7,BB McCullum,JJ Bumrah,SK Raina,1,Not out
+1.8,SK Raina,JJ Bumrah,BB McCullum,1,Not out
+2.1,SK Raina,MJ McClenaghan,BB McCullum,4,Not out
+2.2,SK Raina,MJ McClenaghan,BB McCullum,0,Not out
+2.3,SK Raina,MJ McClenaghan,BB McCullum,0,Not out
+2.4,SK Raina,MJ McClenaghan,BB McCullum,4,Not out
+2.5,SK Raina,MJ McClenaghan,BB McCullum,4,Not out
+2.6,SK Raina,MJ McClenaghan,BB McCullum,6,Not out
+3.1,BB McCullum,R Vinay Kumar,SK Raina,0,Not out
+3.2,BB McCullum,R Vinay Kumar,SK Raina,4,Not out
+3.3,BB McCullum,R Vinay Kumar,SK Raina,0,Not out
+3.4,BB McCullum,R Vinay Kumar,SK Raina,1,Not out
+3.5,SK Raina,R Vinay Kumar,BB McCullum,1,Not out
+3.6,BB McCullum,R Vinay Kumar,SK Raina,1,Not out
+4.1,BB McCullum,KH Pandya,SK Raina,4,Not out
+4.2,BB McCullum,KH Pandya,SK Raina,2,Not out
+4.3,BB McCullum,KH Pandya,SK Raina,4,Not out
+4.4,BB McCullum,KH Pandya,SK Raina,1,Not out
+4.5,SK Raina,KH Pandya,BB McCullum,1,Not out
+4.6,BB McCullum,KH Pandya,SK Raina,6,Not out
+5.1,SK Raina,JJ Bumrah,BB McCullum,4,Not out
+5.2,SK Raina,JJ Bumrah,BB McCullum,0,Not out
+5.3,SK Raina,JJ Bumrah,BB McCullum,6,Not out
+5.4,SK Raina,JJ Bumrah,BB McCullum,1,Not out
+5.5,BB McCullum,JJ Bumrah,SK Raina,4,Not out
+5.6,BB McCullum,JJ Bumrah,SK Raina,4,Not out
+6.1,SK Raina,KH Pandya,BB McCullum,4,Not out
+6.2,SK Raina,KH Pandya,BB McCullum,4,Not out
+6.3,SK Raina,KH Pandya,BB McCullum,1,Not out
+6.4,BB McCullum,KH Pandya,SK Raina,0,Not out
+6.5,BB McCullum,KH Pandya,SK Raina,1,Not out
+6.6,SK Raina,KH Pandya,BB McCullum,0,Not out
+7.1,BB McCullum,Harbhajan Singh,SK Raina,4,Not out
+7.2,BB McCullum,Harbhajan Singh,SK Raina,4,Not out
+7.3,BB McCullum,Harbhajan Singh,SK Raina,1,Not out
+7.4,SK Raina,Harbhajan Singh,BB McCullum,0,Not out
+7.5,SK Raina,Harbhajan Singh,BB McCullum,0,Not out
+7.6,SK Raina,Harbhajan Singh,BB McCullum,1,Not out
+8.1,SK Raina,MJ McClenaghan,BB McCullum,1,Not out
+8.2,BB McCullum,MJ McClenaghan,SK Raina,1,Not out
+8.3,SK Raina,MJ McClenaghan,BB McCullum,1,Not out
+8.4,BB McCullum,MJ McClenaghan,SK Raina,1,Not out
+8.5,SK Raina,MJ McClenaghan,BB McCullum,1,Not out
+8.6,BB McCullum,MJ McClenaghan,SK Raina,0,Not out
+9.1,BB McCullum,Harbhajan Singh,SK Raina,0,Not out
+9.2,BB McCullum,Harbhajan Singh,SK Raina,0,bowled
+9.3,KD Karthik,Harbhajan Singh,SK Raina,1,Not out
+9.4,SK Raina,Harbhajan Singh,KD Karthik,1,Not out
+9.5,KD Karthik,Harbhajan Singh,SK Raina,1,Not out
+9.6,SK Raina,Harbhajan Singh,KD Karthik,1,Not out
+10.1,SK Raina,R Vinay Kumar,KD Karthik,4,Not out
+10.2,SK Raina,R Vinay Kumar,KD Karthik,4,Not out
+10.3,SK Raina,R Vinay Kumar,KD Karthik,1,Not out
+10.4,KD Karthik,R Vinay Kumar,SK Raina,1,Not out
+10.5,SK Raina,R Vinay Kumar,KD Karthik,0,Not out
+10.6,KD Karthik,R Vinay Kumar,SK Raina,0,caught
+11.1,SK Raina,Harbhajan Singh,DR Smith,1,Not out
+11.2,DR Smith,Harbhajan Singh,SK Raina,0,Not out
+11.3,DR Smith,Harbhajan Singh,SK Raina,6,Not out
+11.4,DR Smith,Harbhajan Singh,SK Raina,1,Not out
+11.5,SK Raina,Harbhajan Singh,DR Smith,1,Not out
+11.6,DR Smith,Harbhajan Singh,SK Raina,1,Not out
+12.1,DR Smith,JJ Bumrah,SK Raina,1,Not out
+12.2,SK Raina,JJ Bumrah,DR Smith,0,caught
+12.3,DR Smith,JJ Bumrah,RA Jadeja,0,Not out
+12.4,DR Smith,JJ Bumrah,RA Jadeja,4,Not out
+12.5,DR Smith,JJ Bumrah,RA Jadeja,0,Not out
+12.6,DR Smith,JJ Bumrah,RA Jadeja,0,Not out
+13.1,RA Jadeja,Harbhajan Singh,DR Smith,0,Not out
+13.2,RA Jadeja,Harbhajan Singh,DR Smith,0,Not out
+13.3,RA Jadeja,Harbhajan Singh,DR Smith,1,Not out
+13.4,DR Smith,Harbhajan Singh,RA Jadeja,6,Not out
+13.5,DR Smith,Harbhajan Singh,RA Jadeja,4,Not out
+13.6,DR Smith,Harbhajan Singh,RA Jadeja,1,Not out
+14.1,DR Smith,MJ McClenaghan,RA Jadeja,4,Not out
+14.2,DR Smith,MJ McClenaghan,RA Jadeja,0,Not out
+14.3,DR Smith,MJ McClenaghan,RA Jadeja,0,Not out
+14.4,DR Smith,MJ McClenaghan,RA Jadeja,0,Not out
+14.5,DR Smith,MJ McClenaghan,RA Jadeja,1,Not out
+14.6,RA Jadeja,MJ McClenaghan,DR Smith,4,Not out
+15.1,DR Smith,HH Pandya,RA Jadeja,4,Not out
+15.2,DR Smith,HH Pandya,RA Jadeja,0,Not out
+15.3,DR Smith,HH Pandya,RA Jadeja,1,Not out
+15.4,RA Jadeja,HH Pandya,DR Smith,0,Not out
+15.5,RA Jadeja,HH Pandya,DR Smith,0,Not out
+15.6,RA Jadeja,HH Pandya,DR Smith,4,Not out
+15.7,RA Jadeja,HH Pandya,DR Smith,0,Not out
+16.1,DR Smith,JJ Bumrah,RA Jadeja,1,Not out
+16.2,RA Jadeja,JJ Bumrah,DR Smith,2,Not out
+16.3,RA Jadeja,JJ Bumrah,DR Smith,4,Not out
+16.4,RA Jadeja,JJ Bumrah,DR Smith,1,Not out
+16.5,DR Smith,JJ Bumrah,RA Jadeja,1,Not out
+16.6,RA Jadeja,JJ Bumrah,DR Smith,0,Not out
+16.7,RA Jadeja,JJ Bumrah,DR Smith,0,Not out
+17.1,DR Smith,MJ McClenaghan,RA Jadeja,1,Not out
+17.2,RA Jadeja,MJ McClenaghan,DR Smith,0,Not out
+17.3,RA Jadeja,MJ McClenaghan,DR Smith,0,Not out
+17.4,RA Jadeja,MJ McClenaghan,DR Smith,4,Not out
+17.5,RA Jadeja,MJ McClenaghan,DR Smith,1,Not out

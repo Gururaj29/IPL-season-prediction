@@ -1,0 +1,112 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AJ Finch,Shakib Al Hasan,BB McCullum,0,Not out
+0.2,AJ Finch,Shakib Al Hasan,BB McCullum,1,Not out
+0.3,BB McCullum,Shakib Al Hasan,AJ Finch,4,Not out
+0.4,BB McCullum,Shakib Al Hasan,AJ Finch,0,Not out
+0.5,BB McCullum,Shakib Al Hasan,AJ Finch,4,Not out
+0.6,BB McCullum,Shakib Al Hasan,AJ Finch,0,Not out
+1.1,AJ Finch,SP Narine,BB McCullum,0,Not out
+1.2,AJ Finch,SP Narine,BB McCullum,2,Not out
+1.3,AJ Finch,SP Narine,BB McCullum,4,Not out
+1.4,AJ Finch,SP Narine,BB McCullum,0,Not out
+1.5,AJ Finch,SP Narine,BB McCullum,6,Not out
+1.6,AJ Finch,SP Narine,BB McCullum,4,Not out
+2.1,BB McCullum,Shakib Al Hasan,AJ Finch,0,Not out
+2.2,BB McCullum,Shakib Al Hasan,AJ Finch,0,Not out
+2.3,AJ Finch,Shakib Al Hasan,BB McCullum,4,Not out
+2.4,AJ Finch,Shakib Al Hasan,BB McCullum,0,Not out
+2.5,AJ Finch,Shakib Al Hasan,BB McCullum,4,Not out
+2.6,AJ Finch,Shakib Al Hasan,BB McCullum,6,Not out
+3.1,BB McCullum,NM Coulter-Nile,AJ Finch,1,Not out
+3.2,AJ Finch,NM Coulter-Nile,BB McCullum,0,Not out
+3.3,AJ Finch,NM Coulter-Nile,BB McCullum,0,Not out
+3.4,AJ Finch,NM Coulter-Nile,BB McCullum,0,caught
+3.5,BB McCullum,NM Coulter-Nile,SK Raina,4,Not out
+3.6,BB McCullum,NM Coulter-Nile,SK Raina,6,Not out
+3.7,BB McCullum,NM Coulter-Nile,SK Raina,4,Not out
+4.1,SK Raina,SP Narine,BB McCullum,1,Not out
+4.2,BB McCullum,SP Narine,SK Raina,1,Not out
+4.3,SK Raina,SP Narine,BB McCullum,0,Not out
+4.4,SK Raina,SP Narine,BB McCullum,1,Not out
+4.5,BB McCullum,SP Narine,SK Raina,2,Not out
+4.6,BB McCullum,SP Narine,SK Raina,1,Not out
+5.1,BB McCullum,Shakib Al Hasan,SK Raina,1,Not out
+5.2,SK Raina,Shakib Al Hasan,BB McCullum,0,Not out
+5.3,SK Raina,Shakib Al Hasan,BB McCullum,1,Not out
+5.4,BB McCullum,Shakib Al Hasan,SK Raina,4,Not out
+5.5,BB McCullum,Shakib Al Hasan,SK Raina,1,Not out
+5.6,SK Raina,Shakib Al Hasan,BB McCullum,1,Not out
+6.1,SK Raina,CR Woakes,BB McCullum,1,Not out
+6.2,BB McCullum,CR Woakes,SK Raina,0,caught
+6.3,SK Raina,CR Woakes,KD Karthik,1,Not out
+6.4,KD Karthik,CR Woakes,SK Raina,1,Not out
+6.5,SK Raina,CR Woakes,KD Karthik,0,Not out
+6.6,SK Raina,CR Woakes,KD Karthik,4,Not out
+7.1,KD Karthik,NM Coulter-Nile,SK Raina,2,Not out
+7.2,KD Karthik,NM Coulter-Nile,SK Raina,0,caught
+7.3,Ishan Kishan,NM Coulter-Nile,SK Raina,1,Not out
+7.4,SK Raina,NM Coulter-Nile,Ishan Kishan,1,Not out
+7.5,Ishan Kishan,NM Coulter-Nile,SK Raina,0,Not out
+7.6,Ishan Kishan,NM Coulter-Nile,SK Raina,0,Not out
+8.1,SK Raina,CR Woakes,Ishan Kishan,4,Not out
+8.2,SK Raina,CR Woakes,Ishan Kishan,6,Not out
+8.3,SK Raina,CR Woakes,Ishan Kishan,1,Not out
+8.4,Ishan Kishan,CR Woakes,SK Raina,0,Not out
+8.5,Ishan Kishan,CR Woakes,SK Raina,1,Not out
+8.6,SK Raina,CR Woakes,Ishan Kishan,1,Not out
+9.1,SK Raina,Kuldeep Yadav,Ishan Kishan,1,Not out
+9.2,Ishan Kishan,Kuldeep Yadav,SK Raina,1,Not out
+9.3,SK Raina,Kuldeep Yadav,Ishan Kishan,0,Not out
+9.4,SK Raina,Kuldeep Yadav,Ishan Kishan,1,Not out
+9.5,Ishan Kishan,Kuldeep Yadav,SK Raina,0,Not out
+9.6,Ishan Kishan,Kuldeep Yadav,SK Raina,0,Not out
+10.1,SK Raina,SP Narine,Ishan Kishan,1,Not out
+10.2,Ishan Kishan,SP Narine,SK Raina,1,Not out
+10.3,SK Raina,SP Narine,Ishan Kishan,4,Not out
+10.4,SK Raina,SP Narine,Ishan Kishan,0,Not out
+10.5,SK Raina,SP Narine,Ishan Kishan,4,Not out
+10.6,SK Raina,SP Narine,Ishan Kishan,1,Not out
+11.1,SK Raina,Kuldeep Yadav,Ishan Kishan,4,Not out
+11.2,SK Raina,Kuldeep Yadav,Ishan Kishan,1,Not out
+11.3,Ishan Kishan,Kuldeep Yadav,SK Raina,0,Not out
+11.4,Ishan Kishan,Kuldeep Yadav,SK Raina,0,caught
+11.5,DR Smith,Kuldeep Yadav,SK Raina,4,Not out
+11.6,DR Smith,Kuldeep Yadav,SK Raina,0,Not out
+12.1,SK Raina,UT Yadav,DR Smith,1,Not out
+12.2,DR Smith,UT Yadav,SK Raina,1,Not out
+12.3,SK Raina,UT Yadav,DR Smith,1,Not out
+12.4,DR Smith,UT Yadav,SK Raina,0,bowled
+12.5,RA Jadeja,UT Yadav,SK Raina,1,Not out
+12.6,SK Raina,UT Yadav,RA Jadeja,1,Not out
+13.1,SK Raina,Kuldeep Yadav,RA Jadeja,1,Not out
+13.2,RA Jadeja,Kuldeep Yadav,SK Raina,1,Not out
+13.3,SK Raina,Kuldeep Yadav,RA Jadeja,1,Not out
+13.4,RA Jadeja,Kuldeep Yadav,SK Raina,1,Not out
+13.5,SK Raina,Kuldeep Yadav,RA Jadeja,4,Not out
+13.6,SK Raina,Kuldeep Yadav,RA Jadeja,1,Not out
+14.1,SK Raina,UT Yadav,RA Jadeja,6,Not out
+14.2,SK Raina,UT Yadav,RA Jadeja,0,Not out
+14.3,RA Jadeja,UT Yadav,SK Raina,1,Not out
+14.4,SK Raina,UT Yadav,RA Jadeja,0,Not out
+14.5,SK Raina,UT Yadav,RA Jadeja,4,Not out
+14.6,SK Raina,UT Yadav,RA Jadeja,1,Not out
+15.1,SK Raina,SP Narine,RA Jadeja,1,Not out
+15.2,RA Jadeja,SP Narine,SK Raina,0,Not out
+15.3,RA Jadeja,SP Narine,SK Raina,0,Not out
+15.4,RA Jadeja,SP Narine,SK Raina,0,Not out
+15.5,RA Jadeja,SP Narine,SK Raina,6,Not out
+15.6,RA Jadeja,SP Narine,SK Raina,2,Not out
+16.1,SK Raina,NM Coulter-Nile,RA Jadeja,4,Not out
+16.2,SK Raina,NM Coulter-Nile,RA Jadeja,0,Not out
+16.3,SK Raina,NM Coulter-Nile,RA Jadeja,4,Not out
+16.4,SK Raina,NM Coulter-Nile,RA Jadeja,6,Not out
+16.5,SK Raina,NM Coulter-Nile,RA Jadeja,1,Not out
+16.6,RA Jadeja,NM Coulter-Nile,SK Raina,1,Not out
+17.1,RA Jadeja,Kuldeep Yadav,SK Raina,1,Not out
+17.2,SK Raina,Kuldeep Yadav,RA Jadeja,1,Not out
+17.3,RA Jadeja,Kuldeep Yadav,SK Raina,1,Not out
+17.4,SK Raina,Kuldeep Yadav,RA Jadeja,6,Not out
+17.5,SK Raina,Kuldeep Yadav,RA Jadeja,0,caught
+17.6,JP Faulkner,Kuldeep Yadav,RA Jadeja,3,Not out
+18.1,JP Faulkner,NM Coulter-Nile,RA Jadeja,1,Not out
+18.2,RA Jadeja,NM Coulter-Nile,JP Faulkner,4,Not out

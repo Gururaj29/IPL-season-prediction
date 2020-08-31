@@ -1,0 +1,121 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,MS Bisla,S Sreesanth,G Gambhir,0,Not out
+0.2,G Gambhir,S Sreesanth,MS Bisla,4,Not out
+0.3,G Gambhir,S Sreesanth,MS Bisla,0,Not out
+0.4,G Gambhir,S Sreesanth,MS Bisla,6,Not out
+0.5,G Gambhir,S Sreesanth,MS Bisla,2,Not out
+0.6,G Gambhir,S Sreesanth,MS Bisla,0,Not out
+0.7,G Gambhir,S Sreesanth,MS Bisla,0,Not out
+1.1,MS Bisla,SW Tait,G Gambhir,0,Not out
+1.2,MS Bisla,SW Tait,G Gambhir,0,Not out
+1.3,MS Bisla,SW Tait,G Gambhir,0,Not out
+1.4,MS Bisla,SW Tait,G Gambhir,1,Not out
+1.5,G Gambhir,SW Tait,MS Bisla,0,Not out
+1.6,G Gambhir,SW Tait,MS Bisla,0,Not out
+1.7,G Gambhir,SW Tait,MS Bisla,0,Not out
+1.8,G Gambhir,SW Tait,MS Bisla,1,Not out
+2.1,G Gambhir,R Shukla,MS Bisla,1,Not out
+2.2,MS Bisla,R Shukla,G Gambhir,0,bowled
+2.3,JH Kallis,R Shukla,G Gambhir,0,Not out
+2.4,JH Kallis,R Shukla,G Gambhir,0,caught
+2.5,MK Tiwary,R Shukla,G Gambhir,3,Not out
+2.6,G Gambhir,R Shukla,MK Tiwary,0,Not out
+2.7,G Gambhir,R Shukla,MK Tiwary,0,Not out
+3.1,MK Tiwary,SW Tait,G Gambhir,0,Not out
+3.2,MK Tiwary,SW Tait,G Gambhir,1,Not out
+3.3,G Gambhir,SW Tait,MK Tiwary,1,Not out
+3.4,MK Tiwary,SW Tait,G Gambhir,0,Not out
+3.5,MK Tiwary,SW Tait,G Gambhir,1,Not out
+3.6,G Gambhir,SW Tait,MK Tiwary,0,Not out
+4.1,MK Tiwary,R Shukla,G Gambhir,0,Not out
+4.2,MK Tiwary,R Shukla,G Gambhir,2,Not out
+4.3,MK Tiwary,R Shukla,G Gambhir,4,Not out
+4.4,MK Tiwary,R Shukla,G Gambhir,1,Not out
+4.5,G Gambhir,R Shukla,MK Tiwary,2,Not out
+4.6,G Gambhir,R Shukla,MK Tiwary,1,Not out
+5.1,G Gambhir,KK Cooper,MK Tiwary,0,Not out
+5.2,G Gambhir,KK Cooper,MK Tiwary,1,Not out
+5.3,MK Tiwary,KK Cooper,G Gambhir,0,Not out
+5.4,MK Tiwary,KK Cooper,G Gambhir,1,Not out
+5.5,G Gambhir,KK Cooper,MK Tiwary,1,Not out
+5.6,MK Tiwary,KK Cooper,G Gambhir,1,Not out
+6.1,MK Tiwary,SK Trivedi,G Gambhir,0,lbw
+6.2,EJG Morgan,SK Trivedi,G Gambhir,1,Not out
+6.3,G Gambhir,SK Trivedi,EJG Morgan,0,Not out
+6.4,G Gambhir,SK Trivedi,EJG Morgan,2,Not out
+6.5,G Gambhir,SK Trivedi,EJG Morgan,0,caught
+6.6,YK Pathan,SK Trivedi,EJG Morgan,0,Not out
+7.1,EJG Morgan,KK Cooper,YK Pathan,0,Not out
+7.2,EJG Morgan,KK Cooper,YK Pathan,1,Not out
+7.3,YK Pathan,KK Cooper,EJG Morgan,0,caught
+7.4,LR Shukla,KK Cooper,EJG Morgan,0,Not out
+7.5,LR Shukla,KK Cooper,EJG Morgan,1,Not out
+7.6,EJG Morgan,KK Cooper,LR Shukla,0,Not out
+7.7,EJG Morgan,KK Cooper,LR Shukla,0,Not out
+8.1,LR Shukla,SK Trivedi,EJG Morgan,0,Not out
+8.2,LR Shukla,SK Trivedi,EJG Morgan,1,Not out
+8.3,EJG Morgan,SK Trivedi,LR Shukla,2,Not out
+8.4,EJG Morgan,SK Trivedi,LR Shukla,1,Not out
+8.5,LR Shukla,SK Trivedi,EJG Morgan,0,Not out
+8.6,LR Shukla,SK Trivedi,EJG Morgan,0,Not out
+9.1,EJG Morgan,S Sreesanth,LR Shukla,0,Not out
+9.2,EJG Morgan,S Sreesanth,LR Shukla,0,Not out
+9.3,EJG Morgan,S Sreesanth,LR Shukla,0,Not out
+9.4,EJG Morgan,S Sreesanth,LR Shukla,0,Not out
+9.5,EJG Morgan,S Sreesanth,LR Shukla,1,Not out
+9.6,LR Shukla,S Sreesanth,EJG Morgan,0,Not out
+10.1,EJG Morgan,SK Trivedi,LR Shukla,0,Not out
+10.2,EJG Morgan,SK Trivedi,LR Shukla,0,Not out
+10.3,EJG Morgan,SK Trivedi,LR Shukla,1,Not out
+10.4,LR Shukla,SK Trivedi,EJG Morgan,0,Not out
+10.5,LR Shukla,SK Trivedi,EJG Morgan,0,Not out
+10.6,LR Shukla,SK Trivedi,EJG Morgan,0,caught
+11.1,R Bhatia,S Sreesanth,EJG Morgan,0,Not out
+11.2,R Bhatia,S Sreesanth,EJG Morgan,4,Not out
+11.3,R Bhatia,S Sreesanth,EJG Morgan,1,Not out
+11.4,EJG Morgan,S Sreesanth,R Bhatia,0,Not out
+11.5,EJG Morgan,S Sreesanth,R Bhatia,0,Not out
+11.6,EJG Morgan,S Sreesanth,R Bhatia,1,Not out
+12.1,EJG Morgan,SK Trivedi,R Bhatia,6,Not out
+12.2,EJG Morgan,SK Trivedi,R Bhatia,1,Not out
+12.3,R Bhatia,SK Trivedi,EJG Morgan,1,Not out
+12.4,EJG Morgan,SK Trivedi,R Bhatia,1,Not out
+12.5,R Bhatia,SK Trivedi,EJG Morgan,4,Not out
+12.6,R Bhatia,SK Trivedi,EJG Morgan,2,Not out
+13.1,EJG Morgan,R Shukla,R Bhatia,4,Not out
+13.2,EJG Morgan,R Shukla,R Bhatia,0,Not out
+13.3,EJG Morgan,R Shukla,R Bhatia,2,Not out
+13.4,EJG Morgan,R Shukla,R Bhatia,6,Not out
+13.5,EJG Morgan,R Shukla,R Bhatia,0,Not out
+13.6,EJG Morgan,R Shukla,R Bhatia,0,Not out
+13.7,EJG Morgan,R Shukla,R Bhatia,0,Not out
+14.1,R Bhatia,SW Tait,EJG Morgan,0,caught
+14.2,B Lee,SW Tait,EJG Morgan,0,Not out
+14.3,B Lee,SW Tait,EJG Morgan,0,Not out
+14.4,B Lee,SW Tait,EJG Morgan,1,Not out
+14.5,EJG Morgan,SW Tait,B Lee,4,Not out
+14.6,EJG Morgan,SW Tait,B Lee,4,Not out
+15.1,B Lee,S Sreesanth,EJG Morgan,0,Not out
+15.2,B Lee,S Sreesanth,EJG Morgan,4,Not out
+15.3,B Lee,S Sreesanth,EJG Morgan,0,caught
+15.4,EJG Morgan,S Sreesanth,Mohammed Shami,1,Not out
+15.5,Mohammed Shami,S Sreesanth,EJG Morgan,0,Not out
+15.6,Mohammed Shami,S Sreesanth,EJG Morgan,0,Not out
+16.1,EJG Morgan,KK Cooper,Mohammed Shami,2,Not out
+16.2,EJG Morgan,KK Cooper,Mohammed Shami,1,Not out
+16.3,Mohammed Shami,KK Cooper,EJG Morgan,1,Not out
+16.4,EJG Morgan,KK Cooper,Mohammed Shami,1,Not out
+16.5,Mohammed Shami,KK Cooper,EJG Morgan,0,Not out
+16.6,Mohammed Shami,KK Cooper,EJG Morgan,0,Not out
+17.1,EJG Morgan,SW Tait,Mohammed Shami,3,Not out
+17.2,Mohammed Shami,SW Tait,EJG Morgan,1,Not out
+17.3,EJG Morgan,SW Tait,Mohammed Shami,6,Not out
+17.4,EJG Morgan,SW Tait,Mohammed Shami,0,Not out
+17.5,EJG Morgan,SW Tait,Mohammed Shami,1,Not out
+17.6,Mohammed Shami,SW Tait,EJG Morgan,2,Not out
+18.1,EJG Morgan,KK Cooper,Mohammed Shami,0,bowled
+18.2,SP Narine,KK Cooper,Mohammed Shami,1,Not out
+18.3,Mohammed Shami,KK Cooper,SP Narine,0,Not out
+18.4,Mohammed Shami,KK Cooper,SP Narine,1,Not out
+18.5,SP Narine,KK Cooper,Mohammed Shami,1,Not out
+18.6,Mohammed Shami,KK Cooper,SP Narine,0,caught

@@ -1,0 +1,124 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AJ Finch,BW Hilfenhaus,S Dhawan,1,Not out
+0.2,S Dhawan,BW Hilfenhaus,AJ Finch,0,Not out
+0.3,S Dhawan,BW Hilfenhaus,AJ Finch,0,Not out
+0.4,S Dhawan,BW Hilfenhaus,AJ Finch,4,Not out
+0.5,S Dhawan,BW Hilfenhaus,AJ Finch,1,Not out
+0.6,AJ Finch,BW Hilfenhaus,S Dhawan,0,Not out
+1.1,S Dhawan,IC Pandey,AJ Finch,1,Not out
+1.2,AJ Finch,IC Pandey,S Dhawan,0,Not out
+1.3,AJ Finch,IC Pandey,S Dhawan,4,Not out
+1.4,AJ Finch,IC Pandey,S Dhawan,1,Not out
+1.5,S Dhawan,IC Pandey,AJ Finch,0,Not out
+1.6,S Dhawan,IC Pandey,AJ Finch,1,Not out
+2.1,S Dhawan,BW Hilfenhaus,AJ Finch,0,Not out
+2.2,S Dhawan,BW Hilfenhaus,AJ Finch,0,caught
+2.3,DA Warner,BW Hilfenhaus,AJ Finch,0,Not out
+2.4,DA Warner,BW Hilfenhaus,AJ Finch,0,lbw
+2.5,KL Rahul,BW Hilfenhaus,AJ Finch,1,Not out
+2.6,AJ Finch,BW Hilfenhaus,KL Rahul,0,Not out
+3.1,KL Rahul,IC Pandey,AJ Finch,1,Not out
+3.2,AJ Finch,IC Pandey,KL Rahul,0,Not out
+3.3,AJ Finch,IC Pandey,KL Rahul,1,Not out
+3.4,KL Rahul,IC Pandey,AJ Finch,0,Not out
+3.5,KL Rahul,IC Pandey,AJ Finch,1,Not out
+3.6,AJ Finch,IC Pandey,KL Rahul,4,Not out
+4.1,KL Rahul,MM Sharma,AJ Finch,0,Not out
+4.2,KL Rahul,MM Sharma,AJ Finch,0,Not out
+4.3,KL Rahul,MM Sharma,AJ Finch,4,Not out
+4.4,KL Rahul,MM Sharma,AJ Finch,0,Not out
+4.5,KL Rahul,MM Sharma,AJ Finch,0,Not out
+4.6,KL Rahul,MM Sharma,AJ Finch,1,Not out
+5.1,KL Rahul,R Ashwin,AJ Finch,1,Not out
+5.2,AJ Finch,R Ashwin,KL Rahul,1,Not out
+5.3,KL Rahul,R Ashwin,AJ Finch,1,Not out
+5.4,AJ Finch,R Ashwin,KL Rahul,0,Not out
+5.5,AJ Finch,R Ashwin,KL Rahul,0,Not out
+5.6,KL Rahul,R Ashwin,AJ Finch,1,Not out
+6.1,KL Rahul,RA Jadeja,AJ Finch,1,Not out
+6.2,AJ Finch,RA Jadeja,KL Rahul,1,Not out
+6.3,KL Rahul,RA Jadeja,AJ Finch,0,Not out
+6.4,KL Rahul,RA Jadeja,AJ Finch,6,Not out
+6.5,KL Rahul,RA Jadeja,AJ Finch,1,Not out
+6.6,AJ Finch,RA Jadeja,KL Rahul,1,Not out
+7.1,AJ Finch,DR Smith,KL Rahul,2,Not out
+7.2,AJ Finch,DR Smith,KL Rahul,0,Not out
+7.3,AJ Finch,DR Smith,KL Rahul,0,Not out
+7.4,AJ Finch,DR Smith,KL Rahul,1,Not out
+7.5,KL Rahul,DR Smith,AJ Finch,1,Not out
+7.6,AJ Finch,DR Smith,KL Rahul,4,Not out
+8.1,KL Rahul,RA Jadeja,AJ Finch,1,Not out
+8.2,AJ Finch,RA Jadeja,KL Rahul,0,Not out
+8.3,AJ Finch,RA Jadeja,KL Rahul,4,Not out
+8.4,AJ Finch,RA Jadeja,KL Rahul,1,Not out
+8.5,KL Rahul,RA Jadeja,AJ Finch,0,Not out
+8.6,KL Rahul,RA Jadeja,AJ Finch,1,Not out
+9.1,KL Rahul,R Ashwin,AJ Finch,0,Not out
+9.2,KL Rahul,R Ashwin,AJ Finch,1,Not out
+9.3,AJ Finch,R Ashwin,KL Rahul,0,Not out
+9.4,AJ Finch,R Ashwin,KL Rahul,1,Not out
+9.5,KL Rahul,R Ashwin,AJ Finch,0,Not out
+9.6,KL Rahul,R Ashwin,AJ Finch,1,Not out
+10.1,KL Rahul,DR Smith,AJ Finch,1,Not out
+10.2,AJ Finch,DR Smith,KL Rahul,1,Not out
+10.3,KL Rahul,DR Smith,AJ Finch,0,caught
+10.4,Y Venugopal Rao,DR Smith,AJ Finch,0,Not out
+10.5,Y Venugopal Rao,DR Smith,AJ Finch,0,Not out
+10.6,Y Venugopal Rao,DR Smith,AJ Finch,1,Not out
+11.1,Y Venugopal Rao,RA Jadeja,AJ Finch,1,Not out
+11.2,AJ Finch,RA Jadeja,Y Venugopal Rao,1,Not out
+11.3,Y Venugopal Rao,RA Jadeja,AJ Finch,1,Not out
+11.4,AJ Finch,RA Jadeja,Y Venugopal Rao,1,Not out
+11.5,Y Venugopal Rao,RA Jadeja,AJ Finch,1,Not out
+11.6,AJ Finch,RA Jadeja,Y Venugopal Rao,1,Not out
+12.1,AJ Finch,IC Pandey,Y Venugopal Rao,1,Not out
+12.2,Y Venugopal Rao,IC Pandey,AJ Finch,1,Not out
+12.3,AJ Finch,IC Pandey,Y Venugopal Rao,0,Not out
+12.4,AJ Finch,IC Pandey,Y Venugopal Rao,1,Not out
+12.5,Y Venugopal Rao,IC Pandey,AJ Finch,1,Not out
+12.6,AJ Finch,IC Pandey,Y Venugopal Rao,4,Not out
+13.1,Y Venugopal Rao,R Ashwin,AJ Finch,1,Not out
+13.2,AJ Finch,R Ashwin,Y Venugopal Rao,0,Not out
+13.3,AJ Finch,R Ashwin,Y Venugopal Rao,1,Not out
+13.4,Y Venugopal Rao,R Ashwin,AJ Finch,1,Not out
+13.5,AJ Finch,R Ashwin,Y Venugopal Rao,1,Not out
+13.6,Y Venugopal Rao,R Ashwin,AJ Finch,0,Not out
+13.7,Y Venugopal Rao,R Ashwin,AJ Finch,1,Not out
+14.1,Y Venugopal Rao,MM Sharma,AJ Finch,2,Not out
+14.2,Y Venugopal Rao,MM Sharma,AJ Finch,1,Not out
+14.3,AJ Finch,MM Sharma,Y Venugopal Rao,1,Not out
+14.4,Y Venugopal Rao,MM Sharma,AJ Finch,1,Not out
+14.5,AJ Finch,MM Sharma,Y Venugopal Rao,1,Not out
+14.6,Y Venugopal Rao,MM Sharma,AJ Finch,0,caught
+15.1,AJ Finch,R Ashwin,DJG Sammy,0,Not out
+15.2,AJ Finch,R Ashwin,DJG Sammy,0,Not out
+15.3,AJ Finch,R Ashwin,DJG Sammy,2,Not out
+15.4,AJ Finch,R Ashwin,DJG Sammy,0,Not out
+15.5,AJ Finch,R Ashwin,DJG Sammy,1,Not out
+15.6,DJG Sammy,R Ashwin,AJ Finch,0,Not out
+15.7,DJG Sammy,R Ashwin,AJ Finch,0,Not out
+16.1,AJ Finch,BW Hilfenhaus,DJG Sammy,0,Not out
+16.2,AJ Finch,BW Hilfenhaus,DJG Sammy,0,Not out
+16.3,AJ Finch,BW Hilfenhaus,DJG Sammy,0,Not out
+16.4,DJG Sammy,BW Hilfenhaus,AJ Finch,4,Not out
+16.5,DJG Sammy,BW Hilfenhaus,AJ Finch,0,Not out
+16.6,DJG Sammy,BW Hilfenhaus,AJ Finch,1,Not out
+17.1,DJG Sammy,MM Sharma,AJ Finch,1,Not out
+17.2,AJ Finch,MM Sharma,DJG Sammy,0,bowled
+17.3,KV Sharma,MM Sharma,DJG Sammy,1,Not out
+17.4,DJG Sammy,MM Sharma,KV Sharma,1,Not out
+17.5,KV Sharma,MM Sharma,DJG Sammy,1,Not out
+17.6,DJG Sammy,MM Sharma,KV Sharma,1,Not out
+18.1,DJG Sammy,BW Hilfenhaus,KV Sharma,4,Not out
+18.2,DJG Sammy,BW Hilfenhaus,KV Sharma,0,Not out
+18.3,DJG Sammy,BW Hilfenhaus,KV Sharma,0,Not out
+18.4,DJG Sammy,BW Hilfenhaus,KV Sharma,1,Not out
+18.5,KV Sharma,BW Hilfenhaus,DJG Sammy,6,Not out
+18.6,KV Sharma,BW Hilfenhaus,DJG Sammy,6,Not out
+18.7,KV Sharma,BW Hilfenhaus,DJG Sammy,2,Not out
+19.1,DJG Sammy,MM Sharma,KV Sharma,1,Not out
+19.2,KV Sharma,MM Sharma,DJG Sammy,1,Not out
+19.3,DJG Sammy,MM Sharma,KV Sharma,6,Not out
+19.4,DJG Sammy,MM Sharma,KV Sharma,1,Not out
+19.5,KV Sharma,MM Sharma,DJG Sammy,0,Not out
+19.6,DJG Sammy,MM Sharma,KV Sharma,2,Not out

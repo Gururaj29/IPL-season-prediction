@@ -1,0 +1,122 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,DA Warner,NM Coulter-Nile,S Dhawan,0,Not out
+0.2,DA Warner,NM Coulter-Nile,S Dhawan,0,Not out
+0.3,DA Warner,NM Coulter-Nile,S Dhawan,0,Not out
+0.4,DA Warner,NM Coulter-Nile,S Dhawan,1,Not out
+0.5,S Dhawan,NM Coulter-Nile,DA Warner,0,Not out
+0.6,S Dhawan,NM Coulter-Nile,DA Warner,2,Not out
+1.1,DA Warner,JP Duminy,S Dhawan,0,Not out
+1.2,DA Warner,JP Duminy,S Dhawan,1,Not out
+1.3,S Dhawan,JP Duminy,DA Warner,1,Not out
+1.4,DA Warner,JP Duminy,S Dhawan,0,Not out
+1.5,DA Warner,JP Duminy,S Dhawan,0,Not out
+1.6,DA Warner,JP Duminy,S Dhawan,1,Not out
+1.7,S Dhawan,JP Duminy,DA Warner,1,Not out
+2.1,S Dhawan,NM Coulter-Nile,DA Warner,1,Not out
+2.2,DA Warner,NM Coulter-Nile,S Dhawan,2,Not out
+2.3,DA Warner,NM Coulter-Nile,S Dhawan,1,Not out
+2.4,S Dhawan,NM Coulter-Nile,DA Warner,0,Not out
+2.5,S Dhawan,NM Coulter-Nile,DA Warner,1,Not out
+2.6,DA Warner,NM Coulter-Nile,S Dhawan,2,Not out
+3.1,S Dhawan,DJ Muthuswami,DA Warner,0,Not out
+3.2,S Dhawan,DJ Muthuswami,DA Warner,0,Not out
+3.3,S Dhawan,DJ Muthuswami,DA Warner,0,Not out
+3.4,S Dhawan,DJ Muthuswami,DA Warner,0,Not out
+3.5,DA Warner,DJ Muthuswami,S Dhawan,2,Not out
+3.6,DA Warner,DJ Muthuswami,S Dhawan,0,Not out
+4.1,S Dhawan,AD Mathews,DA Warner,4,Not out
+4.2,S Dhawan,AD Mathews,DA Warner,0,Not out
+4.3,S Dhawan,AD Mathews,DA Warner,4,Not out
+4.4,S Dhawan,AD Mathews,DA Warner,0,Not out
+4.5,S Dhawan,AD Mathews,DA Warner,4,Not out
+4.6,S Dhawan,AD Mathews,DA Warner,0,Not out
+5.1,DA Warner,DJ Muthuswami,S Dhawan,4,Not out
+5.2,DA Warner,DJ Muthuswami,S Dhawan,0,Not out
+5.3,DA Warner,DJ Muthuswami,S Dhawan,4,Not out
+5.4,DA Warner,DJ Muthuswami,S Dhawan,4,Not out
+5.5,DA Warner,DJ Muthuswami,S Dhawan,2,Not out
+5.6,DA Warner,DJ Muthuswami,S Dhawan,4,Not out
+6.1,S Dhawan,JP Duminy,DA Warner,0,bowled
+6.2,RS Bopara,JP Duminy,DA Warner,1,Not out
+6.3,DA Warner,JP Duminy,RS Bopara,0,caught and bowled
+6.4,KL Rahul,JP Duminy,RS Bopara,0,Not out
+6.5,KL Rahul,JP Duminy,RS Bopara,1,Not out
+6.6,RS Bopara,JP Duminy,KL Rahul,1,Not out
+7.1,RS Bopara,Imran Tahir,KL Rahul,0,Not out
+7.2,RS Bopara,Imran Tahir,KL Rahul,1,Not out
+7.3,KL Rahul,Imran Tahir,RS Bopara,0,Not out
+7.4,KL Rahul,Imran Tahir,RS Bopara,0,Not out
+7.5,KL Rahul,Imran Tahir,RS Bopara,1,Not out
+7.6,RS Bopara,Imran Tahir,KL Rahul,0,Not out
+8.1,KL Rahul,A Mishra,RS Bopara,1,Not out
+8.2,RS Bopara,A Mishra,KL Rahul,0,Not out
+8.3,RS Bopara,A Mishra,KL Rahul,1,Not out
+8.4,KL Rahul,A Mishra,RS Bopara,0,Not out
+8.5,KL Rahul,A Mishra,RS Bopara,1,Not out
+8.6,RS Bopara,A Mishra,KL Rahul,1,Not out
+9.1,RS Bopara,Yuvraj Singh,KL Rahul,1,Not out
+9.2,KL Rahul,Yuvraj Singh,RS Bopara,0,Not out
+9.3,KL Rahul,Yuvraj Singh,RS Bopara,6,Not out
+9.4,KL Rahul,Yuvraj Singh,RS Bopara,1,Not out
+9.5,RS Bopara,Yuvraj Singh,KL Rahul,1,Not out
+9.6,KL Rahul,Yuvraj Singh,RS Bopara,1,Not out
+10.1,KL Rahul,A Mishra,RS Bopara,1,Not out
+10.2,RS Bopara,A Mishra,KL Rahul,1,Not out
+10.3,KL Rahul,A Mishra,RS Bopara,6,Not out
+10.4,KL Rahul,A Mishra,RS Bopara,1,Not out
+10.5,RS Bopara,A Mishra,KL Rahul,0,Not out
+10.6,RS Bopara,A Mishra,KL Rahul,1,Not out
+11.1,RS Bopara,Imran Tahir,KL Rahul,1,Not out
+11.2,KL Rahul,Imran Tahir,RS Bopara,0,Not out
+11.3,KL Rahul,Imran Tahir,RS Bopara,1,Not out
+11.4,RS Bopara,Imran Tahir,KL Rahul,1,Not out
+11.5,KL Rahul,Imran Tahir,RS Bopara,1,Not out
+11.6,RS Bopara,Imran Tahir,KL Rahul,3,Not out
+12.1,RS Bopara,AD Mathews,KL Rahul,1,Not out
+12.2,KL Rahul,AD Mathews,RS Bopara,0,Not out
+12.3,KL Rahul,AD Mathews,RS Bopara,2,Not out
+12.4,KL Rahul,AD Mathews,RS Bopara,0,bowled
+12.5,NV Ojha,AD Mathews,RS Bopara,1,Not out
+12.6,RS Bopara,AD Mathews,NV Ojha,0,Not out
+13.1,NV Ojha,NM Coulter-Nile,RS Bopara,1,Not out
+13.2,RS Bopara,NM Coulter-Nile,NV Ojha,0,Not out
+13.3,RS Bopara,NM Coulter-Nile,NV Ojha,4,Not out
+13.4,RS Bopara,NM Coulter-Nile,NV Ojha,0,Not out
+13.5,RS Bopara,NM Coulter-Nile,NV Ojha,6,Not out
+13.6,RS Bopara,NM Coulter-Nile,NV Ojha,0,Not out
+14.1,NV Ojha,AD Mathews,RS Bopara,1,Not out
+14.2,RS Bopara,AD Mathews,NV Ojha,1,Not out
+14.3,NV Ojha,AD Mathews,RS Bopara,2,Not out
+14.4,NV Ojha,AD Mathews,RS Bopara,4,Not out
+14.5,NV Ojha,AD Mathews,RS Bopara,0,Not out
+14.6,NV Ojha,AD Mathews,RS Bopara,1,Not out
+15.1,NV Ojha,Imran Tahir,RS Bopara,1,Not out
+15.2,RS Bopara,Imran Tahir,NV Ojha,6,Not out
+15.3,RS Bopara,Imran Tahir,NV Ojha,1,Not out
+15.4,NV Ojha,Imran Tahir,RS Bopara,1,Not out
+15.5,RS Bopara,Imran Tahir,NV Ojha,1,Not out
+15.6,NV Ojha,Imran Tahir,RS Bopara,0,caught
+16.1,RS Bopara,JP Duminy,EJG Morgan,6,Not out
+16.2,RS Bopara,JP Duminy,EJG Morgan,1,Not out
+16.3,EJG Morgan,JP Duminy,RS Bopara,1,Not out
+16.4,RS Bopara,JP Duminy,EJG Morgan,0,caught
+16.5,A Ashish Reddy,JP Duminy,EJG Morgan,1,Not out
+16.6,EJG Morgan,JP Duminy,A Ashish Reddy,0,bowled
+17.1,A Ashish Reddy,Imran Tahir,KV Sharma,1,Not out
+17.2,KV Sharma,Imran Tahir,A Ashish Reddy,1,Not out
+17.3,A Ashish Reddy,Imran Tahir,KV Sharma,1,Not out
+17.4,KV Sharma,Imran Tahir,A Ashish Reddy,6,Not out
+17.5,KV Sharma,Imran Tahir,A Ashish Reddy,6,Not out
+17.6,KV Sharma,Imran Tahir,A Ashish Reddy,1,Not out
+18.1,KV Sharma,AD Mathews,A Ashish Reddy,0,Not out
+18.2,KV Sharma,AD Mathews,A Ashish Reddy,1,Not out
+18.3,A Ashish Reddy,AD Mathews,KV Sharma,4,Not out
+18.4,A Ashish Reddy,AD Mathews,KV Sharma,0,Not out
+18.5,A Ashish Reddy,AD Mathews,KV Sharma,6,Not out
+18.6,A Ashish Reddy,AD Mathews,KV Sharma,2,Not out
+19.1,KV Sharma,NM Coulter-Nile,A Ashish Reddy,1,Not out
+19.2,A Ashish Reddy,NM Coulter-Nile,KV Sharma,0,run out
+19.3,KV Sharma,NM Coulter-Nile,P Kumar,1,Not out
+19.4,P Kumar,NM Coulter-Nile,KV Sharma,1,Not out
+19.5,KV Sharma,NM Coulter-Nile,P Kumar,2,Not out
+19.6,KV Sharma,NM Coulter-Nile,P Kumar,0,caught

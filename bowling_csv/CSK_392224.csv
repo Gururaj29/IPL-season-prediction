@@ -1,0 +1,122 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,RV Uthappa,JA Morkel,JH Kallis,1,Not out
+0.2,JH Kallis,JA Morkel,RV Uthappa,0,Not out
+0.3,JH Kallis,JA Morkel,RV Uthappa,0,lbw
+0.4,R Dravid,JA Morkel,RV Uthappa,0,Not out
+0.5,R Dravid,JA Morkel,RV Uthappa,4,Not out
+0.6,R Dravid,JA Morkel,RV Uthappa,0,Not out
+0.7,R Dravid,JA Morkel,RV Uthappa,0,Not out
+1.1,RV Uthappa,S Tyagi,R Dravid,1,Not out
+1.2,R Dravid,S Tyagi,RV Uthappa,0,Not out
+1.3,R Dravid,S Tyagi,RV Uthappa,0,Not out
+1.4,R Dravid,S Tyagi,RV Uthappa,4,Not out
+1.5,R Dravid,S Tyagi,RV Uthappa,0,caught
+1.6,LRPL Taylor,S Tyagi,RV Uthappa,1,Not out
+1.7,RV Uthappa,S Tyagi,LRPL Taylor,4,Not out
+2.1,LRPL Taylor,JA Morkel,RV Uthappa,0,Not out
+2.2,LRPL Taylor,JA Morkel,RV Uthappa,0,Not out
+2.3,LRPL Taylor,JA Morkel,RV Uthappa,0,Not out
+2.4,LRPL Taylor,JA Morkel,RV Uthappa,0,Not out
+2.5,LRPL Taylor,JA Morkel,RV Uthappa,0,Not out
+2.6,LRPL Taylor,JA Morkel,RV Uthappa,1,Not out
+3.1,LRPL Taylor,S Tyagi,RV Uthappa,4,Not out
+3.2,LRPL Taylor,S Tyagi,RV Uthappa,0,Not out
+3.3,LRPL Taylor,S Tyagi,RV Uthappa,0,Not out
+3.4,LRPL Taylor,S Tyagi,RV Uthappa,4,Not out
+3.5,LRPL Taylor,S Tyagi,RV Uthappa,2,Not out
+3.6,LRPL Taylor,S Tyagi,RV Uthappa,0,Not out
+4.1,LRPL Taylor,JA Morkel,RV Uthappa,0,Not out
+4.2,LRPL Taylor,JA Morkel,RV Uthappa,0,Not out
+4.3,LRPL Taylor,JA Morkel,RV Uthappa,1,Not out
+4.4,RV Uthappa,JA Morkel,LRPL Taylor,0,lbw
+4.5,V Kohli,JA Morkel,LRPL Taylor,0,Not out
+4.6,V Kohli,JA Morkel,LRPL Taylor,0,Not out
+5.1,LRPL Taylor,L Balaji,V Kohli,0,Not out
+5.2,LRPL Taylor,L Balaji,V Kohli,1,Not out
+5.3,V Kohli,L Balaji,LRPL Taylor,1,Not out
+5.4,LRPL Taylor,L Balaji,V Kohli,0,Not out
+5.5,LRPL Taylor,L Balaji,V Kohli,1,Not out
+5.6,V Kohli,L Balaji,LRPL Taylor,0,Not out
+6.1,LRPL Taylor,JA Morkel,V Kohli,2,Not out
+6.2,LRPL Taylor,JA Morkel,V Kohli,1,Not out
+6.3,V Kohli,JA Morkel,LRPL Taylor,0,Not out
+6.4,V Kohli,JA Morkel,LRPL Taylor,0,Not out
+6.5,V Kohli,JA Morkel,LRPL Taylor,1,Not out
+6.6,LRPL Taylor,JA Morkel,V Kohli,1,Not out
+7.1,LRPL Taylor,SB Jakati,V Kohli,0,Not out
+7.2,LRPL Taylor,SB Jakati,V Kohli,1,Not out
+7.3,V Kohli,SB Jakati,LRPL Taylor,1,Not out
+7.4,LRPL Taylor,SB Jakati,V Kohli,1,Not out
+7.5,V Kohli,SB Jakati,LRPL Taylor,4,Not out
+7.6,V Kohli,SB Jakati,LRPL Taylor,1,Not out
+8.1,V Kohli,M Muralitharan,LRPL Taylor,0,Not out
+8.2,V Kohli,M Muralitharan,LRPL Taylor,1,Not out
+8.3,LRPL Taylor,M Muralitharan,V Kohli,1,Not out
+8.4,V Kohli,M Muralitharan,LRPL Taylor,4,Not out
+8.5,V Kohli,M Muralitharan,LRPL Taylor,0,Not out
+8.6,V Kohli,M Muralitharan,LRPL Taylor,0,Not out
+9.1,LRPL Taylor,SB Jakati,V Kohli,2,Not out
+9.2,LRPL Taylor,SB Jakati,V Kohli,1,Not out
+9.3,V Kohli,SB Jakati,LRPL Taylor,0,Not out
+9.4,V Kohli,SB Jakati,LRPL Taylor,1,Not out
+9.5,LRPL Taylor,SB Jakati,V Kohli,1,Not out
+9.6,V Kohli,SB Jakati,LRPL Taylor,0,Not out
+10.1,LRPL Taylor,M Muralitharan,V Kohli,1,Not out
+10.2,V Kohli,M Muralitharan,LRPL Taylor,4,Not out
+10.3,V Kohli,M Muralitharan,LRPL Taylor,1,Not out
+10.4,LRPL Taylor,M Muralitharan,V Kohli,0,Not out
+10.5,LRPL Taylor,M Muralitharan,V Kohli,0,Not out
+10.6,LRPL Taylor,M Muralitharan,V Kohli,0,Not out
+11.1,V Kohli,SB Jakati,LRPL Taylor,1,Not out
+11.2,LRPL Taylor,SB Jakati,V Kohli,1,Not out
+11.3,V Kohli,SB Jakati,LRPL Taylor,0,Not out
+11.4,V Kohli,SB Jakati,LRPL Taylor,0,Not out
+11.5,V Kohli,SB Jakati,LRPL Taylor,0,Not out
+11.6,V Kohli,SB Jakati,LRPL Taylor,1,Not out
+12.1,V Kohli,M Muralitharan,LRPL Taylor,0,Not out
+12.2,V Kohli,M Muralitharan,LRPL Taylor,4,Not out
+12.3,V Kohli,M Muralitharan,LRPL Taylor,0,Not out
+12.4,V Kohli,M Muralitharan,LRPL Taylor,0,Not out
+12.5,V Kohli,M Muralitharan,LRPL Taylor,0,Not out
+12.6,V Kohli,M Muralitharan,LRPL Taylor,6,Not out
+13.1,LRPL Taylor,SB Jakati,V Kohli,0,Not out
+13.2,LRPL Taylor,SB Jakati,V Kohli,1,Not out
+13.3,V Kohli,SB Jakati,LRPL Taylor,0,Not out
+13.4,V Kohli,SB Jakati,LRPL Taylor,6,Not out
+13.5,V Kohli,SB Jakati,LRPL Taylor,1,Not out
+13.6,LRPL Taylor,SB Jakati,V Kohli,1,Not out
+14.1,LRPL Taylor,L Balaji,V Kohli,1,Not out
+14.2,V Kohli,L Balaji,LRPL Taylor,0,caught
+14.3,MV Boucher,L Balaji,LRPL Taylor,0,Not out
+14.4,MV Boucher,L Balaji,LRPL Taylor,0,Not out
+14.5,MV Boucher,L Balaji,LRPL Taylor,4,Not out
+14.6,MV Boucher,L Balaji,LRPL Taylor,1,Not out
+15.1,MV Boucher,M Muralitharan,LRPL Taylor,0,caught
+15.2,RE van der Merwe,M Muralitharan,LRPL Taylor,0,Not out
+15.3,RE van der Merwe,M Muralitharan,LRPL Taylor,1,Not out
+15.4,LRPL Taylor,M Muralitharan,RE van der Merwe,1,Not out
+15.5,RE van der Merwe,M Muralitharan,LRPL Taylor,0,Not out
+15.6,RE van der Merwe,M Muralitharan,LRPL Taylor,0,Not out
+16.1,LRPL Taylor,L Balaji,RE van der Merwe,1,Not out
+16.2,RE van der Merwe,L Balaji,LRPL Taylor,0,Not out
+16.3,RE van der Merwe,L Balaji,LRPL Taylor,1,Not out
+16.4,LRPL Taylor,L Balaji,RE van der Merwe,6,Not out
+16.5,LRPL Taylor,L Balaji,RE van der Merwe,1,Not out
+16.6,RE van der Merwe,L Balaji,LRPL Taylor,1,run out
+16.7,B Akhil,L Balaji,LRPL Taylor,0,Not out
+17.1,LRPL Taylor,JDP Oram,B Akhil,2,Not out
+17.2,LRPL Taylor,JDP Oram,B Akhil,1,Not out
+17.3,B Akhil,JDP Oram,LRPL Taylor,0,caught
+17.4,LRPL Taylor,JDP Oram,P Kumar,0,Not out
+17.5,LRPL Taylor,JDP Oram,P Kumar,1,Not out
+17.6,P Kumar,JDP Oram,LRPL Taylor,1,Not out
+18.1,P Kumar,L Balaji,LRPL Taylor,6,Not out
+18.2,P Kumar,L Balaji,LRPL Taylor,1,Not out
+18.3,LRPL Taylor,L Balaji,P Kumar,1,Not out
+18.4,P Kumar,L Balaji,LRPL Taylor,1,Not out
+18.5,LRPL Taylor,L Balaji,P Kumar,1,Not out
+18.6,P Kumar,L Balaji,LRPL Taylor,2,Not out
+19.1,LRPL Taylor,JDP Oram,P Kumar,0,caught
+19.2,P Kumar,JDP Oram,R Vinay Kumar,1,Not out
+19.3,R Vinay Kumar,JDP Oram,P Kumar,2,Not out
+19.4,R Vinay Kumar,JDP Oram,P Kumar,4,Not out

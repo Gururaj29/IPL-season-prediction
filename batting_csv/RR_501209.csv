@@ -1,0 +1,129 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AG Paunikar,B Lee,R Dravid,0,Not out
+0.2,AG Paunikar,B Lee,R Dravid,0,Not out
+0.3,AG Paunikar,B Lee,R Dravid,0,Not out
+0.4,R Dravid,B Lee,AG Paunikar,0,Not out
+0.5,R Dravid,B Lee,AG Paunikar,0,Not out
+0.6,R Dravid,B Lee,AG Paunikar,4,Not out
+0.7,R Dravid,B Lee,AG Paunikar,0,Not out
+1.1,AG Paunikar,L Balaji,R Dravid,0,Not out
+1.2,AG Paunikar,L Balaji,R Dravid,0,Not out
+1.3,AG Paunikar,L Balaji,R Dravid,0,Not out
+1.4,AG Paunikar,L Balaji,R Dravid,4,Not out
+1.5,AG Paunikar,L Balaji,R Dravid,0,Not out
+1.6,AG Paunikar,L Balaji,R Dravid,0,Not out
+1.7,AG Paunikar,L Balaji,R Dravid,0,Not out
+1.8,AG Paunikar,L Balaji,R Dravid,0,Not out
+2.1,R Dravid,JH Kallis,AG Paunikar,0,Not out
+2.2,R Dravid,JH Kallis,AG Paunikar,4,Not out
+2.3,R Dravid,JH Kallis,AG Paunikar,1,Not out
+2.4,AG Paunikar,JH Kallis,R Dravid,0,Not out
+2.5,AG Paunikar,JH Kallis,R Dravid,4,Not out
+2.6,AG Paunikar,JH Kallis,R Dravid,0,Not out
+2.7,AG Paunikar,JH Kallis,R Dravid,0,Not out
+3.1,R Dravid,L Balaji,AG Paunikar,1,Not out
+3.2,AG Paunikar,L Balaji,R Dravid,0,Not out
+3.3,AG Paunikar,L Balaji,R Dravid,1,Not out
+3.4,R Dravid,L Balaji,AG Paunikar,0,Not out
+3.5,R Dravid,L Balaji,AG Paunikar,0,Not out
+3.6,R Dravid,L Balaji,AG Paunikar,1,Not out
+4.1,R Dravid,Shakib Al Hasan,AG Paunikar,0,Not out
+4.2,R Dravid,Shakib Al Hasan,AG Paunikar,1,Not out
+4.3,AG Paunikar,Shakib Al Hasan,R Dravid,0,caught
+4.4,AL Menaria,Shakib Al Hasan,R Dravid,0,Not out
+4.5,AL Menaria,Shakib Al Hasan,R Dravid,1,Not out
+4.6,R Dravid,Shakib Al Hasan,AL Menaria,0,Not out
+4.7,R Dravid,Shakib Al Hasan,AL Menaria,1,Not out
+5.1,R Dravid,B Lee,AL Menaria,0,Not out
+5.2,R Dravid,B Lee,AL Menaria,0,Not out
+5.3,R Dravid,B Lee,AL Menaria,1,Not out
+5.4,AL Menaria,B Lee,R Dravid,1,Not out
+5.5,R Dravid,B Lee,AL Menaria,0,Not out
+5.6,R Dravid,B Lee,AL Menaria,0,Not out
+6.1,AL Menaria,JH Kallis,R Dravid,1,Not out
+6.2,R Dravid,JH Kallis,AL Menaria,2,Not out
+6.3,R Dravid,JH Kallis,AL Menaria,0,Not out
+6.4,R Dravid,JH Kallis,AL Menaria,1,Not out
+6.5,AL Menaria,JH Kallis,R Dravid,0,Not out
+6.6,AL Menaria,JH Kallis,R Dravid,0,Not out
+6.7,AL Menaria,JH Kallis,R Dravid,1,Not out
+7.1,AL Menaria,Shakib Al Hasan,R Dravid,4,Not out
+7.2,AL Menaria,Shakib Al Hasan,R Dravid,0,Not out
+7.3,AL Menaria,Shakib Al Hasan,R Dravid,1,Not out
+7.4,R Dravid,Shakib Al Hasan,AL Menaria,2,Not out
+7.5,R Dravid,Shakib Al Hasan,AL Menaria,1,Not out
+7.6,AL Menaria,Shakib Al Hasan,R Dravid,0,Not out
+8.1,R Dravid,R Bhatia,AL Menaria,4,Not out
+8.2,R Dravid,R Bhatia,AL Menaria,1,Not out
+8.3,AL Menaria,R Bhatia,R Dravid,1,Not out
+8.4,R Dravid,R Bhatia,AL Menaria,1,Not out
+8.5,AL Menaria,R Bhatia,R Dravid,1,Not out
+8.6,R Dravid,R Bhatia,AL Menaria,4,Not out
+9.1,AL Menaria,Iqbal Abdulla,R Dravid,1,Not out
+9.2,R Dravid,Iqbal Abdulla,AL Menaria,1,Not out
+9.3,AL Menaria,Iqbal Abdulla,R Dravid,1,Not out
+9.4,R Dravid,Iqbal Abdulla,AL Menaria,0,Not out
+9.5,R Dravid,Iqbal Abdulla,AL Menaria,1,Not out
+9.6,AL Menaria,Iqbal Abdulla,R Dravid,6,Not out
+10.1,R Dravid,JH Kallis,AL Menaria,1,Not out
+10.2,AL Menaria,JH Kallis,R Dravid,2,Not out
+10.3,AL Menaria,JH Kallis,R Dravid,0,Not out
+10.4,AL Menaria,JH Kallis,R Dravid,4,Not out
+10.5,AL Menaria,JH Kallis,R Dravid,1,Not out
+10.6,R Dravid,JH Kallis,AL Menaria,0,Not out
+11.1,AL Menaria,YK Pathan,R Dravid,1,Not out
+11.2,R Dravid,YK Pathan,AL Menaria,2,Not out
+11.3,R Dravid,YK Pathan,AL Menaria,0,bowled
+11.4,SR Watson,YK Pathan,AL Menaria,1,Not out
+11.5,AL Menaria,YK Pathan,SR Watson,0,caught and bowled
+11.6,LRPL Taylor,YK Pathan,SR Watson,0,Not out
+12.1,SR Watson,Iqbal Abdulla,LRPL Taylor,1,Not out
+12.2,LRPL Taylor,Iqbal Abdulla,SR Watson,0,Not out
+12.3,LRPL Taylor,Iqbal Abdulla,SR Watson,1,Not out
+12.4,SR Watson,Iqbal Abdulla,LRPL Taylor,0,Not out
+12.5,SR Watson,Iqbal Abdulla,LRPL Taylor,1,Not out
+12.6,LRPL Taylor,Iqbal Abdulla,SR Watson,1,Not out
+13.1,LRPL Taylor,Shakib Al Hasan,SR Watson,1,Not out
+13.2,SR Watson,Shakib Al Hasan,LRPL Taylor,1,Not out
+13.3,LRPL Taylor,Shakib Al Hasan,SR Watson,1,Not out
+13.4,SR Watson,Shakib Al Hasan,LRPL Taylor,6,Not out
+13.5,SR Watson,Shakib Al Hasan,LRPL Taylor,1,Not out
+13.6,LRPL Taylor,Shakib Al Hasan,SR Watson,0,Not out
+13.7,LRPL Taylor,Shakib Al Hasan,SR Watson,0,Not out
+14.1,LRPL Taylor,JH Kallis,SR Watson,1,Not out
+14.2,SR Watson,JH Kallis,LRPL Taylor,2,Not out
+14.3,SR Watson,JH Kallis,LRPL Taylor,1,Not out
+14.4,LRPL Taylor,JH Kallis,SR Watson,2,Not out
+14.5,LRPL Taylor,JH Kallis,SR Watson,0,Not out
+14.6,LRPL Taylor,JH Kallis,SR Watson,1,Not out
+15.1,LRPL Taylor,L Balaji,SR Watson,6,Not out
+15.2,LRPL Taylor,L Balaji,SR Watson,0,Not out
+15.3,LRPL Taylor,L Balaji,SR Watson,1,Not out
+15.4,SR Watson,L Balaji,LRPL Taylor,1,Not out
+15.5,LRPL Taylor,L Balaji,SR Watson,0,Not out
+15.6,LRPL Taylor,L Balaji,SR Watson,6,Not out
+16.1,SR Watson,Shakib Al Hasan,LRPL Taylor,1,Not out
+16.2,LRPL Taylor,Shakib Al Hasan,SR Watson,0,Not out
+16.3,SR Watson,Shakib Al Hasan,LRPL Taylor,6,Not out
+16.4,SR Watson,Shakib Al Hasan,LRPL Taylor,0,bowled
+16.5,J Botha,Shakib Al Hasan,LRPL Taylor,0,Not out
+16.6,J Botha,Shakib Al Hasan,LRPL Taylor,1,Not out
+17.1,J Botha,B Lee,LRPL Taylor,1,Not out
+17.2,LRPL Taylor,B Lee,J Botha,4,Not out
+17.3,LRPL Taylor,B Lee,J Botha,1,Not out
+17.4,J Botha,B Lee,LRPL Taylor,2,Not out
+17.5,J Botha,B Lee,LRPL Taylor,2,Not out
+17.6,J Botha,B Lee,LRPL Taylor,1,Not out
+18.1,J Botha,L Balaji,LRPL Taylor,1,Not out
+18.2,LRPL Taylor,L Balaji,J Botha,0,Not out
+18.3,J Botha,L Balaji,LRPL Taylor,0,Not out
+18.4,J Botha,L Balaji,LRPL Taylor,1,Not out
+18.5,LRPL Taylor,L Balaji,J Botha,2,Not out
+18.6,LRPL Taylor,L Balaji,J Botha,4,Not out
+19.1,J Botha,B Lee,LRPL Taylor,1,Not out
+19.2,LRPL Taylor,B Lee,J Botha,2,Not out
+19.3,LRPL Taylor,B Lee,J Botha,0,Not out
+19.4,LRPL Taylor,B Lee,J Botha,1,Not out
+19.5,J Botha,B Lee,LRPL Taylor,1,Not out
+19.6,LRPL Taylor,B Lee,J Botha,0,Not out
+19.7,J Botha,B Lee,LRPL Taylor,1,Not out

@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,ST Jayasuriya,P Kumar,SR Tendulkar,1,Not out
+0.2,SR Tendulkar,P Kumar,ST Jayasuriya,1,Not out
+0.3,ST Jayasuriya,P Kumar,SR Tendulkar,1,Not out
+0.4,SR Tendulkar,P Kumar,ST Jayasuriya,0,Not out
+0.5,SR Tendulkar,P Kumar,ST Jayasuriya,2,Not out
+0.6,SR Tendulkar,P Kumar,ST Jayasuriya,0,Not out
+1.1,ST Jayasuriya,DW Steyn,SR Tendulkar,0,Not out
+1.2,ST Jayasuriya,DW Steyn,SR Tendulkar,0,Not out
+1.3,ST Jayasuriya,DW Steyn,SR Tendulkar,0,Not out
+1.4,ST Jayasuriya,DW Steyn,SR Tendulkar,0,lbw
+1.5,AP Tare,DW Steyn,SR Tendulkar,0,Not out
+1.6,AP Tare,DW Steyn,SR Tendulkar,0,Not out
+1.7,AP Tare,DW Steyn,SR Tendulkar,0,Not out
+1.8,AP Tare,DW Steyn,SR Tendulkar,4,Not out
+2.1,SR Tendulkar,P Kumar,AP Tare,0,Not out
+2.2,SR Tendulkar,P Kumar,AP Tare,0,Not out
+2.3,SR Tendulkar,P Kumar,AP Tare,0,Not out
+2.4,SR Tendulkar,P Kumar,AP Tare,0,Not out
+2.5,SR Tendulkar,P Kumar,AP Tare,0,Not out
+2.6,SR Tendulkar,P Kumar,AP Tare,1,Not out
+2.7,AP Tare,P Kumar,SR Tendulkar,0,Not out
+3.1,AP Tare,DW Steyn,SR Tendulkar,0,Not out
+3.2,AP Tare,DW Steyn,SR Tendulkar,0,Not out
+3.3,AP Tare,DW Steyn,SR Tendulkar,0,Not out
+3.4,AP Tare,DW Steyn,SR Tendulkar,1,Not out
+3.5,SR Tendulkar,DW Steyn,AP Tare,4,Not out
+3.6,SR Tendulkar,DW Steyn,AP Tare,4,Not out
+3.7,SR Tendulkar,DW Steyn,AP Tare,4,Not out
+4.1,AP Tare,JH Kallis,SR Tendulkar,0,Not out
+4.2,AP Tare,JH Kallis,SR Tendulkar,4,Not out
+4.3,AP Tare,JH Kallis,SR Tendulkar,0,caught
+4.4,SS Tiwary,JH Kallis,SR Tendulkar,0,Not out
+4.5,SS Tiwary,JH Kallis,SR Tendulkar,0,Not out
+4.6,SS Tiwary,JH Kallis,SR Tendulkar,1,Not out
+5.1,SS Tiwary,R Vinay Kumar,SR Tendulkar,2,Not out
+5.2,SS Tiwary,R Vinay Kumar,SR Tendulkar,0,Not out
+5.3,SS Tiwary,R Vinay Kumar,SR Tendulkar,1,Not out
+5.4,SR Tendulkar,R Vinay Kumar,SS Tiwary,1,Not out
+5.5,SS Tiwary,R Vinay Kumar,SR Tendulkar,4,Not out
+5.6,SS Tiwary,R Vinay Kumar,SR Tendulkar,0,Not out
+6.1,SR Tendulkar,JH Kallis,SS Tiwary,4,Not out
+6.2,SR Tendulkar,JH Kallis,SS Tiwary,1,Not out
+6.3,SS Tiwary,JH Kallis,SR Tendulkar,0,Not out
+6.4,SS Tiwary,JH Kallis,SR Tendulkar,2,Not out
+6.5,SS Tiwary,JH Kallis,SR Tendulkar,4,Not out
+6.6,SS Tiwary,JH Kallis,SR Tendulkar,1,Not out
+7.1,SS Tiwary,A Kumble,SR Tendulkar,2,Not out
+7.2,SS Tiwary,A Kumble,SR Tendulkar,0,Not out
+7.3,SS Tiwary,A Kumble,SR Tendulkar,0,Not out
+7.4,SR Tendulkar,A Kumble,SS Tiwary,0,Not out
+7.5,SR Tendulkar,A Kumble,SS Tiwary,1,Not out
+7.6,SS Tiwary,A Kumble,SR Tendulkar,1,Not out
+8.1,SS Tiwary,R Vinay Kumar,SR Tendulkar,1,Not out
+8.2,SR Tendulkar,R Vinay Kumar,SS Tiwary,0,Not out
+8.3,SR Tendulkar,R Vinay Kumar,SS Tiwary,1,Not out
+8.4,SS Tiwary,R Vinay Kumar,SR Tendulkar,4,Not out
+8.5,SS Tiwary,R Vinay Kumar,SR Tendulkar,1,Not out
+8.6,SR Tendulkar,R Vinay Kumar,SS Tiwary,0,Not out
+9.1,SS Tiwary,A Kumble,SR Tendulkar,1,Not out
+9.2,SR Tendulkar,A Kumble,SS Tiwary,1,Not out
+9.3,SS Tiwary,A Kumble,SR Tendulkar,0,bowled
+9.4,AT Rayudu,A Kumble,SR Tendulkar,0,Not out
+9.5,AT Rayudu,A Kumble,SR Tendulkar,2,Not out
+9.6,AT Rayudu,A Kumble,SR Tendulkar,1,Not out
+10.1,AT Rayudu,R Vinay Kumar,SR Tendulkar,0,caught
+10.2,DJ Bravo,R Vinay Kumar,SR Tendulkar,1,Not out
+10.3,SR Tendulkar,R Vinay Kumar,DJ Bravo,0,bowled
+10.4,R Sathish,R Vinay Kumar,DJ Bravo,0,Not out
+10.5,R Sathish,R Vinay Kumar,DJ Bravo,0,Not out
+10.6,DJ Bravo,R Vinay Kumar,R Sathish,0,lbw
+11.1,R Sathish,A Kumble,KA Pollard,1,Not out
+11.2,KA Pollard,A Kumble,R Sathish,0,Not out
+11.3,KA Pollard,A Kumble,R Sathish,0,Not out
+11.4,KA Pollard,A Kumble,R Sathish,0,Not out
+11.5,KA Pollard,A Kumble,R Sathish,0,Not out
+11.6,KA Pollard,A Kumble,R Sathish,3,Not out
+12.1,KA Pollard,R Vinay Kumar,R Sathish,0,Not out
+12.2,KA Pollard,R Vinay Kumar,R Sathish,1,Not out
+12.3,R Sathish,R Vinay Kumar,KA Pollard,1,Not out
+12.4,KA Pollard,R Vinay Kumar,R Sathish,1,Not out
+12.5,R Sathish,R Vinay Kumar,KA Pollard,4,Not out
+12.6,R Sathish,R Vinay Kumar,KA Pollard,2,Not out
+13.1,KA Pollard,DW Steyn,R Sathish,1,Not out
+13.2,R Sathish,DW Steyn,KA Pollard,0,Not out
+13.3,R Sathish,DW Steyn,KA Pollard,0,Not out
+13.4,R Sathish,DW Steyn,KA Pollard,0,Not out
+13.5,R Sathish,DW Steyn,KA Pollard,1,Not out
+13.6,KA Pollard,DW Steyn,R Sathish,0,Not out
+14.1,R Sathish,JH Kallis,KA Pollard,2,Not out
+14.2,R Sathish,JH Kallis,KA Pollard,1,Not out
+14.3,KA Pollard,JH Kallis,R Sathish,1,Not out
+14.4,R Sathish,JH Kallis,KA Pollard,4,Not out
+14.5,R Sathish,JH Kallis,KA Pollard,2,Not out
+14.6,R Sathish,JH Kallis,KA Pollard,0,Not out
+15.1,R Sathish,A Kumble,KA Pollard,0,Not out
+15.2,R Sathish,A Kumble,KA Pollard,0,Not out
+15.3,R Sathish,A Kumble,KA Pollard,4,Not out
+15.4,R Sathish,A Kumble,KA Pollard,0,Not out
+15.5,KA Pollard,A Kumble,R Sathish,0,Not out
+15.6,KA Pollard,A Kumble,R Sathish,1,Not out
+16.1,KA Pollard,P Kumar,R Sathish,6,Not out
+16.2,KA Pollard,P Kumar,R Sathish,0,Not out
+16.3,R Sathish,P Kumar,KA Pollard,1,Not out
+16.4,KA Pollard,P Kumar,R Sathish,2,Not out
+16.5,KA Pollard,P Kumar,R Sathish,4,Not out
+16.6,KA Pollard,P Kumar,R Sathish,1,Not out
+17.1,KA Pollard,DW Steyn,R Sathish,0,caught
+17.2,R Sathish,DW Steyn,Harbhajan Singh,1,Not out
+17.3,Harbhajan Singh,DW Steyn,R Sathish,0,Not out
+17.4,Harbhajan Singh,DW Steyn,R Sathish,1,Not out
+17.5,R Sathish,DW Steyn,Harbhajan Singh,0,caught
+17.6,Harbhajan Singh,DW Steyn,Z Khan,2,Not out
+18.1,Z Khan,JH Kallis,Harbhajan Singh,0,Not out
+18.2,Z Khan,JH Kallis,Harbhajan Singh,1,Not out
+18.3,Harbhajan Singh,JH Kallis,Z Khan,0,Not out
+18.4,Harbhajan Singh,JH Kallis,Z Khan,1,Not out
+18.5,Z Khan,JH Kallis,Harbhajan Singh,4,Not out
+18.6,Z Khan,JH Kallis,Harbhajan Singh,2,Not out
+19.1,Harbhajan Singh,P Kumar,Z Khan,0,caught
+19.2,Z Khan,P Kumar,SL Malinga,4,Not out
+19.3,Z Khan,P Kumar,SL Malinga,6,Not out
+19.4,Z Khan,P Kumar,SL Malinga,0,Not out
+19.5,Z Khan,P Kumar,SL Malinga,2,Not out
+19.6,Z Khan,P Kumar,SL Malinga,4,Not out

@@ -1,0 +1,114 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,FY Fazal,RP Singh,R Dravid,0,Not out
+0.2,FY Fazal,RP Singh,R Dravid,0,Not out
+0.3,FY Fazal,RP Singh,R Dravid,0,Not out
+0.4,FY Fazal,RP Singh,R Dravid,4,Not out
+0.5,FY Fazal,RP Singh,R Dravid,0,Not out
+0.6,FY Fazal,RP Singh,R Dravid,1,Not out
+1.1,FY Fazal,S Sreesanth,R Dravid,0,Not out
+1.2,FY Fazal,S Sreesanth,R Dravid,0,Not out
+1.3,R Dravid,S Sreesanth,FY Fazal,0,Not out
+1.4,R Dravid,S Sreesanth,FY Fazal,0,Not out
+1.5,R Dravid,S Sreesanth,FY Fazal,1,Not out
+1.6,FY Fazal,S Sreesanth,R Dravid,1,Not out
+2.1,FY Fazal,RP Singh,R Dravid,0,Not out
+2.2,FY Fazal,RP Singh,R Dravid,4,Not out
+2.3,FY Fazal,RP Singh,R Dravid,0,Not out
+2.4,FY Fazal,RP Singh,R Dravid,4,Not out
+2.5,FY Fazal,RP Singh,R Dravid,2,Not out
+2.6,FY Fazal,RP Singh,R Dravid,0,lbw
+3.1,R Dravid,S Sreesanth,SR Watson,0,caught
+3.2,AM Rahane,S Sreesanth,SR Watson,2,Not out
+3.3,AM Rahane,S Sreesanth,SR Watson,0,Not out
+3.4,AM Rahane,S Sreesanth,SR Watson,1,Not out
+3.5,SR Watson,S Sreesanth,AM Rahane,0,Not out
+3.6,SR Watson,S Sreesanth,AM Rahane,0,Not out
+4.1,AM Rahane,RP Singh,SR Watson,0,Not out
+4.2,AM Rahane,RP Singh,SR Watson,0,Not out
+4.3,AM Rahane,RP Singh,SR Watson,0,Not out
+4.4,AM Rahane,RP Singh,SR Watson,1,Not out
+4.5,SR Watson,RP Singh,AM Rahane,0,Not out
+4.6,SR Watson,RP Singh,AM Rahane,0,Not out
+5.1,AM Rahane,S Sreesanth,SR Watson,4,Not out
+5.2,AM Rahane,S Sreesanth,SR Watson,0,lbw
+5.3,AL Menaria,S Sreesanth,SR Watson,0,Not out
+5.4,AL Menaria,S Sreesanth,SR Watson,0,Not out
+5.5,AL Menaria,S Sreesanth,SR Watson,0,Not out
+5.6,AL Menaria,S Sreesanth,SR Watson,6,Not out
+6.1,SR Watson,P Parameswaran,AL Menaria,1,Not out
+6.2,AL Menaria,P Parameswaran,SR Watson,0,Not out
+6.3,AL Menaria,P Parameswaran,SR Watson,0,Not out
+6.4,AL Menaria,P Parameswaran,SR Watson,0,Not out
+6.5,AL Menaria,P Parameswaran,SR Watson,0,Not out
+6.6,AL Menaria,P Parameswaran,SR Watson,0,Not out
+6.7,AL Menaria,P Parameswaran,SR Watson,4,Not out
+7.1,SR Watson,P Prasanth,AL Menaria,0,Not out
+7.2,SR Watson,P Prasanth,AL Menaria,6,Not out
+7.3,SR Watson,P Prasanth,AL Menaria,0,Not out
+7.4,SR Watson,P Prasanth,AL Menaria,0,Not out
+7.5,SR Watson,P Prasanth,AL Menaria,6,Not out
+7.6,SR Watson,P Prasanth,AL Menaria,6,Not out
+8.1,AL Menaria,P Parameswaran,SR Watson,4,Not out
+8.2,AL Menaria,P Parameswaran,SR Watson,1,Not out
+8.3,SR Watson,P Parameswaran,AL Menaria,1,Not out
+8.4,AL Menaria,P Parameswaran,SR Watson,1,Not out
+8.5,SR Watson,P Parameswaran,AL Menaria,0,bowled
+8.6,PR Shah,P Parameswaran,AL Menaria,1,Not out
+9.1,PR Shah,BJ Hodge,AL Menaria,0,Not out
+9.2,PR Shah,BJ Hodge,AL Menaria,4,Not out
+9.3,PR Shah,BJ Hodge,AL Menaria,0,Not out
+9.4,PR Shah,BJ Hodge,AL Menaria,0,caught
+9.5,AL Menaria,BJ Hodge,JDP Oram,1,Not out
+9.6,JDP Oram,BJ Hodge,AL Menaria,0,Not out
+10.1,AL Menaria,Y Gnaneswara Rao,JDP Oram,0,Not out
+10.2,AL Menaria,Y Gnaneswara Rao,JDP Oram,4,Not out
+10.3,AL Menaria,Y Gnaneswara Rao,JDP Oram,2,Not out
+10.4,AL Menaria,Y Gnaneswara Rao,JDP Oram,0,Not out
+10.5,AL Menaria,Y Gnaneswara Rao,JDP Oram,1,Not out
+10.6,JDP Oram,Y Gnaneswara Rao,AL Menaria,0,Not out
+11.1,AL Menaria,BJ Hodge,JDP Oram,1,Not out
+11.2,JDP Oram,BJ Hodge,AL Menaria,0,bowled
+11.3,SK Warne,BJ Hodge,AL Menaria,0,Not out
+11.4,SK Warne,BJ Hodge,AL Menaria,0,Not out
+11.5,SK Warne,BJ Hodge,AL Menaria,1,Not out
+11.6,AL Menaria,BJ Hodge,SK Warne,2,Not out
+12.1,SK Warne,P Parameswaran,AL Menaria,0,Not out
+12.2,SK Warne,P Parameswaran,AL Menaria,0,Not out
+12.3,SK Warne,P Parameswaran,AL Menaria,0,Not out
+12.4,SK Warne,P Parameswaran,AL Menaria,0,Not out
+12.5,SK Warne,P Parameswaran,AL Menaria,1,Not out
+12.6,AL Menaria,P Parameswaran,SK Warne,0,Not out
+13.1,SK Warne,BJ Hodge,AL Menaria,0,bowled
+13.2,AA Chavan,BJ Hodge,AL Menaria,0,Not out
+13.3,AA Chavan,BJ Hodge,AL Menaria,0,Not out
+13.4,AA Chavan,BJ Hodge,AL Menaria,1,Not out
+13.5,AL Menaria,BJ Hodge,AA Chavan,0,run out
+13.6,AL Menaria,BJ Hodge,SW Tait,0,Not out
+14.1,SW Tait,RA Jadeja,AL Menaria,1,Not out
+14.2,AL Menaria,RA Jadeja,SW Tait,0,Not out
+14.3,AL Menaria,RA Jadeja,SW Tait,1,Not out
+14.4,SW Tait,RA Jadeja,AL Menaria,0,Not out
+14.5,SW Tait,RA Jadeja,AL Menaria,1,Not out
+14.6,AL Menaria,RA Jadeja,SW Tait,0,Not out
+14.7,AL Menaria,RA Jadeja,SW Tait,1,Not out
+15.1,AL Menaria,BJ Hodge,SW Tait,2,Not out
+15.2,AL Menaria,BJ Hodge,SW Tait,0,caught
+15.3,SW Tait,BJ Hodge,ND Doshi,1,Not out
+15.4,ND Doshi,BJ Hodge,SW Tait,0,Not out
+15.5,ND Doshi,BJ Hodge,SW Tait,0,Not out
+15.6,ND Doshi,BJ Hodge,SW Tait,0,Not out
+16.1,SW Tait,RP Singh,ND Doshi,1,Not out
+16.2,ND Doshi,RP Singh,SW Tait,0,Not out
+16.3,ND Doshi,RP Singh,SW Tait,0,Not out
+16.4,ND Doshi,RP Singh,SW Tait,0,Not out
+16.5,ND Doshi,RP Singh,SW Tait,0,Not out
+16.6,ND Doshi,RP Singh,SW Tait,0,Not out
+17.1,SW Tait,S Sreesanth,ND Doshi,0,Not out
+17.2,SW Tait,S Sreesanth,ND Doshi,1,Not out
+17.3,ND Doshi,S Sreesanth,SW Tait,0,Not out
+17.4,ND Doshi,S Sreesanth,SW Tait,0,Not out
+17.5,ND Doshi,S Sreesanth,SW Tait,0,Not out
+17.6,ND Doshi,S Sreesanth,SW Tait,0,Not out
+18.1,SW Tait,P Parameswaran,ND Doshi,4,Not out
+18.2,SW Tait,P Parameswaran,ND Doshi,1,Not out
+18.3,ND Doshi,P Parameswaran,SW Tait,0,caught

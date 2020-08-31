@@ -1,0 +1,116 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,JH Kallis,JA Morkel,MK Pandey,0,Not out
+0.2,JH Kallis,JA Morkel,MK Pandey,0,Not out
+0.3,JH Kallis,JA Morkel,MK Pandey,1,Not out
+0.4,MK Pandey,JA Morkel,JH Kallis,4,Not out
+0.5,MK Pandey,JA Morkel,JH Kallis,4,Not out
+0.6,MK Pandey,JA Morkel,JH Kallis,0,Not out
+1.1,JH Kallis,MS Gony,MK Pandey,4,Not out
+1.2,JH Kallis,MS Gony,MK Pandey,4,Not out
+1.3,JH Kallis,MS Gony,MK Pandey,0,Not out
+1.4,JH Kallis,MS Gony,MK Pandey,0,caught
+1.5,RE van der Merwe,MS Gony,MK Pandey,0,Not out
+1.6,RE van der Merwe,MS Gony,MK Pandey,0,Not out
+2.1,MK Pandey,JA Morkel,RE van der Merwe,2,Not out
+2.2,MK Pandey,JA Morkel,RE van der Merwe,1,Not out
+2.3,RE van der Merwe,JA Morkel,MK Pandey,0,Not out
+2.4,RE van der Merwe,JA Morkel,MK Pandey,2,Not out
+2.5,RE van der Merwe,JA Morkel,MK Pandey,0,bowled
+2.6,R Dravid,JA Morkel,MK Pandey,2,Not out
+3.1,MK Pandey,MS Gony,R Dravid,4,Not out
+3.2,MK Pandey,MS Gony,R Dravid,0,Not out
+3.3,MK Pandey,MS Gony,R Dravid,4,Not out
+3.4,MK Pandey,MS Gony,R Dravid,4,Not out
+3.5,MK Pandey,MS Gony,R Dravid,1,Not out
+3.6,R Dravid,MS Gony,MK Pandey,0,Not out
+3.7,R Dravid,MS Gony,MK Pandey,1,Not out
+4.1,R Dravid,SB Jakati,MK Pandey,4,Not out
+4.2,R Dravid,SB Jakati,MK Pandey,0,Not out
+4.3,R Dravid,SB Jakati,MK Pandey,0,Not out
+4.4,R Dravid,SB Jakati,MK Pandey,4,Not out
+4.5,R Dravid,SB Jakati,MK Pandey,2,Not out
+4.6,R Dravid,SB Jakati,MK Pandey,0,Not out
+5.1,MK Pandey,JA Morkel,R Dravid,4,Not out
+5.2,MK Pandey,JA Morkel,R Dravid,0,Not out
+5.3,MK Pandey,JA Morkel,R Dravid,1,Not out
+5.4,R Dravid,JA Morkel,MK Pandey,4,Not out
+5.5,R Dravid,JA Morkel,MK Pandey,1,Not out
+5.6,MK Pandey,JA Morkel,R Dravid,0,Not out
+6.1,R Dravid,SB Jakati,MK Pandey,1,Not out
+6.2,MK Pandey,SB Jakati,R Dravid,1,Not out
+6.3,R Dravid,SB Jakati,MK Pandey,0,Not out
+6.4,R Dravid,SB Jakati,MK Pandey,0,Not out
+6.5,R Dravid,SB Jakati,MK Pandey,1,Not out
+6.6,MK Pandey,SB Jakati,R Dravid,1,Not out
+7.1,MK Pandey,SK Raina,R Dravid,2,Not out
+7.2,MK Pandey,SK Raina,R Dravid,1,Not out
+7.3,R Dravid,SK Raina,MK Pandey,0,Not out
+7.4,R Dravid,SK Raina,MK Pandey,1,Not out
+7.5,MK Pandey,SK Raina,R Dravid,0,Not out
+7.6,MK Pandey,SK Raina,R Dravid,1,Not out
+8.1,MK Pandey,SB Jakati,R Dravid,2,Not out
+8.2,MK Pandey,SB Jakati,R Dravid,4,Not out
+8.3,MK Pandey,SB Jakati,R Dravid,0,Not out
+8.4,MK Pandey,SB Jakati,R Dravid,1,Not out
+8.5,R Dravid,SB Jakati,MK Pandey,0,Not out
+8.6,R Dravid,SB Jakati,MK Pandey,4,Not out
+9.1,MK Pandey,M Muralitharan,R Dravid,0,Not out
+9.2,R Dravid,M Muralitharan,MK Pandey,0,Not out
+9.3,R Dravid,M Muralitharan,MK Pandey,0,Not out
+9.4,R Dravid,M Muralitharan,MK Pandey,1,Not out
+9.5,MK Pandey,M Muralitharan,R Dravid,1,Not out
+9.6,R Dravid,M Muralitharan,MK Pandey,0,Not out
+10.1,MK Pandey,L Balaji,R Dravid,0,Not out
+10.2,MK Pandey,L Balaji,R Dravid,0,Not out
+10.3,MK Pandey,L Balaji,R Dravid,0,Not out
+10.4,MK Pandey,L Balaji,R Dravid,1,Not out
+10.5,R Dravid,L Balaji,MK Pandey,4,Not out
+10.6,R Dravid,L Balaji,MK Pandey,1,Not out
+11.1,R Dravid,M Muralitharan,MK Pandey,0,Not out
+11.2,MK Pandey,M Muralitharan,R Dravid,1,Not out
+11.3,R Dravid,M Muralitharan,MK Pandey,1,Not out
+11.4,MK Pandey,M Muralitharan,R Dravid,1,Not out
+11.5,R Dravid,M Muralitharan,MK Pandey,0,Not out
+11.6,R Dravid,M Muralitharan,MK Pandey,0,Not out
+12.1,MK Pandey,SB Jakati,R Dravid,2,Not out
+12.2,MK Pandey,SB Jakati,R Dravid,0,Not out
+12.3,MK Pandey,SB Jakati,R Dravid,0,bowled
+12.4,V Kohli,SB Jakati,R Dravid,0,Not out
+12.5,V Kohli,SB Jakati,R Dravid,1,Not out
+12.6,R Dravid,SB Jakati,V Kohli,1,Not out
+13.1,R Dravid,SK Raina,V Kohli,0,Not out
+13.2,R Dravid,SK Raina,V Kohli,1,Not out
+13.3,V Kohli,SK Raina,R Dravid,1,Not out
+13.4,R Dravid,SK Raina,V Kohli,1,Not out
+13.5,V Kohli,SK Raina,R Dravid,1,Not out
+13.6,R Dravid,SK Raina,V Kohli,0,Not out
+14.1,V Kohli,L Balaji,R Dravid,1,Not out
+14.2,R Dravid,L Balaji,V Kohli,4,Not out
+14.3,R Dravid,L Balaji,V Kohli,2,Not out
+14.4,R Dravid,L Balaji,V Kohli,2,Not out
+14.5,R Dravid,L Balaji,V Kohli,1,Not out
+14.6,V Kohli,L Balaji,R Dravid,0,Not out
+15.1,R Dravid,M Muralitharan,V Kohli,0,lbw
+15.2,LRPL Taylor,M Muralitharan,V Kohli,2,Not out
+15.3,LRPL Taylor,M Muralitharan,V Kohli,0,Not out
+15.4,LRPL Taylor,M Muralitharan,V Kohli,0,Not out
+15.5,LRPL Taylor,M Muralitharan,V Kohli,0,Not out
+15.6,LRPL Taylor,M Muralitharan,V Kohli,0,Not out
+16.1,V Kohli,SK Raina,LRPL Taylor,0,Not out
+16.2,V Kohli,SK Raina,LRPL Taylor,1,Not out
+16.3,LRPL Taylor,SK Raina,V Kohli,6,Not out
+16.4,LRPL Taylor,SK Raina,V Kohli,0,Not out
+16.5,V Kohli,SK Raina,LRPL Taylor,6,Not out
+16.6,V Kohli,SK Raina,LRPL Taylor,1,Not out
+17.1,V Kohli,M Muralitharan,LRPL Taylor,1,Not out
+17.2,LRPL Taylor,M Muralitharan,V Kohli,0,Not out
+17.3,LRPL Taylor,M Muralitharan,V Kohli,1,Not out
+17.4,V Kohli,M Muralitharan,LRPL Taylor,0,Not out
+17.5,V Kohli,M Muralitharan,LRPL Taylor,6,Not out
+17.6,V Kohli,M Muralitharan,LRPL Taylor,0,Not out
+18.1,LRPL Taylor,JDP Oram,V Kohli,6,Not out
+18.2,LRPL Taylor,JDP Oram,V Kohli,1,Not out
+18.3,V Kohli,JDP Oram,LRPL Taylor,1,Not out
+18.4,LRPL Taylor,JDP Oram,V Kohli,1,Not out
+18.5,V Kohli,JDP Oram,LRPL Taylor,0,Not out
+18.6,V Kohli,JDP Oram,LRPL Taylor,4,Not out

@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,RV Uthappa,JA Morkel,G Gambhir,0,lbw
+0.2,SA Yadav,JA Morkel,G Gambhir,0,Not out
+0.3,G Gambhir,JA Morkel,SA Yadav,4,Not out
+0.4,G Gambhir,JA Morkel,SA Yadav,4,Not out
+0.5,G Gambhir,JA Morkel,SA Yadav,1,Not out
+0.6,SA Yadav,JA Morkel,G Gambhir,0,Not out
+0.7,SA Yadav,JA Morkel,G Gambhir,4,Not out
+1.1,G Gambhir,NLTC Perera,SA Yadav,1,Not out
+1.2,SA Yadav,NLTC Perera,G Gambhir,0,Not out
+1.3,SA Yadav,NLTC Perera,G Gambhir,0,Not out
+1.4,SA Yadav,NLTC Perera,G Gambhir,0,Not out
+1.5,SA Yadav,NLTC Perera,G Gambhir,4,Not out
+1.6,SA Yadav,NLTC Perera,G Gambhir,1,Not out
+2.1,SA Yadav,JA Morkel,G Gambhir,4,Not out
+2.2,SA Yadav,JA Morkel,G Gambhir,4,Not out
+2.3,SA Yadav,JA Morkel,G Gambhir,0,Not out
+2.4,SA Yadav,JA Morkel,G Gambhir,1,Not out
+2.5,G Gambhir,JA Morkel,SA Yadav,1,run out
+2.6,Shakib Al Hasan,JA Morkel,SA Yadav,0,Not out
+3.1,SA Yadav,R Ashwin,Shakib Al Hasan,0,Not out
+3.2,SA Yadav,R Ashwin,Shakib Al Hasan,1,Not out
+3.3,Shakib Al Hasan,R Ashwin,SA Yadav,0,Not out
+3.4,Shakib Al Hasan,R Ashwin,SA Yadav,1,Not out
+3.5,SA Yadav,R Ashwin,Shakib Al Hasan,6,Not out
+3.6,SA Yadav,R Ashwin,Shakib Al Hasan,0,Not out
+3.7,SA Yadav,R Ashwin,Shakib Al Hasan,0,Not out
+3.8,SA Yadav,R Ashwin,Shakib Al Hasan,1,Not out
+4.1,SA Yadav,NLTC Perera,Shakib Al Hasan,1,Not out
+4.2,Shakib Al Hasan,NLTC Perera,SA Yadav,0,Not out
+4.3,Shakib Al Hasan,NLTC Perera,SA Yadav,1,Not out
+4.4,SA Yadav,NLTC Perera,Shakib Al Hasan,0,Not out
+4.5,SA Yadav,NLTC Perera,Shakib Al Hasan,4,Not out
+4.6,SA Yadav,NLTC Perera,Shakib Al Hasan,1,Not out
+5.1,SA Yadav,R Ashwin,Shakib Al Hasan,0,Not out
+5.2,SA Yadav,R Ashwin,Shakib Al Hasan,6,Not out
+5.3,SA Yadav,R Ashwin,Shakib Al Hasan,1,Not out
+5.4,Shakib Al Hasan,R Ashwin,SA Yadav,1,Not out
+5.5,SA Yadav,R Ashwin,Shakib Al Hasan,0,Not out
+5.6,SA Yadav,R Ashwin,Shakib Al Hasan,1,Not out
+5.7,Shakib Al Hasan,R Ashwin,SA Yadav,0,Not out
+6.1,SA Yadav,R Bhatia,Shakib Al Hasan,1,Not out
+6.2,Shakib Al Hasan,R Bhatia,SA Yadav,0,Not out
+6.3,Shakib Al Hasan,R Bhatia,SA Yadav,0,bowled
+6.4,YK Pathan,R Bhatia,SA Yadav,1,Not out
+6.5,SA Yadav,R Bhatia,YK Pathan,0,Not out
+6.6,SA Yadav,R Bhatia,YK Pathan,1,Not out
+7.1,SA Yadav,Ankit Sharma,YK Pathan,1,Not out
+7.2,YK Pathan,Ankit Sharma,SA Yadav,1,Not out
+7.3,SA Yadav,Ankit Sharma,YK Pathan,1,Not out
+7.4,YK Pathan,Ankit Sharma,SA Yadav,1,Not out
+7.5,SA Yadav,Ankit Sharma,YK Pathan,1,Not out
+7.6,YK Pathan,Ankit Sharma,SA Yadav,1,Not out
+8.1,YK Pathan,R Bhatia,SA Yadav,1,Not out
+8.2,SA Yadav,R Bhatia,YK Pathan,1,Not out
+8.3,YK Pathan,R Bhatia,SA Yadav,0,Not out
+8.4,YK Pathan,R Bhatia,SA Yadav,1,Not out
+8.5,SA Yadav,R Bhatia,YK Pathan,1,Not out
+8.6,YK Pathan,R Bhatia,SA Yadav,0,Not out
+9.1,SA Yadav,M Ashwin,YK Pathan,1,Not out
+9.2,YK Pathan,M Ashwin,SA Yadav,0,Not out
+9.3,YK Pathan,M Ashwin,SA Yadav,4,Not out
+9.4,YK Pathan,M Ashwin,SA Yadav,1,Not out
+9.5,SA Yadav,M Ashwin,YK Pathan,0,Not out
+9.6,SA Yadav,M Ashwin,YK Pathan,0,Not out
+10.1,YK Pathan,Ankit Sharma,SA Yadav,0,Not out
+10.2,YK Pathan,Ankit Sharma,SA Yadav,1,Not out
+10.3,SA Yadav,Ankit Sharma,YK Pathan,0,Not out
+10.4,SA Yadav,Ankit Sharma,YK Pathan,1,Not out
+10.5,YK Pathan,Ankit Sharma,SA Yadav,0,Not out
+10.6,YK Pathan,Ankit Sharma,SA Yadav,1,Not out
+11.1,YK Pathan,M Ashwin,SA Yadav,1,Not out
+11.2,SA Yadav,M Ashwin,YK Pathan,0,Not out
+11.3,SA Yadav,M Ashwin,YK Pathan,0,Not out
+11.4,SA Yadav,M Ashwin,YK Pathan,1,Not out
+11.5,YK Pathan,M Ashwin,SA Yadav,0,Not out
+11.6,YK Pathan,M Ashwin,SA Yadav,6,Not out
+12.1,SA Yadav,R Bhatia,YK Pathan,1,Not out
+12.2,YK Pathan,R Bhatia,SA Yadav,4,Not out
+12.3,YK Pathan,R Bhatia,SA Yadav,0,Not out
+12.4,YK Pathan,R Bhatia,SA Yadav,1,Not out
+12.5,SA Yadav,R Bhatia,YK Pathan,1,Not out
+12.6,YK Pathan,R Bhatia,SA Yadav,1,Not out
+13.1,YK Pathan,M Ashwin,SA Yadav,6,Not out
+13.2,YK Pathan,M Ashwin,SA Yadav,2,Not out
+13.3,YK Pathan,M Ashwin,SA Yadav,1,Not out
+13.4,SA Yadav,M Ashwin,YK Pathan,0,Not out
+13.5,SA Yadav,M Ashwin,YK Pathan,1,Not out
+13.6,YK Pathan,M Ashwin,SA Yadav,1,Not out
+13.7,SA Yadav,M Ashwin,YK Pathan,1,Not out
+14.1,SA Yadav,R Bhatia,YK Pathan,1,Not out
+14.2,YK Pathan,R Bhatia,SA Yadav,0,lbw
+14.3,AD Russell,R Bhatia,SA Yadav,1,Not out
+14.4,SA Yadav,R Bhatia,AD Russell,1,Not out
+14.5,AD Russell,R Bhatia,SA Yadav,0,Not out
+14.6,AD Russell,R Bhatia,SA Yadav,1,Not out
+15.1,AD Russell,M Ashwin,SA Yadav,1,Not out
+15.2,SA Yadav,M Ashwin,AD Russell,4,Not out
+15.3,SA Yadav,M Ashwin,AD Russell,0,Not out
+15.4,SA Yadav,M Ashwin,AD Russell,0,Not out
+15.5,SA Yadav,M Ashwin,AD Russell,0,lbw
+15.6,R Sathish,M Ashwin,AD Russell,0,Not out
+16.1,AD Russell,Ankit Sharma,R Sathish,0,Not out
+16.2,AD Russell,Ankit Sharma,R Sathish,1,Not out
+16.3,R Sathish,Ankit Sharma,AD Russell,1,Not out
+16.4,AD Russell,Ankit Sharma,R Sathish,6,Not out
+16.5,AD Russell,Ankit Sharma,R Sathish,0,Not out
+16.6,AD Russell,Ankit Sharma,R Sathish,6,Not out
+16.7,AD Russell,Ankit Sharma,R Sathish,0,Not out
+17.1,R Sathish,NLTC Perera,AD Russell,0,Not out
+17.2,R Sathish,NLTC Perera,AD Russell,1,Not out
+17.3,AD Russell,NLTC Perera,R Sathish,1,Not out
+17.4,R Sathish,NLTC Perera,AD Russell,1,Not out
+17.5,AD Russell,NLTC Perera,R Sathish,0,caught
+17.6,PP Chawla,NLTC Perera,R Sathish,4,Not out
+18.1,R Sathish,JA Morkel,PP Chawla,6,Not out
+18.2,R Sathish,JA Morkel,PP Chawla,1,Not out
+18.3,PP Chawla,JA Morkel,R Sathish,1,Not out
+18.4,R Sathish,JA Morkel,PP Chawla,0,bowled
+18.5,UT Yadav,JA Morkel,PP Chawla,0,Not out
+18.6,UT Yadav,JA Morkel,PP Chawla,1,Not out
+18.7,PP Chawla,JA Morkel,UT Yadav,1,Not out
+19.1,PP Chawla,NLTC Perera,UT Yadav,2,Not out
+19.2,PP Chawla,NLTC Perera,UT Yadav,0,caught
+19.3,UT Yadav,NLTC Perera,SP Narine,6,Not out

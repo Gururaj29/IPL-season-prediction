@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,S Dhawan,YK Pathan,DA Warner,1,Not out
+0.2,DA Warner,YK Pathan,S Dhawan,0,Not out
+0.3,DA Warner,YK Pathan,S Dhawan,2,Not out
+0.4,DA Warner,YK Pathan,S Dhawan,0,Not out
+0.5,DA Warner,YK Pathan,S Dhawan,0,Not out
+0.6,DA Warner,YK Pathan,S Dhawan,1,Not out
+1.1,DA Warner,AS Rajpoot,S Dhawan,1,Not out
+1.2,S Dhawan,AS Rajpoot,DA Warner,0,Not out
+1.3,S Dhawan,AS Rajpoot,DA Warner,1,Not out
+1.4,DA Warner,AS Rajpoot,S Dhawan,2,Not out
+1.5,DA Warner,AS Rajpoot,S Dhawan,1,Not out
+1.6,S Dhawan,AS Rajpoot,DA Warner,2,Not out
+2.1,DA Warner,Shakib Al Hasan,S Dhawan,4,Not out
+2.2,DA Warner,Shakib Al Hasan,S Dhawan,0,Not out
+2.3,DA Warner,Shakib Al Hasan,S Dhawan,0,Not out
+2.4,DA Warner,Shakib Al Hasan,S Dhawan,0,Not out
+2.5,DA Warner,Shakib Al Hasan,S Dhawan,1,Not out
+2.6,S Dhawan,Shakib Al Hasan,DA Warner,6,Not out
+3.1,DA Warner,SP Narine,S Dhawan,0,Not out
+3.2,DA Warner,SP Narine,S Dhawan,6,Not out
+3.3,DA Warner,SP Narine,S Dhawan,0,bowled
+3.4,NV Ojha,SP Narine,S Dhawan,0,Not out
+3.5,NV Ojha,SP Narine,S Dhawan,1,Not out
+3.6,S Dhawan,SP Narine,NV Ojha,0,Not out
+4.1,NV Ojha,AS Rajpoot,S Dhawan,0,Not out
+4.2,NV Ojha,AS Rajpoot,S Dhawan,0,Not out
+4.3,S Dhawan,AS Rajpoot,NV Ojha,4,Not out
+4.4,S Dhawan,AS Rajpoot,NV Ojha,1,Not out
+4.5,NV Ojha,AS Rajpoot,S Dhawan,4,Not out
+4.6,NV Ojha,AS Rajpoot,S Dhawan,0,Not out
+5.1,S Dhawan,SP Narine,NV Ojha,6,Not out
+5.2,S Dhawan,SP Narine,NV Ojha,1,Not out
+5.3,NV Ojha,SP Narine,S Dhawan,0,Not out
+5.4,NV Ojha,SP Narine,S Dhawan,0,Not out
+5.5,NV Ojha,SP Narine,S Dhawan,0,Not out
+5.6,NV Ojha,SP Narine,S Dhawan,2,Not out
+6.1,S Dhawan,JO Holder,NV Ojha,0,Not out
+6.2,S Dhawan,JO Holder,NV Ojha,1,Not out
+6.3,NV Ojha,JO Holder,S Dhawan,1,Not out
+6.4,S Dhawan,JO Holder,NV Ojha,0,Not out
+6.5,S Dhawan,JO Holder,NV Ojha,1,Not out
+6.6,NV Ojha,JO Holder,S Dhawan,0,Not out
+7.1,S Dhawan,C Munro,NV Ojha,1,Not out
+7.2,NV Ojha,C Munro,S Dhawan,1,Not out
+7.3,S Dhawan,C Munro,NV Ojha,1,Not out
+7.4,NV Ojha,C Munro,S Dhawan,0,Not out
+7.5,NV Ojha,C Munro,S Dhawan,1,Not out
+7.6,S Dhawan,C Munro,NV Ojha,4,Not out
+8.1,NV Ojha,JO Holder,S Dhawan,0,Not out
+8.2,NV Ojha,JO Holder,S Dhawan,1,Not out
+8.3,S Dhawan,JO Holder,NV Ojha,2,Not out
+8.4,S Dhawan,JO Holder,NV Ojha,6,Not out
+8.5,S Dhawan,JO Holder,NV Ojha,0,Not out
+8.6,S Dhawan,JO Holder,NV Ojha,0,Not out
+8.7,S Dhawan,JO Holder,NV Ojha,1,Not out
+9.1,S Dhawan,Kuldeep Yadav,NV Ojha,0,Not out
+9.2,S Dhawan,Kuldeep Yadav,NV Ojha,1,Not out
+9.3,NV Ojha,Kuldeep Yadav,S Dhawan,0,Not out
+9.4,NV Ojha,Kuldeep Yadav,S Dhawan,0,Not out
+9.5,NV Ojha,Kuldeep Yadav,S Dhawan,2,Not out
+9.6,NV Ojha,Kuldeep Yadav,S Dhawan,0,Not out
+10.1,S Dhawan,Shakib Al Hasan,NV Ojha,4,Not out
+10.2,S Dhawan,Shakib Al Hasan,NV Ojha,2,Not out
+10.3,S Dhawan,Shakib Al Hasan,NV Ojha,0,Not out
+10.4,S Dhawan,Shakib Al Hasan,NV Ojha,4,Not out
+10.5,S Dhawan,Shakib Al Hasan,NV Ojha,1,Not out
+10.6,NV Ojha,Shakib Al Hasan,S Dhawan,1,Not out
+11.1,NV Ojha,Kuldeep Yadav,S Dhawan,0,Not out
+11.2,NV Ojha,Kuldeep Yadav,S Dhawan,1,Not out
+11.3,S Dhawan,Kuldeep Yadav,NV Ojha,0,caught
+11.4,Yuvraj Singh,Kuldeep Yadav,NV Ojha,0,Not out
+11.5,Yuvraj Singh,Kuldeep Yadav,NV Ojha,4,Not out
+11.6,Yuvraj Singh,Kuldeep Yadav,NV Ojha,2,Not out
+12.1,NV Ojha,SP Narine,Yuvraj Singh,0,caught
+12.2,Yuvraj Singh,SP Narine,KS Williamson,0,Not out
+12.3,Yuvraj Singh,SP Narine,KS Williamson,0,Not out
+12.4,Yuvraj Singh,SP Narine,KS Williamson,1,Not out
+12.5,KS Williamson,SP Narine,Yuvraj Singh,0,Not out
+12.6,KS Williamson,SP Narine,Yuvraj Singh,1,Not out
+13.1,KS Williamson,Kuldeep Yadav,Yuvraj Singh,0,Not out
+13.2,KS Williamson,Kuldeep Yadav,Yuvraj Singh,1,Not out
+13.3,Yuvraj Singh,Kuldeep Yadav,KS Williamson,0,Not out
+13.4,Yuvraj Singh,Kuldeep Yadav,KS Williamson,0,Not out
+13.5,Yuvraj Singh,Kuldeep Yadav,KS Williamson,6,Not out
+13.6,Yuvraj Singh,Kuldeep Yadav,KS Williamson,6,Not out
+14.1,KS Williamson,Shakib Al Hasan,Yuvraj Singh,1,Not out
+14.2,Yuvraj Singh,Shakib Al Hasan,KS Williamson,0,Not out
+14.3,Yuvraj Singh,Shakib Al Hasan,KS Williamson,0,caught
+14.4,KS Williamson,Shakib Al Hasan,DJ Hooda,1,Not out
+14.5,DJ Hooda,Shakib Al Hasan,KS Williamson,1,Not out
+14.6,KS Williamson,Shakib Al Hasan,DJ Hooda,2,Not out
+15.1,DJ Hooda,Kuldeep Yadav,KS Williamson,1,run out
+15.2,KS Williamson,Kuldeep Yadav,MC Henriques,1,Not out
+15.3,MC Henriques,Kuldeep Yadav,KS Williamson,1,Not out
+15.4,KS Williamson,Kuldeep Yadav,MC Henriques,0,caught
+15.5,MC Henriques,Kuldeep Yadav,KV Sharma,1,Not out
+15.6,KV Sharma,Kuldeep Yadav,MC Henriques,0,Not out
+15.7,KV Sharma,Kuldeep Yadav,MC Henriques,0,Not out
+16.1,KV Sharma,Shakib Al Hasan,MC Henriques,0,Not out
+16.2,KV Sharma,Shakib Al Hasan,MC Henriques,0,Not out
+16.3,KV Sharma,Shakib Al Hasan,MC Henriques,1,Not out
+16.4,MC Henriques,Shakib Al Hasan,KV Sharma,0,Not out
+16.5,MC Henriques,Shakib Al Hasan,KV Sharma,2,Not out
+16.6,MC Henriques,Shakib Al Hasan,KV Sharma,0,Not out
+16.7,MC Henriques,Shakib Al Hasan,KV Sharma,1,Not out
+16.8,KV Sharma,Shakib Al Hasan,MC Henriques,0,Not out
+17.1,MC Henriques,SP Narine,KV Sharma,1,Not out
+17.2,KV Sharma,SP Narine,MC Henriques,1,Not out
+17.3,MC Henriques,SP Narine,KV Sharma,4,Not out
+17.4,MC Henriques,SP Narine,KV Sharma,1,Not out
+17.5,KV Sharma,SP Narine,MC Henriques,1,Not out
+17.6,MC Henriques,SP Narine,KV Sharma,0,bowled
+18.1,KV Sharma,JO Holder,B Kumar,0,Not out
+18.2,KV Sharma,JO Holder,B Kumar,2,Not out
+18.3,KV Sharma,JO Holder,B Kumar,0,Not out
+18.4,B Kumar,JO Holder,KV Sharma,0,Not out
+18.5,B Kumar,JO Holder,KV Sharma,4,Not out
+18.6,B Kumar,JO Holder,KV Sharma,1,Not out
+19.1,B Kumar,AS Rajpoot,KV Sharma,0,caught
+19.2,KV Sharma,AS Rajpoot,BB Sran,1,Not out
+19.3,BB Sran,AS Rajpoot,KV Sharma,1,Not out
+19.4,KV Sharma,AS Rajpoot,BB Sran,1,Not out
+19.5,BB Sran,AS Rajpoot,KV Sharma,1,Not out
+19.6,KV Sharma,AS Rajpoot,BB Sran,1,Not out

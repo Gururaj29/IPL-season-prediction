@@ -1,0 +1,126 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,RV Uthappa,P Kumar,G Gambhir,0,Not out
+0.2,RV Uthappa,P Kumar,G Gambhir,1,Not out
+0.3,G Gambhir,P Kumar,RV Uthappa,0,Not out
+0.4,G Gambhir,P Kumar,RV Uthappa,1,Not out
+0.5,RV Uthappa,P Kumar,G Gambhir,1,Not out
+0.6,G Gambhir,P Kumar,RV Uthappa,0,Not out
+1.1,RV Uthappa,DS Kulkarni,G Gambhir,4,Not out
+1.2,RV Uthappa,DS Kulkarni,G Gambhir,0,Not out
+1.3,RV Uthappa,DS Kulkarni,G Gambhir,1,Not out
+1.4,G Gambhir,DS Kulkarni,RV Uthappa,0,Not out
+1.5,G Gambhir,DS Kulkarni,RV Uthappa,4,Not out
+1.6,G Gambhir,DS Kulkarni,RV Uthappa,2,Not out
+2.1,RV Uthappa,P Kumar,G Gambhir,0,Not out
+2.2,RV Uthappa,P Kumar,G Gambhir,0,Not out
+2.3,RV Uthappa,P Kumar,G Gambhir,4,Not out
+2.4,RV Uthappa,P Kumar,G Gambhir,0,Not out
+2.5,RV Uthappa,P Kumar,G Gambhir,1,Not out
+2.6,G Gambhir,P Kumar,RV Uthappa,0,Not out
+2.7,G Gambhir,P Kumar,RV Uthappa,1,Not out
+2.8,RV Uthappa,P Kumar,G Gambhir,1,Not out
+3.1,RV Uthappa,DS Kulkarni,G Gambhir,0,run out
+3.2,MK Pandey,DS Kulkarni,RV Uthappa,1,Not out
+3.3,RV Uthappa,DS Kulkarni,MK Pandey,0,Not out
+3.4,RV Uthappa,DS Kulkarni,MK Pandey,4,Not out
+3.5,RV Uthappa,DS Kulkarni,MK Pandey,0,Not out
+3.6,RV Uthappa,DS Kulkarni,MK Pandey,6,Not out
+4.1,MK Pandey,DR Smith,RV Uthappa,0,Not out
+4.2,MK Pandey,DR Smith,RV Uthappa,0,caught
+4.3,PP Chawla,DR Smith,RV Uthappa,0,Not out
+4.4,PP Chawla,DR Smith,RV Uthappa,0,Not out
+4.5,PP Chawla,DR Smith,RV Uthappa,2,Not out
+4.6,PP Chawla,DR Smith,RV Uthappa,0,Not out
+5.1,RV Uthappa,DS Kulkarni,PP Chawla,1,Not out
+5.2,PP Chawla,DS Kulkarni,RV Uthappa,0,Not out
+5.3,PP Chawla,DS Kulkarni,RV Uthappa,1,Not out
+5.4,RV Uthappa,DS Kulkarni,PP Chawla,0,Not out
+5.5,RV Uthappa,DS Kulkarni,PP Chawla,1,Not out
+5.6,PP Chawla,DS Kulkarni,RV Uthappa,0,Not out
+5.7,PP Chawla,DS Kulkarni,RV Uthappa,4,Not out
+6.1,RV Uthappa,DR Smith,PP Chawla,0,Not out
+6.2,RV Uthappa,DR Smith,PP Chawla,0,caught
+6.3,YK Pathan,DR Smith,PP Chawla,1,Not out
+6.4,PP Chawla,DR Smith,YK Pathan,1,Not out
+6.5,YK Pathan,DR Smith,PP Chawla,0,Not out
+6.6,YK Pathan,DR Smith,PP Chawla,0,Not out
+6.7,YK Pathan,DR Smith,PP Chawla,0,Not out
+7.1,PP Chawla,DJ Bravo,YK Pathan,0,Not out
+7.2,PP Chawla,DJ Bravo,YK Pathan,0,Not out
+7.3,PP Chawla,DJ Bravo,YK Pathan,0,Not out
+7.4,PP Chawla,DJ Bravo,YK Pathan,1,Not out
+7.5,YK Pathan,DJ Bravo,PP Chawla,0,Not out
+7.6,YK Pathan,DJ Bravo,PP Chawla,1,Not out
+8.1,YK Pathan,SB Jakati,PP Chawla,0,Not out
+8.2,YK Pathan,SB Jakati,PP Chawla,0,Not out
+8.3,PP Chawla,SB Jakati,YK Pathan,1,Not out
+8.4,YK Pathan,SB Jakati,PP Chawla,1,Not out
+8.5,PP Chawla,SB Jakati,YK Pathan,1,Not out
+8.6,YK Pathan,SB Jakati,PP Chawla,1,Not out
+9.1,YK Pathan,DR Smith,PP Chawla,1,Not out
+9.2,PP Chawla,DR Smith,YK Pathan,0,bowled
+9.3,Shakib Al Hasan,DR Smith,YK Pathan,0,Not out
+9.4,Shakib Al Hasan,DR Smith,YK Pathan,0,Not out
+9.5,Shakib Al Hasan,DR Smith,YK Pathan,0,Not out
+9.6,Shakib Al Hasan,DR Smith,YK Pathan,0,Not out
+10.1,YK Pathan,SB Jakati,Shakib Al Hasan,1,Not out
+10.2,Shakib Al Hasan,SB Jakati,YK Pathan,1,Not out
+10.3,YK Pathan,SB Jakati,Shakib Al Hasan,0,Not out
+10.4,Shakib Al Hasan,SB Jakati,YK Pathan,1,Not out
+10.5,YK Pathan,SB Jakati,Shakib Al Hasan,0,Not out
+10.6,YK Pathan,SB Jakati,Shakib Al Hasan,0,Not out
+11.1,Shakib Al Hasan,DR Smith,YK Pathan,1,Not out
+11.2,YK Pathan,DR Smith,Shakib Al Hasan,1,Not out
+11.3,Shakib Al Hasan,DR Smith,YK Pathan,0,caught
+11.4,SA Yadav,DR Smith,YK Pathan,0,Not out
+11.5,SA Yadav,DR Smith,YK Pathan,0,Not out
+11.6,SA Yadav,DR Smith,YK Pathan,0,Not out
+12.1,YK Pathan,RA Jadeja,SA Yadav,0,Not out
+12.2,YK Pathan,RA Jadeja,SA Yadav,0,Not out
+12.3,YK Pathan,RA Jadeja,SA Yadav,1,Not out
+12.4,SA Yadav,RA Jadeja,YK Pathan,1,Not out
+12.5,YK Pathan,RA Jadeja,SA Yadav,1,Not out
+12.6,SA Yadav,RA Jadeja,YK Pathan,0,Not out
+13.1,YK Pathan,SB Jakati,SA Yadav,0,Not out
+13.2,YK Pathan,SB Jakati,SA Yadav,1,Not out
+13.3,SA Yadav,SB Jakati,YK Pathan,1,Not out
+13.4,YK Pathan,SB Jakati,SA Yadav,1,Not out
+13.5,SA Yadav,SB Jakati,YK Pathan,1,Not out
+13.6,YK Pathan,SB Jakati,SA Yadav,1,Not out
+14.1,YK Pathan,RA Jadeja,SA Yadav,1,Not out
+14.2,SA Yadav,RA Jadeja,YK Pathan,1,Not out
+14.3,YK Pathan,RA Jadeja,SA Yadav,4,Not out
+14.4,YK Pathan,RA Jadeja,SA Yadav,6,Not out
+14.5,YK Pathan,RA Jadeja,SA Yadav,1,Not out
+14.6,SA Yadav,RA Jadeja,YK Pathan,1,Not out
+15.1,SA Yadav,DJ Bravo,YK Pathan,4,Not out
+15.2,SA Yadav,DJ Bravo,YK Pathan,1,Not out
+15.3,YK Pathan,DJ Bravo,SA Yadav,0,Not out
+15.4,YK Pathan,DJ Bravo,SA Yadav,4,Not out
+15.5,YK Pathan,DJ Bravo,SA Yadav,0,Not out
+15.6,YK Pathan,DJ Bravo,SA Yadav,1,Not out
+16.1,YK Pathan,SB Jakati,SA Yadav,1,Not out
+16.2,SA Yadav,SB Jakati,YK Pathan,1,Not out
+16.3,YK Pathan,SB Jakati,SA Yadav,1,Not out
+16.4,SA Yadav,SB Jakati,YK Pathan,6,Not out
+16.5,SA Yadav,SB Jakati,YK Pathan,0,caught
+16.6,JO Holder,SB Jakati,YK Pathan,1,Not out
+17.1,JO Holder,DJ Bravo,YK Pathan,0,Not out
+17.2,JO Holder,DJ Bravo,YK Pathan,0,Not out
+17.3,JO Holder,DJ Bravo,YK Pathan,4,Not out
+17.4,JO Holder,DJ Bravo,YK Pathan,1,Not out
+17.5,YK Pathan,DJ Bravo,JO Holder,1,Not out
+17.6,JO Holder,DJ Bravo,YK Pathan,6,Not out
+17.7,JO Holder,DJ Bravo,YK Pathan,0,Not out
+18.1,YK Pathan,DS Kulkarni,JO Holder,4,Not out
+18.2,YK Pathan,DS Kulkarni,JO Holder,0,caught
+18.3,SP Narine,DS Kulkarni,JO Holder,0,Not out
+18.4,SP Narine,DS Kulkarni,JO Holder,0,Not out
+18.5,SP Narine,DS Kulkarni,JO Holder,0,Not out
+18.6,SP Narine,DS Kulkarni,JO Holder,0,Not out
+19.1,JO Holder,DJ Bravo,SP Narine,1,Not out
+19.2,SP Narine,DJ Bravo,JO Holder,1,Not out
+19.3,JO Holder,DJ Bravo,SP Narine,0,caught
+19.4,SP Narine,DJ Bravo,M Morkel,0,Not out
+19.5,SP Narine,DJ Bravo,M Morkel,1,Not out
+19.6,M Morkel,DJ Bravo,SP Narine,1,Not out

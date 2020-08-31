@@ -1,0 +1,107 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,CH Gayle,P Kumar,SS Tiwary,0,Not out
+0.2,CH Gayle,P Kumar,SS Tiwary,0,Not out
+0.3,CH Gayle,P Kumar,SS Tiwary,0,Not out
+0.4,CH Gayle,P Kumar,SS Tiwary,0,Not out
+0.5,CH Gayle,P Kumar,SS Tiwary,0,Not out
+0.6,CH Gayle,P Kumar,SS Tiwary,0,Not out
+1.1,SS Tiwary,RJ Harris,CH Gayle,0,Not out
+1.2,SS Tiwary,RJ Harris,CH Gayle,0,Not out
+1.3,SS Tiwary,RJ Harris,CH Gayle,0,Not out
+1.4,SS Tiwary,RJ Harris,CH Gayle,0,Not out
+1.5,SS Tiwary,RJ Harris,CH Gayle,1,Not out
+1.6,CH Gayle,RJ Harris,SS Tiwary,0,caught
+1.7,V Kohli,RJ Harris,SS Tiwary,0,Not out
+1.8,V Kohli,RJ Harris,SS Tiwary,0,Not out
+1.9,SS Tiwary,RJ Harris,V Kohli,0,Not out
+2.1,V Kohli,P Kumar,SS Tiwary,0,Not out
+2.2,V Kohli,P Kumar,SS Tiwary,0,Not out
+2.3,V Kohli,P Kumar,SS Tiwary,1,Not out
+2.4,SS Tiwary,P Kumar,V Kohli,0,Not out
+2.5,SS Tiwary,P Kumar,V Kohli,0,Not out
+2.6,SS Tiwary,P Kumar,V Kohli,0,Not out
+3.1,V Kohli,RJ Harris,SS Tiwary,0,Not out
+3.2,V Kohli,RJ Harris,SS Tiwary,0,Not out
+3.3,V Kohli,RJ Harris,SS Tiwary,0,Not out
+3.4,V Kohli,RJ Harris,SS Tiwary,2,Not out
+3.5,V Kohli,RJ Harris,SS Tiwary,4,Not out
+3.6,V Kohli,RJ Harris,SS Tiwary,4,Not out
+3.7,V Kohli,RJ Harris,SS Tiwary,0,caught
+4.1,SS Tiwary,P Kumar,AB de Villiers,0,Not out
+4.2,SS Tiwary,P Kumar,AB de Villiers,0,Not out
+4.3,SS Tiwary,P Kumar,AB de Villiers,1,Not out
+4.4,AB de Villiers,P Kumar,SS Tiwary,4,Not out
+4.5,AB de Villiers,P Kumar,SS Tiwary,1,Not out
+4.6,SS Tiwary,P Kumar,AB de Villiers,4,Not out
+5.1,AB de Villiers,SJ Srivastava,SS Tiwary,0,Not out
+5.2,AB de Villiers,SJ Srivastava,SS Tiwary,2,Not out
+5.3,AB de Villiers,SJ Srivastava,SS Tiwary,0,Not out
+5.4,AB de Villiers,SJ Srivastava,SS Tiwary,4,Not out
+5.5,AB de Villiers,SJ Srivastava,SS Tiwary,1,Not out
+5.6,SS Tiwary,SJ Srivastava,AB de Villiers,0,caught
+6.1,AB de Villiers,PC Valthaty,AUK Pathan,1,Not out
+6.2,AUK Pathan,PC Valthaty,AB de Villiers,1,Not out
+6.3,AB de Villiers,PC Valthaty,AUK Pathan,1,Not out
+6.4,AUK Pathan,PC Valthaty,AB de Villiers,0,Not out
+6.5,AUK Pathan,PC Valthaty,AB de Villiers,6,Not out
+6.6,AUK Pathan,PC Valthaty,AB de Villiers,0,caught
+7.1,M Kaif,SJ Srivastava,AB de Villiers,4,Not out
+7.2,M Kaif,SJ Srivastava,AB de Villiers,0,Not out
+7.3,M Kaif,SJ Srivastava,AB de Villiers,4,Not out
+7.4,M Kaif,SJ Srivastava,AB de Villiers,0,Not out
+7.5,M Kaif,SJ Srivastava,AB de Villiers,4,Not out
+7.6,M Kaif,SJ Srivastava,AB de Villiers,0,Not out
+8.1,AB de Villiers,PP Chawla,M Kaif,0,Not out
+8.2,AB de Villiers,PP Chawla,M Kaif,6,Not out
+8.3,AB de Villiers,PP Chawla,M Kaif,0,Not out
+8.4,AB de Villiers,PP Chawla,M Kaif,0,Not out
+8.5,AB de Villiers,PP Chawla,M Kaif,0,Not out
+8.6,AB de Villiers,PP Chawla,M Kaif,1,Not out
+9.1,AB de Villiers,PC Valthaty,M Kaif,1,Not out
+9.2,M Kaif,PC Valthaty,AB de Villiers,0,Not out
+9.3,M Kaif,PC Valthaty,AB de Villiers,1,Not out
+9.4,AB de Villiers,PC Valthaty,M Kaif,0,Not out
+9.5,AB de Villiers,PC Valthaty,M Kaif,4,Not out
+9.6,AB de Villiers,PC Valthaty,M Kaif,1,Not out
+10.1,AB de Villiers,PP Chawla,M Kaif,1,Not out
+10.2,M Kaif,PP Chawla,AB de Villiers,2,Not out
+10.3,M Kaif,PP Chawla,AB de Villiers,0,Not out
+10.4,M Kaif,PP Chawla,AB de Villiers,0,stumped
+10.5,KB Arun Karthik,PP Chawla,AB de Villiers,0,Not out
+10.6,KB Arun Karthik,PP Chawla,AB de Villiers,0,Not out
+11.1,AB de Villiers,PC Valthaty,KB Arun Karthik,2,Not out
+11.2,AB de Villiers,PC Valthaty,KB Arun Karthik,1,Not out
+11.3,KB Arun Karthik,PC Valthaty,AB de Villiers,1,Not out
+11.4,AB de Villiers,PC Valthaty,KB Arun Karthik,2,Not out
+11.5,AB de Villiers,PC Valthaty,KB Arun Karthik,1,Not out
+11.6,KB Arun Karthik,PC Valthaty,AB de Villiers,1,Not out
+12.1,KB Arun Karthik,PP Chawla,AB de Villiers,4,Not out
+12.2,KB Arun Karthik,PP Chawla,AB de Villiers,0,bowled
+12.3,JJ van der Wath,PP Chawla,AB de Villiers,1,Not out
+12.4,AB de Villiers,PP Chawla,JJ van der Wath,0,Not out
+12.5,AB de Villiers,PP Chawla,JJ van der Wath,0,Not out
+12.6,AB de Villiers,PP Chawla,JJ van der Wath,0,caught
+13.1,A Mithun,PC Valthaty,JJ van der Wath,0,Not out
+13.2,A Mithun,PC Valthaty,JJ van der Wath,1,Not out
+13.3,JJ van der Wath,PC Valthaty,A Mithun,2,Not out
+13.4,JJ van der Wath,PC Valthaty,A Mithun,0,Not out
+13.5,JJ van der Wath,PC Valthaty,A Mithun,1,Not out
+13.6,A Mithun,PC Valthaty,JJ van der Wath,2,Not out
+14.1,JJ van der Wath,PP Chawla,A Mithun,0,lbw
+14.2,CK Langeveldt,PP Chawla,A Mithun,0,Not out
+14.3,CK Langeveldt,PP Chawla,A Mithun,0,Not out
+14.4,CK Langeveldt,PP Chawla,A Mithun,0,Not out
+14.5,CK Langeveldt,PP Chawla,A Mithun,1,Not out
+14.6,A Mithun,PP Chawla,CK Langeveldt,1,Not out
+15.1,A Mithun,RJ Harris,CK Langeveldt,6,Not out
+15.2,A Mithun,RJ Harris,CK Langeveldt,0,Not out
+15.3,A Mithun,RJ Harris,CK Langeveldt,0,caught
+15.4,S Aravind,RJ Harris,CK Langeveldt,1,Not out
+15.5,CK Langeveldt,RJ Harris,S Aravind,0,Not out
+15.6,CK Langeveldt,RJ Harris,S Aravind,6,Not out
+16.1,S Aravind,SJ Srivastava,CK Langeveldt,1,Not out
+16.2,CK Langeveldt,SJ Srivastava,S Aravind,1,Not out
+16.3,S Aravind,SJ Srivastava,CK Langeveldt,4,Not out
+16.4,S Aravind,SJ Srivastava,CK Langeveldt,4,Not out
+16.5,S Aravind,SJ Srivastava,CK Langeveldt,1,Not out
+16.6,CK Langeveldt,SJ Srivastava,S Aravind,0,bowled

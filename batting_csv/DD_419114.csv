@@ -1,0 +1,104 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,TM Dilshan,Z Khan,V Sehwag,4,Not out
+0.2,TM Dilshan,Z Khan,V Sehwag,1,Not out
+0.3,V Sehwag,Z Khan,TM Dilshan,2,Not out
+0.4,V Sehwag,Z Khan,TM Dilshan,1,Not out
+0.5,TM Dilshan,Z Khan,V Sehwag,1,Not out
+0.6,V Sehwag,Z Khan,TM Dilshan,4,Not out
+1.1,TM Dilshan,SL Malinga,V Sehwag,0,Not out
+1.2,TM Dilshan,SL Malinga,V Sehwag,0,Not out
+1.3,TM Dilshan,SL Malinga,V Sehwag,4,Not out
+1.4,TM Dilshan,SL Malinga,V Sehwag,1,Not out
+1.5,V Sehwag,SL Malinga,TM Dilshan,4,Not out
+1.6,V Sehwag,SL Malinga,TM Dilshan,1,Not out
+1.7,TM Dilshan,SL Malinga,V Sehwag,1,Not out
+2.1,TM Dilshan,Z Khan,V Sehwag,1,Not out
+2.2,V Sehwag,Z Khan,TM Dilshan,1,Not out
+2.3,TM Dilshan,Z Khan,V Sehwag,0,Not out
+2.4,V Sehwag,Z Khan,TM Dilshan,0,Not out
+2.5,V Sehwag,Z Khan,TM Dilshan,4,Not out
+2.6,V Sehwag,Z Khan,TM Dilshan,1,Not out
+3.1,V Sehwag,SL Malinga,TM Dilshan,1,Not out
+3.2,TM Dilshan,SL Malinga,V Sehwag,4,Not out
+3.3,TM Dilshan,SL Malinga,V Sehwag,0,Not out
+3.4,TM Dilshan,SL Malinga,V Sehwag,0,bowled
+3.5,AB de Villiers,SL Malinga,V Sehwag,4,Not out
+3.6,AB de Villiers,SL Malinga,V Sehwag,1,Not out
+4.1,AB de Villiers,DJ Bravo,V Sehwag,0,Not out
+4.2,AB de Villiers,DJ Bravo,V Sehwag,0,Not out
+4.3,AB de Villiers,DJ Bravo,V Sehwag,0,Not out
+4.4,AB de Villiers,DJ Bravo,V Sehwag,4,Not out
+4.5,AB de Villiers,DJ Bravo,V Sehwag,1,Not out
+4.6,V Sehwag,DJ Bravo,AB de Villiers,1,Not out
+5.1,V Sehwag,KA Pollard,AB de Villiers,1,Not out
+5.2,AB de Villiers,KA Pollard,V Sehwag,0,Not out
+5.3,AB de Villiers,KA Pollard,V Sehwag,1,Not out
+5.4,V Sehwag,KA Pollard,AB de Villiers,4,Not out
+5.5,V Sehwag,KA Pollard,AB de Villiers,0,Not out
+5.6,V Sehwag,KA Pollard,AB de Villiers,1,Not out
+6.1,V Sehwag,DJ Bravo,AB de Villiers,0,caught
+6.2,AB de Villiers,DJ Bravo,MF Maharoof,0,Not out
+6.3,MF Maharoof,DJ Bravo,AB de Villiers,0,Not out
+6.4,MF Maharoof,DJ Bravo,AB de Villiers,1,Not out
+6.5,AB de Villiers,DJ Bravo,MF Maharoof,0,bowled
+6.6,KD Karthik,DJ Bravo,MF Maharoof,4,Not out
+7.1,MF Maharoof,KA Pollard,KD Karthik,1,Not out
+7.2,KD Karthik,KA Pollard,MF Maharoof,4,Not out
+7.3,KD Karthik,KA Pollard,MF Maharoof,4,Not out
+7.4,KD Karthik,KA Pollard,MF Maharoof,1,Not out
+7.5,MF Maharoof,KA Pollard,KD Karthik,0,Not out
+7.6,KD Karthik,KA Pollard,MF Maharoof,2,Not out
+8.1,MF Maharoof,Harbhajan Singh,KD Karthik,1,Not out
+8.2,KD Karthik,Harbhajan Singh,MF Maharoof,1,Not out
+8.3,MF Maharoof,Harbhajan Singh,KD Karthik,0,Not out
+8.4,MF Maharoof,Harbhajan Singh,KD Karthik,1,Not out
+8.5,KD Karthik,Harbhajan Singh,MF Maharoof,0,stumped
+8.6,M Manhas,Harbhajan Singh,MF Maharoof,0,Not out
+8.7,M Manhas,Harbhajan Singh,MF Maharoof,1,Not out
+9.1,M Manhas,ST Jayasuriya,MF Maharoof,0,caught
+9.2,MF Maharoof,ST Jayasuriya,A Mishra,0,Not out
+9.3,MF Maharoof,ST Jayasuriya,A Mishra,2,Not out
+9.4,MF Maharoof,ST Jayasuriya,A Mishra,0,Not out
+9.5,MF Maharoof,ST Jayasuriya,A Mishra,1,Not out
+9.6,A Mishra,ST Jayasuriya,MF Maharoof,1,Not out
+10.1,A Mishra,Harbhajan Singh,MF Maharoof,1,Not out
+10.2,MF Maharoof,Harbhajan Singh,A Mishra,4,Not out
+10.3,MF Maharoof,Harbhajan Singh,A Mishra,0,Not out
+10.4,MF Maharoof,Harbhajan Singh,A Mishra,6,Not out
+10.5,MF Maharoof,Harbhajan Singh,A Mishra,6,Not out
+10.6,MF Maharoof,Harbhajan Singh,A Mishra,1,Not out
+11.1,MF Maharoof,ST Jayasuriya,A Mishra,4,Not out
+11.2,MF Maharoof,ST Jayasuriya,A Mishra,0,stumped
+11.3,PJ Sangwan,ST Jayasuriya,A Mishra,0,Not out
+11.4,PJ Sangwan,ST Jayasuriya,A Mishra,0,Not out
+11.5,PJ Sangwan,ST Jayasuriya,A Mishra,0,Not out
+11.6,PJ Sangwan,ST Jayasuriya,A Mishra,0,Not out
+11.7,PJ Sangwan,ST Jayasuriya,A Mishra,1,Not out
+12.1,PJ Sangwan,KA Pollard,A Mishra,0,Not out
+12.2,PJ Sangwan,KA Pollard,A Mishra,1,Not out
+12.3,A Mishra,KA Pollard,PJ Sangwan,1,Not out
+12.4,PJ Sangwan,KA Pollard,A Mishra,1,Not out
+12.5,A Mishra,KA Pollard,PJ Sangwan,0,Not out
+12.6,A Mishra,KA Pollard,PJ Sangwan,0,bowled
+13.1,PJ Sangwan,ST Jayasuriya,S Ladda,0,Not out
+13.2,PJ Sangwan,ST Jayasuriya,S Ladda,1,Not out
+13.3,S Ladda,ST Jayasuriya,PJ Sangwan,0,run out
+13.4,DP Nannes,ST Jayasuriya,S Ladda,0,Not out
+13.5,DP Nannes,ST Jayasuriya,S Ladda,1,Not out
+13.6,S Ladda,ST Jayasuriya,DP Nannes,0,Not out
+14.1,DP Nannes,KA Pollard,S Ladda,0,Not out
+14.2,DP Nannes,KA Pollard,S Ladda,1,Not out
+14.3,S Ladda,KA Pollard,DP Nannes,0,Not out
+14.4,S Ladda,KA Pollard,DP Nannes,0,Not out
+14.5,S Ladda,KA Pollard,DP Nannes,0,Not out
+14.6,S Ladda,KA Pollard,DP Nannes,0,Not out
+14.7,S Ladda,KA Pollard,DP Nannes,0,Not out
+15.1,DP Nannes,ST Jayasuriya,S Ladda,0,Not out
+15.2,DP Nannes,ST Jayasuriya,S Ladda,0,Not out
+15.3,DP Nannes,ST Jayasuriya,S Ladda,0,Not out
+15.4,DP Nannes,ST Jayasuriya,S Ladda,1,Not out
+15.5,S Ladda,ST Jayasuriya,DP Nannes,0,Not out
+15.6,S Ladda,ST Jayasuriya,DP Nannes,0,Not out
+16.1,DP Nannes,Harbhajan Singh,S Ladda,0,Not out
+16.2,DP Nannes,Harbhajan Singh,S Ladda,0,Not out
+16.3,DP Nannes,Harbhajan Singh,S Ladda,0,bowled

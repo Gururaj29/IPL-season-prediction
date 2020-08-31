@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AC Gilchrist,S Sreesanth,VVS Laxman,0,Not out
+0.2,AC Gilchrist,S Sreesanth,VVS Laxman,1,Not out
+0.3,VVS Laxman,S Sreesanth,AC Gilchrist,0,Not out
+0.4,VVS Laxman,S Sreesanth,AC Gilchrist,4,Not out
+0.5,VVS Laxman,S Sreesanth,AC Gilchrist,0,Not out
+0.6,VVS Laxman,S Sreesanth,AC Gilchrist,1,Not out
+1.1,VVS Laxman,IK Pathan,AC Gilchrist,1,Not out
+1.2,AC Gilchrist,IK Pathan,VVS Laxman,1,Not out
+1.3,VVS Laxman,IK Pathan,AC Gilchrist,4,Not out
+1.4,VVS Laxman,IK Pathan,AC Gilchrist,0,Not out
+1.5,VVS Laxman,IK Pathan,AC Gilchrist,4,Not out
+1.6,VVS Laxman,IK Pathan,AC Gilchrist,0,Not out
+2.1,AC Gilchrist,S Sreesanth,VVS Laxman,1,Not out
+2.2,VVS Laxman,S Sreesanth,AC Gilchrist,1,Not out
+2.3,AC Gilchrist,S Sreesanth,VVS Laxman,3,Not out
+2.4,VVS Laxman,S Sreesanth,AC Gilchrist,0,Not out
+2.5,VVS Laxman,S Sreesanth,AC Gilchrist,4,Not out
+2.6,VVS Laxman,S Sreesanth,AC Gilchrist,1,Not out
+3.1,VVS Laxman,IK Pathan,AC Gilchrist,1,Not out
+3.2,AC Gilchrist,IK Pathan,VVS Laxman,0,bowled
+3.3,HH Gibbs,IK Pathan,VVS Laxman,0,Not out
+3.4,HH Gibbs,IK Pathan,VVS Laxman,1,Not out
+3.5,VVS Laxman,IK Pathan,HH Gibbs,1,Not out
+3.6,HH Gibbs,IK Pathan,VVS Laxman,0,Not out
+3.7,HH Gibbs,IK Pathan,VVS Laxman,0,Not out
+4.1,VVS Laxman,S Sreesanth,HH Gibbs,0,Not out
+4.2,VVS Laxman,S Sreesanth,HH Gibbs,1,Not out
+4.3,HH Gibbs,S Sreesanth,VVS Laxman,1,Not out
+4.4,VVS Laxman,S Sreesanth,HH Gibbs,0,Not out
+4.5,VVS Laxman,S Sreesanth,HH Gibbs,0,Not out
+4.6,VVS Laxman,S Sreesanth,HH Gibbs,4,Not out
+4.7,VVS Laxman,S Sreesanth,HH Gibbs,1,Not out
+5.1,VVS Laxman,VRV Singh,HH Gibbs,4,Not out
+5.2,VVS Laxman,VRV Singh,HH Gibbs,0,Not out
+5.3,VVS Laxman,VRV Singh,HH Gibbs,4,Not out
+5.4,VVS Laxman,VRV Singh,HH Gibbs,1,Not out
+5.5,HH Gibbs,VRV Singh,VVS Laxman,3,Not out
+5.6,VVS Laxman,VRV Singh,HH Gibbs,0,Not out
+6.1,HH Gibbs,PP Chawla,VVS Laxman,1,Not out
+6.2,VVS Laxman,PP Chawla,HH Gibbs,1,Not out
+6.3,HH Gibbs,PP Chawla,VVS Laxman,0,Not out
+6.4,HH Gibbs,PP Chawla,VVS Laxman,1,Not out
+6.5,VVS Laxman,PP Chawla,HH Gibbs,1,Not out
+6.6,HH Gibbs,PP Chawla,VVS Laxman,0,caught
+7.1,VVS Laxman,VRV Singh,RG Sharma,1,Not out
+7.2,RG Sharma,VRV Singh,VVS Laxman,1,Not out
+7.3,VVS Laxman,VRV Singh,RG Sharma,2,Not out
+7.4,VVS Laxman,VRV Singh,RG Sharma,0,Not out
+7.5,VVS Laxman,VRV Singh,RG Sharma,1,Not out
+7.6,RG Sharma,VRV Singh,VVS Laxman,0,Not out
+8.1,VVS Laxman,PP Chawla,RG Sharma,4,Not out
+8.2,VVS Laxman,PP Chawla,RG Sharma,1,Not out
+8.3,RG Sharma,PP Chawla,VVS Laxman,0,Not out
+8.4,RG Sharma,PP Chawla,VVS Laxman,2,Not out
+8.5,RG Sharma,PP Chawla,VVS Laxman,1,Not out
+8.6,VVS Laxman,PP Chawla,RG Sharma,0,caught
+9.1,RG Sharma,VRV Singh,Shahid Afridi,1,Not out
+9.2,Shahid Afridi,VRV Singh,RG Sharma,1,Not out
+9.3,RG Sharma,VRV Singh,Shahid Afridi,1,Not out
+9.4,Shahid Afridi,VRV Singh,RG Sharma,1,Not out
+9.5,RG Sharma,VRV Singh,Shahid Afridi,4,Not out
+9.6,RG Sharma,VRV Singh,Shahid Afridi,1,Not out
+10.1,RG Sharma,IK Pathan,Shahid Afridi,0,Not out
+10.2,RG Sharma,IK Pathan,Shahid Afridi,1,Not out
+10.3,Shahid Afridi,IK Pathan,RG Sharma,0,Not out
+10.4,Shahid Afridi,IK Pathan,RG Sharma,1,Not out
+10.5,RG Sharma,IK Pathan,Shahid Afridi,1,Not out
+10.6,Shahid Afridi,IK Pathan,RG Sharma,4,Not out
+11.1,RG Sharma,Gagandeep Singh,Shahid Afridi,0,Not out
+11.2,RG Sharma,Gagandeep Singh,Shahid Afridi,0,Not out
+11.3,RG Sharma,Gagandeep Singh,Shahid Afridi,1,Not out
+11.4,Shahid Afridi,Gagandeep Singh,RG Sharma,6,Not out
+11.5,Shahid Afridi,Gagandeep Singh,RG Sharma,0,caught
+11.6,RG Sharma,Gagandeep Singh,Y Venugopal Rao,0,Not out
+12.1,Y Venugopal Rao,PP Chawla,RG Sharma,1,Not out
+12.2,RG Sharma,PP Chawla,Y Venugopal Rao,1,Not out
+12.3,Y Venugopal Rao,PP Chawla,RG Sharma,0,run out
+12.4,SB Bangar,PP Chawla,RG Sharma,0,Not out
+12.5,SB Bangar,PP Chawla,RG Sharma,0,Not out
+12.6,SB Bangar,PP Chawla,RG Sharma,1,Not out
+13.1,SB Bangar,Gagandeep Singh,RG Sharma,0,Not out
+13.2,SB Bangar,Gagandeep Singh,RG Sharma,0,Not out
+13.3,SB Bangar,Gagandeep Singh,RG Sharma,1,Not out
+13.4,RG Sharma,Gagandeep Singh,SB Bangar,2,Not out
+13.5,RG Sharma,Gagandeep Singh,SB Bangar,1,Not out
+13.6,SB Bangar,Gagandeep Singh,RG Sharma,1,Not out
+14.1,SB Bangar,PP Chawla,RG Sharma,0,caught
+14.2,RG Sharma,PP Chawla,DNT Zoysa,1,Not out
+14.3,DNT Zoysa,PP Chawla,RG Sharma,1,Not out
+14.4,RG Sharma,PP Chawla,DNT Zoysa,4,Not out
+14.5,RG Sharma,PP Chawla,DNT Zoysa,6,Not out
+14.6,RG Sharma,PP Chawla,DNT Zoysa,1,Not out
+15.1,RG Sharma,Gagandeep Singh,DNT Zoysa,0,Not out
+15.2,RG Sharma,Gagandeep Singh,DNT Zoysa,0,Not out
+15.3,RG Sharma,Gagandeep Singh,DNT Zoysa,0,Not out
+15.4,RG Sharma,Gagandeep Singh,DNT Zoysa,0,Not out
+15.5,RG Sharma,Gagandeep Singh,DNT Zoysa,4,Not out
+15.6,RG Sharma,Gagandeep Singh,DNT Zoysa,4,Not out
+16.1,DNT Zoysa,S Sreesanth,RG Sharma,0,bowled
+16.2,D Kalyankrishna,S Sreesanth,RG Sharma,0,Not out
+16.3,D Kalyankrishna,S Sreesanth,RG Sharma,0,Not out
+16.4,D Kalyankrishna,S Sreesanth,RG Sharma,1,Not out
+16.5,RG Sharma,S Sreesanth,D Kalyankrishna,4,Not out
+16.6,RG Sharma,S Sreesanth,D Kalyankrishna,4,Not out
+17.1,D Kalyankrishna,VRV Singh,RG Sharma,1,Not out
+17.2,RG Sharma,VRV Singh,D Kalyankrishna,2,Not out
+17.3,RG Sharma,VRV Singh,D Kalyankrishna,1,Not out
+17.4,D Kalyankrishna,VRV Singh,RG Sharma,0,Not out
+17.5,D Kalyankrishna,VRV Singh,RG Sharma,0,Not out
+17.6,RG Sharma,VRV Singh,D Kalyankrishna,4,Not out
+18.1,D Kalyankrishna,Gagandeep Singh,RG Sharma,1,Not out
+18.2,RG Sharma,Gagandeep Singh,D Kalyankrishna,2,Not out
+18.3,RG Sharma,Gagandeep Singh,D Kalyankrishna,2,Not out
+18.4,RG Sharma,Gagandeep Singh,D Kalyankrishna,4,Not out
+18.5,RG Sharma,Gagandeep Singh,D Kalyankrishna,4,Not out
+18.6,RG Sharma,Gagandeep Singh,D Kalyankrishna,4,Not out
+19.1,D Kalyankrishna,IK Pathan,RG Sharma,0,caught
+19.2,RP Singh,IK Pathan,RG Sharma,1,Not out
+19.3,RG Sharma,IK Pathan,RP Singh,6,Not out
+19.4,RG Sharma,IK Pathan,RP Singh,1,Not out
+19.5,RP Singh,IK Pathan,RG Sharma,1,Not out
+19.6,RG Sharma,IK Pathan,RP Singh,0,Not out

@@ -1,0 +1,119 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AC Gilchrist,RP Singh,PC Valthaty,0,Not out
+0.2,AC Gilchrist,RP Singh,PC Valthaty,0,Not out
+0.3,AC Gilchrist,RP Singh,PC Valthaty,0,Not out
+0.4,AC Gilchrist,RP Singh,PC Valthaty,0,Not out
+0.5,AC Gilchrist,RP Singh,PC Valthaty,0,Not out
+0.6,AC Gilchrist,RP Singh,PC Valthaty,0,Not out
+0.7,AC Gilchrist,RP Singh,PC Valthaty,4,Not out
+0.8,AC Gilchrist,RP Singh,PC Valthaty,1,Not out
+1.1,AC Gilchrist,S Sreesanth,PC Valthaty,1,Not out
+1.2,PC Valthaty,S Sreesanth,AC Gilchrist,0,Not out
+1.3,PC Valthaty,S Sreesanth,AC Gilchrist,4,Not out
+1.4,PC Valthaty,S Sreesanth,AC Gilchrist,0,Not out
+1.5,PC Valthaty,S Sreesanth,AC Gilchrist,0,Not out
+1.6,PC Valthaty,S Sreesanth,AC Gilchrist,1,Not out
+2.1,PC Valthaty,RP Singh,AC Gilchrist,6,Not out
+2.2,PC Valthaty,RP Singh,AC Gilchrist,0,Not out
+2.3,PC Valthaty,RP Singh,AC Gilchrist,6,Not out
+2.4,PC Valthaty,RP Singh,AC Gilchrist,0,Not out
+2.5,PC Valthaty,RP Singh,AC Gilchrist,0,bowled
+2.6,SE Marsh,RP Singh,AC Gilchrist,0,Not out
+3.1,AC Gilchrist,S Sreesanth,SE Marsh,0,Not out
+3.2,AC Gilchrist,S Sreesanth,SE Marsh,1,Not out
+3.3,SE Marsh,S Sreesanth,AC Gilchrist,1,Not out
+3.4,AC Gilchrist,S Sreesanth,SE Marsh,1,Not out
+3.5,SE Marsh,S Sreesanth,AC Gilchrist,0,Not out
+3.6,SE Marsh,S Sreesanth,AC Gilchrist,0,Not out
+3.7,AC Gilchrist,S Sreesanth,SE Marsh,1,Not out
+4.1,AC Gilchrist,RP Singh,SE Marsh,0,Not out
+4.2,AC Gilchrist,RP Singh,SE Marsh,0,Not out
+4.3,AC Gilchrist,RP Singh,SE Marsh,0,Not out
+4.4,AC Gilchrist,RP Singh,SE Marsh,0,caught
+4.5,KD Karthik,RP Singh,SE Marsh,0,Not out
+4.6,KD Karthik,RP Singh,SE Marsh,4,Not out
+5.1,SE Marsh,S Sreesanth,KD Karthik,4,Not out
+5.2,SE Marsh,S Sreesanth,KD Karthik,0,Not out
+5.3,SE Marsh,S Sreesanth,KD Karthik,4,Not out
+5.4,SE Marsh,S Sreesanth,KD Karthik,4,Not out
+5.5,SE Marsh,S Sreesanth,KD Karthik,1,Not out
+5.6,KD Karthik,S Sreesanth,SE Marsh,1,Not out
+6.1,KD Karthik,R Vinay Kumar,SE Marsh,0,Not out
+6.2,KD Karthik,R Vinay Kumar,SE Marsh,4,Not out
+6.3,KD Karthik,R Vinay Kumar,SE Marsh,0,Not out
+6.4,KD Karthik,R Vinay Kumar,SE Marsh,0,Not out
+6.5,KD Karthik,R Vinay Kumar,SE Marsh,1,Not out
+6.6,SE Marsh,R Vinay Kumar,KD Karthik,0,Not out
+7.1,KD Karthik,BJ Hodge,SE Marsh,1,Not out
+7.2,SE Marsh,BJ Hodge,KD Karthik,0,Not out
+7.3,SE Marsh,BJ Hodge,KD Karthik,4,Not out
+7.4,SE Marsh,BJ Hodge,KD Karthik,1,Not out
+7.5,KD Karthik,BJ Hodge,SE Marsh,1,Not out
+7.6,SE Marsh,BJ Hodge,KD Karthik,0,Not out
+8.1,KD Karthik,R Vinay Kumar,SE Marsh,6,Not out
+8.2,KD Karthik,R Vinay Kumar,SE Marsh,4,Not out
+8.3,KD Karthik,R Vinay Kumar,SE Marsh,1,Not out
+8.4,SE Marsh,R Vinay Kumar,KD Karthik,0,Not out
+8.5,SE Marsh,R Vinay Kumar,KD Karthik,0,Not out
+8.6,SE Marsh,R Vinay Kumar,KD Karthik,0,Not out
+9.1,KD Karthik,P Parameswaran,SE Marsh,0,Not out
+9.2,KD Karthik,P Parameswaran,SE Marsh,1,Not out
+9.3,SE Marsh,P Parameswaran,KD Karthik,0,Not out
+9.4,SE Marsh,P Parameswaran,KD Karthik,0,Not out
+9.5,SE Marsh,P Parameswaran,KD Karthik,0,Not out
+9.6,SE Marsh,P Parameswaran,KD Karthik,4,Not out
+9.7,SE Marsh,P Parameswaran,KD Karthik,6,Not out
+10.1,KD Karthik,RV Gomez,SE Marsh,6,Not out
+10.2,KD Karthik,RV Gomez,SE Marsh,4,Not out
+10.3,KD Karthik,RV Gomez,SE Marsh,0,Not out
+10.4,KD Karthik,RV Gomez,SE Marsh,1,Not out
+10.5,SE Marsh,RV Gomez,KD Karthik,1,Not out
+10.6,KD Karthik,RV Gomez,SE Marsh,0,Not out
+11.1,SE Marsh,BJ Hodge,KD Karthik,1,Not out
+11.2,KD Karthik,BJ Hodge,SE Marsh,1,Not out
+11.3,SE Marsh,BJ Hodge,KD Karthik,6,Not out
+11.4,SE Marsh,BJ Hodge,KD Karthik,1,Not out
+11.5,KD Karthik,BJ Hodge,SE Marsh,6,Not out
+11.6,KD Karthik,BJ Hodge,SE Marsh,4,Not out
+12.1,SE Marsh,RA Jadeja,KD Karthik,3,Not out
+12.2,KD Karthik,RA Jadeja,SE Marsh,6,Not out
+12.3,KD Karthik,RA Jadeja,SE Marsh,6,Not out
+12.4,KD Karthik,RA Jadeja,SE Marsh,0,Not out
+12.5,KD Karthik,RA Jadeja,SE Marsh,0,Not out
+12.6,KD Karthik,RA Jadeja,SE Marsh,1,Not out
+13.1,KD Karthik,P Parameswaran,SE Marsh,4,Not out
+13.2,KD Karthik,P Parameswaran,SE Marsh,1,Not out
+13.3,SE Marsh,P Parameswaran,KD Karthik,0,Not out
+13.4,SE Marsh,P Parameswaran,KD Karthik,1,Not out
+13.5,KD Karthik,P Parameswaran,SE Marsh,4,Not out
+13.6,KD Karthik,P Parameswaran,SE Marsh,1,Not out
+14.1,KD Karthik,RP Singh,SE Marsh,0,caught
+14.2,DJ Hussey,RP Singh,SE Marsh,1,Not out
+14.3,SE Marsh,RP Singh,DJ Hussey,0,Not out
+14.4,SE Marsh,RP Singh,DJ Hussey,0,Not out
+14.5,DJ Hussey,RP Singh,SE Marsh,1,Not out
+14.6,SE Marsh,RP Singh,DJ Hussey,0,caught and bowled
+15.1,DJ Hussey,RA Jadeja,Mandeep Singh,1,Not out
+15.2,Mandeep Singh,RA Jadeja,DJ Hussey,1,Not out
+15.3,DJ Hussey,RA Jadeja,Mandeep Singh,0,Not out
+15.4,DJ Hussey,RA Jadeja,Mandeep Singh,1,Not out
+15.5,Mandeep Singh,RA Jadeja,DJ Hussey,1,Not out
+15.6,DJ Hussey,RA Jadeja,Mandeep Singh,0,Not out
+16.1,Mandeep Singh,R Vinay Kumar,DJ Hussey,1,Not out
+16.2,DJ Hussey,R Vinay Kumar,Mandeep Singh,4,Not out
+16.3,DJ Hussey,R Vinay Kumar,Mandeep Singh,0,Not out
+16.4,DJ Hussey,R Vinay Kumar,Mandeep Singh,1,Not out
+16.5,Mandeep Singh,R Vinay Kumar,DJ Hussey,0,Not out
+16.6,Mandeep Singh,R Vinay Kumar,DJ Hussey,4,Not out
+16.7,Mandeep Singh,R Vinay Kumar,DJ Hussey,1,Not out
+17.1,Mandeep Singh,RA Jadeja,DJ Hussey,1,Not out
+17.2,DJ Hussey,RA Jadeja,Mandeep Singh,1,Not out
+17.3,Mandeep Singh,RA Jadeja,DJ Hussey,2,Not out
+17.4,Mandeep Singh,RA Jadeja,DJ Hussey,1,Not out
+17.5,DJ Hussey,RA Jadeja,Mandeep Singh,0,Not out
+17.6,Mandeep Singh,RA Jadeja,DJ Hussey,2,Not out
+18.1,DJ Hussey,S Sreesanth,Mandeep Singh,1,Not out
+18.2,Mandeep Singh,S Sreesanth,DJ Hussey,1,Not out
+18.3,DJ Hussey,S Sreesanth,Mandeep Singh,4,Not out
+18.4,DJ Hussey,S Sreesanth,Mandeep Singh,0,Not out
+18.5,DJ Hussey,S Sreesanth,Mandeep Singh,6,Not out

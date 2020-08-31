@@ -1,0 +1,126 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,AC Gilchrist,SL Malinga,HH Gibbs,0,Not out
+0.2,AC Gilchrist,SL Malinga,HH Gibbs,0,Not out
+0.3,AC Gilchrist,SL Malinga,HH Gibbs,0,Not out
+0.4,AC Gilchrist,SL Malinga,HH Gibbs,0,Not out
+0.5,AC Gilchrist,SL Malinga,HH Gibbs,6,Not out
+0.6,AC Gilchrist,SL Malinga,HH Gibbs,0,Not out
+1.1,HH Gibbs,Z Khan,AC Gilchrist,0,Not out
+1.2,HH Gibbs,Z Khan,AC Gilchrist,4,Not out
+1.3,HH Gibbs,Z Khan,AC Gilchrist,0,Not out
+1.4,HH Gibbs,Z Khan,AC Gilchrist,1,Not out
+1.5,AC Gilchrist,Z Khan,HH Gibbs,0,Not out
+1.6,AC Gilchrist,Z Khan,HH Gibbs,4,Not out
+2.1,HH Gibbs,SL Malinga,AC Gilchrist,0,Not out
+2.2,HH Gibbs,SL Malinga,AC Gilchrist,0,Not out
+2.3,HH Gibbs,SL Malinga,AC Gilchrist,1,Not out
+2.4,AC Gilchrist,SL Malinga,HH Gibbs,4,Not out
+2.5,AC Gilchrist,SL Malinga,HH Gibbs,1,Not out
+2.6,HH Gibbs,SL Malinga,AC Gilchrist,0,Not out
+2.7,HH Gibbs,SL Malinga,AC Gilchrist,0,Not out
+3.1,AC Gilchrist,Z Khan,HH Gibbs,0,Not out
+3.2,AC Gilchrist,Z Khan,HH Gibbs,0,Not out
+3.3,HH Gibbs,Z Khan,AC Gilchrist,4,Not out
+3.4,HH Gibbs,Z Khan,AC Gilchrist,1,Not out
+3.5,AC Gilchrist,Z Khan,HH Gibbs,0,Not out
+3.6,AC Gilchrist,Z Khan,HH Gibbs,6,Not out
+3.7,AC Gilchrist,Z Khan,HH Gibbs,1,Not out
+4.1,AC Gilchrist,DJ Bravo,HH Gibbs,1,Not out
+4.2,HH Gibbs,DJ Bravo,AC Gilchrist,0,Not out
+4.3,HH Gibbs,DJ Bravo,AC Gilchrist,0,Not out
+4.4,HH Gibbs,DJ Bravo,AC Gilchrist,2,Not out
+4.5,HH Gibbs,DJ Bravo,AC Gilchrist,4,Not out
+4.6,HH Gibbs,DJ Bravo,AC Gilchrist,0,Not out
+5.1,HH Gibbs,Harbhajan Singh,AC Gilchrist,0,Not out
+5.2,HH Gibbs,Harbhajan Singh,AC Gilchrist,0,Not out
+5.3,HH Gibbs,Harbhajan Singh,AC Gilchrist,1,Not out
+5.4,AC Gilchrist,Harbhajan Singh,HH Gibbs,4,Not out
+5.5,AC Gilchrist,Harbhajan Singh,HH Gibbs,1,Not out
+5.6,HH Gibbs,Harbhajan Singh,AC Gilchrist,4,Not out
+5.7,HH Gibbs,Harbhajan Singh,AC Gilchrist,0,Not out
+6.1,AC Gilchrist,DJ Bravo,HH Gibbs,6,Not out
+6.2,AC Gilchrist,DJ Bravo,HH Gibbs,1,Not out
+6.3,HH Gibbs,DJ Bravo,AC Gilchrist,0,Not out
+6.4,HH Gibbs,DJ Bravo,AC Gilchrist,1,Not out
+6.5,AC Gilchrist,DJ Bravo,HH Gibbs,0,caught
+6.6,DR Smith,DJ Bravo,HH Gibbs,4,Not out
+7.1,HH Gibbs,ST Jayasuriya,DR Smith,1,Not out
+7.2,DR Smith,ST Jayasuriya,HH Gibbs,0,Not out
+7.3,DR Smith,ST Jayasuriya,HH Gibbs,2,Not out
+7.4,DR Smith,ST Jayasuriya,HH Gibbs,1,Not out
+7.5,HH Gibbs,ST Jayasuriya,DR Smith,0,Not out
+7.6,HH Gibbs,ST Jayasuriya,DR Smith,1,Not out
+8.1,HH Gibbs,Harbhajan Singh,DR Smith,1,Not out
+8.2,DR Smith,Harbhajan Singh,HH Gibbs,0,Not out
+8.3,DR Smith,Harbhajan Singh,HH Gibbs,0,Not out
+8.4,DR Smith,Harbhajan Singh,HH Gibbs,1,Not out
+8.5,HH Gibbs,Harbhajan Singh,DR Smith,1,Not out
+8.6,DR Smith,Harbhajan Singh,HH Gibbs,1,Not out
+9.1,DR Smith,ST Jayasuriya,HH Gibbs,6,Not out
+9.2,DR Smith,ST Jayasuriya,HH Gibbs,0,Not out
+9.3,DR Smith,ST Jayasuriya,HH Gibbs,0,Not out
+9.4,DR Smith,ST Jayasuriya,HH Gibbs,1,Not out
+9.5,HH Gibbs,ST Jayasuriya,DR Smith,1,Not out
+9.6,DR Smith,ST Jayasuriya,HH Gibbs,4,Not out
+10.1,HH Gibbs,Harbhajan Singh,DR Smith,0,Not out
+10.2,HH Gibbs,Harbhajan Singh,DR Smith,0,Not out
+10.3,DR Smith,Harbhajan Singh,HH Gibbs,1,Not out
+10.4,HH Gibbs,Harbhajan Singh,DR Smith,1,Not out
+10.5,DR Smith,Harbhajan Singh,HH Gibbs,2,Not out
+10.6,DR Smith,Harbhajan Singh,HH Gibbs,2,Not out
+11.1,HH Gibbs,DS Kulkarni,DR Smith,6,Not out
+11.2,HH Gibbs,DS Kulkarni,DR Smith,1,Not out
+11.3,DR Smith,DS Kulkarni,HH Gibbs,6,Not out
+11.4,DR Smith,DS Kulkarni,HH Gibbs,0,Not out
+11.5,DR Smith,DS Kulkarni,HH Gibbs,1,Not out
+11.6,HH Gibbs,DS Kulkarni,DR Smith,4,Not out
+12.1,DR Smith,ST Jayasuriya,HH Gibbs,0,Not out
+12.2,DR Smith,ST Jayasuriya,HH Gibbs,2,Not out
+12.3,DR Smith,ST Jayasuriya,HH Gibbs,1,Not out
+12.4,HH Gibbs,ST Jayasuriya,DR Smith,6,Not out
+12.5,HH Gibbs,ST Jayasuriya,DR Smith,1,Not out
+12.6,DR Smith,ST Jayasuriya,HH Gibbs,0,bowled
+12.7,RG Sharma,ST Jayasuriya,HH Gibbs,1,Not out
+13.1,RG Sharma,Z Khan,HH Gibbs,0,Not out
+13.2,HH Gibbs,Z Khan,RG Sharma,1,Not out
+13.3,RG Sharma,Z Khan,HH Gibbs,1,Not out
+13.4,HH Gibbs,Z Khan,RG Sharma,1,Not out
+13.5,RG Sharma,Z Khan,HH Gibbs,1,Not out
+13.6,HH Gibbs,Z Khan,RG Sharma,1,Not out
+14.1,HH Gibbs,DJ Bravo,RG Sharma,4,Not out
+14.2,HH Gibbs,DJ Bravo,RG Sharma,0,Not out
+14.3,HH Gibbs,DJ Bravo,RG Sharma,1,Not out
+14.4,RG Sharma,DJ Bravo,HH Gibbs,0,caught
+14.5,HH Gibbs,DJ Bravo,VVS Laxman,1,Not out
+14.6,VVS Laxman,DJ Bravo,HH Gibbs,0,caught
+15.1,Y Venugopal Rao,Z Khan,HH Gibbs,1,Not out
+15.2,HH Gibbs,Z Khan,Y Venugopal Rao,1,Not out
+15.3,Y Venugopal Rao,Z Khan,HH Gibbs,1,Not out
+15.4,HH Gibbs,Z Khan,Y Venugopal Rao,1,run out
+15.5,Y Venugopal Rao,Z Khan,DB Ravi Teja,0,Not out
+15.6,Y Venugopal Rao,Z Khan,DB Ravi Teja,1,Not out
+16.1,Y Venugopal Rao,DJ Bravo,DB Ravi Teja,1,Not out
+16.2,DB Ravi Teja,DJ Bravo,Y Venugopal Rao,1,Not out
+16.3,Y Venugopal Rao,DJ Bravo,DB Ravi Teja,0,Not out
+16.4,Y Venugopal Rao,DJ Bravo,DB Ravi Teja,0,Not out
+16.5,Y Venugopal Rao,DJ Bravo,DB Ravi Teja,1,Not out
+16.6,DB Ravi Teja,DJ Bravo,Y Venugopal Rao,4,Not out
+16.7,DB Ravi Teja,DJ Bravo,Y Venugopal Rao,1,Not out
+17.1,DB Ravi Teja,SL Malinga,Y Venugopal Rao,1,Not out
+17.2,Y Venugopal Rao,SL Malinga,DB Ravi Teja,2,Not out
+17.3,Y Venugopal Rao,SL Malinga,DB Ravi Teja,2,Not out
+17.4,Y Venugopal Rao,SL Malinga,DB Ravi Teja,0,bowled
+17.5,RP Singh,SL Malinga,DB Ravi Teja,1,Not out
+17.6,DB Ravi Teja,SL Malinga,RP Singh,0,Not out
+18.1,RP Singh,Harbhajan Singh,DB Ravi Teja,2,Not out
+18.2,RP Singh,Harbhajan Singh,DB Ravi Teja,1,Not out
+18.3,DB Ravi Teja,Harbhajan Singh,RP Singh,1,Not out
+18.4,RP Singh,Harbhajan Singh,DB Ravi Teja,0,caught
+18.5,DB Ravi Teja,Harbhajan Singh,FH Edwards,1,Not out
+18.6,FH Edwards,Harbhajan Singh,DB Ravi Teja,1,Not out
+19.1,FH Edwards,SL Malinga,DB Ravi Teja,0,Not out
+19.2,FH Edwards,SL Malinga,DB Ravi Teja,0,bowled
+19.3,PP Ojha,SL Malinga,DB Ravi Teja,0,Not out
+19.4,PP Ojha,SL Malinga,DB Ravi Teja,0,Not out
+19.5,DB Ravi Teja,SL Malinga,PP Ojha,0,Not out
+19.6,DB Ravi Teja,SL Malinga,PP Ojha,0,lbw

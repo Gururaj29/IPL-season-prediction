@@ -1,0 +1,98 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,CH Gayle,CH Morris,V Kohli,0,Not out
+0.2,CH Gayle,CH Morris,V Kohli,0,Not out
+0.3,V Kohli,CH Morris,CH Gayle,1,Not out
+0.4,CH Gayle,CH Morris,V Kohli,0,Not out
+0.5,CH Gayle,CH Morris,V Kohli,1,Not out
+0.6,V Kohli,CH Morris,CH Gayle,1,Not out
+1.1,V Kohli,DS Kulkarni,CH Gayle,0,Not out
+1.2,V Kohli,DS Kulkarni,CH Gayle,1,Not out
+1.3,CH Gayle,DS Kulkarni,V Kohli,0,Not out
+1.4,CH Gayle,DS Kulkarni,V Kohli,4,Not out
+1.5,CH Gayle,DS Kulkarni,V Kohli,0,Not out
+1.6,CH Gayle,DS Kulkarni,V Kohli,0,Not out
+2.1,V Kohli,CH Morris,CH Gayle,1,Not out
+2.2,CH Gayle,CH Morris,V Kohli,0,Not out
+2.3,CH Gayle,CH Morris,V Kohli,4,Not out
+2.4,CH Gayle,CH Morris,V Kohli,0,Not out
+2.5,CH Gayle,CH Morris,V Kohli,4,Not out
+2.6,CH Gayle,CH Morris,V Kohli,6,Not out
+3.1,V Kohli,DS Kulkarni,CH Gayle,0,Not out
+3.2,V Kohli,DS Kulkarni,CH Gayle,1,Not out
+3.3,CH Gayle,DS Kulkarni,V Kohli,1,Not out
+3.4,V Kohli,DS Kulkarni,CH Gayle,0,Not out
+3.5,V Kohli,DS Kulkarni,CH Gayle,4,Not out
+3.6,V Kohli,DS Kulkarni,CH Gayle,2,Not out
+4.1,CH Gayle,SR Watson,V Kohli,0,Not out
+4.2,CH Gayle,SR Watson,V Kohli,0,Not out
+4.3,CH Gayle,SR Watson,V Kohli,0,caught
+4.4,AB de Villiers,SR Watson,V Kohli,0,Not out
+4.5,AB de Villiers,SR Watson,V Kohli,0,Not out
+4.6,AB de Villiers,SR Watson,V Kohli,1,Not out
+5.1,AB de Villiers,JP Faulkner,V Kohli,2,Not out
+5.2,AB de Villiers,JP Faulkner,V Kohli,4,Not out
+5.3,AB de Villiers,JP Faulkner,V Kohli,0,Not out
+5.4,AB de Villiers,JP Faulkner,V Kohli,4,Not out
+5.5,AB de Villiers,JP Faulkner,V Kohli,1,Not out
+5.6,V Kohli,JP Faulkner,AB de Villiers,1,Not out
+6.1,V Kohli,PV Tambe,AB de Villiers,1,Not out
+6.2,AB de Villiers,PV Tambe,V Kohli,1,Not out
+6.3,V Kohli,PV Tambe,AB de Villiers,6,Not out
+6.4,V Kohli,PV Tambe,AB de Villiers,2,Not out
+6.5,V Kohli,PV Tambe,AB de Villiers,1,Not out
+6.6,AB de Villiers,PV Tambe,V Kohli,0,Not out
+7.1,V Kohli,SR Watson,AB de Villiers,1,Not out
+7.2,AB de Villiers,SR Watson,V Kohli,1,Not out
+7.3,V Kohli,SR Watson,AB de Villiers,2,Not out
+7.4,V Kohli,SR Watson,AB de Villiers,1,Not out
+7.5,AB de Villiers,SR Watson,V Kohli,0,Not out
+7.6,AB de Villiers,SR Watson,V Kohli,1,Not out
+8.1,AB de Villiers,PV Tambe,V Kohli,0,Not out
+8.2,AB de Villiers,PV Tambe,V Kohli,4,Not out
+8.3,AB de Villiers,PV Tambe,V Kohli,1,Not out
+8.4,V Kohli,PV Tambe,AB de Villiers,1,Not out
+8.5,AB de Villiers,PV Tambe,V Kohli,4,Not out
+8.6,AB de Villiers,PV Tambe,V Kohli,0,Not out
+9.1,V Kohli,DS Kulkarni,AB de Villiers,1,Not out
+9.2,AB de Villiers,DS Kulkarni,V Kohli,1,Not out
+9.3,V Kohli,DS Kulkarni,AB de Villiers,1,Not out
+9.4,AB de Villiers,DS Kulkarni,V Kohli,2,Not out
+9.5,AB de Villiers,DS Kulkarni,V Kohli,1,Not out
+9.6,V Kohli,DS Kulkarni,AB de Villiers,1,Not out
+10.1,V Kohli,CH Morris,AB de Villiers,1,Not out
+10.2,AB de Villiers,CH Morris,V Kohli,1,Not out
+10.3,V Kohli,CH Morris,AB de Villiers,0,Not out
+10.4,V Kohli,CH Morris,AB de Villiers,1,Not out
+10.5,AB de Villiers,CH Morris,V Kohli,1,Not out
+10.6,V Kohli,CH Morris,AB de Villiers,1,Not out
+11.1,V Kohli,PV Tambe,AB de Villiers,1,Not out
+11.2,AB de Villiers,PV Tambe,V Kohli,1,Not out
+11.3,V Kohli,PV Tambe,AB de Villiers,0,Not out
+11.4,V Kohli,PV Tambe,AB de Villiers,0,Not out
+11.5,V Kohli,PV Tambe,AB de Villiers,2,Not out
+11.6,V Kohli,PV Tambe,AB de Villiers,1,Not out
+12.1,V Kohli,JP Faulkner,AB de Villiers,2,Not out
+12.2,V Kohli,JP Faulkner,AB de Villiers,1,Not out
+12.3,AB de Villiers,JP Faulkner,V Kohli,1,Not out
+12.4,V Kohli,JP Faulkner,AB de Villiers,0,Not out
+12.5,V Kohli,JP Faulkner,AB de Villiers,0,Not out
+12.6,V Kohli,JP Faulkner,AB de Villiers,1,Not out
+13.1,V Kohli,SR Watson,AB de Villiers,6,Not out
+13.2,V Kohli,SR Watson,AB de Villiers,2,Not out
+13.3,V Kohli,SR Watson,AB de Villiers,1,Not out
+13.4,AB de Villiers,SR Watson,V Kohli,2,Not out
+13.5,AB de Villiers,SR Watson,V Kohli,4,Not out
+13.6,AB de Villiers,SR Watson,V Kohli,1,Not out
+14.1,AB de Villiers,PV Tambe,V Kohli,1,Not out
+14.2,V Kohli,PV Tambe,AB de Villiers,6,Not out
+14.3,V Kohli,PV Tambe,AB de Villiers,1,Not out
+14.4,AB de Villiers,PV Tambe,V Kohli,1,Not out
+14.5,V Kohli,PV Tambe,AB de Villiers,0,Not out
+14.6,V Kohli,PV Tambe,AB de Villiers,1,Not out
+15.1,V Kohli,DS Kulkarni,AB de Villiers,1,Not out
+15.2,AB de Villiers,DS Kulkarni,V Kohli,1,Not out
+15.3,V Kohli,DS Kulkarni,AB de Villiers,2,Not out
+15.4,V Kohli,DS Kulkarni,AB de Villiers,1,Not out
+15.5,AB de Villiers,DS Kulkarni,V Kohli,0,Not out
+15.6,AB de Villiers,DS Kulkarni,V Kohli,1,Not out
+16.1,AB de Villiers,DJ Hooda,V Kohli,4,Not out

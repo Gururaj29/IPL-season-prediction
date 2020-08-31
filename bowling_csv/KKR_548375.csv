@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,RV Uthappa,L Balaji,JD Ryder,4,Not out
+0.2,RV Uthappa,L Balaji,JD Ryder,1,Not out
+0.3,JD Ryder,L Balaji,RV Uthappa,0,Not out
+0.4,JD Ryder,L Balaji,RV Uthappa,0,Not out
+0.5,JD Ryder,L Balaji,RV Uthappa,0,Not out
+0.6,RV Uthappa,L Balaji,JD Ryder,0,Not out
+0.7,RV Uthappa,L Balaji,JD Ryder,2,Not out
+1.1,JD Ryder,Shakib Al Hasan,RV Uthappa,0,Not out
+1.2,JD Ryder,Shakib Al Hasan,RV Uthappa,0,Not out
+1.3,JD Ryder,Shakib Al Hasan,RV Uthappa,1,Not out
+1.4,RV Uthappa,Shakib Al Hasan,JD Ryder,0,Not out
+1.5,RV Uthappa,Shakib Al Hasan,JD Ryder,1,Not out
+1.6,JD Ryder,Shakib Al Hasan,RV Uthappa,0,Not out
+2.1,RV Uthappa,Iqbal Abdulla,JD Ryder,0,Not out
+2.2,RV Uthappa,Iqbal Abdulla,JD Ryder,0,caught
+2.3,MJ Clarke,Iqbal Abdulla,JD Ryder,1,Not out
+2.4,JD Ryder,Iqbal Abdulla,MJ Clarke,0,Not out
+2.5,JD Ryder,Iqbal Abdulla,MJ Clarke,1,Not out
+2.6,MJ Clarke,Iqbal Abdulla,JD Ryder,0,Not out
+3.1,JD Ryder,Shakib Al Hasan,MJ Clarke,0,Not out
+3.2,JD Ryder,Shakib Al Hasan,MJ Clarke,6,Not out
+3.3,JD Ryder,Shakib Al Hasan,MJ Clarke,1,Not out
+3.4,MJ Clarke,Shakib Al Hasan,JD Ryder,0,Not out
+3.5,MJ Clarke,Shakib Al Hasan,JD Ryder,0,Not out
+3.6,MJ Clarke,Shakib Al Hasan,JD Ryder,1,Not out
+4.1,MJ Clarke,Iqbal Abdulla,JD Ryder,1,Not out
+4.2,JD Ryder,Iqbal Abdulla,MJ Clarke,6,Not out
+4.3,JD Ryder,Iqbal Abdulla,MJ Clarke,1,Not out
+4.4,MJ Clarke,Iqbal Abdulla,JD Ryder,1,Not out
+4.5,JD Ryder,Iqbal Abdulla,MJ Clarke,0,Not out
+4.6,JD Ryder,Iqbal Abdulla,MJ Clarke,1,Not out
+4.7,MJ Clarke,Iqbal Abdulla,JD Ryder,1,Not out
+5.1,MJ Clarke,SP Narine,JD Ryder,2,Not out
+5.2,MJ Clarke,SP Narine,JD Ryder,0,Not out
+5.3,MJ Clarke,SP Narine,JD Ryder,1,Not out
+5.4,JD Ryder,SP Narine,MJ Clarke,2,Not out
+5.5,JD Ryder,SP Narine,MJ Clarke,0,Not out
+5.6,JD Ryder,SP Narine,MJ Clarke,0,Not out
+6.1,MJ Clarke,L Balaji,JD Ryder,0,Not out
+6.2,JD Ryder,L Balaji,MJ Clarke,1,Not out
+6.3,MJ Clarke,L Balaji,JD Ryder,0,Not out
+6.4,MJ Clarke,L Balaji,JD Ryder,1,Not out
+6.5,JD Ryder,L Balaji,MJ Clarke,1,Not out
+6.6,MJ Clarke,L Balaji,JD Ryder,0,Not out
+6.7,MJ Clarke,L Balaji,JD Ryder,1,Not out
+7.1,MJ Clarke,YK Pathan,JD Ryder,1,Not out
+7.2,JD Ryder,YK Pathan,MJ Clarke,1,Not out
+7.3,MJ Clarke,YK Pathan,JD Ryder,0,Not out
+7.4,MJ Clarke,YK Pathan,JD Ryder,2,Not out
+7.5,MJ Clarke,YK Pathan,JD Ryder,0,stumped
+7.6,SC Ganguly,YK Pathan,JD Ryder,1,Not out
+7.7,JD Ryder,YK Pathan,SC Ganguly,0,Not out
+8.1,SC Ganguly,L Balaji,JD Ryder,0,Not out
+8.2,SC Ganguly,L Balaji,JD Ryder,0,Not out
+8.3,SC Ganguly,L Balaji,JD Ryder,1,Not out
+8.4,JD Ryder,L Balaji,SC Ganguly,0,Not out
+8.5,SC Ganguly,L Balaji,JD Ryder,1,Not out
+8.6,JD Ryder,L Balaji,SC Ganguly,0,Not out
+9.1,SC Ganguly,YK Pathan,JD Ryder,1,Not out
+9.2,JD Ryder,YK Pathan,SC Ganguly,0,bowled
+9.3,AP Majumdar,YK Pathan,SC Ganguly,1,Not out
+9.4,SC Ganguly,YK Pathan,AP Majumdar,1,Not out
+9.5,AP Majumdar,YK Pathan,SC Ganguly,2,Not out
+9.6,AP Majumdar,YK Pathan,SC Ganguly,1,Not out
+10.1,AP Majumdar,Shakib Al Hasan,SC Ganguly,0,Not out
+10.2,AP Majumdar,Shakib Al Hasan,SC Ganguly,0,Not out
+10.3,AP Majumdar,Shakib Al Hasan,SC Ganguly,1,Not out
+10.4,SC Ganguly,Shakib Al Hasan,AP Majumdar,0,lbw
+10.5,CJ Ferguson,Shakib Al Hasan,AP Majumdar,1,Not out
+10.6,AP Majumdar,Shakib Al Hasan,CJ Ferguson,1,Not out
+11.1,AP Majumdar,Iqbal Abdulla,CJ Ferguson,2,Not out
+11.2,AP Majumdar,Iqbal Abdulla,CJ Ferguson,1,Not out
+11.3,CJ Ferguson,Iqbal Abdulla,AP Majumdar,0,Not out
+11.4,CJ Ferguson,Iqbal Abdulla,AP Majumdar,0,Not out
+11.5,CJ Ferguson,Iqbal Abdulla,AP Majumdar,0,Not out
+11.6,CJ Ferguson,Iqbal Abdulla,AP Majumdar,1,Not out
+12.1,CJ Ferguson,R Bhatia,AP Majumdar,0,Not out
+12.2,CJ Ferguson,R Bhatia,AP Majumdar,1,Not out
+12.3,AP Majumdar,R Bhatia,CJ Ferguson,1,Not out
+12.4,CJ Ferguson,R Bhatia,AP Majumdar,0,Not out
+12.5,CJ Ferguson,R Bhatia,AP Majumdar,1,Not out
+12.6,AP Majumdar,R Bhatia,CJ Ferguson,0,Not out
+13.1,AP Majumdar,SP Narine,CJ Ferguson,0,Not out
+13.2,AP Majumdar,SP Narine,CJ Ferguson,0,Not out
+13.3,AP Majumdar,SP Narine,CJ Ferguson,1,Not out
+13.4,CJ Ferguson,SP Narine,AP Majumdar,2,Not out
+13.5,CJ Ferguson,SP Narine,AP Majumdar,1,Not out
+13.6,AP Majumdar,SP Narine,CJ Ferguson,0,Not out
+14.1,CJ Ferguson,R Bhatia,AP Majumdar,1,Not out
+14.2,AP Majumdar,R Bhatia,CJ Ferguson,1,Not out
+14.3,CJ Ferguson,R Bhatia,AP Majumdar,1,Not out
+14.4,AP Majumdar,R Bhatia,CJ Ferguson,2,Not out
+14.5,AP Majumdar,R Bhatia,CJ Ferguson,0,Not out
+14.6,AP Majumdar,R Bhatia,CJ Ferguson,1,Not out
+15.1,AP Majumdar,Shakib Al Hasan,CJ Ferguson,1,Not out
+15.2,CJ Ferguson,Shakib Al Hasan,AP Majumdar,1,Not out
+15.3,AP Majumdar,Shakib Al Hasan,CJ Ferguson,1,Not out
+15.4,CJ Ferguson,Shakib Al Hasan,AP Majumdar,1,Not out
+15.5,AP Majumdar,Shakib Al Hasan,CJ Ferguson,0,stumped
+15.6,Harpreet Singh,Shakib Al Hasan,CJ Ferguson,1,Not out
+16.1,Harpreet Singh,R Bhatia,CJ Ferguson,2,Not out
+16.2,Harpreet Singh,R Bhatia,CJ Ferguson,1,Not out
+16.3,CJ Ferguson,R Bhatia,Harpreet Singh,1,Not out
+16.4,Harpreet Singh,R Bhatia,CJ Ferguson,1,Not out
+16.5,CJ Ferguson,R Bhatia,Harpreet Singh,0,Not out
+16.6,CJ Ferguson,R Bhatia,Harpreet Singh,0,caught
+17.1,WD Parnell,SP Narine,Harpreet Singh,0,Not out
+17.2,WD Parnell,SP Narine,Harpreet Singh,1,Not out
+17.3,Harpreet Singh,SP Narine,WD Parnell,1,Not out
+17.4,WD Parnell,SP Narine,Harpreet Singh,1,Not out
+17.5,Harpreet Singh,SP Narine,WD Parnell,0,caught and bowled
+17.6,B Kumar,SP Narine,WD Parnell,0,Not out
+18.1,WD Parnell,L Balaji,B Kumar,1,Not out
+18.2,B Kumar,L Balaji,WD Parnell,1,Not out
+18.3,WD Parnell,L Balaji,B Kumar,0,caught
+18.4,B Kumar,L Balaji,AG Murtaza,1,Not out
+18.5,AG Murtaza,L Balaji,B Kumar,0,Not out
+18.6,AG Murtaza,L Balaji,B Kumar,1,Not out
+19.1,AG Murtaza,SP Narine,B Kumar,1,Not out
+19.2,B Kumar,SP Narine,AG Murtaza,0,Not out
+19.3,B Kumar,SP Narine,AG Murtaza,0,Not out
+19.4,B Kumar,SP Narine,AG Murtaza,1,Not out
+19.5,AG Murtaza,SP Narine,B Kumar,0,Not out
+19.6,AG Murtaza,SP Narine,B Kumar,1,Not out

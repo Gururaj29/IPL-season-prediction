@@ -1,0 +1,127 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,RV Uthappa,Iqbal Abdulla,MJ Clarke,0,Not out
+0.2,RV Uthappa,Iqbal Abdulla,MJ Clarke,2,Not out
+0.3,RV Uthappa,Iqbal Abdulla,MJ Clarke,2,Not out
+0.4,RV Uthappa,Iqbal Abdulla,MJ Clarke,4,Not out
+0.5,RV Uthappa,Iqbal Abdulla,MJ Clarke,1,Not out
+0.6,MJ Clarke,Iqbal Abdulla,RV Uthappa,1,Not out
+1.1,MJ Clarke,M de Lange,RV Uthappa,0,bowled
+1.2,MK Pandey,M de Lange,RV Uthappa,0,Not out
+1.3,MK Pandey,M de Lange,RV Uthappa,1,Not out
+1.4,RV Uthappa,M de Lange,MK Pandey,0,Not out
+1.5,RV Uthappa,M de Lange,MK Pandey,1,Not out
+1.6,MK Pandey,M de Lange,RV Uthappa,0,Not out
+1.7,MK Pandey,M de Lange,RV Uthappa,4,Not out
+1.8,MK Pandey,M de Lange,RV Uthappa,0,Not out
+2.1,RV Uthappa,Iqbal Abdulla,MK Pandey,0,Not out
+2.2,RV Uthappa,Iqbal Abdulla,MK Pandey,1,Not out
+2.3,MK Pandey,Iqbal Abdulla,RV Uthappa,1,Not out
+2.4,RV Uthappa,Iqbal Abdulla,MK Pandey,0,Not out
+2.5,RV Uthappa,Iqbal Abdulla,MK Pandey,0,Not out
+2.6,RV Uthappa,Iqbal Abdulla,MK Pandey,0,Not out
+2.7,RV Uthappa,Iqbal Abdulla,MK Pandey,1,Not out
+3.1,RV Uthappa,M de Lange,MK Pandey,4,Not out
+3.2,RV Uthappa,M de Lange,MK Pandey,1,Not out
+3.3,MK Pandey,M de Lange,RV Uthappa,1,Not out
+3.4,RV Uthappa,M de Lange,MK Pandey,0,caught
+3.5,SPD Smith,M de Lange,MK Pandey,0,Not out
+3.6,SPD Smith,M de Lange,MK Pandey,0,Not out
+4.1,MK Pandey,Iqbal Abdulla,SPD Smith,1,Not out
+4.2,SPD Smith,Iqbal Abdulla,MK Pandey,0,Not out
+4.3,SPD Smith,Iqbal Abdulla,MK Pandey,1,Not out
+4.4,MK Pandey,Iqbal Abdulla,SPD Smith,4,Not out
+4.5,MK Pandey,Iqbal Abdulla,SPD Smith,0,Not out
+4.6,MK Pandey,Iqbal Abdulla,SPD Smith,1,Not out
+5.1,MK Pandey,M de Lange,SPD Smith,1,Not out
+5.2,SPD Smith,M de Lange,MK Pandey,1,Not out
+5.3,MK Pandey,M de Lange,SPD Smith,1,Not out
+5.4,SPD Smith,M de Lange,MK Pandey,0,Not out
+5.5,SPD Smith,M de Lange,MK Pandey,4,Not out
+5.6,SPD Smith,M de Lange,MK Pandey,1,Not out
+5.7,MK Pandey,M de Lange,SPD Smith,1,Not out
+6.1,MK Pandey,Iqbal Abdulla,SPD Smith,1,Not out
+6.2,SPD Smith,Iqbal Abdulla,MK Pandey,2,Not out
+6.3,SPD Smith,Iqbal Abdulla,MK Pandey,1,Not out
+6.4,MK Pandey,Iqbal Abdulla,SPD Smith,0,caught
+6.5,SPD Smith,Iqbal Abdulla,M Manhas,1,Not out
+6.6,M Manhas,Iqbal Abdulla,SPD Smith,0,Not out
+7.1,SPD Smith,JH Kallis,M Manhas,1,Not out
+7.2,M Manhas,JH Kallis,SPD Smith,1,Not out
+7.3,SPD Smith,JH Kallis,M Manhas,1,Not out
+7.4,M Manhas,JH Kallis,SPD Smith,0,caught
+7.5,AD Mathews,JH Kallis,SPD Smith,1,Not out
+7.6,SPD Smith,JH Kallis,AD Mathews,1,Not out
+8.1,SPD Smith,SP Narine,AD Mathews,0,Not out
+8.2,SPD Smith,SP Narine,AD Mathews,0,lbw
+8.3,SC Ganguly,SP Narine,AD Mathews,0,Not out
+8.4,SC Ganguly,SP Narine,AD Mathews,0,Not out
+8.5,SC Ganguly,SP Narine,AD Mathews,0,Not out
+8.6,SC Ganguly,SP Narine,AD Mathews,0,Not out
+9.1,AD Mathews,JH Kallis,SC Ganguly,0,Not out
+9.2,AD Mathews,JH Kallis,SC Ganguly,1,Not out
+9.3,SC Ganguly,JH Kallis,AD Mathews,0,Not out
+9.4,SC Ganguly,JH Kallis,AD Mathews,4,Not out
+9.5,SC Ganguly,JH Kallis,AD Mathews,4,Not out
+9.6,SC Ganguly,JH Kallis,AD Mathews,0,Not out
+9.7,SC Ganguly,JH Kallis,AD Mathews,1,Not out
+10.1,SC Ganguly,SP Narine,AD Mathews,0,Not out
+10.2,SC Ganguly,SP Narine,AD Mathews,0,Not out
+10.3,SC Ganguly,SP Narine,AD Mathews,4,Not out
+10.4,SC Ganguly,SP Narine,AD Mathews,0,Not out
+10.5,SC Ganguly,SP Narine,AD Mathews,0,Not out
+10.6,SC Ganguly,SP Narine,AD Mathews,1,Not out
+11.1,SC Ganguly,R Bhatia,AD Mathews,1,Not out
+11.2,AD Mathews,R Bhatia,SC Ganguly,1,Not out
+11.3,SC Ganguly,R Bhatia,AD Mathews,1,Not out
+11.4,AD Mathews,R Bhatia,SC Ganguly,0,Not out
+11.5,AD Mathews,R Bhatia,SC Ganguly,1,Not out
+11.6,SC Ganguly,R Bhatia,AD Mathews,1,Not out
+12.1,SC Ganguly,YK Pathan,AD Mathews,0,Not out
+12.2,SC Ganguly,YK Pathan,AD Mathews,1,Not out
+12.3,AD Mathews,YK Pathan,SC Ganguly,1,Not out
+12.4,SC Ganguly,YK Pathan,AD Mathews,1,Not out
+12.5,AD Mathews,YK Pathan,SC Ganguly,0,Not out
+12.6,AD Mathews,YK Pathan,SC Ganguly,0,Not out
+12.7,AD Mathews,YK Pathan,SC Ganguly,0,Not out
+13.1,SC Ganguly,R Bhatia,AD Mathews,1,Not out
+13.2,AD Mathews,R Bhatia,SC Ganguly,1,Not out
+13.3,SC Ganguly,R Bhatia,AD Mathews,1,Not out
+13.4,AD Mathews,R Bhatia,SC Ganguly,1,Not out
+13.5,SC Ganguly,R Bhatia,AD Mathews,1,Not out
+13.6,AD Mathews,R Bhatia,SC Ganguly,1,Not out
+14.1,AD Mathews,YK Pathan,SC Ganguly,6,Not out
+14.2,AD Mathews,YK Pathan,SC Ganguly,6,Not out
+14.3,AD Mathews,YK Pathan,SC Ganguly,6,Not out
+14.4,AD Mathews,YK Pathan,SC Ganguly,1,Not out
+14.5,SC Ganguly,YK Pathan,AD Mathews,0,Not out
+14.6,SC Ganguly,YK Pathan,AD Mathews,0,Not out
+15.1,AD Mathews,R Bhatia,SC Ganguly,1,Not out
+15.2,SC Ganguly,R Bhatia,AD Mathews,4,Not out
+15.3,SC Ganguly,R Bhatia,AD Mathews,1,Not out
+15.4,AD Mathews,R Bhatia,SC Ganguly,0,Not out
+15.5,AD Mathews,R Bhatia,SC Ganguly,1,Not out
+15.6,SC Ganguly,R Bhatia,AD Mathews,0,Not out
+16.1,AD Mathews,SP Narine,SC Ganguly,1,Not out
+16.2,SC Ganguly,SP Narine,AD Mathews,0,Not out
+16.3,SC Ganguly,SP Narine,AD Mathews,1,Not out
+16.4,AD Mathews,SP Narine,SC Ganguly,1,Not out
+16.5,SC Ganguly,SP Narine,AD Mathews,0,Not out
+16.6,SC Ganguly,SP Narine,AD Mathews,1,Not out
+17.1,SC Ganguly,R Bhatia,AD Mathews,6,Not out
+17.2,SC Ganguly,R Bhatia,AD Mathews,1,Not out
+17.3,AD Mathews,R Bhatia,SC Ganguly,1,Not out
+17.4,SC Ganguly,R Bhatia,AD Mathews,0,caught
+17.5,AD Mathews,R Bhatia,WD Parnell,0,Not out
+17.6,AD Mathews,R Bhatia,WD Parnell,1,Not out
+18.1,AD Mathews,SP Narine,WD Parnell,1,Not out
+18.2,WD Parnell,SP Narine,AD Mathews,0,Not out
+18.3,WD Parnell,SP Narine,AD Mathews,1,run out
+18.4,B Kumar,SP Narine,AD Mathews,0,Not out
+18.5,B Kumar,SP Narine,AD Mathews,2,Not out
+18.6,B Kumar,SP Narine,AD Mathews,0,Not out
+19.1,AD Mathews,M de Lange,B Kumar,1,Not out
+19.2,B Kumar,M de Lange,AD Mathews,4,Not out
+19.3,B Kumar,M de Lange,AD Mathews,1,Not out
+19.4,AD Mathews,M de Lange,B Kumar,0,caught
+19.5,B Kumar,M de Lange,M Kartik,4,Not out
+19.6,B Kumar,M de Lange,M Kartik,0,Not out

@@ -1,0 +1,114 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,SR Tendulkar,A Chandila,RT Ponting,1,Not out
+0.2,RT Ponting,A Chandila,SR Tendulkar,1,Not out
+0.3,SR Tendulkar,A Chandila,RT Ponting,0,Not out
+0.4,SR Tendulkar,A Chandila,RT Ponting,0,caught
+0.5,RT Ponting,A Chandila,KD Karthik,0,Not out
+0.6,RT Ponting,A Chandila,KD Karthik,0,Not out
+1.1,KD Karthik,AA Chavan,RT Ponting,1,Not out
+1.2,RT Ponting,AA Chavan,KD Karthik,0,Not out
+1.3,RT Ponting,AA Chavan,KD Karthik,0,Not out
+1.4,RT Ponting,AA Chavan,KD Karthik,1,Not out
+1.5,KD Karthik,AA Chavan,RT Ponting,0,Not out
+1.6,KD Karthik,AA Chavan,RT Ponting,0,Not out
+2.1,RT Ponting,A Chandila,KD Karthik,1,Not out
+2.2,KD Karthik,A Chandila,RT Ponting,1,Not out
+2.3,RT Ponting,A Chandila,KD Karthik,1,Not out
+2.4,KD Karthik,A Chandila,RT Ponting,1,Not out
+2.5,RT Ponting,A Chandila,KD Karthik,0,caught and bowled
+2.6,RG Sharma,A Chandila,KD Karthik,0,Not out
+3.1,KD Karthik,AA Chavan,RG Sharma,0,Not out
+3.2,KD Karthik,AA Chavan,RG Sharma,0,Not out
+3.3,KD Karthik,AA Chavan,RG Sharma,0,Not out
+3.4,KD Karthik,AA Chavan,RG Sharma,0,Not out
+3.5,KD Karthik,AA Chavan,RG Sharma,0,Not out
+3.6,KD Karthik,AA Chavan,RG Sharma,4,Not out
+3.7,KD Karthik,AA Chavan,RG Sharma,1,Not out
+4.1,KD Karthik,JP Faulkner,RG Sharma,4,Not out
+4.2,KD Karthik,JP Faulkner,RG Sharma,0,Not out
+4.3,KD Karthik,JP Faulkner,RG Sharma,0,Not out
+4.4,RG Sharma,JP Faulkner,KD Karthik,1,Not out
+4.5,KD Karthik,JP Faulkner,RG Sharma,0,Not out
+4.6,KD Karthik,JP Faulkner,RG Sharma,1,Not out
+4.7,RG Sharma,JP Faulkner,KD Karthik,0,Not out
+5.1,KD Karthik,AA Chavan,RG Sharma,1,Not out
+5.2,RG Sharma,AA Chavan,KD Karthik,0,Not out
+5.3,RG Sharma,AA Chavan,KD Karthik,0,Not out
+5.4,RG Sharma,AA Chavan,KD Karthik,1,Not out
+5.5,KD Karthik,AA Chavan,RG Sharma,0,Not out
+5.6,KD Karthik,AA Chavan,RG Sharma,0,Not out
+6.1,RG Sharma,SK Trivedi,KD Karthik,0,caught
+6.2,KA Pollard,SK Trivedi,KD Karthik,0,Not out
+6.3,KA Pollard,SK Trivedi,KD Karthik,0,Not out
+6.4,KA Pollard,SK Trivedi,KD Karthik,0,Not out
+6.5,KA Pollard,SK Trivedi,KD Karthik,0,Not out
+6.6,KA Pollard,SK Trivedi,KD Karthik,0,Not out
+7.1,KD Karthik,STR Binny,KA Pollard,2,Not out
+7.2,KD Karthik,STR Binny,KA Pollard,1,Not out
+7.3,KA Pollard,STR Binny,KD Karthik,1,Not out
+7.4,KD Karthik,STR Binny,KA Pollard,1,Not out
+7.5,KA Pollard,STR Binny,KD Karthik,0,bowled
+7.6,AT Rayudu,STR Binny,KD Karthik,4,Not out
+8.1,KD Karthik,SK Trivedi,AT Rayudu,0,Not out
+8.2,KD Karthik,SK Trivedi,AT Rayudu,0,Not out
+8.3,AT Rayudu,SK Trivedi,KD Karthik,2,Not out
+8.4,AT Rayudu,SK Trivedi,KD Karthik,0,Not out
+8.5,AT Rayudu,SK Trivedi,KD Karthik,0,Not out
+8.6,AT Rayudu,SK Trivedi,KD Karthik,1,Not out
+9.1,AT Rayudu,STR Binny,KD Karthik,0,Not out
+9.2,AT Rayudu,STR Binny,KD Karthik,0,Not out
+9.3,AT Rayudu,STR Binny,KD Karthik,1,Not out
+9.4,KD Karthik,STR Binny,AT Rayudu,1,Not out
+9.5,AT Rayudu,STR Binny,KD Karthik,0,Not out
+9.6,AT Rayudu,STR Binny,KD Karthik,1,Not out
+10.1,AT Rayudu,SK Trivedi,KD Karthik,2,Not out
+10.2,AT Rayudu,SK Trivedi,KD Karthik,0,Not out
+10.3,AT Rayudu,SK Trivedi,KD Karthik,0,Not out
+10.4,AT Rayudu,SK Trivedi,KD Karthik,1,Not out
+10.5,KD Karthik,SK Trivedi,AT Rayudu,0,Not out
+10.6,KD Karthik,SK Trivedi,AT Rayudu,4,Not out
+11.1,AT Rayudu,KK Cooper,KD Karthik,2,Not out
+11.2,AT Rayudu,KK Cooper,KD Karthik,1,Not out
+11.3,KD Karthik,KK Cooper,AT Rayudu,2,Not out
+11.4,KD Karthik,KK Cooper,AT Rayudu,1,Not out
+11.5,AT Rayudu,KK Cooper,KD Karthik,1,Not out
+11.6,KD Karthik,KK Cooper,AT Rayudu,1,Not out
+12.1,KD Karthik,JP Faulkner,AT Rayudu,1,Not out
+12.2,AT Rayudu,JP Faulkner,KD Karthik,1,Not out
+12.3,KD Karthik,JP Faulkner,AT Rayudu,2,Not out
+12.4,KD Karthik,JP Faulkner,AT Rayudu,0,caught
+12.5,AT Rayudu,JP Faulkner,R Dhawan,0,Not out
+12.6,AT Rayudu,JP Faulkner,R Dhawan,1,Not out
+13.1,AT Rayudu,STR Binny,R Dhawan,1,Not out
+13.2,R Dhawan,STR Binny,AT Rayudu,0,caught
+13.3,Harbhajan Singh,STR Binny,AT Rayudu,1,Not out
+13.4,AT Rayudu,STR Binny,Harbhajan Singh,0,Not out
+13.5,AT Rayudu,STR Binny,Harbhajan Singh,0,run out
+13.6,MG Johnson,STR Binny,AT Rayudu,0,Not out
+14.1,AT Rayudu,SK Trivedi,MG Johnson,1,Not out
+14.2,MG Johnson,SK Trivedi,AT Rayudu,0,Not out
+14.3,MG Johnson,SK Trivedi,AT Rayudu,0,Not out
+14.4,MG Johnson,SK Trivedi,AT Rayudu,4,Not out
+14.5,MG Johnson,SK Trivedi,AT Rayudu,1,Not out
+14.6,AT Rayudu,SK Trivedi,MG Johnson,1,Not out
+15.1,AT Rayudu,KK Cooper,MG Johnson,1,Not out
+15.2,MG Johnson,KK Cooper,AT Rayudu,1,Not out
+15.3,AT Rayudu,KK Cooper,MG Johnson,4,Not out
+15.4,AT Rayudu,KK Cooper,MG Johnson,1,Not out
+15.5,MG Johnson,KK Cooper,AT Rayudu,4,Not out
+15.6,MG Johnson,KK Cooper,AT Rayudu,1,Not out
+16.1,MG Johnson,JP Faulkner,AT Rayudu,0,bowled
+16.2,SL Malinga,JP Faulkner,AT Rayudu,0,Not out
+16.3,SL Malinga,JP Faulkner,AT Rayudu,0,Not out
+16.4,SL Malinga,JP Faulkner,AT Rayudu,0,Not out
+16.5,SL Malinga,JP Faulkner,AT Rayudu,0,Not out
+16.6,SL Malinga,JP Faulkner,AT Rayudu,0,Not out
+17.1,AT Rayudu,KK Cooper,SL Malinga,0,lbw
+17.2,PP Ojha,KK Cooper,SL Malinga,1,Not out
+17.3,SL Malinga,KK Cooper,PP Ojha,0,Not out
+17.4,SL Malinga,KK Cooper,PP Ojha,2,Not out
+17.5,SL Malinga,KK Cooper,PP Ojha,0,Not out
+17.6,SL Malinga,KK Cooper,PP Ojha,0,Not out
+17.7,SL Malinga,KK Cooper,PP Ojha,1,Not out
+18.1,SL Malinga,JP Faulkner,PP Ojha,4,Not out
+18.2,SL Malinga,JP Faulkner,PP Ojha,0,bowled

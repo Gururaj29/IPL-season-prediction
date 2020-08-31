@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,CH Gayle,B Kumar,V Kohli,0,Not out
+0.2,CH Gayle,B Kumar,V Kohli,0,Not out
+0.3,V Kohli,B Kumar,CH Gayle,0,Not out
+0.4,V Kohli,B Kumar,CH Gayle,0,Not out
+0.5,V Kohli,B Kumar,CH Gayle,4,Not out
+0.6,V Kohli,B Kumar,CH Gayle,0,Not out
+1.1,CH Gayle,BB Sran,V Kohli,0,Not out
+1.2,CH Gayle,BB Sran,V Kohli,0,Not out
+1.3,CH Gayle,BB Sran,V Kohli,2,Not out
+1.4,CH Gayle,BB Sran,V Kohli,6,Not out
+1.5,CH Gayle,BB Sran,V Kohli,0,Not out
+1.6,CH Gayle,BB Sran,V Kohli,0,Not out
+1.7,CH Gayle,BB Sran,V Kohli,2,Not out
+1.8,CH Gayle,BB Sran,V Kohli,1,Not out
+2.1,CH Gayle,B Kumar,V Kohli,0,Not out
+2.2,CH Gayle,B Kumar,V Kohli,0,Not out
+2.3,V Kohli,B Kumar,CH Gayle,0,Not out
+2.4,V Kohli,B Kumar,CH Gayle,1,Not out
+2.5,CH Gayle,B Kumar,V Kohli,4,Not out
+2.6,CH Gayle,B Kumar,V Kohli,0,Not out
+2.7,CH Gayle,B Kumar,V Kohli,1,Not out
+3.1,CH Gayle,BB Sran,V Kohli,0,Not out
+3.2,CH Gayle,BB Sran,V Kohli,6,Not out
+3.3,CH Gayle,BB Sran,V Kohli,0,Not out
+3.4,CH Gayle,BB Sran,V Kohli,0,Not out
+3.5,CH Gayle,BB Sran,V Kohli,4,Not out
+3.6,CH Gayle,BB Sran,V Kohli,6,Not out
+4.1,V Kohli,BCJ Cutting,CH Gayle,0,Not out
+4.2,V Kohli,BCJ Cutting,CH Gayle,1,Not out
+4.3,CH Gayle,BCJ Cutting,V Kohli,6,Not out
+4.4,CH Gayle,BCJ Cutting,V Kohli,4,Not out
+4.5,CH Gayle,BCJ Cutting,V Kohli,1,Not out
+4.6,V Kohli,BCJ Cutting,CH Gayle,1,Not out
+5.1,V Kohli,Mustafizur Rahman,CH Gayle,0,Not out
+5.2,V Kohli,Mustafizur Rahman,CH Gayle,0,Not out
+5.3,V Kohli,Mustafizur Rahman,CH Gayle,1,Not out
+5.4,CH Gayle,Mustafizur Rahman,V Kohli,0,Not out
+5.5,CH Gayle,Mustafizur Rahman,V Kohli,1,Not out
+5.6,V Kohli,Mustafizur Rahman,CH Gayle,2,Not out
+6.1,CH Gayle,MC Henriques,V Kohli,6,Not out
+6.2,CH Gayle,MC Henriques,V Kohli,0,Not out
+6.3,CH Gayle,MC Henriques,V Kohli,1,Not out
+6.4,V Kohli,MC Henriques,CH Gayle,0,Not out
+6.5,V Kohli,MC Henriques,CH Gayle,2,Not out
+6.6,V Kohli,MC Henriques,CH Gayle,1,Not out
+7.1,V Kohli,BCJ Cutting,CH Gayle,0,Not out
+7.2,V Kohli,BCJ Cutting,CH Gayle,1,Not out
+7.3,CH Gayle,BCJ Cutting,V Kohli,0,Not out
+7.4,CH Gayle,BCJ Cutting,V Kohli,6,Not out
+7.5,CH Gayle,BCJ Cutting,V Kohli,0,Not out
+7.6,CH Gayle,BCJ Cutting,V Kohli,1,Not out
+7.7,V Kohli,BCJ Cutting,CH Gayle,1,Not out
+8.1,V Kohli,MC Henriques,CH Gayle,4,Not out
+8.2,V Kohli,MC Henriques,CH Gayle,1,Not out
+8.3,CH Gayle,MC Henriques,V Kohli,0,Not out
+8.4,CH Gayle,MC Henriques,V Kohli,6,Not out
+8.5,CH Gayle,MC Henriques,V Kohli,6,Not out
+8.6,CH Gayle,MC Henriques,V Kohli,4,Not out
+9.1,V Kohli,Mustafizur Rahman,CH Gayle,4,Not out
+9.2,V Kohli,Mustafizur Rahman,CH Gayle,6,Not out
+9.3,V Kohli,Mustafizur Rahman,CH Gayle,1,Not out
+9.4,CH Gayle,Mustafizur Rahman,V Kohli,0,Not out
+9.5,CH Gayle,Mustafizur Rahman,V Kohli,1,Not out
+9.6,V Kohli,Mustafizur Rahman,CH Gayle,0,Not out
+10.1,CH Gayle,BCJ Cutting,V Kohli,1,Not out
+10.2,V Kohli,BCJ Cutting,CH Gayle,1,Not out
+10.3,CH Gayle,BCJ Cutting,V Kohli,0,caught
+10.4,V Kohli,BCJ Cutting,AB de Villiers,4,Not out
+10.5,V Kohli,BCJ Cutting,AB de Villiers,2,Not out
+10.6,V Kohli,BCJ Cutting,AB de Villiers,0,Not out
+11.1,AB de Villiers,Bipul Sharma,V Kohli,1,Not out
+11.2,V Kohli,Bipul Sharma,AB de Villiers,4,Not out
+11.3,V Kohli,Bipul Sharma,AB de Villiers,1,Not out
+11.4,AB de Villiers,Bipul Sharma,V Kohli,1,Not out
+11.5,V Kohli,Bipul Sharma,AB de Villiers,1,Not out
+11.6,AB de Villiers,Bipul Sharma,V Kohli,1,Not out
+12.1,AB de Villiers,BB Sran,V Kohli,1,Not out
+12.2,V Kohli,BB Sran,AB de Villiers,6,Not out
+12.3,V Kohli,BB Sran,AB de Villiers,2,Not out
+12.4,V Kohli,BB Sran,AB de Villiers,2,Not out
+12.5,V Kohli,BB Sran,AB de Villiers,0,bowled
+12.6,KL Rahul,BB Sran,AB de Villiers,1,Not out
+13.1,KL Rahul,Bipul Sharma,AB de Villiers,4,Not out
+13.2,KL Rahul,Bipul Sharma,AB de Villiers,1,Not out
+13.3,AB de Villiers,Bipul Sharma,KL Rahul,1,Not out
+13.4,KL Rahul,Bipul Sharma,AB de Villiers,1,Not out
+13.5,AB de Villiers,Bipul Sharma,KL Rahul,0,caught
+13.6,KL Rahul,Bipul Sharma,SR Watson,1,Not out
+14.1,KL Rahul,MC Henriques,SR Watson,1,Not out
+14.2,SR Watson,MC Henriques,KL Rahul,1,Not out
+14.3,KL Rahul,MC Henriques,SR Watson,1,Not out
+14.4,SR Watson,MC Henriques,KL Rahul,0,Not out
+14.5,SR Watson,MC Henriques,KL Rahul,6,Not out
+14.6,SR Watson,MC Henriques,KL Rahul,0,Not out
+15.1,KL Rahul,BCJ Cutting,SR Watson,1,Not out
+15.2,SR Watson,BCJ Cutting,KL Rahul,1,Not out
+15.3,KL Rahul,BCJ Cutting,SR Watson,0,bowled
+15.4,Sachin Baby,BCJ Cutting,SR Watson,0,Not out
+15.5,Sachin Baby,BCJ Cutting,SR Watson,1,Not out
+15.6,SR Watson,BCJ Cutting,Sachin Baby,1,Not out
+16.1,SR Watson,Mustafizur Rahman,Sachin Baby,0,Not out
+16.2,SR Watson,Mustafizur Rahman,Sachin Baby,2,Not out
+16.3,SR Watson,Mustafizur Rahman,Sachin Baby,0,caught
+16.4,Sachin Baby,Mustafizur Rahman,STR Binny,1,Not out
+16.5,STR Binny,Mustafizur Rahman,Sachin Baby,6,Not out
+16.6,STR Binny,Mustafizur Rahman,Sachin Baby,1,Not out
+17.1,STR Binny,B Kumar,Sachin Baby,0,Not out
+17.2,STR Binny,B Kumar,Sachin Baby,1,Not out
+17.3,Sachin Baby,B Kumar,STR Binny,1,Not out
+17.4,STR Binny,B Kumar,Sachin Baby,0,Not out
+17.5,STR Binny,B Kumar,Sachin Baby,0,Not out
+17.6,Sachin Baby,B Kumar,STR Binny,4,Not out
+18.1,STR Binny,Mustafizur Rahman,Sachin Baby,1,run out
+18.2,CJ Jordan,Mustafizur Rahman,Sachin Baby,2,Not out
+18.3,CJ Jordan,Mustafizur Rahman,Sachin Baby,0,Not out
+18.4,CJ Jordan,Mustafizur Rahman,Sachin Baby,0,Not out
+18.5,Sachin Baby,Mustafizur Rahman,CJ Jordan,2,Not out
+18.6,Sachin Baby,Mustafizur Rahman,CJ Jordan,6,Not out
+19.1,CJ Jordan,B Kumar,Sachin Baby,1,Not out
+19.2,Sachin Baby,B Kumar,CJ Jordan,2,Not out
+19.3,Sachin Baby,B Kumar,CJ Jordan,0,run out
+19.4,Iqbal Abdulla,B Kumar,Sachin Baby,0,Not out
+19.5,Sachin Baby,B Kumar,Iqbal Abdulla,1,Not out
+19.6,Iqbal Abdulla,B Kumar,Sachin Baby,4,Not out

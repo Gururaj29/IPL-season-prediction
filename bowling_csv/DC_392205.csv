@@ -1,0 +1,123 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,GC Smith,FH Edwards,SA Asnodkar,0,Not out
+0.2,GC Smith,FH Edwards,SA Asnodkar,0,caught
+0.3,SA Asnodkar,FH Edwards,LA Carseldine,0,Not out
+0.4,SA Asnodkar,FH Edwards,LA Carseldine,0,run out
+0.5,LA Carseldine,FH Edwards,NV Ojha,2,Not out
+0.6,LA Carseldine,FH Edwards,NV Ojha,0,Not out
+0.7,LA Carseldine,FH Edwards,NV Ojha,0,Not out
+1.1,NV Ojha,RP Singh,LA Carseldine,0,Not out
+1.2,NV Ojha,RP Singh,LA Carseldine,0,Not out
+1.3,NV Ojha,RP Singh,LA Carseldine,0,Not out
+1.4,NV Ojha,RP Singh,LA Carseldine,0,Not out
+1.5,NV Ojha,RP Singh,LA Carseldine,0,Not out
+1.6,NV Ojha,RP Singh,LA Carseldine,0,caught
+2.1,LA Carseldine,FH Edwards,RA Jadeja,0,Not out
+2.2,LA Carseldine,FH Edwards,RA Jadeja,0,Not out
+2.3,LA Carseldine,FH Edwards,RA Jadeja,0,Not out
+2.4,LA Carseldine,FH Edwards,RA Jadeja,2,Not out
+2.5,LA Carseldine,FH Edwards,RA Jadeja,0,Not out
+2.6,LA Carseldine,FH Edwards,RA Jadeja,0,Not out
+3.1,RA Jadeja,RP Singh,LA Carseldine,0,Not out
+3.2,RA Jadeja,RP Singh,LA Carseldine,2,Not out
+3.3,RA Jadeja,RP Singh,LA Carseldine,0,Not out
+3.4,RA Jadeja,RP Singh,LA Carseldine,0,Not out
+3.5,RA Jadeja,RP Singh,LA Carseldine,0,Not out
+3.6,RA Jadeja,RP Singh,LA Carseldine,0,Not out
+4.1,LA Carseldine,DR Smith,RA Jadeja,4,Not out
+4.2,LA Carseldine,DR Smith,RA Jadeja,0,Not out
+4.3,LA Carseldine,DR Smith,RA Jadeja,0,Not out
+4.4,LA Carseldine,DR Smith,RA Jadeja,4,Not out
+4.5,LA Carseldine,DR Smith,RA Jadeja,4,Not out
+4.6,LA Carseldine,DR Smith,RA Jadeja,1,Not out
+5.1,LA Carseldine,RP Singh,RA Jadeja,0,Not out
+5.2,LA Carseldine,RP Singh,RA Jadeja,4,Not out
+5.3,LA Carseldine,RP Singh,RA Jadeja,0,Not out
+5.4,LA Carseldine,RP Singh,RA Jadeja,0,Not out
+5.5,LA Carseldine,RP Singh,RA Jadeja,4,Not out
+5.6,LA Carseldine,RP Singh,RA Jadeja,0,Not out
+5.7,LA Carseldine,RP Singh,RA Jadeja,1,Not out
+6.1,LA Carseldine,RG Sharma,RA Jadeja,2,Not out
+6.2,LA Carseldine,RG Sharma,RA Jadeja,1,Not out
+6.3,RA Jadeja,RG Sharma,LA Carseldine,0,Not out
+6.4,RA Jadeja,RG Sharma,LA Carseldine,0,Not out
+6.5,RA Jadeja,RG Sharma,LA Carseldine,1,Not out
+6.6,LA Carseldine,RG Sharma,RA Jadeja,1,Not out
+7.1,LA Carseldine,PP Ojha,RA Jadeja,1,Not out
+7.2,RA Jadeja,PP Ojha,LA Carseldine,1,Not out
+7.3,LA Carseldine,PP Ojha,RA Jadeja,0,Not out
+7.4,LA Carseldine,PP Ojha,RA Jadeja,1,Not out
+7.5,RA Jadeja,PP Ojha,LA Carseldine,6,Not out
+7.6,RA Jadeja,PP Ojha,LA Carseldine,0,Not out
+7.7,RA Jadeja,PP Ojha,LA Carseldine,0,Not out
+8.1,LA Carseldine,RG Sharma,RA Jadeja,1,Not out
+8.2,RA Jadeja,RG Sharma,LA Carseldine,0,Not out
+8.3,RA Jadeja,RG Sharma,LA Carseldine,1,Not out
+8.4,LA Carseldine,RG Sharma,RA Jadeja,4,Not out
+8.5,LA Carseldine,RG Sharma,RA Jadeja,0,Not out
+8.6,LA Carseldine,RG Sharma,RA Jadeja,1,Not out
+8.7,RA Jadeja,RG Sharma,LA Carseldine,1,Not out
+9.1,RA Jadeja,Y Venugopal Rao,LA Carseldine,0,caught
+9.2,SK Warne,Y Venugopal Rao,LA Carseldine,1,Not out
+9.3,LA Carseldine,Y Venugopal Rao,SK Warne,1,Not out
+9.4,SK Warne,Y Venugopal Rao,LA Carseldine,1,Not out
+9.5,LA Carseldine,Y Venugopal Rao,SK Warne,0,lbw
+9.6,AS Raut,Y Venugopal Rao,SK Warne,3,Not out
+10.1,AS Raut,PP Ojha,SK Warne,1,Not out
+10.2,SK Warne,PP Ojha,AS Raut,1,Not out
+10.3,AS Raut,PP Ojha,SK Warne,4,Not out
+10.4,AS Raut,PP Ojha,SK Warne,1,Not out
+10.5,SK Warne,PP Ojha,AS Raut,0,Not out
+10.6,SK Warne,PP Ojha,AS Raut,1,Not out
+11.1,SK Warne,Y Venugopal Rao,AS Raut,6,Not out
+11.2,SK Warne,Y Venugopal Rao,AS Raut,0,Not out
+11.3,SK Warne,Y Venugopal Rao,AS Raut,6,Not out
+11.4,SK Warne,Y Venugopal Rao,AS Raut,1,Not out
+11.5,AS Raut,Y Venugopal Rao,SK Warne,4,Not out
+11.6,AS Raut,Y Venugopal Rao,SK Warne,0,Not out
+12.1,SK Warne,PP Ojha,AS Raut,1,Not out
+12.2,AS Raut,PP Ojha,SK Warne,1,Not out
+12.3,SK Warne,PP Ojha,AS Raut,1,Not out
+12.4,AS Raut,PP Ojha,SK Warne,1,Not out
+12.5,SK Warne,PP Ojha,AS Raut,0,Not out
+12.6,SK Warne,PP Ojha,AS Raut,0,Not out
+13.1,AS Raut,Shoaib Ahmed,SK Warne,0,Not out
+13.2,AS Raut,Shoaib Ahmed,SK Warne,1,Not out
+13.3,SK Warne,Shoaib Ahmed,AS Raut,0,Not out
+13.4,SK Warne,Shoaib Ahmed,AS Raut,1,Not out
+13.5,AS Raut,Shoaib Ahmed,SK Warne,1,Not out
+13.6,SK Warne,Shoaib Ahmed,AS Raut,1,Not out
+14.1,SK Warne,PP Ojha,AS Raut,0,caught
+14.2,AS Raut,PP Ojha,YK Pathan,1,Not out
+14.3,YK Pathan,PP Ojha,AS Raut,4,Not out
+14.4,YK Pathan,PP Ojha,AS Raut,0,Not out
+14.5,YK Pathan,PP Ojha,AS Raut,0,Not out
+14.6,YK Pathan,PP Ojha,AS Raut,0,Not out
+15.1,AS Raut,Shoaib Ahmed,YK Pathan,1,Not out
+15.2,YK Pathan,Shoaib Ahmed,AS Raut,1,Not out
+15.3,AS Raut,Shoaib Ahmed,YK Pathan,1,Not out
+15.4,YK Pathan,Shoaib Ahmed,AS Raut,6,Not out
+15.5,YK Pathan,Shoaib Ahmed,AS Raut,6,Not out
+15.6,YK Pathan,Shoaib Ahmed,AS Raut,0,Not out
+16.1,AS Raut,FH Edwards,YK Pathan,1,Not out
+16.2,YK Pathan,FH Edwards,AS Raut,0,Not out
+16.3,AS Raut,FH Edwards,YK Pathan,4,Not out
+16.4,AS Raut,FH Edwards,YK Pathan,1,Not out
+16.5,YK Pathan,FH Edwards,AS Raut,4,Not out
+16.6,YK Pathan,FH Edwards,AS Raut,1,Not out
+17.1,YK Pathan,RP Singh,AS Raut,1,Not out
+17.2,AS Raut,RP Singh,YK Pathan,2,Not out
+17.3,AS Raut,RP Singh,YK Pathan,1,Not out
+17.4,YK Pathan,RP Singh,AS Raut,1,Not out
+17.5,AS Raut,RP Singh,YK Pathan,1,Not out
+17.6,YK Pathan,RP Singh,AS Raut,0,caught
+18.1,SM Harwood,DR Smith,AS Raut,0,Not out
+18.2,AS Raut,DR Smith,SM Harwood,1,Not out
+18.3,SM Harwood,DR Smith,AS Raut,2,Not out
+18.4,SM Harwood,DR Smith,AS Raut,0,Not out
+18.5,SM Harwood,DR Smith,AS Raut,1,Not out
+18.6,AS Raut,DR Smith,SM Harwood,4,Not out
+19.1,SM Harwood,FH Edwards,AS Raut,0,Not out
+19.2,SM Harwood,FH Edwards,AS Raut,0,Not out
+19.3,SM Harwood,FH Edwards,AS Raut,0,Not out
+19.4,AS Raut,FH Edwards,SM Harwood,1,Not out

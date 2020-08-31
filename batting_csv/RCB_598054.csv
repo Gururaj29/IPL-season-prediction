@@ -1,0 +1,125 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,CA Pujara,M Morkel,CH Gayle,1,Not out
+0.2,CH Gayle,M Morkel,CA Pujara,0,Not out
+0.3,CH Gayle,M Morkel,CA Pujara,0,Not out
+0.4,CH Gayle,M Morkel,CA Pujara,0,Not out
+0.5,CH Gayle,M Morkel,CA Pujara,0,Not out
+0.6,CH Gayle,M Morkel,CA Pujara,0,Not out
+1.1,CA Pujara,IK Pathan,CH Gayle,0,Not out
+1.2,CA Pujara,IK Pathan,CH Gayle,0,Not out
+1.3,CA Pujara,IK Pathan,CH Gayle,0,Not out
+1.4,CA Pujara,IK Pathan,CH Gayle,1,Not out
+1.5,CH Gayle,IK Pathan,CA Pujara,4,Not out
+1.6,CH Gayle,IK Pathan,CA Pujara,0,bowled
+2.1,CA Pujara,M Morkel,V Kohli,4,Not out
+2.2,CA Pujara,M Morkel,V Kohli,1,Not out
+2.3,V Kohli,M Morkel,CA Pujara,0,Not out
+2.4,V Kohli,M Morkel,CA Pujara,0,Not out
+2.5,V Kohli,M Morkel,CA Pujara,4,Not out
+2.6,V Kohli,M Morkel,CA Pujara,0,Not out
+2.7,V Kohli,M Morkel,CA Pujara,0,Not out
+3.1,CA Pujara,IK Pathan,V Kohli,2,Not out
+3.2,CA Pujara,IK Pathan,V Kohli,0,Not out
+3.3,CA Pujara,IK Pathan,V Kohli,0,Not out
+3.4,CA Pujara,IK Pathan,V Kohli,0,Not out
+3.5,CA Pujara,IK Pathan,V Kohli,0,Not out
+3.6,CA Pujara,IK Pathan,V Kohli,0,Not out
+3.7,CA Pujara,IK Pathan,V Kohli,4,Not out
+4.1,V Kohli,S Kaul,CA Pujara,4,Not out
+4.2,V Kohli,S Kaul,CA Pujara,1,Not out
+4.3,CA Pujara,S Kaul,V Kohli,0,Not out
+4.4,CA Pujara,S Kaul,V Kohli,0,Not out
+4.5,CA Pujara,S Kaul,V Kohli,4,Not out
+4.6,CA Pujara,S Kaul,V Kohli,0,bowled
+5.1,V Kohli,UT Yadav,MC Henriques,0,Not out
+5.2,V Kohli,UT Yadav,MC Henriques,1,Not out
+5.3,MC Henriques,UT Yadav,V Kohli,0,Not out
+5.4,MC Henriques,UT Yadav,V Kohli,2,Not out
+5.5,MC Henriques,UT Yadav,V Kohli,1,Not out
+5.6,V Kohli,UT Yadav,MC Henriques,4,Not out
+6.1,MC Henriques,S Kaul,V Kohli,4,Not out
+6.2,MC Henriques,S Kaul,V Kohli,1,Not out
+6.3,V Kohli,S Kaul,MC Henriques,1,Not out
+6.4,MC Henriques,S Kaul,V Kohli,1,Not out
+6.5,V Kohli,S Kaul,MC Henriques,0,Not out
+6.6,V Kohli,S Kaul,MC Henriques,1,Not out
+7.1,V Kohli,S Nadeem,MC Henriques,0,Not out
+7.2,V Kohli,S Nadeem,MC Henriques,1,Not out
+7.3,MC Henriques,S Nadeem,V Kohli,4,Not out
+7.4,MC Henriques,S Nadeem,V Kohli,0,Not out
+7.5,MC Henriques,S Nadeem,V Kohli,1,Not out
+7.6,V Kohli,S Nadeem,MC Henriques,1,Not out
+8.1,V Kohli,UT Yadav,MC Henriques,4,Not out
+8.2,V Kohli,UT Yadav,MC Henriques,1,Not out
+8.3,MC Henriques,UT Yadav,V Kohli,1,Not out
+8.4,V Kohli,UT Yadav,MC Henriques,1,Not out
+8.5,MC Henriques,UT Yadav,V Kohli,1,Not out
+8.6,V Kohli,UT Yadav,MC Henriques,0,Not out
+8.7,V Kohli,UT Yadav,MC Henriques,1,Not out
+9.1,V Kohli,S Nadeem,MC Henriques,1,Not out
+9.2,MC Henriques,S Nadeem,V Kohli,1,Not out
+9.3,V Kohli,S Nadeem,MC Henriques,2,Not out
+9.4,V Kohli,S Nadeem,MC Henriques,1,Not out
+9.5,MC Henriques,S Nadeem,V Kohli,4,Not out
+9.6,MC Henriques,S Nadeem,V Kohli,0,Not out
+10.1,V Kohli,IK Pathan,MC Henriques,1,Not out
+10.2,MC Henriques,IK Pathan,V Kohli,1,Not out
+10.3,V Kohli,IK Pathan,MC Henriques,1,Not out
+10.4,MC Henriques,IK Pathan,V Kohli,1,Not out
+10.5,V Kohli,IK Pathan,MC Henriques,1,Not out
+10.6,MC Henriques,IK Pathan,V Kohli,0,Not out
+11.1,V Kohli,S Nadeem,MC Henriques,0,Not out
+11.2,V Kohli,S Nadeem,MC Henriques,0,Not out
+11.3,V Kohli,S Nadeem,MC Henriques,0,Not out
+11.4,V Kohli,S Nadeem,MC Henriques,0,Not out
+11.5,V Kohli,S Nadeem,MC Henriques,1,Not out
+11.6,MC Henriques,S Nadeem,V Kohli,0,Not out
+11.7,V Kohli,S Nadeem,MC Henriques,1,Not out
+12.1,V Kohli,M Morkel,MC Henriques,0,Not out
+12.2,V Kohli,M Morkel,MC Henriques,1,Not out
+12.3,MC Henriques,M Morkel,V Kohli,0,Not out
+12.4,MC Henriques,M Morkel,V Kohli,2,Not out
+12.5,MC Henriques,M Morkel,V Kohli,1,Not out
+12.6,V Kohli,M Morkel,MC Henriques,2,Not out
+13.1,MC Henriques,S Nadeem,V Kohli,0,Not out
+13.2,MC Henriques,S Nadeem,V Kohli,0,caught and bowled
+13.3,AB de Villiers,S Nadeem,V Kohli,1,Not out
+13.4,V Kohli,S Nadeem,AB de Villiers,1,Not out
+13.5,AB de Villiers,S Nadeem,V Kohli,0,Not out
+13.6,AB de Villiers,S Nadeem,V Kohli,1,Not out
+14.1,AB de Villiers,IK Pathan,V Kohli,1,Not out
+14.2,V Kohli,IK Pathan,AB de Villiers,0,Not out
+14.3,V Kohli,IK Pathan,AB de Villiers,4,Not out
+14.4,V Kohli,IK Pathan,AB de Villiers,0,Not out
+14.5,V Kohli,IK Pathan,AB de Villiers,1,Not out
+14.6,AB de Villiers,IK Pathan,V Kohli,1,Not out
+15.1,AB de Villiers,S Kaul,V Kohli,1,Not out
+15.2,V Kohli,S Kaul,AB de Villiers,1,Not out
+15.3,AB de Villiers,S Kaul,V Kohli,1,Not out
+15.4,V Kohli,S Kaul,AB de Villiers,2,Not out
+15.5,V Kohli,S Kaul,AB de Villiers,1,Not out
+15.6,AB de Villiers,S Kaul,V Kohli,1,Not out
+16.1,AB de Villiers,M Morkel,V Kohli,6,Not out
+16.2,AB de Villiers,M Morkel,V Kohli,1,Not out
+16.3,V Kohli,M Morkel,AB de Villiers,4,Not out
+16.4,V Kohli,M Morkel,AB de Villiers,2,Not out
+16.5,V Kohli,M Morkel,AB de Villiers,4,Not out
+16.6,V Kohli,M Morkel,AB de Villiers,1,Not out
+17.1,V Kohli,UT Yadav,AB de Villiers,1,Not out
+17.2,AB de Villiers,UT Yadav,V Kohli,6,Not out
+17.3,AB de Villiers,UT Yadav,V Kohli,1,Not out
+17.4,V Kohli,UT Yadav,AB de Villiers,6,Not out
+17.5,V Kohli,UT Yadav,AB de Villiers,4,Not out
+17.6,V Kohli,UT Yadav,AB de Villiers,6,Not out
+18.1,AB de Villiers,S Kaul,V Kohli,4,Not out
+18.2,AB de Villiers,S Kaul,V Kohli,0,Not out
+18.3,AB de Villiers,S Kaul,V Kohli,4,Not out
+18.4,AB de Villiers,S Kaul,V Kohli,2,Not out
+18.5,AB de Villiers,S Kaul,V Kohli,1,Not out
+18.6,V Kohli,S Kaul,AB de Villiers,1,Not out
+19.1,V Kohli,UT Yadav,AB de Villiers,2,Not out
+19.2,V Kohli,UT Yadav,AB de Villiers,4,Not out
+19.3,V Kohli,UT Yadav,AB de Villiers,4,Not out
+19.4,V Kohli,UT Yadav,AB de Villiers,6,Not out
+19.5,V Kohli,UT Yadav,AB de Villiers,6,Not out
+19.6,V Kohli,UT Yadav,AB de Villiers,1,run out

@@ -1,0 +1,124 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,Q de Kock,MM Sharma,S Dhawan,0,Not out
+0.2,Q de Kock,MM Sharma,S Dhawan,4,Not out
+0.3,Q de Kock,MM Sharma,S Dhawan,0,caught
+0.4,GH Vihari,MM Sharma,S Dhawan,0,Not out
+0.5,GH Vihari,MM Sharma,S Dhawan,1,Not out
+0.6,S Dhawan,MM Sharma,GH Vihari,1,Not out
+1.1,S Dhawan,JO Holder,GH Vihari,0,Not out
+1.2,S Dhawan,JO Holder,GH Vihari,0,Not out
+1.3,S Dhawan,JO Holder,GH Vihari,0,Not out
+1.4,S Dhawan,JO Holder,GH Vihari,1,Not out
+1.5,GH Vihari,JO Holder,S Dhawan,1,Not out
+1.6,S Dhawan,JO Holder,GH Vihari,0,Not out
+1.7,S Dhawan,JO Holder,GH Vihari,2,Not out
+1.8,S Dhawan,JO Holder,GH Vihari,0,run out
+2.1,S Dhawan,MM Sharma,CL White,0,Not out
+2.2,S Dhawan,MM Sharma,CL White,0,Not out
+2.3,S Dhawan,MM Sharma,CL White,0,Not out
+2.4,S Dhawan,MM Sharma,CL White,0,Not out
+2.5,S Dhawan,MM Sharma,CL White,1,Not out
+2.6,CL White,MM Sharma,S Dhawan,0,Not out
+3.1,S Dhawan,JO Holder,CL White,0,Not out
+3.2,S Dhawan,JO Holder,CL White,4,Not out
+3.3,S Dhawan,JO Holder,CL White,0,Not out
+3.4,S Dhawan,JO Holder,CL White,4,Not out
+3.5,S Dhawan,JO Holder,CL White,1,Not out
+3.6,CL White,JO Holder,S Dhawan,2,Not out
+4.1,S Dhawan,MM Sharma,CL White,4,Not out
+4.2,S Dhawan,MM Sharma,CL White,0,Not out
+4.3,S Dhawan,MM Sharma,CL White,4,Not out
+4.4,S Dhawan,MM Sharma,CL White,1,Not out
+4.5,CL White,MM Sharma,S Dhawan,0,caught
+4.6,A Mishra,MM Sharma,S Dhawan,0,Not out
+5.1,S Dhawan,R Ashwin,A Mishra,1,Not out
+5.2,A Mishra,R Ashwin,S Dhawan,0,Not out
+5.3,A Mishra,R Ashwin,S Dhawan,0,Not out
+5.4,A Mishra,R Ashwin,S Dhawan,1,Not out
+5.5,S Dhawan,R Ashwin,A Mishra,1,Not out
+5.6,A Mishra,R Ashwin,S Dhawan,0,Not out
+6.1,S Dhawan,JO Holder,A Mishra,1,Not out
+6.2,A Mishra,JO Holder,S Dhawan,0,Not out
+6.3,A Mishra,JO Holder,S Dhawan,0,Not out
+6.4,A Mishra,JO Holder,S Dhawan,0,Not out
+6.5,A Mishra,JO Holder,S Dhawan,4,Not out
+6.6,A Mishra,JO Holder,S Dhawan,4,Not out
+7.1,S Dhawan,R Ashwin,A Mishra,1,Not out
+7.2,A Mishra,R Ashwin,S Dhawan,1,Not out
+7.3,S Dhawan,R Ashwin,A Mishra,1,Not out
+7.4,A Mishra,R Ashwin,S Dhawan,0,Not out
+7.5,A Mishra,R Ashwin,S Dhawan,1,Not out
+7.6,S Dhawan,R Ashwin,A Mishra,0,Not out
+8.1,A Mishra,CH Morris,S Dhawan,0,Not out
+8.2,A Mishra,CH Morris,S Dhawan,1,Not out
+8.3,S Dhawan,CH Morris,A Mishra,1,Not out
+8.4,A Mishra,CH Morris,S Dhawan,0,Not out
+8.5,A Mishra,CH Morris,S Dhawan,0,Not out
+8.6,A Mishra,CH Morris,S Dhawan,2,Not out
+9.1,S Dhawan,R Ashwin,A Mishra,0,Not out
+9.2,A Mishra,R Ashwin,S Dhawan,0,Not out
+9.3,A Mishra,R Ashwin,S Dhawan,1,Not out
+9.4,S Dhawan,R Ashwin,A Mishra,0,Not out
+9.5,S Dhawan,R Ashwin,A Mishra,1,Not out
+9.6,A Mishra,R Ashwin,S Dhawan,0,caught
+9.7,S Dhawan,R Ashwin,X Thalaivan Sargunam,1,Not out
+10.1,S Dhawan,CH Morris,X Thalaivan Sargunam,1,Not out
+10.2,X Thalaivan Sargunam,CH Morris,S Dhawan,0,Not out
+10.3,X Thalaivan Sargunam,CH Morris,S Dhawan,2,Not out
+10.4,X Thalaivan Sargunam,CH Morris,S Dhawan,0,Not out
+10.5,X Thalaivan Sargunam,CH Morris,S Dhawan,1,Not out
+10.6,S Dhawan,CH Morris,X Thalaivan Sargunam,1,Not out
+11.1,S Dhawan,R Ashwin,X Thalaivan Sargunam,4,Not out
+11.2,S Dhawan,R Ashwin,X Thalaivan Sargunam,1,Not out
+11.3,X Thalaivan Sargunam,R Ashwin,S Dhawan,0,Not out
+11.4,X Thalaivan Sargunam,R Ashwin,S Dhawan,0,Not out
+11.5,X Thalaivan Sargunam,R Ashwin,S Dhawan,1,Not out
+11.6,S Dhawan,R Ashwin,X Thalaivan Sargunam,4,Not out
+12.1,X Thalaivan Sargunam,JO Holder,S Dhawan,1,Not out
+12.2,S Dhawan,JO Holder,X Thalaivan Sargunam,1,Not out
+12.3,X Thalaivan Sargunam,JO Holder,S Dhawan,0,Not out
+12.4,X Thalaivan Sargunam,JO Holder,S Dhawan,1,Not out
+12.5,S Dhawan,JO Holder,X Thalaivan Sargunam,1,Not out
+12.6,X Thalaivan Sargunam,JO Holder,S Dhawan,1,Not out
+13.1,X Thalaivan Sargunam,DJ Bravo,S Dhawan,0,Not out
+13.2,X Thalaivan Sargunam,DJ Bravo,S Dhawan,1,Not out
+13.3,S Dhawan,DJ Bravo,X Thalaivan Sargunam,0,Not out
+13.4,DJG Sammy,DJ Bravo,X Thalaivan Sargunam,4,Not out
+13.5,DJG Sammy,DJ Bravo,X Thalaivan Sargunam,1,Not out
+13.6,X Thalaivan Sargunam,DJ Bravo,DJG Sammy,0,Not out
+14.1,DJG Sammy,RA Jadeja,X Thalaivan Sargunam,0,Not out
+14.2,DJG Sammy,RA Jadeja,X Thalaivan Sargunam,6,Not out
+14.3,DJG Sammy,RA Jadeja,X Thalaivan Sargunam,0,Not out
+14.4,DJG Sammy,RA Jadeja,X Thalaivan Sargunam,0,Not out
+14.5,DJG Sammy,RA Jadeja,X Thalaivan Sargunam,2,Not out
+14.6,DJG Sammy,RA Jadeja,X Thalaivan Sargunam,0,Not out
+15.1,X Thalaivan Sargunam,DJ Bravo,DJG Sammy,2,Not out
+15.2,X Thalaivan Sargunam,DJ Bravo,DJG Sammy,0,Not out
+15.3,X Thalaivan Sargunam,DJ Bravo,DJG Sammy,0,caught and bowled
+15.4,DJG Sammy,DJ Bravo,A Ashish Reddy,1,Not out
+15.5,A Ashish Reddy,DJ Bravo,DJG Sammy,0,Not out
+15.6,A Ashish Reddy,DJ Bravo,DJG Sammy,1,Not out
+16.1,A Ashish Reddy,CH Morris,DJG Sammy,1,Not out
+16.2,DJG Sammy,CH Morris,A Ashish Reddy,4,Not out
+16.3,DJG Sammy,CH Morris,A Ashish Reddy,1,Not out
+16.4,A Ashish Reddy,CH Morris,DJG Sammy,6,Not out
+16.5,A Ashish Reddy,CH Morris,DJG Sammy,0,Not out
+16.6,A Ashish Reddy,CH Morris,DJG Sammy,3,Not out
+17.1,A Ashish Reddy,DJ Bravo,DJG Sammy,1,Not out
+17.2,DJG Sammy,DJ Bravo,A Ashish Reddy,0,caught
+17.3,S Dhawan,DJ Bravo,A Ashish Reddy,1,Not out
+17.4,A Ashish Reddy,DJ Bravo,S Dhawan,1,Not out
+17.5,S Dhawan,DJ Bravo,A Ashish Reddy,4,Not out
+17.6,S Dhawan,DJ Bravo,A Ashish Reddy,4,Not out
+18.1,A Ashish Reddy,MM Sharma,S Dhawan,6,Not out
+18.2,A Ashish Reddy,MM Sharma,S Dhawan,1,Not out
+18.3,S Dhawan,MM Sharma,A Ashish Reddy,0,Not out
+18.4,S Dhawan,MM Sharma,A Ashish Reddy,2,Not out
+18.5,S Dhawan,MM Sharma,A Ashish Reddy,4,Not out
+18.6,S Dhawan,MM Sharma,A Ashish Reddy,4,Not out
+19.1,A Ashish Reddy,DJ Bravo,S Dhawan,2,Not out
+19.2,A Ashish Reddy,DJ Bravo,S Dhawan,4,Not out
+19.3,A Ashish Reddy,DJ Bravo,S Dhawan,0,Not out
+19.4,A Ashish Reddy,DJ Bravo,S Dhawan,6,Not out
+19.5,A Ashish Reddy,DJ Bravo,S Dhawan,4,Not out
+19.6,A Ashish Reddy,DJ Bravo,S Dhawan,0,Not out

@@ -1,0 +1,98 @@
+ball_no,batsman,bowler,non_striker,runs,wicket_status
+0.1,SE Marsh,DW Steyn,JR Hopes,0,Not out
+0.2,JR Hopes,DW Steyn,SE Marsh,1,Not out
+0.3,SE Marsh,DW Steyn,JR Hopes,0,Not out
+0.4,SE Marsh,DW Steyn,JR Hopes,4,Not out
+0.5,SE Marsh,DW Steyn,JR Hopes,2,Not out
+0.6,SE Marsh,DW Steyn,JR Hopes,1,Not out
+0.7,JR Hopes,DW Steyn,SE Marsh,2,Not out
+1.1,SE Marsh,Z Khan,JR Hopes,0,Not out
+1.2,SE Marsh,Z Khan,JR Hopes,0,Not out
+1.3,SE Marsh,Z Khan,JR Hopes,0,Not out
+1.4,SE Marsh,Z Khan,JR Hopes,0,Not out
+1.5,SE Marsh,Z Khan,JR Hopes,0,Not out
+1.6,SE Marsh,Z Khan,JR Hopes,1,Not out
+2.1,SE Marsh,P Kumar,JR Hopes,0,Not out
+2.2,SE Marsh,P Kumar,JR Hopes,1,Not out
+2.3,JR Hopes,P Kumar,SE Marsh,1,Not out
+2.4,SE Marsh,P Kumar,JR Hopes,1,Not out
+2.5,JR Hopes,P Kumar,SE Marsh,1,Not out
+2.6,SE Marsh,P Kumar,JR Hopes,0,Not out
+3.1,JR Hopes,Z Khan,SE Marsh,0,Not out
+3.2,JR Hopes,Z Khan,SE Marsh,0,Not out
+3.3,JR Hopes,Z Khan,SE Marsh,0,Not out
+3.4,JR Hopes,Z Khan,SE Marsh,6,Not out
+3.5,JR Hopes,Z Khan,SE Marsh,1,Not out
+3.6,SE Marsh,Z Khan,JR Hopes,1,Not out
+4.1,SE Marsh,P Kumar,JR Hopes,1,Not out
+4.2,JR Hopes,P Kumar,SE Marsh,0,Not out
+4.3,JR Hopes,P Kumar,SE Marsh,6,Not out
+4.4,JR Hopes,P Kumar,SE Marsh,1,Not out
+4.5,SE Marsh,P Kumar,JR Hopes,0,Not out
+4.6,SE Marsh,P Kumar,JR Hopes,0,Not out
+5.1,JR Hopes,Z Khan,SE Marsh,0,Not out
+5.2,JR Hopes,Z Khan,SE Marsh,0,Not out
+5.3,JR Hopes,Z Khan,SE Marsh,1,Not out
+5.4,SE Marsh,Z Khan,JR Hopes,1,Not out
+5.5,JR Hopes,Z Khan,SE Marsh,6,Not out
+5.6,JR Hopes,Z Khan,SE Marsh,1,Not out
+6.1,JR Hopes,R Vinay Kumar,SE Marsh,0,Not out
+6.2,JR Hopes,R Vinay Kumar,SE Marsh,0,caught
+6.3,SE Marsh,R Vinay Kumar,LA Pomersbach,1,Not out
+6.4,LA Pomersbach,R Vinay Kumar,SE Marsh,0,Not out
+6.5,LA Pomersbach,R Vinay Kumar,SE Marsh,1,Not out
+6.6,SE Marsh,R Vinay Kumar,LA Pomersbach,1,Not out
+7.1,SE Marsh,A Kumble,LA Pomersbach,1,Not out
+7.2,LA Pomersbach,A Kumble,SE Marsh,1,Not out
+7.3,SE Marsh,A Kumble,LA Pomersbach,6,Not out
+7.4,SE Marsh,A Kumble,LA Pomersbach,1,Not out
+7.5,LA Pomersbach,A Kumble,SE Marsh,0,Not out
+7.6,LA Pomersbach,A Kumble,SE Marsh,0,Not out
+8.1,SE Marsh,R Vinay Kumar,LA Pomersbach,2,Not out
+8.2,SE Marsh,R Vinay Kumar,LA Pomersbach,0,Not out
+8.3,SE Marsh,R Vinay Kumar,LA Pomersbach,0,Not out
+8.4,SE Marsh,R Vinay Kumar,LA Pomersbach,0,Not out
+8.5,SE Marsh,R Vinay Kumar,LA Pomersbach,4,Not out
+8.6,SE Marsh,R Vinay Kumar,LA Pomersbach,2,Not out
+9.1,LA Pomersbach,A Kumble,SE Marsh,4,Not out
+9.2,LA Pomersbach,A Kumble,SE Marsh,0,Not out
+9.3,LA Pomersbach,A Kumble,SE Marsh,0,Not out
+9.4,LA Pomersbach,A Kumble,SE Marsh,0,Not out
+9.5,LA Pomersbach,A Kumble,SE Marsh,0,Not out
+9.6,LA Pomersbach,A Kumble,SE Marsh,0,Not out
+10.1,SE Marsh,DW Steyn,LA Pomersbach,4,Not out
+10.2,SE Marsh,DW Steyn,LA Pomersbach,6,Not out
+10.3,SE Marsh,DW Steyn,LA Pomersbach,4,Not out
+10.4,SE Marsh,DW Steyn,LA Pomersbach,4,Not out
+10.5,SE Marsh,DW Steyn,LA Pomersbach,0,Not out
+10.6,SE Marsh,DW Steyn,LA Pomersbach,1,Not out
+10.7,LA Pomersbach,DW Steyn,SE Marsh,1,Not out
+11.1,LA Pomersbach,A Kumble,SE Marsh,1,Not out
+11.2,SE Marsh,A Kumble,LA Pomersbach,1,Not out
+11.3,LA Pomersbach,A Kumble,SE Marsh,6,Not out
+11.4,LA Pomersbach,A Kumble,SE Marsh,1,Not out
+11.5,SE Marsh,A Kumble,LA Pomersbach,0,Not out
+11.6,SE Marsh,A Kumble,LA Pomersbach,1,Not out
+12.1,SE Marsh,V Kohli,LA Pomersbach,1,Not out
+12.2,LA Pomersbach,V Kohli,SE Marsh,4,Not out
+12.3,LA Pomersbach,V Kohli,SE Marsh,1,Not out
+12.4,SE Marsh,V Kohli,LA Pomersbach,1,Not out
+12.5,LA Pomersbach,V Kohli,SE Marsh,1,Not out
+12.6,SE Marsh,V Kohli,LA Pomersbach,1,Not out
+13.1,SE Marsh,A Kumble,LA Pomersbach,0,Not out
+13.2,SE Marsh,A Kumble,LA Pomersbach,1,Not out
+13.3,LA Pomersbach,A Kumble,SE Marsh,6,Not out
+13.4,LA Pomersbach,A Kumble,SE Marsh,0,Not out
+13.5,LA Pomersbach,A Kumble,SE Marsh,1,Not out
+13.6,SE Marsh,A Kumble,LA Pomersbach,4,Not out
+13.7,SE Marsh,A Kumble,LA Pomersbach,0,Not out
+14.1,LA Pomersbach,Z Khan,SE Marsh,1,Not out
+14.2,SE Marsh,Z Khan,LA Pomersbach,4,Not out
+14.3,SE Marsh,Z Khan,LA Pomersbach,4,Not out
+14.4,SE Marsh,Z Khan,LA Pomersbach,4,Not out
+14.5,SE Marsh,Z Khan,LA Pomersbach,0,Not out
+14.6,LA Pomersbach,Z Khan,SE Marsh,4,Not out
+15.1,SE Marsh,P Kumar,LA Pomersbach,1,Not out
+15.2,LA Pomersbach,P Kumar,SE Marsh,1,Not out
+15.3,SE Marsh,P Kumar,LA Pomersbach,0,Not out
+15.4,SE Marsh,P Kumar,LA Pomersbach,1,Not out

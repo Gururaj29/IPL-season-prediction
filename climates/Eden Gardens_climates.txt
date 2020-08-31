@@ -1,0 +1,61 @@
+Sun 4/1 		37°/25° 	0 mm 	0 CM 	Very warm with some sun 	35°/22°
+Mon 4/2 	37°/26° 	0 mm 	0 CM 	Partly sunny and very warm 	35°/22°
+Tue 4/3 		36°/27° 	0 mm 	0 CM 	Partly sunny and very warm 	35°/22°
+Wed 4/4 	37°/27° 	0 mm 	0 CM 	Sunny, warm and less humid 	35°/22°
+Thu 4/5 		34°/25° 	1 mm 	0 CM 	An afternoon thunderstorm 	35°/22°
+Fri 4/6 		37°/26° 	1 mm 	0 CM 	A p.m. t-storm in spots 	35°/23°
+Sat 4/7 		36°/26° 	0 mm 	0 CM 	Partly sunny and very warm 	35°/23°
+Sun 4/8 		36°/27° 	2 mm 	0 CM 	Cloudy, a t-storm in spots 	36°/23°
+Mon 4/9 	36°/27° 	1 mm 	0 CM 	An afternoon thunderstorm 	36°/23°
+Tue 4/10 	37°/26° 	0 mm 	0 CM 	Sunny and very warm 	36°/23°
+Wed 4/11 	37°/27° 	0 mm 	0 CM 	Mostly sunny and very warm 	36°/23°
+Thu 4/12 	36°/27° 	2 mm 	0 CM 	A thunderstorm in spots 	36°/23°
+Fri 4/13 	36°/27° 	0 mm 	0 CM 	Sunny, warm and less humid 	36°/23°
+Sat 4/14 	37°/27° 	0 mm 	0 CM 	Partly sunny and very warm 	36°/23°
+Sun 4/15 	37°/27° 	0 mm 	0 CM 	Clearing; warm, less humid 	36°/24°
+Mon 4/16 	37°/27° 	0 mm 	0 CM 	Sunny, warm and less humid 	36°/24°
+Tue 4/17 	38°/27° 	0 mm 	0 CM 	Sunshine; warm, less humid 	36°/24°
+Wed 4/18 	38°/27° 	0 mm 	0 CM 	Sunny, warm and less humid 	36°/24°
+Thu 4/19 	36°/27° 	0 mm 	0 CM 	Mostly sunny and very warm 	36°/24°
+Fri 4/20 		37°/27° 	0 mm 	0 CM 	Very warm with some sun 	36°/24°
+Sat 4/21 	37°/27° 	0 mm 	0 CM 	Mostly sunny and very warm 	36°/24°
+Sun 4/22 	36°/26° 	0 mm 	0 CM 	Mostly sunny and very warm 	36°/24°
+Mon 4/23 	35°/27° 	0 mm 	0 CM 	Partly sunny 	36°/24°
+Tue 4/24 	36°/28° 	0 mm 	0 CM 	Partly sunny and very warm 	36°/24°
+Wed 4/25 	36°/25° 	0 mm 	0 CM	Partly sunny and less humid 	36°/24°
+Thu 4/26 	37°/26° 	0 mm 	0 CM 	Mostly sunny and very warm 	36°/24°
+Fri 4/27 		37°/27° 	0 mm 	0 CM 	Mostly sunny and very warm 	36°/24°
+Sat 4/28 	37°/27° 	0 mm 	0 CM 	Very warm with some sun 	36°/24°
+Sun 4/29 	37°/27° 	0 mm 	0 CM 	Very warm with clouds and sun 	36°/24°
+Mon 4/30 	37°/26° 	0 mm 	0 CM 	Partly sunny and very warm 	36°/24°
+Tue 5/1 	37°/26° 	0 mm 	0 CM 	Mostly sunny and very warm 	36°/24°
+Wed 5/2 	38°/27° 	0 mm 	0 CM 	Sunny and very warm 	36°/24°
+Thu 5/3 	38°/27° 	0 mm 	0 CM 	Sunny and very warm 	36°/24°
+Fri 5/4 	38°/28° 	0 mm 	0 CM 	Partly sunny and very warm 	36°/24°
+Sat 5/5 	37°/28° 	0 mm 	0 CM 	Sunny and very warm 	36°/24°
+Sun 5/6 	37°/27° 	0 mm 	0 CM 	Partly sunny and very warm 	36°/24°
+Mon 5/7 	37°/27° 	0 mm 	0 CM 	Very warm with some sun 	36°/24°
+Tue 5/8 	35°/27° 	0 mm 	0 CM 	Times of clouds and sun 	36°/24°
+Wed 5/9 	35°/28° 	0 mm 	0 CM 	Times of clouds and sun 	36°/24°
+Thu 5/10 	36°/27° 	0 mm 	0 CM 	Times of clouds and sun 	36°/24°
+Fri 5/11 	36°/27° 	0 mm 	0 CM 	Clearing and very warm 	36°/24°
+Sat 5/12 	37°/27° 	0 mm 	0 CM 	Mostly sunny and very warm 	36°/24°
+Sun 5/13 	37°/27° 	0 mm 	0 CM 	Mostly sunny and less humid 	36°/24°
+Mon 5/14 	36°/27° 	0 mm 	0 CM 	Mostly sunny and very warm 	36°/24°
+Tue 5/15 	36°/27° 	0 mm 	0 CM 	Mostly sunny and very warm 	36°/24°
+Wed 5/16 	36°/27° 	0 mm 	0 CM 	Partly sunny and very warm 	36°/25°
+Thu 5/17 	37°/27° 	0 mm 	0 CM 	Partly sunny and very warm 	35°/25°
+Fri 5/18 	37°/27° 	0 mm 	0 CM 	Mostly sunny and very warm 	35°/25°
+Sat 5/19 	36°/27° 	0 mm 	0 CM 	Mostly sunny and very warm 	35°/25°
+Sun 5/20 	36°/27° 	0 mm 	0 CM 	Mostly sunny and very warm 	35°/25°
+Mon 5/21 	36°/28° 	0 mm 	0 CM 	Mostly sunny and very warm 	35°/25°
+Tue 5/22 	35°/28° 	0 mm 	0 CM 	Mostly sunny 	35°/25°
+Wed 5/23 	36°/27° 	0 mm 	0 CM 	Clouds breaking for sun; warm 	35°/25°
+Thu 5/24 	36°/28° 	0 mm 	0 CM 	Very warm with clearing 	34°/25°
+Fri 5/25 	36°/28° 	0 mm 	0 CM 	Partly sunny and very warm 	34°/25°
+Sat 5/26 	37°/27° 	0 mm 	0 CM 	Partly sunny and very warm 	34°/25°
+Sun 5/27 	37°/27° 	1 mm 	0 CM 	Partly sunny and very warm 	34°/25°
+Mon 5/28 	36°/27° 	12 mm 	0 CM 	Partly sunny and very warm 	34°/25°
+Tue 5/29 	34°/28° 	2 mm 	0 CM 	A couple of morning showers 	34°/25°
+Wed 5/30 	34°/28° 	0 mm 	0 CM 	Mainly cloudy 	34°/25°
+Thu 5/31 	37°/29° 	0 mm 	0 CM 	Very warm with clouds and sun 	34°/25°
